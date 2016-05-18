@@ -1,4 +1,10 @@
-# River Song's Timeline
+---
+layout: post
+category : Doctor Who
+tagline: "River Song's Timeline"
+tags : [Doctor Who, Sci-Fi, Fiction, Fun]
+---
+{% include JB/setup %}
 
 I want to re-watch all of the Doctor Who TV episodes with River Song, but from her timeline. 
 
