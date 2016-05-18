@@ -2,11 +2,12 @@
 layout: post
 category : Doctor Who
 tagline: "River Song's Timeline"
-tags : [Doctor Who, Sci-Fi, Fiction, Fun]
+tags : [Doctor Who, Sci-Fi]
+summary: I want to re-watch all of the Doctor Who TV episodes with River Song, but from her timeline.
 ---
 {% include JB/setup %}
 
-I want to re-watch all of the Doctor Who TV episodes with River Song, but from her timeline. 
+I want to re-watch all of the Doctor Who TV episodes with River Song, but from her timeline.
 
 Beware, sometimes a single episode of Doctor Who shows River Song at two very different parts of her timeline. This is particularly true for the beginning of her timeline. The list below is the best we can do without breaking episodes into pieces.
 
