@@ -404,8 +404,8 @@ pre {
 .unit-article .unit-foot {
   background: url('/assets/themes/the-minimum/skin/100-90-5-monochrome.png') repeat 0 0 #4d4d4d;
   color: #fafafa;
-  padding-top: 1.625em;
-  padding-bottom: 1.625em;
+  padding-top: 1.0em;
+  padding-bottom: 1.0em;
   position: relative;
 }
 .unit-article .unit-foot a:link {
