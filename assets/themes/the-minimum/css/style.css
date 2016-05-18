@@ -232,13 +232,13 @@ pre {
   background: url('/assets/themes/the-minimum/skin/100-90-5-monochrome.png');
   background-repeat: repeat;
   background-position: 0 0;
-  background-color: #BADA55;
+  background-color: #003B6F;
   margin-bottom: 1.625em;
   padding-top: 1.625em;
   padding-bottom: 1.625em;
 }
 .unit-article header h1 {
-  color: #2d2d2d;
+  color: #e5ebf0;
   margin-top: 0;
   margin-bottom: 0;
 }
@@ -247,14 +247,14 @@ pre {
 .unit-article .entry-content h4,
 .unit-article .entry-content h5,
 .unit-article .entry-content h6 {
-  color: #2d2d2d;
+  color: #002342;
 }
 .unit-article .entry-content h2 a:link,
 .unit-article .entry-content h3 a:link,
 .unit-article .entry-content h4 a:link,
 .unit-article .entry-content h5 a:link,
 .unit-article .entry-content h6 a:link {
-  color: #2d2d2d;
+  color: #002f58;
   border: 0;
 }
 .unit-article .entry-content h2 a:visited,
@@ -262,7 +262,7 @@ pre {
 .unit-article .entry-content h4 a:visited,
 .unit-article .entry-content h5 a:visited,
 .unit-article .entry-content h6 a:visited {
-  color: #141414;
+  color: #ccd7e2;
   border: 0;
 }
 .unit-article .entry-content h2 a:hover,
@@ -270,7 +270,7 @@ pre {
 .unit-article .entry-content h4 a:hover,
 .unit-article .entry-content h5 a:hover,
 .unit-article .entry-content h6 a:hover {
-  color: #474747;
+  color: #002342;
   border: 0;
 }
 .unit-article .entry-content:first-child h2,
@@ -539,8 +539,8 @@ pre {
 }
 .the-header .unit-inner {
   width: 15em;
-  margin-top: 1.625em;
-  margin-bottom: 1.625em;
+  margin-top: 0.75em;
+  margin-bottom: 0.75em;
   margin-left: auto;
   margin-right: auto;
 }
@@ -577,8 +577,8 @@ pre {
 */
 .ie .the-header .unit-inner {
   width: 60em;
-  margin-top: 1.625em;
-  margin-bottom: 1.625em;
+  margin-top: 0.75em;
+  margin-bottom: 0.75em;
   margin-left: auto;
   margin-right: auto;
 }
