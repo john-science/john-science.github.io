@@ -1,13 +1,13 @@
 ---
 layout: post
 title: "Backpacking Gear Guide"
-tags: [Outdoors, Backpacking, Gear]
+tags: [Outdoors, Backpacking]
 summary: A full guide to the gear you need for backpacking.
 date: 2016-04-26
 ---
 {% include JB/setup %}
 
-> Selecting backpacking gear is all about weight.
+Selecting backpacking gear is all about weight.
 
 The classic mistake of the new backpacker is to try and prepare for every eventuality. They end up with giant, back-breaking packs that would be cruel to force on a mule. An experienced backpacker knows exactly what they need and that is all they bring. This means they get less tired on the trail. They can travel faster. And they probably have a better time.
 
