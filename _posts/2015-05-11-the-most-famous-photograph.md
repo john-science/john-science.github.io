@@ -2,12 +2,12 @@
 layout: post
 title: "The Most Famous Photograph"
 tags: [Photography]
-summary: Bliss: The most famous photograph of all time.
+summary: The most famous photograph of all time.
 date: 2015-05-11
 ---
 {% include JB/setup %}
 
-> What is fame?
+What is fame?
 
 I am not talking about the *best* photograph in the world. It is hard to measure that. So this is all about numbers. In this case, the most *famous* photograph in the world is the one that has seen by the most people.
 
