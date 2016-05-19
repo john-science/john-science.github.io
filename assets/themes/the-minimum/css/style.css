@@ -447,9 +447,9 @@ pre {
   vertical-align: middle;
 }
 .layout-page .tag_box a {
-  background-color: #99cc99;
+  background-color: #c091d2;
   float: left;
-  border: 1px solid #448844;
+  border: 1px solid #9648B5;
   padding: 3px 6px 3px 6px;
   -webkit-border-radius: 3px;
   -moz-border-radius: 3px;
@@ -513,11 +513,11 @@ pre {
   padding-bottom: 1.625em;
 }
 .the-footer a:link {
-  color: #6f8ea9;
+  color: #9648B5;
   border: 0;
 }
 .the-footer a:visited {
-  color: #77bb77;
+  color: #eadaf0;
   border: 0;
 }
 .the-footer a:hover {
