@@ -7,7 +7,7 @@
 @main-bg: #ffffff;
 @subtle-bg: #e5ebf0;
 @main-font-color: #777777;
-@accent-color: #003b6f;
+@accent-color: #0M03b6f;
 
 /* GLOBAL
 --------------------------------------------------------------------------------- */
@@ -74,7 +74,7 @@ pre {
 			background: url('@{noise-100-90-5}');
 			background-repeat: repeat;
 			background-position: 0 0;
-			background-color: #BADA55;
+			background-color: #003B6F;
 			margin-bottom: @line-height / @em;
 			padding-top: (@line-height / @em);
 			padding-bottom: (@line-height / @em) ;
@@ -155,10 +155,10 @@ pre {
 		.list-linear .list-head { margin-right: 4px; }
 		.list-category a, .list-tag a {
 			border: 0 none;
-			&:hover span { background-color: @orange; }
+			&:hover span { background-color: @blue; }
 		}
 		.list-category span, .list-tag span {
-			background-color: darken(@orange, 20%);
+			background-color: darken(@blue, 20%);
 			padding: 1px 5px;
 			-webkit-border-radius: 10px;
 			-moz-border-radius: 10px;
@@ -221,9 +221,9 @@ pre {
 			vertical-align: middle;
 		}
 		a {
-			background-color: @green;
+			background-color: @purple;
 			float: left;
-			border: 1px solid darken(@green, 30%);
+			border: 1px solid darken(@purple, 30%);
 			padding: 3px 6px 3px 6px;
 			-webkit-border-radius: 3px;
 			-moz-border-radius: 3px;
@@ -246,21 +246,21 @@ pre {
 				-webkit-box-shadow: inset 0 1px 4px rgba(0, 0, 0, 0.6);
 				-moz-box-shadow: inset 0 1px 4px rgba(0, 0, 0, 0.6);
 				box-shadow: inset 0 1px 4px rgba(0, 0, 0, 0.6);
-				background: darken(@green, 40%);
-				border: solid darken(@green, 40%);
+				background: darken(@purple, 40%);
+				border: solid darken(@purple, 40%);
 			}
 			&:hover {
-				background-color: darken(@green, 10%);
-				border: 1px solid darken(@green, 40%);
+				background-color: darken(@purple, 10%);
+				border: 1px solid darken(@purple, 40%);
 				span {
 					background-color: darken(#fafafa, 10%);
-					border: 1px solid darken(@green, 10%);
+					border: 1px solid darken(@purple, 10%);
 				}
 			}
 		}
 		span {
 			background-color: #fafafa;
-			border: 1px solid @green;
+			border: 1px solid @purple;
 			padding: 1px 5px;
 			-webkit-border-radius: 10px;
 			-moz-border-radius: 10px;
