@@ -9,7 +9,7 @@ date: 2016-04-27
 
 I have been testing various ways to read and write text files with GZIP in Python. There were a lot of uninteresting results, but there were two I thought were worth sharing.
 
-## Writing GZIP files
+### Writing GZIP files
 
 If you have a big list of strings to write to a file, you might be tempted to do:
 
@@ -26,7 +26,7 @@ But, it turns out that it's (10-20%) faster to do:
     finally:
         f.close()
 
-## Reading GZIP files
+### Reading GZIP files
 
 If you have a big GZIP file to read (text, not binary), you might be temped to read it like:
 
