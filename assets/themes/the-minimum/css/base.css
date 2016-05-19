@@ -143,11 +143,12 @@ textarea { overflow: auto; vertical-align: top; resize: vertical; }
 input:valid, textarea:valid {  }
 input:invalid, textarea:invalid { background-color: #f0dddd; }
 
-/*
-Tables from [HTML5 Boilerplate](http://j.mp/rP0wmY)
-
-No styleguide reference.
-*/
-
-table { border-collapse: collapse; border-spacing: 0; }
-td { vertical-align: top; }
+table {
+	width: 100%;
+	border-top: 1px solid #CCCCCC;
+	border-bottom: 2px solid #CCCCCC;
+	color: #000000;
+	background: #FFFFFF;
+	border-collapse: separate;\
+}
+td { vertical-align: center; }
