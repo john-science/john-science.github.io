@@ -9,8 +9,6 @@ date: 2016-05-18
 
 I want to re-watch all of the Doctor Who TV episodes with River Song, but from her timeline.
 
-Beware, sometimes a single episode of Doctor Who shows River Song at two very different parts of her timeline. This is particularly true for the beginning of her timeline. The list below is the best we can do without breaking episodes into pieces.
-
 ## River Song's Timeline - by Episode
 
 Series | Story | Episode Name
@@ -31,6 +29,7 @@ Series | Story | Episode Name
 4 | 159b | [Forest of the Dead](http://tardis.wikia.com/wiki/Forest_of_the_Dead)
 7 | 238 | [The Name of the Doctor](http://tardis.wikia.com/wiki/The_Name_of_the_Doctor_%28TV_story%29)
 
+Beware, the first three episodes have River Song at multiple points in her timeline. So it doesn't feel like you are linearly following her through time at the start. But after those first few, it becomes much more linear.
 
 ## Fun Facts
 

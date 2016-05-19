@@ -37,7 +37,7 @@ pre { margin-bottom: @line-height / @em; }
 pre {
 	color: #f2f2f2;
 	background-color: @base02;
-	border: 1px solid fadein(@base02, 30%); 
+	border: 1px solid fadein(@base02, 30%);
 	font-family: "Bitstream Vera Sans Mono", "Courier New", Courier, monospace;
 	margin-left: 0;
 	margin-right: 0;
@@ -64,6 +64,84 @@ pre {
 		text-transform: uppercase;
 	}
 } // .the-header
+
+
+/* Home Page
+--------------------------------------------------------------------------------- */
+.listing .post {
+	margin: 60px 0;
+}
+.listing .post:first-child {
+	margin-top: 22px;
+}
+
+.listing .post p.date {
+	font-size: 14px;
+	color: #bbb;
+}
+
+.listing .post h2 {
+	margin: 0 0 -20px 0;
+	font-size: 30px;
+	border: none;
+}
+
+.listing .post h2 a {
+	color: #00203c;
+	text-decoration: none;
+}
+
+.listing .post .post-summary {
+	font-size: 20px;
+	color: #777;
+}
+
+.listing .post.other {
+	color: #666;
+}
+.listing .post.other h2 {
+	margin: -5px 0 -15px 0;
+	font-size: 17px;
+}
+.listing .post.other h2 a {
+	color: #000;
+}
+.listing .post.other p:last-child {
+	margin-bottom: 0;
+}
+
+.listing .post.other .icon {
+	font-family: Helvetica, Arial, sans-serif;
+	float: left;
+	margin-top: -3px;
+	margin-left: -35px;
+	width: 20px;
+	height: 20px;
+	font-size: 20px;
+	color: #ddd;
+}
+.listing .post.other .icon:hover {
+	text-decoration: none;
+	color: #bbb;
+}
+
+.listing blockquote {
+	border-left-color: #ddd;
+}
+
+@media only screen and (max-width: 520px) {
+	.listing .post {
+		margin: 30px 0;
+	}
+
+	.listing .post h2 {
+		font-size: 24px;
+	}
+
+	.listing .post .post-summary {
+		font-size: 18px;
+	}
+}
 
 /* MAIN
 --------------------------------------------------------------------------------- */
@@ -129,7 +207,7 @@ pre {
 		ol { list-style: decimal; }
 		li, dt, dd {
 			h1, h2, h3, h4, h5, p, ul, ol, dl, blockquote, .hasGrid { margin-left: 0; margin-right: 0; }
-		} 
+		}
 		p code, li code {
 			margin: 0 2px;
 			padding: 2px 5px;
@@ -139,7 +217,7 @@ pre {
 			-webkit-border-radius: 3px;
 			-moz-border-radius: 3px;
 			border-radius: 3px;
-			-moz-background-clip: padding; -webkit-background-clip: padding-box; background-clip: padding-box; 
+			-moz-background-clip: padding; -webkit-background-clip: padding-box; background-clip: padding-box;
 		}
 
 		img {
@@ -175,7 +253,7 @@ pre {
 		.list-category {
 			margin-bottom: 0;
 			text-transform: capitalize;
-			
+
 		}
 		.list-tag {
 			text-transform: capitalize;
