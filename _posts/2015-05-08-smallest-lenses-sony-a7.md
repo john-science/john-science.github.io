@@ -15,7 +15,7 @@ In a quest to answer that question, I did a lot of research. Here are the smalle
 
 <sub>Lengths shown include adapters.</sub>
 
-Lens | FL<br></br><sub>(mm)</sub> | Ap<br></br><sub>(max)</sub> | Cost<br></br><sub>(~$)</sub> | Mass<br></br><sub>(g)</sub> | Filter<br></br><sub>(mm)</sub> | Length<br></br><sub>(mm)</sub> | Review
+Lens | FL<br/><sub>(mm)</sub> | Ap<br/><sub>(max)</sub> | Cost<br/><sub>(~$)</sub> | Mass<br/><sub>(g)</sub> | Filter<br/><sub>(mm)</sub> | Length<br/><sub>(mm)</sub> | Review
 :--- | :--- | :--- | :--- | :--- | :--- | ---: | :---:
 **Body Cap Pinhole** | NA | 320 | 12 | 25 | NA | 5
 **Voigtlander Heliar** | 40 | 2.8 | 350 | 132 | 37 | 31.2 | [1](http://www.cosina.co.jp/seihin/voigt/english/heliar40mm.html) [2](http://www.stevehuffphoto.com/2014/11/11/the-voigtlander-40-2-8-heliar-aspherical-lens-for-sony-fe-review/) [3](http://www.dpreview.com/articles/1280772188/and-now-for-something-different-voigtlander-40mm-f-2-8-heliar-samples-and-impressions)
