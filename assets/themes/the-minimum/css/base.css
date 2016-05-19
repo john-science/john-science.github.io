@@ -152,12 +152,5 @@ table {
 	border-collapse: separate;
 	margin-bottom: 20px;
 }
-td:first-child {
-    background-color: #ccd7e2;
-}
-tr:first-child {
-    background-color: #ccd7e2;
-}
-tr:nth-child(even) {
-    background-color: #e5ebf0;
-}
+th { background-color: #ccd7e2; }
+tr:nth-child(even) { background-color: #e5ebf0; }
