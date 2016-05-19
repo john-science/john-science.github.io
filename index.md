@@ -14,12 +14,12 @@ Hello. I'm John and this is a blog of my minor obsessions. The posts are not opi
   {% if post.type == 'link' %}
     <div class="post other link">
       <a class="icon" href="{{ post.url }}" title="This is an external link.">★</a>
-      <h2><a href="{{ post.link }}">{{ post.title }}</a></h2>
+      <h3><a href="{{ post.link }}">{{ post.title }}</a></h3>
       <p>{{ post.content }}</p>
     </div>
   {% else %}
     <div class="post">
-      <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
+      <h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
       <p class="post-summary">{{ post.summary }}</p>
     </div>
   {% endif %}
