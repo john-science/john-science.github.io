@@ -1,8 +1,9 @@
 ---
 layout: post
-tagline: "River Song's Timeline"
-tags : [Doctor Who, Sci-Fi]
+title: "River Song's Timeline"
+tags: [Doctor Who, Sci-Fi]
 summary: I want to re-watch all of the Doctor Who TV episodes with River Song, but from her timeline.
+date: 2016-05-18
 ---
 {% include JB/setup %}
 

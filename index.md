@@ -1,14 +1,14 @@
 ---
 layout: page
 title: Antineutrino
-tagline: The future is pretty cool!
+tagline: A blog of minor obsessions
 ---
 {% include JB/setup %}
 
 Read [Jekyll Quick Start](http://jekyllbootstrap.com/usage/jekyll-quick-start.html)
 
 Complete usage and documentation available at: [Jekyll Bootstrap](http://jekyllbootstrap.com)
-    
+
 ## Sample Posts
 
 This blog contains sample posts which help stage pages and blog data.
