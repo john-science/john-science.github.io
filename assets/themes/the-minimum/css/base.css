@@ -152,4 +152,6 @@ table {
 	border-collapse: separate;
 	margin-bottom: 20px;
 }
-td { vertical-align: center; }
+tr:nth-child(odd) {
+    background-color: #e5ebf0;
+}
