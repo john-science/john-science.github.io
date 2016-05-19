@@ -177,7 +177,7 @@ No styleguide reference.
 --------------------------------------------------------------------------------- */
 html {
   background-color: #ffffff;
-  color: #2d2d2d;
+  color: #777777;
 }
 /* LINK */
 a:link {
@@ -513,7 +513,7 @@ pre {
   padding-bottom: 1.625em;
 }
 .the-footer a:link {
-  color: #99cc99;
+  color: #00203c;
   border: 0;
 }
 .the-footer a:visited {
