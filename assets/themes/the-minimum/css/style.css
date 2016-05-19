@@ -63,22 +63,22 @@ h1, .h1 {
 }
 h2, .h2 {
   font-size: 42px;
-  line-height: 52px;
-  margin-top: 52px;
-  margin-bottom: 26px;
+  line-height: 42px;
+  margin-top: 42px;
+  margin-bottom: 5px;
   letter-spacing: -1px;
 }
 h3, .h3 {
-  font-size: 26px;
-  line-height: 26px;
-  margin-top: 26px;
-  margin-bottom: 26px;
+  font-size: 30px;
+  line-height: 30px;
+  margin-top: 30px;
+  margin-bottom: 1px;
 }
 h4, .h4 {
   font-size: 20px;
   line-height: 26px;
   margin-top: 26px;
-  margin-bottom: 26px;
+  margin-bottom: 1px;
 }
 p,
 ul,
