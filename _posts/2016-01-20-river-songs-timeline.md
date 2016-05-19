@@ -1,6 +1,5 @@
 ---
 layout: post
-category : Doctor Who
 tagline: "River Song's Timeline"
 tags : [Doctor Who, Sci-Fi]
 summary: I want to re-watch all of the Doctor Who TV episodes with River Song, but from her timeline.
