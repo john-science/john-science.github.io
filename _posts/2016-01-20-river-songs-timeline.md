@@ -9,7 +9,7 @@ date: 2016-05-18
 
 I want to re-watch all of the Doctor Who TV episodes with River Song, but from her timeline.
 
-## River Song's Timeline - by Episode
+### River Song's Timeline - by Episode
 
 Series | Story | Episode Name
 :--- | :--- | :---
@@ -31,7 +31,7 @@ Series | Story | Episode Name
 
 Beware, the first three episodes have River Song at multiple points in her timeline. So it doesn't feel like you are linearly following her through time at the start. But after those first few, it becomes much more linear.
 
-## Fun Facts
+### Fun Facts
 
 * **River meets 3 Doctors** (that we know of)
 * **River is in 15 episodes**
