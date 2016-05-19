@@ -149,6 +149,7 @@ table {
 	border-bottom: 2px solid #CCCCCC;
 	color: #000000;
 	background: #FFFFFF;
-	border-collapse: separate;\
+	border-collapse: separate;
+	margin-bottom: 20px;
 }
 td { vertical-align: center; }
