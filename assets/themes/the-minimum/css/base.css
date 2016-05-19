@@ -152,6 +152,12 @@ table {
 	border-collapse: separate;
 	margin-bottom: 20px;
 }
-tr:nth-child(odd) {
+td:first-child {
+    background-color: #ccd7e2;
+}
+tr:first-child {
+    background-color: #ccd7e2;
+}
+tr:nth-child(even) {
     background-color: #e5ebf0;
 }
