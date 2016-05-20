@@ -290,7 +290,7 @@ pre {
   border-bottom: 1px dotted #e5ebf0;
 }
 .unit-article blockquote {
-  border-left: 1em solid rgba(21, 25, 25, 0.8);
+  border-left: 4px solid #DDDDDD;
   padding-left: 1em;
 }
 .unit-article blockquote p {
