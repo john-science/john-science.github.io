@@ -272,7 +272,51 @@ This is one of the places where beginners get into trouble. Sure, you probably n
 
 > A knife is an extremely versatile tool.
 
-If you've ever watched Bear Grylls on TV, or taken a survival course, you'll know that purists think the only piece of equipment you need to survive in the wild is a knife. I suggest you do more preparation than that. Still, in an emergency situation, a good backpacking knife is an extremely versatile tool. You can read my guide to choosing a knife [here](http://outdoors.stackexchange.com/a/1969/767).
+If you've ever watched Bear Grylls on TV, or taken a survival course, you'll know that purists think the only piece of equipment you need to survive in the wild is a knife. Since you are backpacking, you can be a lot more prepared than that. Still, in an emergency situation, a good backpacking knife is an extremely versatile tool. 
+
+A lot of factors go into choosing a backpacking knife, but I will break it down into four categories:
+
+ 1. weight
+ 2. cost
+ 3. survival utility
+ 4. your surroundings
+
+**Weight**
+
+There are a lot of high-quality knives out there in the 1-3 ounce range. The most experienced “ultra-lightweight backpacker” I know recommends the <a href="http://www.amazon.com/Spyderco-Dragonfly2-Lightweight-Black-PlainEdge/dp/B004GUL6IA/">Spyderco Dragonfly</a> ($50).  With only a 2-inch blade this knife won’t be much good at slashing your way through the jungle, but it will serve well for meals and light work.
+
+![Spyderco Dragonfly](http://i.stack.imgur.com/cKjRi.jpg)
+
+**Cost**
+
+It is what it is.
+
+
+**Survival Utility**
+
+If you are stranded in the wild, a good knife might mean the difference between life and death. As such, backpackers frequently use “survival knives”. Survival knives might come with a lot of extra features (a compass, bandages, you name it), but I think two features are the most important:
+
+ 1. **The whistle.** It might help scare away bears or coyotes, but this is primarily an emergency whistle. Imagine you have fallen and broken both your legs. Do you want to scream for help for hours on end? No. This will work better and be far less taxing.
+
+ 2. **The flint.** If you’re stuck in the wild, fire is key.
+
+The survival blade I like best is the <a href="http://www.amazon.com/Tool-Logic-SL3-Tactical-Magnesium/dp/B0001WC6MW/">Tool Logic SL3</a> ($20). This only has a 3-inch blade, but it weighs 2-ounces and I find it to be the best compromise between utility and weight.
+
+![Tool Logic SL3](http://i.stack.imgur.com/CqoCa.jpg)
+
+If your plans depends more heavily on your knife, you will have to accept a little extra weight for a longer blade. Your best bet there will be the <a href="http://www.amazon.com/Gerber-31-000751-Survival-Ultimate-Serrated/dp/B003R0LSMO/">Gerber Bear Grylls-model survival knife</a> ($40 and 11 ounces). This even has a built-in sharpener.
+
+![Gerber Bear Grylls knife](http://i.stack.imgur.com/NDlUX.jpg)
+
+
+**Your Surroundings**
+
+In the end, the knife you need depends on where you are going and what your plan is. If you are going to be slugging through deep jungle, get a <a href="http://www.amazon.com/Gerber-31-002072-Grylls-Compact-Parang/dp/B008FM04TW/">machete</a>. If you’re going to be fishing, maybe you need a <a href="http://www.swissarmy.com/us/content/swissarmy/category/1">Swiss Army knife</a> or a <a href="http://www.leatherman.com/family/multi-tools/Full-size_Tools">Leatherman</a>. Maybe all you need is <a href="http://www.amazon.com/Spyderco-Dragonfly2-Lightweight-Black-PlainEdge/dp/B004GUL6IA/">a small, light knife</a> to cut open your dried food packages. A knife can be a useful tool if you plan ahead, but the most important thing is that you have a plan.
+ 
+
+**A final note on materials**
+
+You will *probably* get a stainless steel knife. A knife made of 440 steel will be lighter and sharper. But a knife made of 1080 (or higher) steel is meant for more heavy-duty work and will keep its edge longer. Whatever the material is, all knives need to be sharpened eventually.
 
 ## Optional Extras
 
