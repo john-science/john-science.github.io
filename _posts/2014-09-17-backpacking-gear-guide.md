@@ -3,7 +3,7 @@ layout: post
 title: "Backpacking Gear Guide"
 tags: [Outdoors, Backpacking]
 summary: A full guide to the gear you need for backpacking.
-date: 2016-04-26
+date: 2016-05-23
 ---
 {% include JB/setup %}
 
@@ -40,16 +40,16 @@ When John Muir stepped out into the wilderness he took nothing but an old coat w
 
 ![Pack Diagram](http://www.backpackinggear.net/wp-content/uploads/2009/09/Orizaba-and-mojave-Suspension.jpg)
 
-Unless you're an ultra-lightweight backpacker, you will want a pack with an internal frame. This offers the support you need to carry a lot of weight. Backpacks range in size from small (30 litres) to very large (80 litres). For short (~3 day) trips, most beginners start out with packs in the 40 to 60-liter range. The important trade-off here is that a bigger pack can hold more things, but that will make it heavier.
+You want a pack with an internal frame. They offers the support you need to carry a lot of weight. Backpacks range in size from 30 litres to over 100 litres. For short (2-4 day) trips, most beginners start out with packs in the 40 to 60-liter range. The important trade-off here is that a bigger pack can hold more things, but that will make it heavier.
 
-Modern packs have a huge variety of pockets, mesh things, straps, zippers and flaps. Of all these fancy extras, the most important is the slot inside that allows you to hold a water bladder. This allows you to sip water from a tube at any moment while you're walking. (Stay hydrated!) When selecting a water bladder for your bag (they're sold separately), get a 3-litre or maybe a 2-litre. Don't go smaller. I carry a 3-litre bag and a 1-litre bottle.
+Modern packs have a huge variety of pockets, mesh things, straps, zippers and flaps. Of all these fancy extras, the most important is the slot inside that allows you to hold a water bladder. This allows you to sip water from a tube at any moment while you're walking. (Stay hydrated!) When selecting a water bladder for your bag (they're sold separately), get a 3-litre or maybe a 2-litre. Don't go smaller. I carry a 3-litre bladder and a 1-litre bottle.
 
-Finally, the fit is key. Try on your backpack in person, with weight in it, and wander around the store before you buy it. Adjusting a modern pack is easy once you get used to it, but is not immediately obvious. The most important thing to know is that the weight should be resting on your hips and not your shoulders.
+The fit is also really important. Try on your backpack in person, with weight in it, and wander around the store before you buy it. Adjusting a modern pack is easy once you get used to it, but is not immediately obvious. The most important thing to know is that the weight should be resting on your hips and not your shoulders.
 
 There is a nice description of how to adjust your new backpack [here](http://www.rei.com/learn/expert-advice/backpacks-adjusting-fit.html).
 
- * **TIP**: Get a pack with little pockets on the waste strap. This is a great place to stash things you want easy access to, like snacks.
- * **TIP**: Get a pack with an air mesh, that way your back can breathe and you won't get that problem of a sweaty back sticking to your pack.
+ * **TIP**: Get a pack with little pockets on the waist strap. This is a great place to stash things you want easy access to, like snacks.
+ * **TIP**: Get a pack with an air mesh, that way your back can breathe and you won't get all sweaty and gross under your pack.
  * **TIP**: You can hang your sleeping bag or tent off the bottom of your pack. This will save you a lot of room inside.
  * **TIP**: Your pack will have a lot of straps on it. Learn what all of them are for. Most of them are useful.
 
@@ -107,9 +107,9 @@ Some poles have clips, some have clamps, and some just screw down tight to fix t
 
 ## Tent
 
-Assuming you're not camping in snow, all you need is a light weight tent. Having said that, there are thousands of really great options out there. There are tents with carbon fibre supports and wrapped with exotic materials. There are tents designed to be easy to set up in a thunderstorm. There are tents for areas where mosquitos and malaria are the concern. And, of course, the ultra-lightweight tents that are just tarps held up by your trekking poles.
+Assuming you're not camping in snow, all you need is a light-weight tent. There are hundreds of really great options out there. There are tents with carbon fibre supports wrapped in exotic materials. There are tents designed to be easy to set up in a thunderstorm. There are tents for areas where mosquitos and malaria are the concern. There are ultra-lightweight tents that are little more than a tarp help up by your trekking poles.
 
-As it turns out, I know half-a-dozen backpackers who just went to REI and bought [The Half Dome](http://www.rei.com/item/845478/rei-half-dome-2-tent). It's the cheapest tent on the market, it's small, and it easily fits two people and gear. Is it as big and roomy as that tent your parents had when you were a kid? No. Is it light enough to suit an ultra-lightweighter? Hell no.
+As it turns out, I know half-a-dozen backpackers who just went to REI and bought [The Half Dome](http://www.rei.com/item/845478/rei-half-dome-2-tent). It's the cheapest backpacking tent on the market, it's small, and it easily fits two people and gear. Is it as big and roomy as that tent your parents had when you were a kid? No. Is it light enough to suit an ultra-lightweighter? Hell no.
 
  * **TIP**: You can separate the tent poles from the rest of the bag. This will make it easier to fit in your pack while walking, or allow two people to share the load.
 
