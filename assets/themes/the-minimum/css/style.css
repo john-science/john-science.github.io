@@ -213,7 +213,7 @@ pre {
 /* HEADER
 --------------------------------------------------------------------------------- */
 .the-header .logo {
-  font-family: junctionregularRegular, "Frutiger Linotype", Univers, Calibri, "Gill Sans", "Gill Sans MT", "Myriad Pro", Myriad, "DejaVu Sans Condensed", "Liberation Sans", "Nimbus Sans L", Tahoma, Geneva, "Helvetica Neue", Helvetica, Arial, "MS PGothic", Osaka, Sans-Serif;
+  font-family: "proxima-nova-1", "proxima-nova-2", Arial, sans-serif, Univers, Calibri, "Gill Sans", "Gill Sans MT", "Myriad Pro", Myriad, "DejaVu Sans Condensed", "Liberation Sans", "Nimbus Sans L", Tahoma, Geneva, "Helvetica Neue", Helvetica, "MS PGothic", Osaka;
   margin: 0;
 }
 .the-header .logo a:visited {
