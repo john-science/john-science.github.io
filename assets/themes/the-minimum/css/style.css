@@ -24,7 +24,7 @@ Calculation should be done via  http://j.mp/rNg5uA
 No styleguide reference.
 */
 body {
-  font-family: "proxima-nova-1", "proxima-nova-2", sans-serif, Arial, Univers, Calibri, "Gill Sans", "Gill Sans MT", "Myriad Pro", Myriad, "DejaVu Sans Condensed", "Liberation Sans", "Nimbus Sans L", Tahoma, Geneva, "Helvetica Neue", Helvetica, "MS PGothic", Osaka;
+  font-family: "proxima-nova-1", "proxima-nova-2", sans-serif, Arial, Univers, Calibri, "Gill Sans", "Gill Sans MT", "Myriad Pro", Myriad, "DejaVu Sans Condensed", "Liberation Sans", "Nimbus Sans L", Tahoma, Geneva, "Helvetica Neue", Helvetica;
   font-size: 1em;
   line-height: 1.625em;
 }
@@ -51,7 +51,7 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: "proxima-nova-1", "proxima-nova-2", sans-serif, Arial, Univers, Calibri, "Gill Sans", "Gill Sans MT", "Myriad Pro", Myriad, "DejaVu Sans Condensed", "Liberation Sans", "Nimbus Sans L", Tahoma, Geneva, "Helvetica Neue", Helvetica, "MS PGothic", Osaka;
+  font-family: "proxima-nova-1", "proxima-nova-2", sans-serif, Arial, Univers, Calibri, "Gill Sans", "Gill Sans MT", "Myriad Pro", Myriad, "DejaVu Sans Condensed", "Liberation Sans", "Nimbus Sans L", Tahoma, Geneva, "Helvetica Neue", Helvetica;
   font-weight: bold;
 }
 h1, .h1 {
@@ -131,17 +131,6 @@ No styleguide reference.
 @green:     #859900;
 
 */
-/* Junction Font
- * http://www.theleagueofmoveabletype.com/
- * Using for Logo and headers
-@font-face {
-  font-family: 'junctionregularRegular';
-  src: url('/assets/themes/the-minimum/font/Junction-webfont.eot');
-  src: url('/assets/themes/the-minimum/font/Junction-webfont.eot?#iefix') format('embedded-opentype'), url('/assets/themes/the-minimum/font/Junction-webfont.woff') format('woff'), url('/assets/themes/the-minimum/font/Junction-webfont.ttf') format('truetype'), url('/assets/themes/the-minimum/font/Junction-webfont.svg#junctionregularRegular') format('svg');
-  font-weight: normal !important;
-  font-style: normal;
-}
-*/
 /*
 LESS helper
 */
@@ -213,7 +202,7 @@ pre {
 /* HEADER
 --------------------------------------------------------------------------------- */
 .the-header .logo {
-  font-family: "proxima-nova-1", "proxima-nova-2", sans-serif, Arial, Univers, Calibri, "Gill Sans", "Gill Sans MT", "Myriad Pro", Myriad, "DejaVu Sans Condensed", "Liberation Sans", "Nimbus Sans L", Tahoma, Geneva, "Helvetica Neue", Helvetica, "MS PGothic", Osaka;
+  font-family: "proxima-nova-1", "proxima-nova-2", sans-serif, Arial, Univers, Calibri, "Gill Sans", "Gill Sans MT", "Myriad Pro", Myriad, "DejaVu Sans Condensed", "Liberation Sans", "Nimbus Sans L", Tahoma, Geneva, "Helvetica Neue", Helvetica;
   margin: 0;
 }
 .the-header .logo a:visited {
