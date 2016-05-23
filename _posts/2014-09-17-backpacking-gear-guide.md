@@ -8,7 +8,7 @@ date: 2016-04-26
 {% include JB/setup %}
 
 Selecting backpacking gear is all about weight.
-
+k
 The classic mistake of the new backpacker is to try and prepare for every eventuality. They end up with giant, back-breaking packs that would be cruel to force on a mule. An experienced backpacker knows exactly what they need and that is all they bring. This means they get less tired on the trail. They can travel faster. And they probably have a better time.
 
 The absolute extreme are the `ultra-lightweight backpackers` who believe in sacrificing a lot of comfort (sleeping bags, tents, clean water, you name it) for the sake of travelling much lighter.
@@ -272,7 +272,7 @@ This is one of the places where beginners get into trouble. Sure, you probably n
 
 > A knife is an extremely versatile tool.
 
-If you've ever watched Bear Grylls on TV, or taken a survival course, you'll know that purists think the only piece of equipment you need to survive in the wild is a knife. Since you are backpacking, you can be a lot more prepared than that. Still, in an emergency situation, a good backpacking knife is an extremely versatile tool. 
+If you've ever watched Bear Grylls on TV, or taken a survival course, you'll know that purists think the only piece of equipment you need to survive in the wild is a knife. Since you are backpacking, you can be a lot more prepared than that. Still, a good knife can be quite handy. 
 
 A lot of factors go into choosing a backpacking knife, but I will break it down into four categories:
 
@@ -298,7 +298,7 @@ If you are stranded in the wild, a good knife might mean the difference between 
 
  1. **The whistle.** It might help scare away bears or coyotes, but this is primarily an emergency whistle. Imagine you have fallen and broken both your legs. Do you want to scream for help for hours on end? No. This will work better and be far less taxing.
 
- 2. **The flint.** If you’re stuck in the wild, fire is key.
+ 2. **The flint.** If you’re stranded in the wild, fire is key.
 
 The survival blade I like best is the <a href="http://www.amazon.com/Tool-Logic-SL3-Tactical-Magnesium/dp/B0001WC6MW/">Tool Logic SL3</a> ($20). This only has a 3-inch blade, but it weighs 2-ounces and I find it to be the best compromise between utility and weight.
 
@@ -343,4 +343,3 @@ If you want information on a particular piece of gear, http://www.outdoorgearlab
 This is meant to be an introductory primer. I did not cover cold-weather camping. I did not cover elevation sickness. I did not cover how to deal with grizzly bears, lions, polar bears, or poisonous snakes. I did not cover wilderness navigation or medical emergencies. Before you go out into the wild, you need to research the place you are going. Talk to your local experts.
 
 > No one is responsible for your safety but you.
-
