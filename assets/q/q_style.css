@@ -1,3 +1,4 @@
+
 p,
 ol,
 ul,
@@ -39,9 +40,14 @@ li {
 }
 
 .expandable-panel-heading h2 {
-  padding: 14px 10px 9px 15px;
+  padding: 14px 10px 9px 50px;
   font-size: 18px;
   line-height: 20px;
+}
+
+.expandable-panel-count {
+  float: right;
+  color: #32628b;
 }
 
 .expandable-panel-content {
@@ -66,7 +72,7 @@ li {
   height: 20px;
   position: absolute;
   background-image: url(/assets/q/icon-close-open.png);
-  right: 15px;
+  left: 15px;
 }
 
 .expandable-panel-content img {
@@ -168,7 +174,7 @@ td:nth-child(even) {
 #popup a:hover span {
   display: block;
   position: absolute;
-  margin-left: 75px;
+  margin-top: 150px;
   top: 0px;
   padding: 0px;
   border: 0px;
