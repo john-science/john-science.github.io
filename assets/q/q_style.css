@@ -1,0 +1,176 @@
+h2,
+p,
+ol,
+ul,
+li {
+  margin: 0px;
+  padding: 0px;
+  font-size: 13px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+#container {
+  width: 100%;
+  margin: auto;
+}
+
+/* --------- COLLAPSIBLE PANELS ----------*/
+
+.expandable-panel {
+  //width: 100%;
+  min-width: 450px;
+  position: relative;
+  min-height: 50px;
+  overflow: auto;
+  margin-bottom: 10px;
+  border: 1px solid #999;
+}
+
+.expandable-panel-heading {
+  width: 100%;
+  cursor: pointer;
+  min-height: 50px;
+  clear: both;
+  background-color: #E5E5E5;
+  position: relative;
+}
+
+.expandable-panel-heading:hover {
+  color: #666;
+}
+
+.expandable-panel-heading h2 {
+  padding: 14px 10px 9px 15px;
+  font-size: 18px;
+  line-height: 20px;
+}
+
+.expandable-panel-content {
+  padding: 0 0 0 0;
+  margin-top: -999px;
+}
+
+.expandable-panel-content p {
+  padding: 4px 0 6px 0;
+}
+
+.expandable-panel-content p:first-child {
+  padding-top: 10px;
+}
+
+.expandable-panel-content p:last-child {
+  padding-bottom: 15px;
+}
+
+.icon-close-open {
+  width: 20px;
+  height: 20px;
+  position: absolute;
+  background-image: url(icon-close-open.png);
+  right: 15px;
+}
+
+.expandable-panel-content img {
+  float: right;
+  padding-left: 12px;
+}
+
+.header-active {
+  background-color: #D0D7F3;
+}
+
+table {
+  width: 100%;
+  border-top: 1px solid #CCCCCC;
+  border-bottom: 2px solid #CCCCCC;
+  color: #000000;
+  background: #FFFFFF;
+  border-collapse: separate;
+}
+
+th {
+  background-color: #ccd7e2;
+}
+
+tr:nth-child(even) {
+  background-color: #e5ebf0;
+}
+
+td:nth-child(odd) {
+    width: 10%;
+}
+
+td:nth-child(even) {
+    word-wrap: normal;
+}
+
+.checkTheBox {
+  width: 25px;
+  margin: 5px auto;
+  position: relative;
+}
+
+.checkTheBox label {
+  cursor: pointer;
+  position: absolute;
+  width: 25px;
+  height: 25px;
+  top: 0;
+  left: 0;
+  background: #eee;
+  border: 1px solid #ddd;
+}
+
+.checkTheBox label:after {
+  opacity: 0.1;
+  content: '';
+  position: absolute;
+  width: 9px;
+  height: 5px;
+  background: transparent;
+  top: 6px;
+  left: 7px;
+  border: 3px solid #333;
+  border-top: none;
+  border-right: none;
+  transform: rotate(-45deg);
+}
+
+
+/**
+ * Create the hover event of the tick
+ */
+.checkTheBox label:hover::after {
+  opacity: 0.5;
+}
+
+
+/**
+ * Create the checkbox state for the tick
+ */
+.checkTheBox input[type=checkbox]:checked + label:after {
+  opacity: 1;
+}
+
+
+/* Hover-over pop-ups for episode links */
+
+#popup a span {
+  display: none;
+}
+
+
+/* the IE correction rule */
+#popup a:hover {
+  text-indent: 0;
+  /* added the default value */
+}
+
+#popup a:hover span {
+  display: block;
+  position: absolute;
+  margin-left: 75px;
+  top: 0px;
+  padding: 0px;
+  border: 0px;
+}
