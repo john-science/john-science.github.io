@@ -492,40 +492,6 @@ pre {
   -moz-box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.4), 0 1px 1px rgba(0, 0, 0, 0.2);
   box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.4), 0 1px 1px rgba(0, 0, 0, 0.2);
 }
-/* FOOTER
------------------------------------------------ */
-.the-footer {
-  background-color: #1a1a1a;
-  background-color: rgba(21, 25, 25, 0.8);
-  color: #fafafa;
-  color: rgba(250, 250, 250, 0.8);
-  padding-bottom: 1.625em;
-}
-.the-footer a:link {
-  color: #b57ecb;
-  border: 0;
-}
-.the-footer a:visited {
-  color: #d5b5e1;
-  border: 0;
-}
-.the-footer a:hover {
-  color: #f4ecf7;
-  border: 0;
-}
-.the-footer ul {
-  list-style: square;
-  padding-left: 1em;
-}
-.the-footer address {
-  font-style: normal;
-}
-.the-footer .license {
-  clear: both;
-}
-.the-footer .license p {
-  margin-bottom: 0;
-}
 .the-header .unit-inner {
   width: 15em;
   margin-top: 0.75em;
@@ -555,11 +521,6 @@ pre {
 }
 .layout-page .unit-body .article-list .meta {
   margin-bottom: 1.625em;
-}
-.the-footer .unit-foot {
-  width: 15em;
-  margin-left: auto;
-  margin-right: auto;
 }
 /*
  	IE
@@ -637,11 +598,6 @@ pre {
   width: 20.625em;
   float: right;
 }
-.ie .the-footer .unit-foot {
-  width: 60em;
-  margin-left: auto;
-  margin-right: auto;
-}
 /*
 	Smartphone
 */
@@ -702,9 +658,6 @@ pre {
   .layout-page .unit-body .article-list {
     width: 26.25em;
   }
-  .the-footer .unit-foot {
-    width: 26.25em;
-  }
 }
 /*
 	Tablet
@@ -736,9 +689,6 @@ pre {
     text-align: right;
     width: 20.625em;
     float: right;
-  }
-  .the-footer .unit-foot {
-    width: 43.125em;
   }
 }
 /*
@@ -783,9 +733,6 @@ pre {
   .layout-page .unit-body .article-list .meta {
     width: 20.625em;
   }
-  .the-footer .unit-foot {
-    width: 60em;
-  }
 }
 /*
 	Huge-screen layout
@@ -821,21 +768,5 @@ pre {
   }
   .layout-page .unit-body .article-list .meta {
     width: 20.625em;
-  }
-  .the-footer .unit-foot {
-    width: 88.125em;
-  }
-  .the-footer .unit-inner h1,
-  .the-footer .unit-inner h2,
-  .the-footer .unit-inner h3,
-  .the-footer .unit-inner h4,
-  .the-footer .unit-inner h5,
-  .the-footer .unit-inner p,
-  .the-footer .unit-inner ul,
-  .the-footer .unit-inner ol,
-  .the-footer .unit-inner dl,
-  .the-footer .unit-inner blockquote {
-    margin-left: 360px;
-    margin-right: 360px;
   }
 }

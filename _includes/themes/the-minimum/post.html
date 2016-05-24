@@ -35,32 +35,9 @@
 							<li><div class="twitter-follow"><a href="https://twitter.com/{{ site.author.twitter }}" class="twitter-follow-button" data-show-count="false" data-lang="en"></a></div></li>
 						</ul>
 					</div>
-
 					{% include JB/comments %}
 				</div><!-- misc-content -->
-
 			</div><!-- bd -->
-			<footer class="unit-foot">
-				<div class="unit-inner unit-foot-inner">
-					<nav class="pagination">
-						<ul>
-							{% if page.previous %}
-							<li class="prev"><a class="internal" rel="prev"  href="{{ page.previous.url }}" title="View {{ page.previous.title }}">&laquo; {{ page.previous.title }}</a></li>
-							{% endif %}
-							{% if page.previous and page.next %}
-							<li class="pipe"> | </li>
-							{% endif %}
-							{% if page.next %}
-							<li class="next"><a class="internal" rel="next"  href="{{ page.next.url }}" title="View {{ page.next.title }}">{{ page.next.title }} &raquo;</a></li>
-							{% endif %}
-						</ul>
-					</nav>
-					<p class="gotop">
-						<a href="#page">Back to Top</a>
-					</p>
-				</div>
-			</footer>
-
 		</div><!-- content -->
 	</div><!-- unit-inner -->
 </article>
