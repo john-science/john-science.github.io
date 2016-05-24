@@ -1,0 +1,3953 @@
+---
+layout: page
+title: Doctor Who Quotient
+tagline: Doctor Who Quotient - Calculator
+---
+{% include JB/setup %}
+
+<link rel="stylesheet" type="text/css" href="/assets/q/q_style.css">
+<script src="/assets/q/jquery-2.2.4.min.js"></script>
+<script src="/assets/q/q.js"></script>
+
+<h2>Doctor Who Quotient - Calculator</h2>
+<form action="#" method="post" class="demoForm" id="demoForm">
+  <fieldset>
+    <p>Q = (# of complete stories you've seen) / (# total)</p>
+    <br/>
+    <p>
+      <label>Q =
+        <input type="text" name="total" id="total" class="num" size="6" value="0" readonly="readonly" />
+      </label>
+      / 263
+      <br/>
+      <label>Q =
+        <input type="text" name="q" id="q" class="num" size="6" value="0.00" readonly="readonly" />
+      </label>
+    </p>
+    <br/>
+
+
+    <div id="container">
+      <div class="expandable-panel" id="cp-1">
+        <div class="expandable-panel-heading">
+          <h2>Season 1 (1963–64)<span class="icon-close-open"></span></h2>
+        </div>
+        <div class="expandable-panel-content">
+          <table style="border: 0px;">
+            <thead>
+              <tr>
+                <th style="text-align: left">Story</th>
+                <th style="text-align: left">Title</th>
+                <th style="text-align: left">Seen
+                  <br/>It?</th>
+              </tr>
+            </thead>
+            <tr>
+              <td align="left">1</td>
+              <td align="left">
+                <div id="popup"><a href="https://en.wikipedia.org/wiki/An_Unearthly_Child">An Unearthly Child<span><img src="//upload.wikimedia.org/wikipedia/en/thumb/9/9a/Unearthly_Child_2.jpg/250px-Unearthly_Child_2.jpg" alt="Unearthly Child 2.jpg"></span></a></div>
+              </td>
+              <td style="text-align: center">
+                <div class="checkTheBox">
+                  <input type="checkbox" value="1" id="story1" name="check" />
+                  <label for="story1"></label>
+                </div>
+              </td>
+            </tr>
+            <tr>
+              <td align="left">2</td>
+              <td align="left">
+                <div id="popup"><a href="https://en.wikipedia.org/wiki/The_Daleks">The Daleks</a></div>
+              </td>
+              <td style="text-align: center">
+                <div class="checkTheBox">
+                  <input type="checkbox" value="1" id="story2" name="check" />
+                  <label for="story2"></label>
+                </div>
+              </td>
+            </tr>
+            <tr>
+              <td align="left">3</td>
+              <td align="left">
+                <div id="popup"><a href="https://en.wikipedia.org/wiki/The_Edge_of_Destruction">The Edge of Destruction</a></div>
+              </td>
+              <td style="text-align: center">
+                <div class="checkTheBox">
+                  <input type="checkbox" value="1" id="story3" name="check" />
+                  <label for="story3"></label>
+                </div>
+              </td>
+            </tr>
+            <tr>
+              <td align="left">4</td>
+              <td align="left">
+                <div id="popup"><a href="https://en.wikipedia.org/wiki/Marco_Polo_%28Doctor_Who%29">Marco Polo</a>
+                  <br/><sup>*Lost</sup></div>
+              </td>
+              <td style="text-align: center">
+                <div class="checkTheBox">
+                  <input type="checkbox" value="1" id="story4" name="check" />
+                  <label for="story4"></label>
+                </div>
+              </td>
+            </tr>
+            <tr>
+              <td align="left">5</td>
+              <td align="left">
+                <div id="popup"><a href="https://en.wikipedia.org/wiki/The_Keys_of_Marinus">The Keys of Marinus</a></div>
+              </td>
+              <td style="text-align: center">
+                <div class="checkTheBox">
+                  <input type="checkbox" value="1" id="story5" name="check" />
+                  <label for="story5"></label>
+                </div>
+              </td>
+            </tr>
+            <tr>
+              <td align="left">6</td>
+              <td align="left">
+                <div id="popup"><a href="https://en.wikipedia.org/wiki/The_Aztecs_%28Doctor_Who%29">The Aztecs</a></div>
+              </td>
+              <td style="text-align: center">
+                <div class="checkTheBox">
+                  <input type="checkbox" value="1" id="story6" name="check" />
+                  <label for="story6"></label>
+                </div>
+              </td>
+            </tr>
+            <tr>
+              <td align="left">7</td>
+              <td align="left">
+                <div id="popup"><a href="https://en.wikipedia.org/wiki/The_Sensorites">The Sensorites</a></div>
+              </td>
+              <td style="text-align: center">
+                <div class="checkTheBox">
+                  <input type="checkbox" value="1" id="story7" name="check" />
+                  <label for="story7"></label>
+                </div>
+              </td>
+            </tr>
+            <tr>
+              <td align="left">8</td>
+              <td align="left">
+                <div id="popup"><a href="https://en.wikipedia.org/wiki/The_Reign_of_Terror_%28Doctor_Who%29">The Reign of Terror</a>
+                  <br/><sup>*Partially Lost</sup></div>
+              </td>
+              <td style="text-align: center">
+                <div class="checkTheBox">
+                  <input type="checkbox" value="1" id="story8" name="check" />
+                  <label for="story8"></label>
+                </div>
+              </td>
+            </tr>
+          </table>
+          <div style="padding: 13px">&nbsp;</div>
+
+
+        </div>
+      </div>
+
+      <div class="expandable-panel" id="cp-2">
+        <div class="expandable-panel-heading">
+          <h2>Season 2 (1964–65)<span class="icon-close-open"></span></h2>
+        </div>
+        <div class="expandable-panel-content">
+          <table style="border: 0px;">
+            <thead>
+              <tr>
+                <th style="text-align: left">Story</th>
+                <th style="text-align: left">Title</th>
+                <th style="text-align: left">Seen
+                  <br/>It?</th>
+              </tr>
+            </thead>
+            <tr>
+              <td align="left">9</td>
+              <td align="left">
+                <div id="popup"><a href="https://en.wikipedia.org/wiki/Planet_of_Giants">Planet of Giants</a></div>
+              </td>
+              <td style="text-align: center">
+                <div class="checkTheBox">
+                  <input type="checkbox" value="1" id="story9" name="check" />
+                  <label for="story9"></label>
+                </div>
+              </td>
+            </tr>
+            <tr>
+              <td align="left">10</td>
+              <td align="left">
+                <div id="popup"><a href="https://en.wikipedia.org/wiki/The_Dalek_Invasion_of_Earth">The Dalek Invasion of Earth</a></div>
+              </td>
+              <td style="text-align: center">
+                <div class="checkTheBox">
+                  <input type="checkbox" value="1" id="story10" name="check" />
+                  <label for="story10"></label>
+                </div>
+              </td>
+            </tr>
+            <tr>
+              <td align="left">11</td>
+              <td align="left">
+                <div id="popup"><a href="https://en.wikipedia.org/wiki/The_Rescue_%28Doctor_Who%29">The Rescue</a></div>
+              </td>
+              <td style="text-align: center">
+                <div class="checkTheBox">
+                  <input type="checkbox" value="1" id="story11" name="check" />
+                  <label for="story11"></label>
+                </div>
+              </td>
+            </tr>
+            <tr>
+              <td align="left">12</td>
+              <td align="left">
+                <div id="popup"><a href="https://en.wikipedia.org/wiki/The_Romans_%28Doctor_Who%29">The Romans</a></div>
+              </td>
+              <td style="text-align: center">
+                <div class="checkTheBox">
+                  <input type="checkbox" value="1" id="story12" name="check" />
+                  <label for="story12"></label>
+                </div>
+              </td>
+            </tr>
+            <tr>
+              <td align="left">13</td>
+              <td align="left">
+                <div id="popup"><a href="https://en.wikipedia.org/wiki/The_Web_Planet">The Web Planet</a></div>
+              </td>
+              <td style="text-align: center">
+                <div class="checkTheBox">
+                  <input type="checkbox" value="1" id="story13" name="check" />
+                  <label for="story13"></label>
+                </div>
+              </td>
+            </tr>
+            <tr>
+              <td align="left">14</td>
+              <td align="left">
+                <div id="popup"><a href="https://en.wikipedia.org/wiki/The_Crusade_%28Doctor_Who%29">The Crusade</a>
+                  <br/><sup>*Partially Lost</sup></div>
+              </td>
+              <td style="text-align: center">
+                <div class="checkTheBox">
+                  <input type="checkbox" value="1" id="story14" name="check" />
+                  <label for="story14"></label>
+                </div>
+              </td>
+            </tr>
+            <tr>
+              <td align="left">15</td>
+              <td align="left">
+                <div id="popup"><a href="https://en.wikipedia.org/wiki/The_Space_Museum">The Space Museum</a></div>
+              </td>
+              <td style="text-align: center">
+                <div class="checkTheBox">
+                  <input type="checkbox" value="1" id="story15" name="check" />
+                  <label for="story15"></label>
+                </div>
+              </td>
+            </tr>
+            <tr>
+              <td align="left">16</td>
+              <td align="left">
+                <div id="popup"><a href="https://en.wikipedia.org/wiki/The_Chase_%28Doctor_Who%29">The Chase</a></div>
+              </td>
+              <td style="text-align: center">
+                <div class="checkTheBox">
+                  <input type="checkbox" value="1" id="story16" name="check" />
+                  <label for="story16"></label>
+                </div>
+              </td>
+            </tr>
+            <tr>
+              <td align="left">17</td>
+              <td align="left">
+                <div id="popup"><a href="https://en.wikipedia.org/wiki/The_Time_Meddler">The Time Meddler</a></div>
+              </td>
+              <td style="text-align: center">
+                <div class="checkTheBox">
+                  <input type="checkbox" value="1" id="story17" name="check" />
+                  <label for="story17"></label>
+                </div>
+              </td>
+            </tr>
+          </table>
+          <div style="padding: 13px">&nbsp;</div>
+        </div>
+      </div>
+
+      <div class="expandable-panel" id="cp-3">
+        <div class="expandable-panel-heading">
+          <h2>Season 3 (1965–66)<span class="icon-close-open"></span></h2>
+        </div>
+        <div class="expandable-panel-content">
+          <table style="border: 0px;">
+            <thead>
+              <tr>
+                <th style="text-align: left">Story</th>
+                <th style="text-align: left">Title</th>
+                <th style="text-align: left">Seen
+                  <br/>It?</th>
+              </tr>
+            </thead>
+            <tr>
+              <td align="left">18</td>
+              <td align="left">
+                <div id="popup"><a href="https://en.wikipedia.org/wiki/Galaxy_4">Galaxy 4</a>
+                  <br/><sup>*Partially Lost</sup></div>
+              </td>
+              <td style="text-align: center">
+                <div class="checkTheBox">
+                  <input type="checkbox" value="1" id="story18" name="check" />
+                  <label for="story18"></label>
+                </div>
+              </td>
+            </tr>
+            <tr>
+              <td align="left">19</td>
+              <td align="left">
+                <div id="popup"><a href="https://en.wikipedia.org/wiki/Mission_to_the_Unknown">Mission to the Unknown</a>
+                  <br/><sup>*Lost</sup></div>
+              </td>
+              <td style="text-align: center">
+                <div class="checkTheBox">
+                  <input type="checkbox" value="1" id="story19" name="check" />
+                  <label for="story19"></label>
+                </div>
+              </td>
+            </tr>
+            <tr>
+              <td align="left">20</td>
+              <td align="left">
+                <div id="popup"><a href="https://en.wikipedia.org/wiki/The_Myth_Makers">The Myth Makers</a>
+                  <br/><sup>*Lost</sup></div>
+              </td>
+              <td style="text-align: center">
+                <div class="checkTheBox">
+                  <input type="checkbox" value="1" id="story20" name="check" />
+                  <label for="story20"></label>
+                </div>
+              </td>
+            </tr>
+            <tr>
+              <td align="left">21</td>
+              <td align="left">
+                <div id="popup"><a href="https://en.wikipedia.org/wiki/The_Daleks%27_Master_Plan">The Daleks' Master Plan</a>
+                  <br/><sup>*Partially Lost</sup></div>
+              </td>
+              <td style="text-align: center">
+                <div class="checkTheBox">
+                  <input type="checkbox" value="1" id="story21" name="check" />
+                  <label for="story21"></label>
+                </div>
+              </td>
+            </tr>
+            <tr>
+              <td align="left">22</td>
+              <td align="left">
+                <div id="popup"><a href="https://en.wikipedia.org/wiki/The_Massacre_of_St_Bartholomew%27s_Eve">The Massacre of St Bartholomew's Eve</a>
+                  <br/><sup>*Lost</sup></div>
+              </td>
+              <td style="text-align: center">
+                <div class="checkTheBox">
+                  <input type="checkbox" value="1" id="story22" name="check" />
+                  <label for="story22"></label>
+                </div>
+              </td>
+            </tr>
+            <tr>
+              <td align="left">23</td>
+              <td align="left">
+                <div id="popup"><a href="https://en.wikipedia.org/wiki/The_Ark_%28Doctor_Who%29">The Ark</a></div>
+              </td>
+              <td style="text-align: center">
+                <div class="checkTheBox">
+                  <input type="checkbox" value="1" id="story23" name="check" />
+                  <label for="story23"></label>
+                </div>
+              </td>
+            </tr>
+            <tr>
+              <td align="left">24</td>
+              <td align="left">
+                <div id="popup"><a href="https://en.wikipedia.org/wiki/The_Celestial_Toymaker">The Celestial Toymaker</a>
+                  <br/><sup>*Partially Lost</sup></div>
+              </td>
+              <td style="text-align: center">
+                <div class="checkTheBox">
+                  <input type="checkbox" value="1" id="story24" name="check" />
+                  <label for="story24"></label>
+                </div>
+              </td>
+            </tr>
+            <tr>
+              <td align="left">25</td>
+              <td align="left">
+                <div id="popup"><a href="https://en.wikipedia.org/wiki/The_Gunfighters">The Gunfighters</a></div>
+              </td>
+              <td style="text-align: center">
+                <div class="checkTheBox">
+                  <input type="checkbox" value="1" id="story25" name="check" />
+                  <label for="story25"></label>
+                </div>
+              </td>
+            </tr>
+            <tr>
+              <td align="left">26</td>
+              <td align="left">
+                <div id="popup"><a href="https://en.wikipedia.org/wiki/The_Savages_%28Doctor_Who%29">The Savages</a>
+                  <br/><sup>*Lost</sup></div>
+              </td>
+              <td style="text-align: center">
+                <div class="checkTheBox">
+                  <input type="checkbox" value="1" id="story26" name="check" />
+                  <label for="story26"></label>
+                </div>
+              </td>
+            </tr>
+            <tr>
+              <td align="left">27</td>
+              <td align="left">
+                <div id="popup"><a href="https://en.wikipedia.org/wiki/The_War_Machines">The War Machines</a></div>
+              </td>
+              <td style="text-align: center">
+                <div class="checkTheBox">
+                  <input type="checkbox" value="1" id="story27" name="check" />
+                  <label for="story27"></label>
+                </div>
+              </td>
+            </tr>
+          </table>
+          <div style="padding: 13px">&nbsp;</div>
+        </div>
+      </div>
+
+
+      <div class="expandable-panel" id="cp-4">
+        <div class="expandable-panel-heading">
+          <h2>Season 4 (1966–67) <span class="icon-close-open"></span></h2>
+        </div>
+        <div class="expandable-panel-content">
+          <table style="border: 0px;">
+            <thead>
+              <tr>
+                <th style="text-align: left">Story</th>
+                <th style="text-align: left">Title</th>
+                <th style="text-align: left">Seen
+                  <br/>It?</th>
+              </tr>
+            </thead>
+            <tr>
+              <td align="left">28</td>
+              <td align="left">
+                <div id="popup"><a href="https://en.wikipedia.org/wiki/The_Smugglers">The Smugglers</a>
+                  <br/><sup>*Lost</sup></div>
+              </td>
+              <td style="text-align: center">
+                <div class="checkTheBox">
+                  <input type="checkbox" value="1" id="story28" name="check" />
+                  <label for="story28"></label>
+                </div>
+              </td>
+            </tr>
+            <tr>
+              <td align="left">29</td>
+              <td align="left">
+                <div id="popup"><a href="https://en.wikipedia.org/wiki/The_Tenth_Planet">The Tenth Planet</a>
+                  <br/><sup>*Partially Lost</sup></div>
+              </td>
+              <td style="text-align: center">
+                <div class="checkTheBox">
+                  <input type="checkbox" value="1" id="story29" name="check" />
+                  <label for="story29"></label>
+                </div>
+              </td>
+            </tr>
+            <tr>
+              <td align="left">30</td>
+              <td align="left">
+                <div id="popup"><a href="https://en.wikipedia.org/wiki/The_Power_of_the_Daleks">The Power of the Daleks</a>
+                  <br/><sup>*Lost</sup></div>
+              </td>
+              <td style="text-align: center">
+                <div class="checkTheBox">
+                  <input type="checkbox" value="1" id="story30" name="check" />
+                  <label for="story30"></label>
+                </div>
+              </td>
+            </tr>
+            <tr>
+              <td align="left">31</td>
+              <td align="left">
+                <div id="popup"><a href="https://en.wikipedia.org/wiki/The_Highlanders_%28Doctor_Who%29">The Highlanders</a>
+                  <br/><sup>*Lost</sup></div>
+              </td>
+              <td style="text-align: center">
+                <div class="checkTheBox">
+                  <input type="checkbox" value="1" id="story31" name="check" />
+                  <label for="story31"></label>
+                </div>
+              </td>
+            </tr>
+            <tr>
+              <td align="left">32</td>
+              <td align="left">
+                <div id="popup"><a href="https://en.wikipedia.org/wiki/The_Underwater_Menace">The Underwater Menace</a>
+                  <br/><sup>*Partially Lost</sup></div>
+              </td>
+              <td style="text-align: center">
+                <div class="checkTheBox">
+                  <input type="checkbox" value="1" id="story32" name="check" />
+                  <label for="story32"></label>
+                </div>
+              </td>
+            </tr>
+            <tr>
+              <td align="left">33</td>
+              <td align="left">
+                <div id="popup"><a href="https://en.wikipedia.org/wiki/The_Moonbase">The Moonbase</a>
+                  <br/><sup>*Partially Lost</sup></div>
+              </td>
+              <td style="text-align: center">
+                <div class="checkTheBox">
+                  <input type="checkbox" value="1" id="story33" name="check" />
+                  <label for="story33"></label>
+                </div>
+              </td>
+            </tr>
+            <tr>
+              <td align="left">34</td>
+              <td align="left">
+                <div id="popup"><a href="https://en.wikipedia.org/wiki/The_Macra_Terror">The Macra Terror</a>
+                  <br/><sup>*Lost</sup></div>
+              </td>
+              <td style="text-align: center">
+                <div class="checkTheBox">
+                  <input type="checkbox" value="1" id="story34" name="check" />
+                  <label for="story34"></label>
+                </div>
+              </td>
+            </tr>
+            <tr>
+              <td align="left">35</td>
+              <td align="left">
+                <div id="popup"><a href="https://en.wikipedia.org/wiki/The_Faceless_Ones">The Faceless Ones</a>
+                  <br/><sup>*Partially Lost</sup></div>
+              </td>
+              <td style="text-align: center">
+                <div class="checkTheBox">
+                  <input type="checkbox" value="1" id="story35" name="check" />
+                  <label for="story35"></label>
+                </div>
+              </td>
+            </tr>
+            <tr>
+              <td align="left">36</td>
+              <td align="left">
+                <div id="popup"><a href="https://en.wikipedia.org/wiki/The_Evil_of_the_Daleks">The Evil of the Daleks</a>
+                  <br/><sup>*Partially Lost</sup></div>
+              </td>
+              <td style="text-align: center">
+                <div class="checkTheBox">
+                  <input type="checkbox" value="1" id="story36" name="check" />
+                  <label for="story36"></label>
+                </div>
+              </td>
+            </tr>
+          </table>
+          <div style="padding: 13px">&nbsp;</div>
+        </div>
+      </div>
+
+
+      <div class="expandable-panel" id="cp-5">
+        <div class="expandable-panel-heading">
+          <h2>Season 5 (1967–68) <span class="icon-close-open"></span></h2>
+        </div>
+        <div class="expandable-panel-content">
+          <table style="border: 0px;">
+            <thead>
+              <tr>
+                <th style="text-align: left">Story</th>
+                <th style="text-align: left">Title</th>
+                <th style="text-align: left">Seen
+                  <br/>It?</th>
+              </tr>
+            </thead>
+            <tr>
+              <td align="left">37</td>
+              <td align="left">
+                <div id="popup"><a href="https://en.wikipedia.org/wiki/The_Tomb_of_the_Cybermen">The Tomb of the Cybermen</a></div>
+              </td>
+              <td style="text-align: center">
+                <div class="checkTheBox">
+                  <input type="checkbox" value="1" id="story37" name="check" />
+                  <label for="story37"></label>
+                </div>
+              </td>
+            </tr>
+            <tr>
+              <td align="left">38</td>
+              <td align="left">
+                <div id="popup"><a href="https://en.wikipedia.org/wiki/The_Abominable_Snowmen">The Abominable Snowmen</a>
+                  <br/><sup>*Partially Lost</sup></div>
+              </td>
+              <td style="text-align: center">
+                <div class="checkTheBox">
+                  <input type="checkbox" value="1" id="story38" name="check" />
+                  <label for="story38"></label>
+                </div>
+              </td>
+            </tr>
+            <tr>
+              <td align="left">39</td>
+              <td align="left">
+                <div id="popup"><a href="https://en.wikipedia.org/wiki/The_Ice_Warriors">The Ice Warriors</a>
+                  <br/><sup>*Partially Lost</sup></div>
+              </td>
+              <td style="text-align: center">
+                <div class="checkTheBox">
+                  <input type="checkbox" value="1" id="story39" name="check" />
+                  <label for="story39"></label>
+                </div>
+              </td>
+            </tr>
+            <tr>
+              <td align="left">40</td>
+              <td align="left">
+                <div id="popup"><a href="https://en.wikipedia.org/wiki/The_Enemy_of_the_World">The Enemy of the World</a></div>
+              </td>
+              <td style="text-align: center">
+                <div class="checkTheBox">
+                  <input type="checkbox" value="1" id="story40" name="check" />
+                  <label for="story40"></label>
+                </div>
+              </td>
+            </tr>
+            <tr>
+              <td align="left">41</td>
+              <td align="left">
+                <div id="popup"><a href="https://en.wikipedia.org/wiki/The_Web_of_Fear">The Web of Fear</a>
+                  <br/><sup>*Partially Lost</sup></div>
+              </td>
+              <td style="text-align: center">
+                <div class="checkTheBox">
+                  <input type="checkbox" value="1" id="story41" name="check" />
+                  <label for="story41"></label>
+                </div>
+              </td>
+            </tr>
+            <tr>
+              <td align="left">42</td>
+              <td align="left">
+                <div id="popup"><a href="https://en.wikipedia.org/wiki/Fury_from_the_Deep">Fury from the Deep</a>
+                  <br/><sup>*Lost</sup></div>
+              </td>
+              <td style="text-align: center">
+                <div class="checkTheBox">
+                  <input type="checkbox" value="1" id="story42" name="check" />
+                  <label for="story42"></label>
+                </div>
+              </td>
+            </tr>
+            <tr>
+              <td align="left">43</td>
+              <td align="left">
+                <div id="popup"><a href="https://en.wikipedia.org/wiki/The_Wheel_in_Space">The Wheel in Space</a>
+                  <br/><sup>*Partially Lost</sup></div>
+              </td>
+              <td style="text-align: center">
+                <div class="checkTheBox">
+                  <input type="checkbox" value="1" id="story43" name="check" />
+                  <label for="story43"></label>
+                </div>
+              </td>
+            </tr>
+          </table>
+          <div style="padding: 13px">&nbsp;</div>
+        </div>
+      </div>
+
+
+      <div class="expandable-panel" id="cp-6">
+        <div class="expandable-panel-heading">
+          <h2>Season 6 (1968–69) <span class="icon-close-open"></span></h2>
+        </div>
+        <div class="expandable-panel-content">
+          <table style="border: 0px;">
+            <thead>
+              <tr>
+                <th style="text-align: left">Story</th>
+                <th style="text-align: left">Title</th>
+                <th style="text-align: left">Seen
+                  <br/>It?</th>
+              </tr>
+            </thead>
+            <tr>
+              <td align="left">44</td>
+              <td align="left">
+                <div id="popup"><a href="https://en.wikipedia.org/wiki/The_Dominators">The Dominators</a></div>
+              </td>
+              <td style="text-align: center">
+                <div class="checkTheBox">
+                  <input type="checkbox" value="1" id="story44" name="check" />
+                  <label for="story44"></label>
+                </div>
+              </td>
+            </tr>
+            <tr>
+              <td align="left">45</td>
+              <td align="left">
+                <div id="popup"><a href="https://en.wikipedia.org/wiki/The_Mind_Robber">The Mind Robber</a></div>
+              </td>
+              <td style="text-align: center">
+                <div class="checkTheBox">
+                  <input type="checkbox" value="1" id="story45" name="check" />
+                  <label for="story45"></label>
+                </div>
+              </td>
+            </tr>
+            <tr>
+              <td align="left">46</td>
+              <td align="left">
+                <div id="popup"><a href="https://en.wikipedia.org/wiki/The_Invasion_%28Doctor_Who%29">The Invasion</a>
+                  <br/><sup>*Partially Lost</sup></div>
+              </td>
+              <td style="text-align: center">
+                <div class="checkTheBox">
+                  <input type="checkbox" value="1" id="story46" name="check" />
+                  <label for="story46"></label>
+                </div>
+              </td>
+            </tr>
+            <tr>
+              <td align="left">47</td>
+              <td align="left">
+                <div id="popup"><a href="https://en.wikipedia.org/wiki/The_Krotons">The Krotons</a></div>
+              </td>
+              <td style="text-align: center">
+                <div class="checkTheBox">
+                  <input type="checkbox" value="1" id="story47" name="check" />
+                  <label for="story47"></label>
+                </div>
+              </td>
+            </tr>
+            <tr>
+              <td align="left">48</td>
+              <td align="left">
+                <div id="popup"><a href="https://en.wikipedia.org/wiki/The_Seeds_of_Death">The Seeds of Death</a></div>
+              </td>
+              <td style="text-align: center">
+                <div class="checkTheBox">
+                  <input type="checkbox" value="1" id="story48" name="check" />
+                  <label for="story48"></label>
+                </div>
+              </td>
+            </tr>
+            <tr>
+              <td align="left">49</td>
+              <td align="left">
+                <div id="popup"><a href="https://en.wikipedia.org/wiki/The_Space_Pirates">The Space Pirates</a>
+                  <br/><sup>*Partially Lost</sup></div>
+              </td>
+              <td style="text-align: center">
+                <div class="checkTheBox">
+                  <input type="checkbox" value="1" id="story49" name="check" />
+                  <label for="story49"></label>
+                </div>
+              </td>
+            </tr>
+            <tr>
+              <td align="left">50</td>
+              <td align="left">
+                <div id="popup"><a href="https://en.wikipedia.org/wiki/The_War_Games">The War Games</a></div>
+              </td>
+              <td style="text-align: center">
+                <div class="checkTheBox">
+                  <input type="checkbox" value="1" id="story50" name="check" />
+                  <label for="story50"></label>
+                </div>
+              </td>
+            </tr>
+          </table>
+          <div style="padding: 13px">&nbsp;</div>
+        </div>
+      </div>
+
+
+      <div class="expandable-panel" id="cp-7">
+        <div class="expandable-panel-heading">
+          <h2>Season 7 (1970)<span class="icon-close-open"></span></h2>
+        </div>
+        <div class="expandable-panel-content">
+          <table style="border: 0px;">
+            <thead>
+              <tr>
+                <th style="text-align: left">Story</th>
+                <th style="text-align: left">Title</th>
+                <th style="text-align: left">Seen
+                  <br/>It?</th>
+              </tr>
+            </thead>
+            <tr>
+              <td align="left">51</td>
+              <td align="left">
+                <div id="popup"><a href="https://en.wikipedia.org/wiki/Spearhead_from_Space">Spearhead from Space</a></div>
+              </td>
+              <td style="text-align: center">
+                <div class="checkTheBox">
+                  <input type="checkbox" value="1" id="story51" name="check" />
+                  <label for="story51"></label>
+                </div>
+              </td>
+            </tr>
+            <tr>
+              <td align="left">52</td>
+              <td align="left">
+                <div id="popup"><a href="https://en.wikipedia.org/wiki/Doctor_Who_and_the_Silurians">Doctor Who and the Silurians</a></div>
+              </td>
+              <td style="text-align: center">
+                <div class="checkTheBox">
+                  <input type="checkbox" value="1" id="story52" name="check" />
+                  <label for="story52"></label>
+                </div>
+              </td>
+            </tr>
+            <tr>
+              <td align="left">53</td>
+              <td align="left">
+                <div id="popup"><a href="https://en.wikipedia.org/wiki/The_Ambassadors_of_Death">The Ambassadors of Death</a></div>
+              </td>
+              <td style="text-align: center">
+                <div class="checkTheBox">
+                  <input type="checkbox" value="1" id="story53" name="check" />
+                  <label for="story53"></label>
+                </div>
+              </td>
+            </tr>
+            <tr>
+              <td align="left">54</td>
+              <td align="left">
+                <div id="popup"><a href="https://en.wikipedia.org/wiki/Inferno_%28Doctor_Who%29">Inferno</a></div>
+              </td>
+              <td style="text-align: center">
+                <div class="checkTheBox">
+                  <input type="checkbox" value="1" id="story54" name="check" />
+                  <label for="story54"></label>
+                </div>
+              </td>
+            </tr>
+          </table>
+          <div style="padding: 13px">&nbsp;</div>
+        </div>
+      </div>
+
+
+      <div class="expandable-panel" id="cp-8">
+        <div class="expandable-panel-heading">
+          <h2>Season 8 (1971)<span class="icon-close-open"></span></h2>
+        </div>
+        <div class="expandable-panel-content">
+          <table style="border: 0px;">
+            <thead>
+              <tr>
+                <th style="text-align: left">Story</th>
+                <th style="text-align: left">Title</th>
+                <th style="text-align: left">Seen
+                  <br/>It?</th>
+              </tr>
+            </thead>
+            <tr>
+              <td align="left">55</td>
+              <td align="left">
+                <div id="popup"><a href="https://en.wikipedia.org/wiki/Terror_of_the_Autons">Terror of the Autons</a></div>
+              </td>
+              <td style="text-align: center">
+                <div class="checkTheBox">
+                  <input type="checkbox" value="1" id="story55" name="check" />
+                  <label for="story55"></label>
+                </div>
+              </td>
+            </tr>
+            <tr>
+              <td align="left">56</td>
+              <td align="left">
+                <div id="popup"><a href="https://en.wikipedia.org/wiki/The_Mind_of_Evil">The Mind of Evil</a></div>
+              </td>
+              <td style="text-align: center">
+                <div class="checkTheBox">
+                  <input type="checkbox" value="1" id="story56" name="check" />
+                  <label for="story56"></label>
+                </div>
+              </td>
+            </tr>
+            <tr>
+              <td align="left">57</td>
+              <td align="left">
+                <div id="popup"><a href="https://en.wikipedia.org/wiki/The_Claws_of_Axos">The Claws of Axos</a></div>
+              </td>
+              <td style="text-align: center">
+                <div class="checkTheBox">
+                  <input type="checkbox" value="1" id="story57" name="check" />
+                  <label for="story57"></label>
+                </div>
+              </td>
+            </tr>
+            <tr>
+              <td align="left">58</td>
+              <td align="left">
+                <div id="popup"><a href="https://en.wikipedia.org/wiki/Colony_in_Space">Colony in Space</a></div>
+              </td>
+              <td style="text-align: center">
+                <div class="checkTheBox">
+                  <input type="checkbox" value="1" id="story58" name="check" />
+                  <label for="story58"></label>
+                </div>
+              </td>
+            </tr>
+            <tr>
+              <td align="left">59</td>
+              <td align="left">
+                <div id="popup"><a href="https://en.wikipedia.org/wiki/The_Dæmons">The Dæmons</a></div>
+              </td>
+              <td style="text-align: center">
+                <div class="checkTheBox">
+                  <input type="checkbox" value="1" id="story59" name="check" />
+                  <label for="story59"></label>
+                </div>
+              </td>
+            </tr>
+          </table>
+          <div style="padding: 13px">&nbsp;</div>
+        </div>
+      </div>
+
+
+      <div class="expandable-panel" id="cp-9">
+        <div class="expandable-panel-heading">
+          <h2>Season 9 (1972)<span class="icon-close-open"></span></h2>
+        </div>
+        <div class="expandable-panel-content">
+          <table style="border: 0px;">
+            <thead>
+              <tr>
+                <th style="text-align: left">Story</th>
+                <th style="text-align: left">Title</th>
+                <th style="text-align: left">Seen
+                  <br/>It?</th>
+              </tr>
+            </thead>
+            <tr>
+              <td align="left">60</td>
+              <td align="left">
+                <div id="popup"><a href="https://en.wikipedia.org/wiki/Day_of_the_Daleks">Day of the Daleks</a></div>
+              </td>
+              <td style="text-align: center">
+                <div class="checkTheBox">
+                  <input type="checkbox" value="1" id="story60" name="check" />
+                  <label for="story60"></label>
+                </div>
+              </td>
+            </tr>
+            <tr>
+              <td align="left">61</td>
+              <td align="left">
+                <div id="popup"><a href="https://en.wikipedia.org/wiki/The_Curse_of_Peladon">The Curse of Peladon</a></div>
+              </td>
+              <td style="text-align: center">
+                <div class="checkTheBox">
+                  <input type="checkbox" value="1" id="story61" name="check" />
+                  <label for="story61"></label>
+                </div>
+              </td>
+            </tr>
+            <tr>
+              <td align="left">62</td>
+              <td align="left">
+                <div id="popup"><a href="https://en.wikipedia.org/wiki/The_Sea_Devils">The Sea Devils</a></div>
+              </td>
+              <td style="text-align: center">
+                <div class="checkTheBox">
+                  <input type="checkbox" value="1" id="story62" name="check" />
+                  <label for="story62"></label>
+                </div>
+              </td>
+            </tr>
+            <tr>
+              <td align="left">63</td>
+              <td align="left">
+                <div id="popup"><a href="https://en.wikipedia.org/wiki/The_Mutants">The Mutants</a></div>
+              </td>
+              <td style="text-align: center">
+                <div class="checkTheBox">
+                  <input type="checkbox" value="1" id="story63" name="check" />
+                  <label for="story63"></label>
+                </div>
+              </td>
+            </tr>
+            <tr>
+              <td align="left">64</td>
+              <td align="left">
+                <div id="popup"><a href="https://en.wikipedia.org/wiki/The_Time_Monster">The Time Monster</a></div>
+              </td>
+              <td style="text-align: center">
+                <div class="checkTheBox">
+                  <input type="checkbox" value="1" id="story64" name="check" />
+                  <label for="story64"></label>
+                </div>
+              </td>
+            </tr>
+          </table>
+          <div style="padding: 13px">&nbsp;</div>
+        </div>
+      </div>
+
+
+      <div class="expandable-panel" id="cp-10">
+        <div class="expandable-panel-heading">
+          <h2>Season 10 (1972–73)<span class="icon-close-open"></span></h2>
+        </div>
+        <div class="expandable-panel-content">
+          <table style="border: 0px;">
+            <thead>
+              <tr>
+                <th style="text-align: left">Story</th>
+                <th style="text-align: left">Title</th>
+                <th style="text-align: left">Seen
+                  <br/>It?</th>
+              </tr>
+            </thead>
+            <tr>
+              <td align="left">65</td>
+              <td align="left">
+                <div id="popup"><a href="https://en.wikipedia.org/wiki/The_Three_Doctors_%28Doctor_Who%29">The Three Doctors</a></div>
+              </td>
+              <td style="text-align: center">
+                <div class="checkTheBox">
+                  <input type="checkbox" value="1" id="story65" name="check" />
+                  <label for="story65"></label>
+                </div>
+              </td>
+            </tr>
+            <tr>
+              <td align="left">66</td>
+              <td align="left">
+                <div id="popup"><a href="https://en.wikipedia.org/wiki/Carnival_of_Monsters">Carnival of Monsters</a></div>
+              </td>
+              <td style="text-align: center">
+                <div class="checkTheBox">
+                  <input type="checkbox" value="1" id="story66" name="check" />
+                  <label for="story66"></label>
+                </div>
+              </td>
+            </tr>
+            <tr>
+              <td align="left">67</td>
+              <td align="left">
+                <div id="popup"><a href="https://en.wikipedia.org/wiki/Frontier_in_Space">Frontier in Space</a></div>
+              </td>
+              <td style="text-align: center">
+                <div class="checkTheBox">
+                  <input type="checkbox" value="1" id="story67" name="check" />
+                  <label for="story67"></label>
+                </div>
+              </td>
+            </tr>
+            <tr>
+              <td align="left">68</td>
+              <td align="left">
+                <div id="popup"><a href="https://en.wikipedia.org/wiki/Planet_of_the_Daleks">Planet of the Daleks</a></div>
+              </td>
+              <td style="text-align: center">
+                <div class="checkTheBox">
+                  <input type="checkbox" value="1" id="story68" name="check" />
+                  <label for="story68"></label>
+                </div>
+              </td>
+            </tr>
+            <tr>
+              <td align="left">69</td>
+              <td align="left">
+                <div id="popup"><a href="https://en.wikipedia.org/wiki/The_Green_Death">The Green Death</a></div>
+              </td>
+              <td style="text-align: center">
+                <div class="checkTheBox">
+                  <input type="checkbox" value="1" id="story69" name="check" />
+                  <label for="story69"></label>
+                </div>
+              </td>
+            </tr>
+          </table>
+          <div style="padding: 13px">&nbsp;</div>
+        </div>
+      </div>
+
+
+      <div class="expandable-panel" id="cp-11">
+        <div class="expandable-panel-heading">
+          <h2>Season 11 (1973–74)<span class="icon-close-open"></span></h2>
+        </div>
+        <div class="expandable-panel-content">
+          <table style="border: 0px;">
+            <thead>
+              <tr>
+                <th style="text-align: left">Story</th>
+                <th style="text-align: left">Title</th>
+                <th style="text-align: left">Seen
+                  <br/>It?</th>
+              </tr>
+            </thead>
+            <tr>
+              <td align="left">70</td>
+              <td align="left">
+                <div id="popup"><a href="https://en.wikipedia.org/wiki/The_Time_Warrior">The Time Warrior</a></div>
+              </td>
+              <td style="text-align: center">
+                <div class="checkTheBox">
+                  <input type="checkbox" value="1" id="story70" name="check" />
+                  <label for="story70"></label>
+                </div>
+              </td>
+            </tr>
+            <tr>
+              <td align="left">71</td>
+              <td align="left">
+                <div id="popup"><a href="https://en.wikipedia.org/wiki/Invasion_of_the_Dinosaurs">Invasion of the Dinosaurs</a></div>
+              </td>
+              <td style="text-align: center">
+                <div class="checkTheBox">
+                  <input type="checkbox" value="1" id="story71" name="check" />
+                  <label for="story71"></label>
+                </div>
+              </td>
+            </tr>
+            <tr>
+              <td align="left">72</td>
+              <td align="left">
+                <div id="popup"><a href="https://en.wikipedia.org/wiki/Death_to_the_Daleks">Death to the Daleks</a></div>
+              </td>
+              <td style="text-align: center">
+                <div class="checkTheBox">
+                  <input type="checkbox" value="1" id="story72" name="check" />
+                  <label for="story72"></label>
+                </div>
+              </td>
+            </tr>
+            <tr>
+              <td align="left">73</td>
+              <td align="left">
+                <div id="popup"><a href="https://en.wikipedia.org/wiki/The_Monster_of_Peladon">The Monster of Peladon</a></div>
+              </td>
+              <td style="text-align: center">
+                <div class="checkTheBox">
+                  <input type="checkbox" value="1" id="story73" name="check" />
+                  <label for="story73"></label>
+                </div>
+              </td>
+            </tr>
+            <tr>
+              <td align="left">74</td>
+              <td align="left">
+                <div id="popup"><a href="https://en.wikipedia.org/wiki/Planet_of_the_Spiders">Planet of the Spiders</a></div>
+              </td>
+              <td style="text-align: center">
+                <div class="checkTheBox">
+                  <input type="checkbox" value="1" id="story74" name="check" />
+                  <label for="story74"></label>
+                </div>
+              </td>
+            </tr>
+          </table>
+          <div style="padding: 13px">&nbsp;</div>
+        </div>
+      </div>
+
+
+      <div class="expandable-panel" id="cp-12">
+        <div class="expandable-panel-heading">
+          <h2>Season 12 (1974–75)<span class="icon-close-open"></span></h2>
+        </div>
+        <div class="expandable-panel-content">
+          <table style="border: 0px;">
+            <thead>
+              <tr>
+                <th style="text-align: left">Story</th>
+                <th style="text-align: left">Title</th>
+                <th style="text-align: left">Seen
+                  <br/>It?</th>
+              </tr>
+            </thead>
+            <tr>
+              <td align="left">75</td>
+              <td align="left">
+                <div id="popup"><a href="https://en.wikipedia.org/wiki/Robot_%28Doctor_Who%29">Robot</a></div>
+              </td>
+              <td style="text-align: center">
+                <div class="checkTheBox">
+                  <input type="checkbox" value="1" id="story75" name="check" />
+                  <label for="story75"></label>
+                </div>
+              </td>
+            </tr>
+            <tr>
+              <td align="left">76</td>
+              <td align="left">
+                <div id="popup"><a href="https://en.wikipedia.org/wiki/The_Ark_in_Space">The Ark in Space</a></div>
+              </td>
+              <td style="text-align: center">
+                <div class="checkTheBox">
+                  <input type="checkbox" value="1" id="story76" name="check" />
+                  <label for="story76"></label>
+                </div>
+              </td>
+            </tr>
+            <tr>
+              <td align="left">77</td>
+              <td align="left">
+                <div id="popup"><a href="https://en.wikipedia.org/wiki/The_Sontaran_Experiment">The Sontaran Experiment</a></div>
+              </td>
+              <td style="text-align: center">
+                <div class="checkTheBox">
+                  <input type="checkbox" value="1" id="story77" name="check" />
+                  <label for="story77"></label>
+                </div>
+              </td>
+            </tr>
+            <tr>
+              <td align="left">78</td>
+              <td align="left">
+                <div id="popup"><a href="https://en.wikipedia.org/wiki/Genesis_of_the_Daleks">Genesis of the Daleks</a></div>
+              </td>
+              <td style="text-align: center">
+                <div class="checkTheBox">
+                  <input type="checkbox" value="1" id="story78" name="check" />
+                  <label for="story78"></label>
+                </div>
+              </td>
+            </tr>
+            <tr>
+              <td align="left">79</td>
+              <td align="left">
+                <div id="popup"><a href="https://en.wikipedia.org/wiki/Revenge_of_the_Cybermen">Revenge of the Cybermen</a></div>
+              </td>
+              <td style="text-align: center">
+                <div class="checkTheBox">
+                  <input type="checkbox" value="1" id="story79" name="check" />
+                  <label for="story79"></label>
+                </div>
+              </td>
+            </tr>
+          </table>
+          <div style="padding: 13px">&nbsp;</div>
+        </div>
+      </div>
+
+
+      <div class="expandable-panel" id="cp-13">
+        <div class="expandable-panel-heading">
+          <h2>Season 13 (1975–76) <span class="icon-close-open"></span></h2>
+        </div>
+        <div class="expandable-panel-content">
+          <table style="border: 0px;">
+            <thead>
+              <tr>
+                <th style="text-align: left">Story</th>
+                <th style="text-align: left">Title</th>
+                <th style="text-align: left">Seen
+                  <br/>It?</th>
+              </tr>
+            </thead>
+            <tr>
+              <td align="left">80</td>
+              <td align="left">
+                <div id="popup"><a href="https://en.wikipedia.org/wiki/Terror_of_the_Zygons">Terror of the Zygons</a></div>
+              </td>
+              <td style="text-align: center">
+                <div class="checkTheBox">
+                  <input type="checkbox" value="1" id="story80" name="check" />
+                  <label for="story80"></label>
+                </div>
+              </td>
+            </tr>
+            <tr>
+              <td align="left">81</td>
+              <td align="left">
+                <div id="popup"><a href="https://en.wikipedia.org/wiki/Planet_of_Evil">Planet of Evil</a></div>
+              </td>
+              <td style="text-align: center">
+                <div class="checkTheBox">
+                  <input type="checkbox" value="1" id="story81" name="check" />
+                  <label for="story81"></label>
+                </div>
+              </td>
+            </tr>
+            <tr>
+              <td align="left">82</td>
+              <td align="left">
+                <div id="popup"><a href="https://en.wikipedia.org/wiki/Pyramids_of_Mars">Pyramids of Mars</a></div>
+              </td>
+              <td style="text-align: center">
+                <div class="checkTheBox">
+                  <input type="checkbox" value="1" id="story82" name="check" />
+                  <label for="story82"></label>
+                </div>
+              </td>
+            </tr>
+            <tr>
+              <td align="left">83</td>
+              <td align="left">
+                <div id="popup"><a href="https://en.wikipedia.org/wiki/The_Android_Invasion">The Android Invasion</a></div>
+              </td>
+              <td style="text-align: center">
+                <div class="checkTheBox">
+                  <input type="checkbox" value="1" id="story83" name="check" />
+                  <label for="story83"></label>
+                </div>
+              </td>
+            </tr>
+            <tr>
+              <td align="left">84</td>
+              <td align="left">
+                <div id="popup"><a href="https://en.wikipedia.org/wiki/The_Brain_of_Morbius">The Brain of Morbius</a></div>
+              </td>
+              <td style="text-align: center">
+                <div class="checkTheBox">
+                  <input type="checkbox" value="1" id="story84" name="check" />
+                  <label for="story84"></label>
+                </div>
+              </td>
+            </tr>
+            <tr>
+              <td align="left">85</td>
+              <td align="left">
+                <div id="popup"><a href="https://en.wikipedia.org/wiki/The_Seeds_of_Doom">The Seeds of Doom</a></div>
+              </td>
+              <td style="text-align: center">
+                <div class="checkTheBox">
+                  <input type="checkbox" value="1" id="story85" name="check" />
+                  <label for="story85"></label>
+                </div>
+              </td>
+            </tr>
+          </table>
+          <div style="padding: 13px">&nbsp;</div>
+        </div>
+      </div>
+
+
+      <div class="expandable-panel" id="cp-14">
+        <div class="expandable-panel-heading">
+          <h2>Season 14 (1976–77) <span class="icon-close-open"></span></h2>
+        </div>
+        <div class="expandable-panel-content">
+          <table style="border: 0px;">
+            <thead>
+              <tr>
+                <th style="text-align: left">Story</th>
+                <th style="text-align: left">Title</th>
+                <th style="text-align: left">Seen
+                  <br/>It?</th>
+              </tr>
+            </thead>
+            <tr>
+              <td align="left">86</td>
+              <td align="left">
+                <div id="popup"><a href="https://en.wikipedia.org/wiki/The_Masque_of_Mandragora">The Masque of Mandragora</a></div>
+              </td>
+              <td style="text-align: center">
+                <div class="checkTheBox">
+                  <input type="checkbox" value="1" id="story86" name="check" />
+                  <label for="story86"></label>
+                </div>
+              </td>
+            </tr>
+            <tr>
+              <td align="left">87</td>
+              <td align="left">
+                <div id="popup"><a href="https://en.wikipedia.org/wiki/The_Hand_of_Fear">The Hand of Fear</a></div>
+              </td>
+              <td style="text-align: center">
+                <div class="checkTheBox">
+                  <input type="checkbox" value="1" id="story87" name="check" />
+                  <label for="story87"></label>
+                </div>
+              </td>
+            </tr>
+            <tr>
+              <td align="left">88</td>
+              <td align="left">
+                <div id="popup"><a href="https://en.wikipedia.org/wiki/The_Deadly_Assassin">The Deadly Assassin</a></div>
+              </td>
+              <td style="text-align: center">
+                <div class="checkTheBox">
+                  <input type="checkbox" value="1" id="story88" name="check" />
+                  <label for="story88"></label>
+                </div>
+              </td>
+            </tr>
+            <tr>
+              <td align="left">89</td>
+              <td align="left">
+                <div id="popup"><a href="https://en.wikipedia.org/wiki/The_Face_of_Evil">The Face of Evil</a></div>
+              </td>
+              <td style="text-align: center">
+                <div class="checkTheBox">
+                  <input type="checkbox" value="1" id="story89" name="check" />
+                  <label for="story89"></label>
+                </div>
+              </td>
+            </tr>
+            <tr>
+              <td align="left">90</td>
+              <td align="left">
+                <div id="popup"><a href="https://en.wikipedia.org/wiki/The_Robots_of_Death">The Robots of Death</a></div>
+              </td>
+              <td style="text-align: center">
+                <div class="checkTheBox">
+                  <input type="checkbox" value="1" id="story90" name="check" />
+                  <label for="story90"></label>
+                </div>
+              </td>
+            </tr>
+            <tr>
+              <td align="left">91</td>
+              <td align="left">
+                <div id="popup"><a href="https://en.wikipedia.org/wiki/The_Talons_of_Weng-Chiang">The Talons of Weng-Chiang</a></div>
+              </td>
+              <td style="text-align: center">
+                <div class="checkTheBox">
+                  <input type="checkbox" value="1" id="story91" name="check" />
+                  <label for="story91"></label>
+                </div>
+              </td>
+            </tr>
+          </table>
+          <div style="padding: 13px">&nbsp;</div>
+        </div>
+      </div>
+
+
+      <div class="expandable-panel" id="cp-15">
+        <div class="expandable-panel-heading">
+          <h2>Season 15 (1977–78) <span class="icon-close-open"></span></h2>
+        </div>
+        <div class="expandable-panel-content">
+          <table style="border: 0px;">
+            <thead>
+              <tr>
+                <th style="text-align: left">Story</th>
+                <th style="text-align: left">Title</th>
+                <th style="text-align: left">Seen
+                  <br/>It?</th>
+              </tr>
+            </thead>
+            <tr>
+              <td align="left">92</td>
+              <td align="left">
+                <div id="popup"><a href="https://en.wikipedia.org/wiki/Horror_of_Fang_Rock">Horror of Fang Rock</a></div>
+              </td>
+              <td style="text-align: center">
+                <div class="checkTheBox">
+                  <input type="checkbox" value="1" id="story92" name="check" />
+                  <label for="story92"></label>
+                </div>
+              </td>
+            </tr>
+            <tr>
+              <td align="left">93</td>
+              <td align="left">
+                <div id="popup"><a href="https://en.wikipedia.org/wiki/The_Invisible_Enemy_%28Doctor_Who%29">The Invisible Enemy</a></div>
+              </td>
+              <td style="text-align: center">
+                <div class="checkTheBox">
+                  <input type="checkbox" value="1" id="story93" name="check" />
+                  <label for="story93"></label>
+                </div>
+              </td>
+            </tr>
+            <tr>
+              <td align="left">94</td>
+              <td align="left">
+                <div id="popup"><a href="https://en.wikipedia.org/wiki/Image_of_the_Fendahl">Image of the Fendahl</a></div>
+              </td>
+              <td style="text-align: center">
+                <div class="checkTheBox">
+                  <input type="checkbox" value="1" id="story94" name="check" />
+                  <label for="story94"></label>
+                </div>
+              </td>
+            </tr>
+            <tr>
+              <td align="left">95</td>
+              <td align="left">
+                <div id="popup"><a href="https://en.wikipedia.org/wiki/The_Sun_Makers">The Sun Makers</a></div>
+              </td>
+              <td style="text-align: center">
+                <div class="checkTheBox">
+                  <input type="checkbox" value="1" id="story95" name="check" />
+                  <label for="story95"></label>
+                </div>
+              </td>
+            </tr>
+            <tr>
+              <td align="left">96</td>
+              <td align="left">
+                <div id="popup"><a href="https://en.wikipedia.org/wiki/Underworld_%28Doctor_Who%29">Underworld</a></div>
+              </td>
+              <td style="text-align: center">
+                <div class="checkTheBox">
+                  <input type="checkbox" value="1" id="story96" name="check" />
+                  <label for="story96"></label>
+                </div>
+              </td>
+            </tr>
+            <tr>
+              <td align="left">97</td>
+              <td align="left">
+                <div id="popup"><a href="https://en.wikipedia.org/wiki/The_Invasion_of_Time">The Invasion of Time</a></div>
+              </td>
+              <td style="text-align: center">
+                <div class="checkTheBox">
+                  <input type="checkbox" value="1" id="story97" name="check" />
+                  <label for="story97"></label>
+                </div>
+              </td>
+            </tr>
+          </table>
+          <div style="padding: 13px">&nbsp;</div>
+        </div>
+      </div>
+
+
+      <div class="expandable-panel" id="cp-16">
+        <div class="expandable-panel-heading">
+          <h2>Season 16 (1978–79) <span class="icon-close-open"></span></h2>
+        </div>
+        <div class="expandable-panel-content">
+          <table style="border: 0px;">
+            <thead>
+              <tr>
+                <th style="text-align: left">Story</th>
+                <th style="text-align: left">Title</th>
+                <th style="text-align: left">Seen
+                  <br/>It?</th>
+              </tr>
+            </thead>
+            <tr>
+              <td align="left">98</td>
+              <td align="left">
+                <div id="popup"><a href="https://en.wikipedia.org/wiki/The_Ribos_Operation">The Ribos Operation</a></div>
+              </td>
+              <td style="text-align: center">
+                <div class="checkTheBox">
+                  <input type="checkbox" value="1" id="story98" name="check" />
+                  <label for="story98"></label>
+                </div>
+              </td>
+            </tr>
+            <tr>
+              <td align="left">99</td>
+              <td align="left">
+                <div id="popup"><a href="https://en.wikipedia.org/wiki/The_Pirate_Planet">The Pirate Planet</a></div>
+              </td>
+              <td style="text-align: center">
+                <div class="checkTheBox">
+                  <input type="checkbox" value="1" id="story99" name="check" />
+                  <label for="story99"></label>
+                </div>
+              </td>
+            </tr>
+            <tr>
+              <td align="left">100</td>
+              <td align="left">
+                <div id="popup"><a href="https://en.wikipedia.org/wiki/The_Stones_of_Blood">The Stones of Blood</a></div>
+              </td>
+              <td style="text-align: center">
+                <div class="checkTheBox">
+                  <input type="checkbox" value="1" id="story100" name="check" />
+                  <label for="story100"></label>
+                </div>
+              </td>
+            </tr>
+            <tr>
+              <td align="left">101</td>
+              <td align="left">
+                <div id="popup"><a href="https://en.wikipedia.org/wiki/The_Androids_of_Tara">The Androids of Tara</a></div>
+              </td>
+              <td style="text-align: center">
+                <div class="checkTheBox">
+                  <input type="checkbox" value="1" id="story101" name="check" />
+                  <label for="story101"></label>
+                </div>
+              </td>
+            </tr>
+            <tr>
+              <td align="left">102</td>
+              <td align="left">
+                <div id="popup"><a href="https://en.wikipedia.org/wiki/The_Power_of_Kroll">The Power of Kroll</a></div>
+              </td>
+              <td style="text-align: center">
+                <div class="checkTheBox">
+                  <input type="checkbox" value="1" id="story102" name="check" />
+                  <label for="story102"></label>
+                </div>
+              </td>
+            </tr>
+            <tr>
+              <td align="left">103</td>
+              <td align="left">
+                <div id="popup"><a href="https://en.wikipedia.org/wiki/The_Armageddon_Factor">The Armageddon Factor</a></div>
+              </td>
+              <td style="text-align: center">
+                <div class="checkTheBox">
+                  <input type="checkbox" value="1" id="story103" name="check" />
+                  <label for="story103"></label>
+                </div>
+              </td>
+            </tr>
+          </table>
+          <div style="padding: 13px">&nbsp;</div>
+        </div>
+      </div>
+
+
+      <div class="expandable-panel" id="cp-17">
+        <div class="expandable-panel-heading">
+          <h2>Season 17 (1979–80) <span class="icon-close-open"></span></h2>
+        </div>
+        <div class="expandable-panel-content">
+          <table style="border: 0px;">
+            <thead>
+              <tr>
+                <th style="text-align: left">Story</th>
+                <th style="text-align: left">Title</th>
+                <th style="text-align: left">Seen
+                  <br/>It?</th>
+              </tr>
+            </thead>
+            <tr>
+              <td align="left">104</td>
+              <td align="left">
+                <div id="popup"><a href="https://en.wikipedia.org/wiki/Destiny_of_the_Daleks">Destiny of the Daleks</a></div>
+              </td>
+              <td style="text-align: center">
+                <div class="checkTheBox">
+                  <input type="checkbox" value="1" id="story104" name="check" />
+                  <label for="story104"></label>
+                </div>
+              </td>
+            </tr>
+            <tr>
+              <td align="left">105</td>
+              <td align="left">
+                <div id="popup"><a href="https://en.wikipedia.org/wiki/City_of_Death">City of Death</a></div>
+              </td>
+              <td style="text-align: center">
+                <div class="checkTheBox">
+                  <input type="checkbox" value="1" id="story105" name="check" />
+                  <label for="story105"></label>
+                </div>
+              </td>
+            </tr>
+            <tr>
+              <td align="left">106</td>
+              <td align="left">
+                <div id="popup"><a href="https://en.wikipedia.org/wiki/The_Creature_from_the_Pit">The Creature from the Pit</a></div>
+              </td>
+              <td style="text-align: center">
+                <div class="checkTheBox">
+                  <input type="checkbox" value="1" id="story106" name="check" />
+                  <label for="story106"></label>
+                </div>
+              </td>
+            </tr>
+            <tr>
+              <td align="left">107</td>
+              <td align="left">
+                <div id="popup"><a href="https://en.wikipedia.org/wiki/Nightmare_of_Eden">Nightmare of Eden</a></div>
+              </td>
+              <td style="text-align: center">
+                <div class="checkTheBox">
+                  <input type="checkbox" value="1" id="story107" name="check" />
+                  <label for="story107"></label>
+                </div>
+              </td>
+            </tr>
+            <tr>
+              <td align="left">108</td>
+              <td align="left">
+                <div id="popup"><a href="https://en.wikipedia.org/wiki/The_Horns_of_Nimon">The Horns of Nimon</a></div>
+              </td>
+              <td style="text-align: center">
+                <div class="checkTheBox">
+                  <input type="checkbox" value="1" id="story108" name="check" />
+                  <label for="story108"></label>
+                </div>
+              </td>
+            </tr>
+          </table>
+          <div style="padding: 13px">&nbsp;</div>
+        </div>
+      </div>
+
+
+      <div class="expandable-panel" id="cp-18">
+        <div class="expandable-panel-heading">
+          <h2>Season 18 (1980–81) <span class="icon-close-open"></span></h2>
+        </div>
+        <div class="expandable-panel-content">
+          <table style="border: 0px;">
+            <thead>
+              <tr>
+                <th style="text-align: left">Story</th>
+                <th style="text-align: left">Title</th>
+                <th style="text-align: left">Seen
+                  <br/>It?</th>
+              </tr>
+            </thead>
+            <tr>
+              <td align="left">109</td>
+              <td align="left">
+                <div id="popup"><a href="https://en.wikipedia.org/wiki/The_Leisure_Hive">The Leisure Hive</a></div>
+              </td>
+              <td style="text-align: center">
+                <div class="checkTheBox">
+                  <input type="checkbox" value="1" id="story109" name="check" />
+                  <label for="story109"></label>
+                </div>
+              </td>
+            </tr>
+            <tr>
+              <td align="left">110</td>
+              <td align="left">
+                <div id="popup"><a href="https://en.wikipedia.org/wiki/Meglos">Meglos</a></div>
+              </td>
+              <td style="text-align: center">
+                <div class="checkTheBox">
+                  <input type="checkbox" value="1" id="story110" name="check" />
+                  <label for="story110"></label>
+                </div>
+              </td>
+            </tr>
+            <tr>
+              <td align="left">111</td>
+              <td align="left">
+                <div id="popup"><a href="https://en.wikipedia.org/wiki/Full_Circle_%28Doctor_Who%29">Full Circle</a></div>
+              </td>
+              <td style="text-align: center">
+                <div class="checkTheBox">
+                  <input type="checkbox" value="1" id="story111" name="check" />
+                  <label for="story111"></label>
+                </div>
+              </td>
+            </tr>
+            <tr>
+              <td align="left">112</td>
+              <td align="left">
+                <div id="popup"><a href="https://en.wikipedia.org/wiki/State_of_Decay">State of Decay</a></div>
+              </td>
+              <td style="text-align: center">
+                <div class="checkTheBox">
+                  <input type="checkbox" value="1" id="story112" name="check" />
+                  <label for="story112"></label>
+                </div>
+              </td>
+            </tr>
+            <tr>
+              <td align="left">113</td>
+              <td align="left">
+                <div id="popup"><a href="https://en.wikipedia.org/wiki/Warriors%27_Gate">Warriors' Gate</a></div>
+              </td>
+              <td style="text-align: center">
+                <div class="checkTheBox">
+                  <input type="checkbox" value="1" id="story113" name="check" />
+                  <label for="story113"></label>
+                </div>
+              </td>
+            </tr>
+            <tr>
+              <td align="left">114</td>
+              <td align="left">
+                <div id="popup"><a href="https://en.wikipedia.org/wiki/The_Keeper_of_Traken">The Keeper of Traken</a></div>
+              </td>
+              <td style="text-align: center">
+                <div class="checkTheBox">
+                  <input type="checkbox" value="1" id="story114" name="check" />
+                  <label for="story114"></label>
+                </div>
+              </td>
+            </tr>
+            <tr>
+              <td align="left">115</td>
+              <td align="left">
+                <div id="popup"><a href="https://en.wikipedia.org/wiki/Logopolis">Logopolis</a></div>
+              </td>
+              <td style="text-align: center">
+                <div class="checkTheBox">
+                  <input type="checkbox" value="1" id="story115" name="check" />
+                  <label for="story115"></label>
+                </div>
+              </td>
+            </tr>
+          </table>
+          <div style="padding: 13px">&nbsp;</div>
+        </div>
+      </div>
+
+
+      <div class="expandable-panel" id="cp-19">
+        <div class="expandable-panel-heading">
+          <h2>Season 19 (1982) <span class="icon-close-open"></span></h2>
+        </div>
+        <div class="expandable-panel-content">
+          <table style="border: 0px;">
+            <thead>
+              <tr>
+                <th style="text-align: left">Story</th>
+                <th style="text-align: left">Title</th>
+                <th style="text-align: left">Seen
+                  <br/>It?</th>
+              </tr>
+            </thead>
+            <tr>
+              <td align="left">116</td>
+              <td align="left">
+                <div id="popup"><a href="https://en.wikipedia.org/wiki/Castrovalva_%28Doctor_Who%29">Castrovalva</a></div>
+              </td>
+              <td style="text-align: center">
+                <div class="checkTheBox">
+                  <input type="checkbox" value="1" id="story116" name="check" />
+                  <label for="story116"></label>
+                </div>
+              </td>
+            </tr>
+            <tr>
+              <td align="left">117</td>
+              <td align="left">
+                <div id="popup"><a href="https://en.wikipedia.org/wiki/Four_to_Doomsday">Four to Doomsday</a></div>
+              </td>
+              <td style="text-align: center">
+                <div class="checkTheBox">
+                  <input type="checkbox" value="1" id="story117" name="check" />
+                  <label for="story117"></label>
+                </div>
+              </td>
+            </tr>
+            <tr>
+              <td align="left">118</td>
+              <td align="left">
+                <div id="popup"><a href="https://en.wikipedia.org/wiki/Kinda_%28Doctor_Who%29">Kinda</a></div>
+              </td>
+              <td style="text-align: center">
+                <div class="checkTheBox">
+                  <input type="checkbox" value="1" id="story118" name="check" />
+                  <label for="story118"></label>
+                </div>
+              </td>
+            </tr>
+            <tr>
+              <td align="left">119</td>
+              <td align="left">
+                <div id="popup"><a href="https://en.wikipedia.org/wiki/The_Visitation_%28Doctor_Who%29">The Visitation</a></div>
+              </td>
+              <td style="text-align: center">
+                <div class="checkTheBox">
+                  <input type="checkbox" value="1" id="story119" name="check" />
+                  <label for="story119"></label>
+                </div>
+              </td>
+            </tr>
+            <tr>
+              <td align="left">120</td>
+              <td align="left">
+                <div id="popup"><a href="https://en.wikipedia.org/wiki/Black_Orchid_%28Doctor_Who%29">Black Orchid</a></div>
+              </td>
+              <td style="text-align: center">
+                <div class="checkTheBox">
+                  <input type="checkbox" value="1" id="story120" name="check" />
+                  <label for="story120"></label>
+                </div>
+              </td>
+            </tr>
+            <tr>
+              <td align="left">121</td>
+              <td align="left">
+                <div id="popup"><a href="https://en.wikipedia.org/wiki/Earthshock">Earthshock</a></div>
+              </td>
+              <td style="text-align: center">
+                <div class="checkTheBox">
+                  <input type="checkbox" value="1" id="story121" name="check" />
+                  <label for="story121"></label>
+                </div>
+              </td>
+            </tr>
+            <tr>
+              <td align="left">122</td>
+              <td align="left">
+                <div id="popup"><a href="https://en.wikipedia.org/wiki/Time-Flight">Time-Flight</a></div>
+              </td>
+              <td style="text-align: center">
+                <div class="checkTheBox">
+                  <input type="checkbox" value="1" id="story122" name="check" />
+                  <label for="story122"></label>
+                </div>
+              </td>
+            </tr>
+          </table>
+          <div style="padding: 13px">&nbsp;</div>
+        </div>
+      </div>
+
+
+      <div class="expandable-panel" id="cp-20">
+        <div class="expandable-panel-heading">
+          <h2>Season 20 (1983)<span class="icon-close-open"></span></h2>
+        </div>
+        <div class="expandable-panel-content">
+          <table style="border: 0px;">
+            <thead>
+              <tr>
+                <th style="text-align: left">Story</th>
+                <th style="text-align: left">Title</th>
+                <th style="text-align: left">Seen
+                  <br/>It?</th>
+              </tr>
+            </thead>
+            <tr>
+              <td align="left">123</td>
+              <td align="left">
+                <div id="popup"><a href="https://en.wikipedia.org/wiki/Arc_of_Infinity">Arc of Infinity</a></div>
+              </td>
+              <td style="text-align: center">
+                <div class="checkTheBox">
+                  <input type="checkbox" value="1" id="story123" name="check" />
+                  <label for="story123"></label>
+                </div>
+              </td>
+            </tr>
+            <tr>
+              <td align="left">124</td>
+              <td align="left">
+                <div id="popup"><a href="https://en.wikipedia.org/wiki/Snakedance">Snakedance</a></div>
+              </td>
+              <td style="text-align: center">
+                <div class="checkTheBox">
+                  <input type="checkbox" value="1" id="story124" name="check" />
+                  <label for="story124"></label>
+                </div>
+              </td>
+            </tr>
+            <tr>
+              <td align="left">125</td>
+              <td align="left">
+                <div id="popup"><a href="https://en.wikipedia.org/wiki/Mawdryn_Undead">Mawdryn Undead</a></div>
+              </td>
+              <td style="text-align: center">
+                <div class="checkTheBox">
+                  <input type="checkbox" value="1" id="story125" name="check" />
+                  <label for="story125"></label>
+                </div>
+              </td>
+            </tr>
+            <tr>
+              <td align="left">126</td>
+              <td align="left">
+                <div id="popup"><a href="https://en.wikipedia.org/wiki/Terminus_%28Doctor_Who%29">Terminus</a></div>
+              </td>
+              <td style="text-align: center">
+                <div class="checkTheBox">
+                  <input type="checkbox" value="1" id="story126" name="check" />
+                  <label for="story126"></label>
+                </div>
+              </td>
+            </tr>
+            <tr>
+              <td align="left">127</td>
+              <td align="left">
+                <div id="popup"><a href="https://en.wikipedia.org/wiki/Enlightenment_%28Doctor_Who%29">Enlightenment</a></div>
+              </td>
+              <td style="text-align: center">
+                <div class="checkTheBox">
+                  <input type="checkbox" value="1" id="story127" name="check" />
+                  <label for="story127"></label>
+                </div>
+              </td>
+            </tr>
+            <tr>
+              <td align="left">128</td>
+              <td align="left">
+                <div id="popup"><a href="https://en.wikipedia.org/wiki/The_King%27s_Demons">The King's Demons</a></div>
+              </td>
+              <td style="text-align: center">
+                <div class="checkTheBox">
+                  <input type="checkbox" value="1" id="story128" name="check" />
+                  <label for="story128"></label>
+                </div>
+              </td>
+            </tr>
+            <tr>
+              <td align="left">129</td>
+              <td align="left">
+                <div id="popup"><a href="https://en.wikipedia.org/wiki/The_Five_Doctors">The Five Doctors</a></div>
+              </td>
+              <td style="text-align: center">
+                <div class="checkTheBox">
+                  <input type="checkbox" value="1" id="story129" name="check" />
+                  <label for="story129"></label>
+                </div>
+              </td>
+            </tr>
+          </table>
+          <div style="padding: 13px">&nbsp;</div>
+        </div>
+      </div>
+
+
+      <div class="expandable-panel" id="cp-21">
+        <div class="expandable-panel-heading">
+          <h2>Season 21 (1984)<span class="icon-close-open"></span></h2>
+        </div>
+        <div class="expandable-panel-content">
+          <table style="border: 0px;">
+            <thead>
+              <tr>
+                <th style="text-align: left">Story</th>
+                <th style="text-align: left">Title</th>
+                <th style="text-align: left">Seen
+                  <br/>It?</th>
+              </tr>
+            </thead>
+            <tr>
+              <td align="left">130</td>
+              <td align="left">
+                <div id="popup"><a href="https://en.wikipedia.org/wiki/Warriors_of_the_Deep">Warriors of the Deep</a></div>
+              </td>
+              <td style="text-align: center">
+                <div class="checkTheBox">
+                  <input type="checkbox" value="1" id="story130" name="check" />
+                  <label for="story130"></label>
+                </div>
+              </td>
+            </tr>
+            <tr>
+              <td align="left">131</td>
+              <td align="left">
+                <div id="popup"><a href="https://en.wikipedia.org/wiki/The_Awakening_%28Doctor_Who%29">The Awakening</a></div>
+              </td>
+              <td style="text-align: center">
+                <div class="checkTheBox">
+                  <input type="checkbox" value="1" id="story131" name="check" />
+                  <label for="story131"></label>
+                </div>
+              </td>
+            </tr>
+            <tr>
+              <td align="left">132</td>
+              <td align="left">
+                <div id="popup"><a href="https://en.wikipedia.org/wiki/Frontios">Frontios</a></div>
+              </td>
+              <td style="text-align: center">
+                <div class="checkTheBox">
+                  <input type="checkbox" value="1" id="story132" name="check" />
+                  <label for="story132"></label>
+                </div>
+              </td>
+            </tr>
+            <tr>
+              <td align="left">133</td>
+              <td align="left">
+                <div id="popup"><a href="https://en.wikipedia.org/wiki/Resurrection_of_the_Daleks">Resurrection of the Daleks</a></div>
+              </td>
+              <td style="text-align: center">
+                <div class="checkTheBox">
+                  <input type="checkbox" value="1" id="story133" name="check" />
+                  <label for="story133"></label>
+                </div>
+              </td>
+            </tr>
+            <tr>
+              <td align="left">134</td>
+              <td align="left">
+                <div id="popup"><a href="https://en.wikipedia.org/wiki/Planet_of_Fire">Planet of Fire</a></div>
+              </td>
+              <td style="text-align: center">
+                <div class="checkTheBox">
+                  <input type="checkbox" value="1" id="story134" name="check" />
+                  <label for="story134"></label>
+                </div>
+              </td>
+            </tr>
+            <tr>
+              <td align="left">135</td>
+              <td align="left">
+                <div id="popup"><a href="https://en.wikipedia.org/wiki/The_Caves_of_Androzani">The Caves of Androzani</a></div>
+              </td>
+              <td style="text-align: center">
+                <div class="checkTheBox">
+                  <input type="checkbox" value="1" id="story135" name="check" />
+                  <label for="story135"></label>
+                </div>
+              </td>
+            </tr>
+            <tr>
+              <td align="left">136</td>
+              <td align="left">
+                <div id="popup"><a href="https://en.wikipedia.org/wiki/The_Twin_Dilemma">The Twin Dilemma</a></div>
+              </td>
+              <td style="text-align: center">
+                <div class="checkTheBox">
+                  <input type="checkbox" value="1" id="story136" name="check" />
+                  <label for="story136"></label>
+                </div>
+              </td>
+            </tr>
+          </table>
+          <div style="padding: 13px">&nbsp;</div>
+        </div>
+      </div>
+
+
+      <div class="expandable-panel" id="cp-22">
+        <div class="expandable-panel-heading">
+          <h2>Season 22 (1985)<span class="icon-close-open"></span></h2>
+        </div>
+        <div class="expandable-panel-content">
+          <table style="border: 0px;">
+            <thead>
+              <tr>
+                <th style="text-align: left">Story</th>
+                <th style="text-align: left">Title</th>
+                <th style="text-align: left">Seen
+                  <br/>It?</th>
+              </tr>
+            </thead>
+            <tr>
+              <td align="left">137</td>
+              <td align="left">
+                <div id="popup"><a href="https://en.wikipedia.org/wiki/Attack_of_the_Cybermen">Attack of the Cybermen</a></div>
+              </td>
+              <td style="text-align: center">
+                <div class="checkTheBox">
+                  <input type="checkbox" value="1" id="story137" name="check" />
+                  <label for="story137"></label>
+                </div>
+              </td>
+            </tr>
+            <tr>
+              <td align="left">138</td>
+              <td align="left">
+                <div id="popup"><a href="https://en.wikipedia.org/wiki/Vengeance_on_Varos">Vengeance on Varos</a></div>
+              </td>
+              <td style="text-align: center">
+                <div class="checkTheBox">
+                  <input type="checkbox" value="1" id="story138" name="check" />
+                  <label for="story138"></label>
+                </div>
+              </td>
+            </tr>
+            <tr>
+              <td align="left">139</td>
+              <td align="left">
+                <div id="popup"><a href="https://en.wikipedia.org/wiki/The_Mark_of_the_Rani">The Mark of the Rani</a></div>
+              </td>
+              <td style="text-align: center">
+                <div class="checkTheBox">
+                  <input type="checkbox" value="1" id="story139" name="check" />
+                  <label for="story139"></label>
+                </div>
+              </td>
+            </tr>
+            <tr>
+              <td align="left">140</td>
+              <td align="left">
+                <div id="popup"><a href="https://en.wikipedia.org/wiki/The_Two_Doctors">The Two Doctors</a></div>
+              </td>
+              <td style="text-align: center">
+                <div class="checkTheBox">
+                  <input type="checkbox" value="1" id="story140" name="check" />
+                  <label for="story140"></label>
+                </div>
+              </td>
+            </tr>
+            <tr>
+              <td align="left">141</td>
+              <td align="left">
+                <div id="popup"><a href="https://en.wikipedia.org/wiki/Timelash">Timelash</a></div>
+              </td>
+              <td style="text-align: center">
+                <div class="checkTheBox">
+                  <input type="checkbox" value="1" id="story141" name="check" />
+                  <label for="story141"></label>
+                </div>
+              </td>
+            </tr>
+            <tr>
+              <td align="left">142</td>
+              <td align="left">
+                <div id="popup"><a href="https://en.wikipedia.org/wiki/Revelation_of_the_Daleks">Revelation of the Daleks</a></div>
+              </td>
+              <td style="text-align: center">
+                <div class="checkTheBox">
+                  <input type="checkbox" value="1" id="story142" name="check" />
+                  <label for="story142"></label>
+                </div>
+              </td>
+            </tr>
+          </table>
+          <div style="padding: 13px">&nbsp;</div>
+        </div>
+      </div>
+
+
+      <div class="expandable-panel" id="cp-23">
+        <div class="expandable-panel-heading">
+          <h2>Season 23 (1986)<span class="icon-close-open"></span></h2>
+        </div>
+        <div class="expandable-panel-content">
+          <table style="border: 0px;">
+            <thead>
+              <tr>
+                <th style="text-align: left">Story</th>
+                <th style="text-align: left">Title</th>
+                <th style="text-align: left">Seen
+                  <br/>It?</th>
+              </tr>
+            </thead>
+            <tr>
+              <td align="left">143</td>
+              <td align="left">
+                <div id="popup"><a href="https://en.wikipedia.org/wiki/The_Trial_of_a_Time_Lord">The Trial of a Time Lord</a></div>
+              </td>
+              <td style="text-align: center">
+                <div class="checkTheBox">
+                  <input type="checkbox" value="1" id="story143" name="check" />
+                  <label for="story143"></label>
+                </div>
+              </td>
+            </tr>
+          </table>
+          <div style="padding: 13px">&nbsp;</div>
+        </div>
+      </div>
+
+
+      <div class="expandable-panel" id="cp-24">
+        <div class="expandable-panel-heading">
+          <h2>Season 24 (1987)<span class="icon-close-open"></span></h2>
+        </div>
+        <div class="expandable-panel-content">
+          <table style="border: 0px;">
+            <thead>
+              <tr>
+                <th style="text-align: left">Story</th>
+                <th style="text-align: left">Title</th>
+                <th style="text-align: left">Seen
+                  <br/>It?</th>
+              </tr>
+            </thead>
+            <tr>
+              <td align="left">144</td>
+              <td align="left">
+                <div id="popup"><a href="https://en.wikipedia.org/wiki/Time_and_the_Rani">Time and the Rani</a></div>
+              </td>
+              <td style="text-align: center">
+                <div class="checkTheBox">
+                  <input type="checkbox" value="1" id="story144" name="check" />
+                  <label for="story144"></label>
+                </div>
+              </td>
+            </tr>
+            <tr>
+              <td align="left">145</td>
+              <td align="left">
+                <div id="popup"><a href="https://en.wikipedia.org/wiki/Paradise_Towers">Paradise Towers</a></div>
+              </td>
+              <td style="text-align: center">
+                <div class="checkTheBox">
+                  <input type="checkbox" value="1" id="story145" name="check" />
+                  <label for="story145"></label>
+                </div>
+              </td>
+            </tr>
+            <tr>
+              <td align="left">146</td>
+              <td align="left">
+                <div id="popup"><a href="https://en.wikipedia.org/wiki/Delta_and_the_Bannermen">Delta and the Bannermen</a></div>
+              </td>
+              <td style="text-align: center">
+                <div class="checkTheBox">
+                  <input type="checkbox" value="1" id="story146" name="check" />
+                  <label for="story146"></label>
+                </div>
+              </td>
+            </tr>
+            <tr>
+              <td align="left">147</td>
+              <td align="left">
+                <div id="popup"><a href="https://en.wikipedia.org/wiki/Dragonfire_%28Doctor_Who%29">Dragonfire</a></div>
+              </td>
+              <td style="text-align: center">
+                <div class="checkTheBox">
+                  <input type="checkbox" value="1" id="story147" name="check" />
+                  <label for="story147"></label>
+                </div>
+              </td>
+            </tr>
+          </table>
+          <div style="padding: 13px">&nbsp;</div>
+        </div>
+      </div>
+
+
+      <div class="expandable-panel" id="cp-25">
+        <div class="expandable-panel-heading">
+          <h2>Season 25 (1988–89)<span class="icon-close-open"></span></h2>
+        </div>
+        <div class="expandable-panel-content">
+          <table style="border: 0px;">
+            <thead>
+              <tr>
+                <th style="text-align: left">Story</th>
+                <th style="text-align: left">Title</th>
+                <th style="text-align: left">Seen
+                  <br/>It?</th>
+              </tr>
+            </thead>
+            <tr>
+              <td align="left">148</td>
+              <td align="left">
+                <div id="popup"><a href="https://en.wikipedia.org/wiki/Remembrance_of_the_Daleks">Remembrance of the Daleks</a></div>
+              </td>
+              <td style="text-align: center">
+                <div class="checkTheBox">
+                  <input type="checkbox" value="1" id="story148" name="check" />
+                  <label for="story148"></label>
+                </div>
+              </td>
+            </tr>
+            <tr>
+              <td align="left">149</td>
+              <td align="left">
+                <div id="popup"><a href="https://en.wikipedia.org/wiki/The_Happiness_Patrol">The Happiness Patrol</a></div>
+              </td>
+              <td style="text-align: center">
+                <div class="checkTheBox">
+                  <input type="checkbox" value="1" id="story149" name="check" />
+                  <label for="story149"></label>
+                </div>
+              </td>
+            </tr>
+            <tr>
+              <td align="left">150</td>
+              <td align="left">
+                <div id="popup"><a href="https://en.wikipedia.org/wiki/Silver_Nemesis">Silver Nemesis</a></div>
+              </td>
+              <td style="text-align: center">
+                <div class="checkTheBox">
+                  <input type="checkbox" value="1" id="story150" name="check" />
+                  <label for="story150"></label>
+                </div>
+              </td>
+            </tr>
+            <tr>
+              <td align="left">151</td>
+              <td align="left">
+                <div id="popup"><a href="https://en.wikipedia.org/wiki/The_Greatest_Show_in_the_Galaxy">The Greatest Show in the Galaxy</a></div>
+              </td>
+              <td style="text-align: center">
+                <div class="checkTheBox">
+                  <input type="checkbox" value="1" id="story151" name="check" />
+                  <label for="story151"></label>
+                </div>
+              </td>
+            </tr>
+          </table>
+          <div style="padding: 13px">&nbsp;</div>
+        </div>
+      </div>
+
+
+      <div class="expandable-panel" id="cp-26">
+        <div class="expandable-panel-heading">
+          <h2>Season 26 (1989)<span class="icon-close-open"></span></h2>
+        </div>
+        <div class="expandable-panel-content">
+          <table style="border: 0px;">
+            <thead>
+              <tr>
+                <th style="text-align: left">Story</th>
+                <th style="text-align: left">Title</th>
+                <th style="text-align: left">Seen
+                  <br/>It?</th>
+              </tr>
+            </thead>
+            <tr>
+              <td align="left">152</td>
+              <td align="left">
+                <div id="popup"><a href="https://en.wikipedia.org/wiki/Battlefield_%28Doctor_Who%29">Battlefield</a></div>
+              </td>
+              <td style="text-align: center">
+                <div class="checkTheBox">
+                  <input type="checkbox" value="1" id="story152" name="check" />
+                  <label for="story152"></label>
+                </div>
+              </td>
+            </tr>
+            <tr>
+              <td align="left">153</td>
+              <td align="left">
+                <div id="popup"><a href="https://en.wikipedia.org/wiki/Ghost_Light_%28Doctor_Who%29">Ghost Light</a></div>
+              </td>
+              <td style="text-align: center">
+                <div class="checkTheBox">
+                  <input type="checkbox" value="1" id="story153" name="check" />
+                  <label for="story153"></label>
+                </div>
+              </td>
+            </tr>
+            <tr>
+              <td align="left">154</td>
+              <td align="left">
+                <div id="popup"><a href="https://en.wikipedia.org/wiki/The_Curse_of_Fenric">The Curse of Fenric</a></div>
+              </td>
+              <td style="text-align: center">
+                <div class="checkTheBox">
+                  <input type="checkbox" value="1" id="story154" name="check" />
+                  <label for="story154"></label>
+                </div>
+              </td>
+            </tr>
+            <tr>
+              <td align="left">155</td>
+              <td align="left">
+                <div id="popup"><a href="https://en.wikipedia.org/wiki/Survival_%28Doctor_Who%29">Survival</a></div>
+              </td>
+              <td style="text-align: center">
+                <div class="checkTheBox">
+                  <input type="checkbox" value="1" id="story155" name="check" />
+                  <label for="story155"></label>
+                </div>
+              </td>
+            </tr>
+          </table>
+          <div style="padding: 13px">&nbsp;</div>
+        </div>
+      </div>
+
+
+      <div class="expandable-panel" id="cp-27">
+        <div class="expandable-panel-heading">
+          <h2>Television movie (1996)<span class="icon-close-open"></span></h2>
+        </div>
+        <div class="expandable-panel-content">
+          <table style="border: 0px;">
+            <thead>
+              <tr>
+                <th style="text-align: left">Story</th>
+                <th style="text-align: left">Title</th>
+                <th style="text-align: left">Seen
+                  <br/>It?</th>
+              </tr>
+            </thead>
+            <tr>
+              <td align="left">156</td>
+              <td align="left">
+                <div id="popup"><a href="https://en.wikipedia.org/wiki/Doctor_Who_%28film%29">Doctor Who</a></div>
+              </td>
+              <td style="text-align: center">
+                <div class="checkTheBox">
+                  <input type="checkbox" value="1" id="story156" name="check" />
+                  <label for="story156"></label>
+                </div>
+              </td>
+            </tr>
+          </table>
+          <div style="padding: 13px">&nbsp;</div>
+        </div>
+      </div>
+
+
+      <div class="expandable-panel" id="cp-28">
+        <div class="expandable-panel-heading">
+          <h2>Series 1 (2005)<span class="icon-close-open"></span></h2>
+        </div>
+        <div class="expandable-panel-content">
+          <table style="border: 0px;">
+            <thead>
+              <tr>
+                <th style="text-align: left">Story</th>
+                <th style="text-align: left">Title</th>
+                <th style="text-align: left">Seen
+                  <br/>It?</th>
+              </tr>
+            </thead>
+            <tr>
+              <td align="left">157</td>
+              <td align="left">
+                <div id="popup"><a href="https://en.wikipedia.org/wiki/Rose_%28Doctor_Who%29">Rose</a></div>
+              </td>
+              <td style="text-align: center">
+                <div class="checkTheBox">
+                  <input type="checkbox" value="1" id="story157" name="check" />
+                  <label for="story157"></label>
+                </div>
+              </td>
+            </tr>
+            <tr>
+              <td align="left">158</td>
+              <td align="left">
+                <div id="popup"><a href="https://en.wikipedia.org/wiki/The_End_of_the_World_%28Doctor_Who%29">The End of the World</a></div>
+              </td>
+              <td style="text-align: center">
+                <div class="checkTheBox">
+                  <input type="checkbox" value="1" id="story158" name="check" />
+                  <label for="story158"></label>
+                </div>
+              </td>
+            </tr>
+            <tr>
+              <td align="left">159</td>
+              <td align="left">
+                <div id="popup"><a href="https://en.wikipedia.org/wiki/The_Unquiet_Dead">The Unquiet Dead</a></div>
+              </td>
+              <td style="text-align: center">
+                <div class="checkTheBox">
+                  <input type="checkbox" value="1" id="story159" name="check" />
+                  <label for="story159"></label>
+                </div>
+              </td>
+            </tr>
+            <tr>
+              <td align="left">160</td>
+              <td align="left">
+                <div id="popup"><a href="https://en.wikipedia.org/wiki/Aliens_of_London">Aliens of London</a></div>
+              </td>
+              <td style="text-align: center">
+                <div class="checkTheBox">
+                  <input type="checkbox" value="1" id="story160" name="check" />
+                  <label for="story160"></label>
+                </div>
+              </td>
+            </tr>
+            <tr>
+              <td align="left">161</td>
+              <td align="left">
+                <div id="popup"><a href="https://en.wikipedia.org/wiki/Dalek_%28Doctor_Who_episode%29">Dalek</a></div>
+              </td>
+              <td style="text-align: center">
+                <div class="checkTheBox">
+                  <input type="checkbox" value="1" id="story161" name="check" />
+                  <label for="story161"></label>
+                </div>
+              </td>
+            </tr>
+            <tr>
+              <td align="left">162</td>
+              <td align="left">
+                <div id="popup"><a href="https://en.wikipedia.org/wiki/The_Long_Game">The Long Game</a></div>
+              </td>
+              <td style="text-align: center">
+                <div class="checkTheBox">
+                  <input type="checkbox" value="1" id="story162" name="check" />
+                  <label for="story162"></label>
+                </div>
+              </td>
+            </tr>
+            <tr>
+              <td align="left">163</td>
+              <td align="left">
+                <div id="popup"><a href="https://en.wikipedia.org/wiki/Father%27s_Day_%28Doctor_Who%29">Father's Day</a></div>
+              </td>
+              <td style="text-align: center">
+                <div class="checkTheBox">
+                  <input type="checkbox" value="1" id="story163" name="check" />
+                  <label for="story163"></label>
+                </div>
+              </td>
+            </tr>
+            <tr>
+              <td align="left">164</td>
+              <td align="left">
+                <div id="popup"><a href="https://en.wikipedia.org/wiki/The_Empty_Child">The Empty Child</a></div>
+              </td>
+              <td style="text-align: center">
+                <div class="checkTheBox">
+                  <input type="checkbox" value="1" id="story164" name="check" />
+                  <label for="story164"></label>
+                </div>
+              </td>
+            </tr>
+            <tr>
+              <td align="left">165</td>
+              <td align="left">
+                <div id="popup"><a href="https://en.wikipedia.org/wiki/Boom_Town_%28Doctor_Who%29">Boom Town</a></div>
+              </td>
+              <td style="text-align: center">
+                <div class="checkTheBox">
+                  <input type="checkbox" value="1" id="story165" name="check" />
+                  <label for="story165"></label>
+                </div>
+              </td>
+            </tr>
+            <tr>
+              <td align="left">166</td>
+              <td align="left">
+                <div id="popup"><a href="https://en.wikipedia.org/wiki/Bad_Wolf">Bad Wolf</a></div>
+              </td>
+              <td style="text-align: center">
+                <div class="checkTheBox">
+                  <input type="checkbox" value="1" id="story166" name="check" />
+                  <label for="story166"></label>
+                </div>
+              </td>
+            </tr>
+          </table>
+          <div style="padding: 13px">&nbsp;</div>
+        </div>
+      </div>
+
+
+      <div class="expandable-panel" id="cp-29">
+        <div class="expandable-panel-heading">
+          <h2>Series 2 (2006)<span class="icon-close-open"></span></h2>
+        </div>
+        <div class="expandable-panel-content">
+          <table style="border: 0px;">
+            <thead>
+              <tr>
+                <th style="text-align: left">Story</th>
+                <th style="text-align: left">Title</th>
+                <th style="text-align: left">Seen
+                  <br/>It?</th>
+              </tr>
+            </thead>
+            <tr>
+              <td align="left">167</td>
+              <td align="left">
+                <div id="popup"><a href="https://en.wikipedia.org/wiki/The_Christmas_Invasion">The Christmas Invasion</a></div>
+              </td>
+              <td style="text-align: center">
+                <div class="checkTheBox">
+                  <input type="checkbox" value="1" id="story167" name="check" />
+                  <label for="story167"></label>
+                </div>
+              </td>
+            </tr>
+            <tr>
+              <td align="left">168</td>
+              <td align="left">
+                <div id="popup"><a href="https://en.wikipedia.org/wiki/New_Earth">New Earth</a></div>
+              </td>
+              <td style="text-align: center">
+                <div class="checkTheBox">
+                  <input type="checkbox" value="1" id="story168" name="check" />
+                  <label for="story168"></label>
+                </div>
+              </td>
+            </tr>
+            <tr>
+              <td align="left">169</td>
+              <td align="left">
+                <div id="popup"><a href="https://en.wikipedia.org/wiki/Tooth_and_Claw_%28Doctor_Who%29">Tooth and Claw</a></div>
+              </td>
+              <td style="text-align: center">
+                <div class="checkTheBox">
+                  <input type="checkbox" value="1" id="story169" name="check" />
+                  <label for="story169"></label>
+                </div>
+              </td>
+            </tr>
+            <tr>
+              <td align="left">170</td>
+              <td align="left">
+                <div id="popup"><a href="https://en.wikipedia.org/wiki/School_Reunion_%28Doctor_Who%29">School Reunion</a></div>
+              </td>
+              <td style="text-align: center">
+                <div class="checkTheBox">
+                  <input type="checkbox" value="1" id="story170" name="check" />
+                  <label for="story170"></label>
+                </div>
+              </td>
+            </tr>
+            <tr>
+              <td align="left">171</td>
+              <td align="left">
+                <div id="popup"><a href="https://en.wikipedia.org/wiki/The_Girl_in_the_Fireplace">The Girl in the Fireplace</a></div>
+              </td>
+              <td style="text-align: center">
+                <div class="checkTheBox">
+                  <input type="checkbox" value="1" id="story171" name="check" />
+                  <label for="story171"></label>
+                </div>
+              </td>
+            </tr>
+            <tr>
+              <td align="left">172</td>
+              <td align="left">
+                <div id="popup"><a href="https://en.wikipedia.org/wiki/Rise_of_the_Cybermen">Rise of the Cybermen</a></div>
+              </td>
+              <td style="text-align: center">
+                <div class="checkTheBox">
+                  <input type="checkbox" value="1" id="story172" name="check" />
+                  <label for="story172"></label>
+                </div>
+              </td>
+            </tr>
+            <tr>
+              <td align="left">173</td>
+              <td align="left">
+                <div id="popup"><a href="https://en.wikipedia.org/wiki/The_Idiot%27s_Lantern">The Idiot's Lantern</a></div>
+              </td>
+              <td style="text-align: center">
+                <div class="checkTheBox">
+                  <input type="checkbox" value="1" id="story173" name="check" />
+                  <label for="story173"></label>
+                </div>
+              </td>
+            </tr>
+            <tr>
+              <td align="left">174</td>
+              <td align="left">
+                <div id="popup"><a href="https://en.wikipedia.org/wiki/The_Satan_Pit">The Satan Pit</a></div>
+              </td>
+              <td style="text-align: center">
+                <div class="checkTheBox">
+                  <input type="checkbox" value="1" id="story174" name="check" />
+                  <label for="story174"></label>
+                </div>
+              </td>
+            </tr>
+            <tr>
+              <td align="left">175</td>
+              <td align="left">
+                <div id="popup"><a href="https://en.wikipedia.org/wiki/Love_%26_Monsters">Love &amp; Monsters</a></div>
+              </td>
+              <td style="text-align: center">
+                <div class="checkTheBox">
+                  <input type="checkbox" value="1" id="story175" name="check" />
+                  <label for="story175"></label>
+                </div>
+              </td>
+            </tr>
+            <tr>
+              <td align="left">176</td>
+              <td align="left">
+                <div id="popup"><a href="https://en.wikipedia.org/wiki/Fear_Her">Fear Her</a></div>
+              </td>
+              <td style="text-align: center">
+                <div class="checkTheBox">
+                  <input type="checkbox" value="1" id="story176" name="check" />
+                  <label for="story176"></label>
+                </div>
+              </td>
+            </tr>
+            <tr>
+              <td align="left">177</td>
+              <td align="left">
+                <div id="popup"><a href="https://en.wikipedia.org/wiki/Army_of_Ghosts">Army of Ghosts</a></div>
+              </td>
+              <td style="text-align: center">
+                <div class="checkTheBox">
+                  <input type="checkbox" value="1" id="story177" name="check" />
+                  <label for="story177"></label>
+                </div>
+              </td>
+            </tr>
+          </table>
+          <div style="padding: 13px">&nbsp;</div>
+        </div>
+      </div>
+
+
+      <div class="expandable-panel" id="cp-30">
+        <div class="expandable-panel-heading">
+          <h2>Series 3 (2007)<span class="icon-close-open"></span></h2>
+        </div>
+        <div class="expandable-panel-content">
+          <table style="border: 0px;">
+            <thead>
+              <tr>
+                <th style="text-align: left">Story</th>
+                <th style="text-align: left">Title</th>
+                <th style="text-align: left">Seen
+                  <br/>It?</th>
+              </tr>
+            </thead>
+            <tr>
+              <td align="left">178</td>
+              <td align="left">
+                <div id="popup"><a href="https://en.wikipedia.org/wiki/The_Runaway_Bride_%28Doctor_Who%29">The Runaway Bride</a></div>
+              </td>
+              <td style="text-align: center">
+                <div class="checkTheBox">
+                  <input type="checkbox" value="1" id="story178" name="check" />
+                  <label for="story178"></label>
+                </div>
+              </td>
+            </tr>
+            <tr>
+              <td align="left">179</td>
+              <td align="left">
+                <div id="popup"><a href="https://en.wikipedia.org/wiki/Smith_and_Jones_%28Doctor_Who%29">Smith and Jones</a></div>
+              </td>
+              <td style="text-align: center">
+                <div class="checkTheBox">
+                  <input type="checkbox" value="1" id="story179" name="check" />
+                  <label for="story179"></label>
+                </div>
+              </td>
+            </tr>
+            <tr>
+              <td align="left">180</td>
+              <td align="left">
+                <div id="popup"><a href="https://en.wikipedia.org/wiki/The_Shakespeare_Code">The Shakespeare Code</a></div>
+              </td>
+              <td style="text-align: center">
+                <div class="checkTheBox">
+                  <input type="checkbox" value="1" id="story180" name="check" />
+                  <label for="story180"></label>
+                </div>
+              </td>
+            </tr>
+            <tr>
+              <td align="left">181</td>
+              <td align="left">
+                <div id="popup"><a href="https://en.wikipedia.org/wiki/Gridlock_%28Doctor_Who%29">Gridlock</a></div>
+              </td>
+              <td style="text-align: center">
+                <div class="checkTheBox">
+                  <input type="checkbox" value="1" id="story181" name="check" />
+                  <label for="story181"></label>
+                </div>
+              </td>
+            </tr>
+            <tr>
+              <td align="left">182</td>
+              <td align="left">
+                <div id="popup"><a href="https://en.wikipedia.org/wiki/Daleks_in_Manhattan">Daleks in Manhattan</a></div>
+              </td>
+              <td style="text-align: center">
+                <div class="checkTheBox">
+                  <input type="checkbox" value="1" id="story182" name="check" />
+                  <label for="story182"></label>
+                </div>
+              </td>
+            </tr>
+            <tr>
+              <td align="left">183</td>
+              <td align="left">
+                <div id="popup"><a href="https://en.wikipedia.org/wiki/The_Lazarus_Experiment">The Lazarus Experiment</a></div>
+              </td>
+              <td style="text-align: center">
+                <div class="checkTheBox">
+                  <input type="checkbox" value="1" id="story183" name="check" />
+                  <label for="story183"></label>
+                </div>
+              </td>
+            </tr>
+            <tr>
+              <td align="left">184</td>
+              <td align="left">
+                <div id="popup"><a href="https://en.wikipedia.org/wiki/42_%28Doctor_Who%29">42</a></div>
+              </td>
+              <td style="text-align: center">
+                <div class="checkTheBox">
+                  <input type="checkbox" value="1" id="story184" name="check" />
+                  <label for="story184"></label>
+                </div>
+              </td>
+            </tr>
+            <tr>
+              <td align="left">185</td>
+              <td align="left">
+                <div id="popup"><a href="https://en.wikipedia.org/wiki/Human_Nature_%28Doctor_Who%29">Human Nature</a></div>
+              </td>
+              <td style="text-align: center">
+                <div class="checkTheBox">
+                  <input type="checkbox" value="1" id="story185" name="check" />
+                  <label for="story185"></label>
+                </div>
+              </td>
+            </tr>
+            <tr>
+              <td align="left">186</td>
+              <td align="left">
+                <div id="popup"><a href="https://en.wikipedia.org/wiki/Blink_%28Doctor_Who%29">Blink</a></div>
+              </td>
+              <td style="text-align: center">
+                <div class="checkTheBox">
+                  <input type="checkbox" value="1" id="story186" name="check" />
+                  <label for="story186"></label>
+                </div>
+              </td>
+            </tr>
+            <tr>
+              <td align="left">187</td>
+              <td align="left">
+                <div id="popup"><a href="https://en.wikipedia.org/wiki/Utopia_%28Doctor_Who%29">Utopia</a></div>
+              </td>
+              <td style="text-align: center">
+                <div class="checkTheBox">
+                  <input type="checkbox" value="1" id="story187" name="check" />
+                  <label for="story187"></label>
+                </div>
+              </td>
+            </tr>
+          </table>
+          <div style="padding: 13px">&nbsp;</div>
+        </div>
+      </div>
+
+
+      <div class="expandable-panel" id="cp-31">
+        <div class="expandable-panel-heading">
+          <h2>Series 4 (2008)<span class="icon-close-open"></span></h2>
+        </div>
+        <div class="expandable-panel-content">
+          <table style="border: 0px;">
+            <thead>
+              <tr>
+                <th style="text-align: left">Story</th>
+                <th style="text-align: left">Title</th>
+                <th style="text-align: left">Seen
+                  <br/>It?</th>
+              </tr>
+            </thead>
+            <tr>
+              <td align="left">188</td>
+              <td align="left">
+                <div id="popup"><a href="https://en.wikipedia.org/wiki/Voyage_of_the_Damned_%28Doctor_Who%29">Voyage of the Damned</a></div>
+              </td>
+              <td style="text-align: center">
+                <div class="checkTheBox">
+                  <input type="checkbox" value="1" id="story188" name="check" />
+                  <label for="story188"></label>
+                </div>
+              </td>
+            </tr>
+            <tr>
+              <td align="left">189</td>
+              <td align="left">
+                <div id="popup"><a href="https://en.wikipedia.org/wiki/Partners_in_Crime_%28Doctor_Who%29">Partners in Crime</a></div>
+              </td>
+              <td style="text-align: center">
+                <div class="checkTheBox">
+                  <input type="checkbox" value="1" id="story189" name="check" />
+                  <label for="story189"></label>
+                </div>
+              </td>
+            </tr>
+            <tr>
+              <td align="left">190</td>
+              <td align="left">
+                <div id="popup"><a href="https://en.wikipedia.org/wiki/The_Fires_of_Pompeii">The Fires of Pompeii</a></div>
+              </td>
+              <td style="text-align: center">
+                <div class="checkTheBox">
+                  <input type="checkbox" value="1" id="story190" name="check" />
+                  <label for="story190"></label>
+                </div>
+              </td>
+            </tr>
+            <tr>
+              <td align="left">191</td>
+              <td align="left">
+                <div id="popup"><a href="https://en.wikipedia.org/wiki/Planet_of_the_Ood">Planet of the Ood</a></div>
+              </td>
+              <td style="text-align: center">
+                <div class="checkTheBox">
+                  <input type="checkbox" value="1" id="story191" name="check" />
+                  <label for="story191"></label>
+                </div>
+              </td>
+            </tr>
+            <tr>
+              <td align="left">192</td>
+              <td align="left">
+                <div id="popup"><a href="https://en.wikipedia.org/wiki/The_Sontaran_Stratagem">The Sontaran Stratagem</a></div>
+              </td>
+              <td style="text-align: center">
+                <div class="checkTheBox">
+                  <input type="checkbox" value="1" id="story192" name="check" />
+                  <label for="story192"></label>
+                </div>
+              </td>
+            </tr>
+            <tr>
+              <td align="left">193</td>
+              <td align="left">
+                <div id="popup"><a href="https://en.wikipedia.org/wiki/The_Doctor%27s_Daughter">The Doctor's Daughter</a></div>
+              </td>
+              <td style="text-align: center">
+                <div class="checkTheBox">
+                  <input type="checkbox" value="1" id="story193" name="check" />
+                  <label for="story193"></label>
+                </div>
+              </td>
+            </tr>
+            <tr>
+              <td align="left">194</td>
+              <td align="left">
+                <div id="popup"><a href="https://en.wikipedia.org/wiki/The_Unicorn_and_the_Wasp">The Unicorn and the Wasp</a></div>
+              </td>
+              <td style="text-align: center">
+                <div class="checkTheBox">
+                  <input type="checkbox" value="1" id="story194" name="check" />
+                  <label for="story194"></label>
+                </div>
+              </td>
+            </tr>
+            <tr>
+              <td align="left">195</td>
+              <td align="left">
+                <div id="popup"><a href="https://en.wikipedia.org/wiki/Silence_in_the_Library">Silence in the Library</a></div>
+              </td>
+              <td style="text-align: center">
+                <div class="checkTheBox">
+                  <input type="checkbox" value="1" id="story195" name="check" />
+                  <label for="story195"></label>
+                </div>
+              </td>
+            </tr>
+            <tr>
+              <td align="left">196</td>
+              <td align="left">
+                <div id="popup"><a href="https://en.wikipedia.org/wiki/Midnight_%28Doctor_Who%29">Midnight</a></div>
+              </td>
+              <td style="text-align: center">
+                <div class="checkTheBox">
+                  <input type="checkbox" value="1" id="story196" name="check" />
+                  <label for="story196"></label>
+                </div>
+              </td>
+            </tr>
+            <tr>
+              <td align="left">197</td>
+              <td align="left">
+                <div id="popup"><a href="https://en.wikipedia.org/wiki/Turn_Left_%28Doctor_Who%29">Turn Left</a></div>
+              </td>
+              <td style="text-align: center">
+                <div class="checkTheBox">
+                  <input type="checkbox" value="1" id="story197" name="check" />
+                  <label for="story197"></label>
+                </div>
+              </td>
+            </tr>
+            <tr>
+              <td align="left">198</td>
+              <td align="left">
+                <div id="popup"><a href="https://en.wikipedia.org/wiki/The_Stolen_Earth">The Stolen Earth</a></div>
+              </td>
+              <td style="text-align: center">
+                <div class="checkTheBox">
+                  <input type="checkbox" value="1" id="story198" name="check" />
+                  <label for="story198"></label>
+                </div>
+              </td>
+            </tr>
+          </table>
+          <div style="padding: 13px">&nbsp;</div>
+        </div>
+      </div>
+
+
+      <div class="expandable-panel" id="cp-32">
+        <div class="expandable-panel-heading">
+          <h2>Specials (2008–10)<span class="icon-close-open"></span></h2>
+        </div>
+        <div class="expandable-panel-content">
+          <table style="border: 0px;">
+            <thead>
+              <tr>
+                <th style="text-align: left">Story</th>
+                <th style="text-align: left">Title</th>
+                <th style="text-align: left">Seen
+                  <br/>It?</th>
+              </tr>
+            </thead>
+            <tr>
+              <td align="left">199</td>
+              <td align="left">
+                <div id="popup"><a href="https://en.wikipedia.org/wiki/The_Next_Doctor">The Next Doctor</a></div>
+              </td>
+              <td style="text-align: center">
+                <div class="checkTheBox">
+                  <input type="checkbox" value="1" id="story199" name="check" />
+                  <label for="story199"></label>
+                </div>
+              </td>
+            </tr>
+            <tr>
+              <td align="left">200</td>
+              <td align="left">
+                <div id="popup"><a href="https://en.wikipedia.org/wiki/Planet_of_the_Dead">Planet of the Dead</a></div>
+              </td>
+              <td style="text-align: center">
+                <div class="checkTheBox">
+                  <input type="checkbox" value="1" id="story200" name="check" />
+                  <label for="story200"></label>
+                </div>
+              </td>
+            </tr>
+            <tr>
+              <td align="left">201</td>
+              <td align="left">
+                <div id="popup"><a href="https://en.wikipedia.org/wiki/The_Waters_of_Mars">The Waters of Mars</a></div>
+              </td>
+              <td style="text-align: center">
+                <div class="checkTheBox">
+                  <input type="checkbox" value="1" id="story201" name="check" />
+                  <label for="story201"></label>
+                </div>
+              </td>
+            </tr>
+            <tr>
+              <td align="left">202</td>
+              <td align="left">
+                <div id="popup"><a href="https://en.wikipedia.org/wiki/The_End_of_Time_%28Doctor_Who%29">The End of Time</a></div>
+              </td>
+              <td style="text-align: center">
+                <div class="checkTheBox">
+                  <input type="checkbox" value="1" id="story202" name="check" />
+                  <label for="story202"></label>
+                </div>
+              </td>
+            </tr>
+          </table>
+          <div style="padding: 13px">&nbsp;</div>
+        </div>
+      </div>
+
+
+      <div class="expandable-panel" id="cp-33">
+        <div class="expandable-panel-heading">
+          <h2>Series 5 (2010)<span class="icon-close-open"></span></h2>
+        </div>
+        <div class="expandable-panel-content">
+          <table style="border: 0px;">
+            <thead>
+              <tr>
+                <th style="text-align: left">Story</th>
+                <th style="text-align: left">Title</th>
+                <th style="text-align: left">Seen
+                  <br/>It?</th>
+              </tr>
+            </thead>
+            <tr>
+              <td align="left">203</td>
+              <td align="left">
+                <div id="popup"><a href="https://en.wikipedia.org/wiki/The_Eleventh_Hour_%28Doctor_Who%29">The Eleventh Hour</a></div>
+              </td>
+              <td style="text-align: center">
+                <div class="checkTheBox">
+                  <input type="checkbox" value="1" id="story203" name="check" />
+                  <label for="story203"></label>
+                </div>
+              </td>
+            </tr>
+            <tr>
+              <td align="left">204</td>
+              <td align="left">
+                <div id="popup"><a href="https://en.wikipedia.org/wiki/The_Beast_Below">The Beast Below</a></div>
+              </td>
+              <td style="text-align: center">
+                <div class="checkTheBox">
+                  <input type="checkbox" value="1" id="story204" name="check" />
+                  <label for="story204"></label>
+                </div>
+              </td>
+            </tr>
+            <tr>
+              <td align="left">205</td>
+              <td align="left">
+                <div id="popup"><a href="https://en.wikipedia.org/wiki/Victory_of_the_Daleks">Victory of the Daleks</a></div>
+              </td>
+              <td style="text-align: center">
+                <div class="checkTheBox">
+                  <input type="checkbox" value="1" id="story205" name="check" />
+                  <label for="story205"></label>
+                </div>
+              </td>
+            </tr>
+            <tr>
+              <td align="left">206</td>
+              <td align="left">
+                <div id="popup"><a href="https://en.wikipedia.org/wiki/The_Time_of_Angels">The Time of Angels</a></div>
+              </td>
+              <td style="text-align: center">
+                <div class="checkTheBox">
+                  <input type="checkbox" value="1" id="story206" name="check" />
+                  <label for="story206"></label>
+                </div>
+              </td>
+            </tr>
+            <tr>
+              <td align="left">207</td>
+              <td align="left">
+                <div id="popup"><a href="https://en.wikipedia.org/wiki/The_Vampires_of_Venice">The Vampires of Venice</a></div>
+              </td>
+              <td style="text-align: center">
+                <div class="checkTheBox">
+                  <input type="checkbox" value="1" id="story207" name="check" />
+                  <label for="story207"></label>
+                </div>
+              </td>
+            </tr>
+            <tr>
+              <td align="left">208</td>
+              <td align="left">
+                <div id="popup"><a href="https://en.wikipedia.org/wiki/Amy%27s_Choice_%28Doctor_Who%29">Amy's Choice</a></div>
+              </td>
+              <td style="text-align: center">
+                <div class="checkTheBox">
+                  <input type="checkbox" value="1" id="story208" name="check" />
+                  <label for="story208"></label>
+                </div>
+              </td>
+            </tr>
+            <tr>
+              <td align="left">209</td>
+              <td align="left">
+                <div id="popup"><a href="https://en.wikipedia.org/wiki/The_Hungry_Earth">The Hungry Earth</a></div>
+              </td>
+              <td style="text-align: center">
+                <div class="checkTheBox">
+                  <input type="checkbox" value="1" id="story209" name="check" />
+                  <label for="story209"></label>
+                </div>
+              </td>
+            </tr>
+            <tr>
+              <td align="left">210</td>
+              <td align="left">
+                <div id="popup"><a href="https://en.wikipedia.org/wiki/Vincent_and_the_Doctor">Vincent and the Doctor</a></div>
+              </td>
+              <td style="text-align: center">
+                <div class="checkTheBox">
+                  <input type="checkbox" value="1" id="story210" name="check" />
+                  <label for="story210"></label>
+                </div>
+              </td>
+            </tr>
+            <tr>
+              <td align="left">211</td>
+              <td align="left">
+                <div id="popup"><a href="https://en.wikipedia.org/wiki/The_Lodger_%28Doctor_Who%29">The Lodger</a></div>
+              </td>
+              <td style="text-align: center">
+                <div class="checkTheBox">
+                  <input type="checkbox" value="1" id="story211" name="check" />
+                  <label for="story211"></label>
+                </div>
+              </td>
+            </tr>
+            <tr>
+              <td align="left">212</td>
+              <td align="left">
+                <div id="popup"><a href="https://en.wikipedia.org/wiki/The_Pandorica_Opens">The Pandorica Opens</a></div>
+              </td>
+              <td style="text-align: center">
+                <div class="checkTheBox">
+                  <input type="checkbox" value="1" id="story212" name="check" />
+                  <label for="story212"></label>
+                </div>
+              </td>
+            </tr>
+          </table>
+          <div style="padding: 13px">&nbsp;</div>
+        </div>
+      </div>
+
+
+      <div class="expandable-panel" id="cp-34">
+        <div class="expandable-panel-heading">
+          <h2>Series 6 (2011)<span class="icon-close-open"></span></h2>
+        </div>
+        <div class="expandable-panel-content">
+          <table style="border: 0px;">
+            <thead>
+              <tr>
+                <th style="text-align: left">Story</th>
+                <th style="text-align: left">Title</th>
+                <th style="text-align: left">Seen
+                  <br/>It?</th>
+              </tr>
+            </thead>
+            <tr>
+              <td align="left">213</td>
+              <td align="left">
+                <div id="popup"><a href="https://en.wikipedia.org/wiki/A_Christmas_Carol_%28Doctor_Who%29">A Christmas Carol</a></div>
+              </td>
+              <td style="text-align: center">
+                <div class="checkTheBox">
+                  <input type="checkbox" value="1" id="story213" name="check" />
+                  <label for="story213"></label>
+                </div>
+              </td>
+            </tr>
+            <tr>
+              <td align="left">214</td>
+              <td align="left">
+                <div id="popup"><a href="https://en.wikipedia.org/wiki/The_Impossible_Astronaut">The Impossible Astronaut</a></div>
+              </td>
+              <td style="text-align: center">
+                <div class="checkTheBox">
+                  <input type="checkbox" value="1" id="story214" name="check" />
+                  <label for="story214"></label>
+                </div>
+              </td>
+            </tr>
+            <tr>
+              <td align="left">215</td>
+              <td align="left">
+                <div id="popup"><a href="https://en.wikipedia.org/wiki/The_Curse_of_the_Black_Spot">The Curse of the Black Spot</a></div>
+              </td>
+              <td style="text-align: center">
+                <div class="checkTheBox">
+                  <input type="checkbox" value="1" id="story215" name="check" />
+                  <label for="story215"></label>
+                </div>
+              </td>
+            </tr>
+            <tr>
+              <td align="left">216</td>
+              <td align="left">
+                <div id="popup"><a href="https://en.wikipedia.org/wiki/The_Doctor%27s_Wife">The Doctor's Wife</a></div>
+              </td>
+              <td style="text-align: center">
+                <div class="checkTheBox">
+                  <input type="checkbox" value="1" id="story216" name="check" />
+                  <label for="story216"></label>
+                </div>
+              </td>
+            </tr>
+            <tr>
+              <td align="left">217</td>
+              <td align="left">
+                <div id="popup"><a href="https://en.wikipedia.org/wiki/The_Rebel_Flesh">The Rebel Flesh</a></div>
+              </td>
+              <td style="text-align: center">
+                <div class="checkTheBox">
+                  <input type="checkbox" value="1" id="story217" name="check" />
+                  <label for="story217"></label>
+                </div>
+              </td>
+            </tr>
+            <tr>
+              <td align="left">218</td>
+              <td align="left">
+                <div id="popup"><a href="https://en.wikipedia.org/wiki/A_Good_Man_Goes_to_War">A Good Man Goes to War</a></div>
+              </td>
+              <td style="text-align: center">
+                <div class="checkTheBox">
+                  <input type="checkbox" value="1" id="story218" name="check" />
+                  <label for="story218"></label>
+                </div>
+              </td>
+            </tr>
+            <tr>
+              <td align="left">219</td>
+              <td align="left">
+                <div id="popup"><a href="https://en.wikipedia.org/wiki/Let%27s_Kill_Hitler">Let's Kill Hitler</a></div>
+              </td>
+              <td style="text-align: center">
+                <div class="checkTheBox">
+                  <input type="checkbox" value="1" id="story219" name="check" />
+                  <label for="story219"></label>
+                </div>
+              </td>
+            </tr>
+            <tr>
+              <td align="left">220</td>
+              <td align="left">
+                <div id="popup"><a href="https://en.wikipedia.org/wiki/Night_Terrors_%28Doctor_Who%29">Night Terrors</a></div>
+              </td>
+              <td style="text-align: center">
+                <div class="checkTheBox">
+                  <input type="checkbox" value="1" id="story220" name="check" />
+                  <label for="story220"></label>
+                </div>
+              </td>
+            </tr>
+            <tr>
+              <td align="left">221</td>
+              <td align="left">
+                <div id="popup"><a href="https://en.wikipedia.org/wiki/The_Girl_Who_Waited">The Girl Who Waited</a></div>
+              </td>
+              <td style="text-align: center">
+                <div class="checkTheBox">
+                  <input type="checkbox" value="1" id="story221" name="check" />
+                  <label for="story221"></label>
+                </div>
+              </td>
+            </tr>
+            <tr>
+              <td align="left">222</td>
+              <td align="left">
+                <div id="popup"><a href="https://en.wikipedia.org/wiki/The_God_Complex">The God Complex</a></div>
+              </td>
+              <td style="text-align: center">
+                <div class="checkTheBox">
+                  <input type="checkbox" value="1" id="story222" name="check" />
+                  <label for="story222"></label>
+                </div>
+              </td>
+            </tr>
+            <tr>
+              <td align="left">223</td>
+              <td align="left">
+                <div id="popup"><a href="https://en.wikipedia.org/wiki/Closing_Time_%28Doctor_Who%29">Closing Time</a></div>
+              </td>
+              <td style="text-align: center">
+                <div class="checkTheBox">
+                  <input type="checkbox" value="1" id="story223" name="check" />
+                  <label for="story223"></label>
+                </div>
+              </td>
+            </tr>
+            <tr>
+              <td align="left">224</td>
+              <td align="left">
+                <div id="popup"><a href="https://en.wikipedia.org/wiki/The_Wedding_of_River_Song">The Wedding of River Song</a></div>
+              </td>
+              <td style="text-align: center">
+                <div class="checkTheBox">
+                  <input type="checkbox" value="1" id="story224" name="check" />
+                  <label for="story224"></label>
+                </div>
+              </td>
+            </tr>
+          </table>
+          <div style="padding: 13px">&nbsp;</div>
+        </div>
+      </div>
+
+
+      <div class="expandable-panel" id="cp-35">
+        <div class="expandable-panel-heading">
+          <h2>Series 7 (2012–13)<span class="icon-close-open"></span></h2>
+        </div>
+        <div class="expandable-panel-content">
+          <table style="border: 0px;">
+            <thead>
+              <tr>
+                <th style="text-align: left">Story</th>
+                <th style="text-align: left">Title</th>
+                <th style="text-align: left">Seen
+                  <br/>It?</th>
+              </tr>
+            </thead>
+            <tr>
+              <td align="left">225</td>
+              <td align="left">
+                <div id="popup"><a href="https://en.wikipedia.org/wiki/The_Doctor,_the_Widow_and_the_Wardrobe">The Doctor, the Widow and the Wardrobe</a></div>
+              </td>
+              <td style="text-align: center">
+                <div class="checkTheBox">
+                  <input type="checkbox" value="1" id="story225" name="check" />
+                  <label for="story225"></label>
+                </div>
+              </td>
+            </tr>
+            <tr>
+              <td align="left">226</td>
+              <td align="left">
+                <div id="popup"><a href="https://en.wikipedia.org/wiki/Asylum_of_the_Daleks">Asylum of the Daleks</a></div>
+              </td>
+              <td style="text-align: center">
+                <div class="checkTheBox">
+                  <input type="checkbox" value="1" id="story226" name="check" />
+                  <label for="story226"></label>
+                </div>
+              </td>
+            </tr>
+            <tr>
+              <td align="left">227</td>
+              <td align="left">
+                <div id="popup"><a href="https://en.wikipedia.org/wiki/Dinosaurs_on_a_Spaceship">Dinosaurs on a Spaceship</a></div>
+              </td>
+              <td style="text-align: center">
+                <div class="checkTheBox">
+                  <input type="checkbox" value="1" id="story227" name="check" />
+                  <label for="story227"></label>
+                </div>
+              </td>
+            </tr>
+            <tr>
+              <td align="left">228</td>
+              <td align="left">
+                <div id="popup"><a href="https://en.wikipedia.org/wiki/A_Town_Called_Mercy">A Town Called Mercy</a></div>
+              </td>
+              <td style="text-align: center">
+                <div class="checkTheBox">
+                  <input type="checkbox" value="1" id="story228" name="check" />
+                  <label for="story228"></label>
+                </div>
+              </td>
+            </tr>
+            <tr>
+              <td align="left">229</td>
+              <td align="left">
+                <div id="popup"><a href="https://en.wikipedia.org/wiki/The_Power_of_Three_%28Doctor_Who%29">The Power of Three</a></div>
+              </td>
+              <td style="text-align: center">
+                <div class="checkTheBox">
+                  <input type="checkbox" value="1" id="story229" name="check" />
+                  <label for="story229"></label>
+                </div>
+              </td>
+            </tr>
+            <tr>
+              <td align="left">230</td>
+              <td align="left">
+                <div id="popup"><a href="https://en.wikipedia.org/wiki/The_Angels_Take_Manhattan">The Angels Take Manhattan</a></div>
+              </td>
+              <td style="text-align: center">
+                <div class="checkTheBox">
+                  <input type="checkbox" value="1" id="story230" name="check" />
+                  <label for="story230"></label>
+                </div>
+              </td>
+            </tr>
+            <tr>
+              <td align="left">231</td>
+              <td align="left">
+                <div id="popup"><a href="https://en.wikipedia.org/wiki/The_Snowmen">The Snowmen</a></div>
+              </td>
+              <td style="text-align: center">
+                <div class="checkTheBox">
+                  <input type="checkbox" value="1" id="story231" name="check" />
+                  <label for="story231"></label>
+                </div>
+              </td>
+            </tr>
+            <tr>
+              <td align="left">232</td>
+              <td align="left">
+                <div id="popup"><a href="https://en.wikipedia.org/wiki/The_Bells_of_Saint_John">The Bells of Saint John</a></div>
+              </td>
+              <td style="text-align: center">
+                <div class="checkTheBox">
+                  <input type="checkbox" value="1" id="story232" name="check" />
+                  <label for="story232"></label>
+                </div>
+              </td>
+            </tr>
+            <tr>
+              <td align="left">233</td>
+              <td align="left">
+                <div id="popup"><a href="https://en.wikipedia.org/wiki/The_Rings_of_Akhaten">The Rings of Akhaten</a></div>
+              </td>
+              <td style="text-align: center">
+                <div class="checkTheBox">
+                  <input type="checkbox" value="1" id="story233" name="check" />
+                  <label for="story233"></label>
+                </div>
+              </td>
+            </tr>
+            <tr>
+              <td align="left">234</td>
+              <td align="left">
+                <div id="popup"><a href="https://en.wikipedia.org/wiki/Cold_War_%28Doctor_Who%29">Cold War</a></div>
+              </td>
+              <td style="text-align: center">
+                <div class="checkTheBox">
+                  <input type="checkbox" value="1" id="story234" name="check" />
+                  <label for="story234"></label>
+                </div>
+              </td>
+            </tr>
+            <tr>
+              <td align="left">235</td>
+              <td align="left">
+                <div id="popup"><a href="https://en.wikipedia.org/wiki/Hide_%28Doctor_Who%29">Hide</a></div>
+              </td>
+              <td style="text-align: center">
+                <div class="checkTheBox">
+                  <input type="checkbox" value="1" id="story235" name="check" />
+                  <label for="story235"></label>
+                </div>
+              </td>
+            </tr>
+            <tr>
+              <td align="left">236</td>
+              <td align="left">
+                <div id="popup"><a href="https://en.wikipedia.org/wiki/Journey_to_the_Centre_of_the_TARDIS">Journey to the Centre of the TARDIS</a></div>
+              </td>
+              <td style="text-align: center">
+                <div class="checkTheBox">
+                  <input type="checkbox" value="1" id="story236" name="check" />
+                  <label for="story236"></label>
+                </div>
+              </td>
+            </tr>
+            <tr>
+              <td align="left">237</td>
+              <td align="left">
+                <div id="popup"><a href="https://en.wikipedia.org/wiki/The_Crimson_Horror">The Crimson Horror</a></div>
+              </td>
+              <td style="text-align: center">
+                <div class="checkTheBox">
+                  <input type="checkbox" value="1" id="story237" name="check" />
+                  <label for="story237"></label>
+                </div>
+              </td>
+            </tr>
+            <tr>
+              <td align="left">238</td>
+              <td align="left">
+                <div id="popup"><a href="https://en.wikipedia.org/wiki/Nightmare_in_Silver">Nightmare in Silver</a></div>
+              </td>
+              <td style="text-align: center">
+                <div class="checkTheBox">
+                  <input type="checkbox" value="1" id="story238" name="check" />
+                  <label for="story238"></label>
+                </div>
+              </td>
+            </tr>
+            <tr>
+              <td align="left">239</td>
+              <td align="left">
+                <div id="popup"><a href="https://en.wikipedia.org/wiki/The_Name_of_the_Doctor">The Name of the Doctor</a></div>
+              </td>
+              <td style="text-align: center">
+                <div class="checkTheBox">
+                  <input type="checkbox" value="1" id="story239" name="check" />
+                  <label for="story239"></label>
+                </div>
+              </td>
+            </tr>
+            <tr>
+              <td align="left">240</td>
+              <td align="left">
+                <div id="popup"><a href="https://en.wikipedia.org/wiki/The_Day_of_the_Doctor">The Day of the Doctor</a></div>
+              </td>
+              <td style="text-align: center">
+                <div class="checkTheBox">
+                  <input type="checkbox" value="1" id="story240" name="check" />
+                  <label for="story240"></label>
+                </div>
+              </td>
+            </tr>
+            <tr>
+              <td align="left">241</td>
+              <td align="left">
+                <div id="popup"><a href="https://en.wikipedia.org/wiki/The_Time_of_the_Doctor">The Time of the Doctor</a></div>
+              </td>
+              <td style="text-align: center">
+                <div class="checkTheBox">
+                  <input type="checkbox" value="1" id="story241" name="check" />
+                  <label for="story241"></label>
+                </div>
+              </td>
+            </tr>
+          </table>
+          <div style="padding: 13px">&nbsp;</div>
+        </div>
+      </div>
+
+
+      <div class="expandable-panel" id="cp-36">
+        <div class="expandable-panel-heading">
+          <h2>Series 8 (2014)<span class="icon-close-open"></span></h2>
+        </div>
+        <div class="expandable-panel-content">
+          <table style="border: 0px;">
+            <thead>
+              <tr>
+                <th style="text-align: left">Story</th>
+                <th style="text-align: left">Title</th>
+                <th style="text-align: left">Seen
+                  <br/>It?</th>
+              </tr>
+            </thead>
+            <tr>
+              <td align="left">242</td>
+              <td align="left">
+                <div id="popup"><a href="https://en.wikipedia.org/wiki/Deep_Breath_%28Doctor_Who%29">Deep Breath</a></div>
+              </td>
+              <td style="text-align: center">
+                <div class="checkTheBox">
+                  <input type="checkbox" value="1" id="story242" name="check" />
+                  <label for="story242"></label>
+                </div>
+              </td>
+            </tr>
+            <tr>
+              <td align="left">243</td>
+              <td align="left">
+                <div id="popup"><a href="https://en.wikipedia.org/wiki/Into_the_Dalek">Into the Dalek</a></div>
+              </td>
+              <td style="text-align: center">
+                <div class="checkTheBox">
+                  <input type="checkbox" value="1" id="story243" name="check" />
+                  <label for="story243"></label>
+                </div>
+              </td>
+            </tr>
+            <tr>
+              <td align="left">244</td>
+              <td align="left">
+                <div id="popup"><a href="https://en.wikipedia.org/wiki/Robot_of_Sherwood">Robot of Sherwood</a></div>
+              </td>
+              <td style="text-align: center">
+                <div class="checkTheBox">
+                  <input type="checkbox" value="1" id="story244" name="check" />
+                  <label for="story244"></label>
+                </div>
+              </td>
+            </tr>
+            <tr>
+              <td align="left">245</td>
+              <td align="left">
+                <div id="popup"><a href="https://en.wikipedia.org/wiki/Listen_%28Doctor_Who%29">Listen</a></div>
+              </td>
+              <td style="text-align: center">
+                <div class="checkTheBox">
+                  <input type="checkbox" value="1" id="story245" name="check" />
+                  <label for="story245"></label>
+                </div>
+              </td>
+            </tr>
+            <tr>
+              <td align="left">246</td>
+              <td align="left">
+                <div id="popup"><a href="https://en.wikipedia.org/wiki/Time_Heist">Time Heist</a></div>
+              </td>
+              <td style="text-align: center">
+                <div class="checkTheBox">
+                  <input type="checkbox" value="1" id="story246" name="check" />
+                  <label for="story246"></label>
+                </div>
+              </td>
+            </tr>
+            <tr>
+              <td align="left">247</td>
+              <td align="left">
+                <div id="popup"><a href="https://en.wikipedia.org/wiki/The_Caretaker_%28Doctor_Who%29">The Caretaker</a></div>
+              </td>
+              <td style="text-align: center">
+                <div class="checkTheBox">
+                  <input type="checkbox" value="1" id="story247" name="check" />
+                  <label for="story247"></label>
+                </div>
+              </td>
+            </tr>
+            <tr>
+              <td align="left">248</td>
+              <td align="left">
+                <div id="popup"><a href="https://en.wikipedia.org/wiki/Kill_the_Moon">Kill the Moon</a></div>
+              </td>
+              <td style="text-align: center">
+                <div class="checkTheBox">
+                  <input type="checkbox" value="1" id="story248" name="check" />
+                  <label for="story248"></label>
+                </div>
+              </td>
+            </tr>
+            <tr>
+              <td align="left">249</td>
+              <td align="left">
+                <div id="popup"><a href="https://en.wikipedia.org/wiki/Mummy_on_the_Orient_Express">Mummy on the Orient Express</a></div>
+              </td>
+              <td style="text-align: center">
+                <div class="checkTheBox">
+                  <input type="checkbox" value="1" id="story249" name="check" />
+                  <label for="story249"></label>
+                </div>
+              </td>
+            </tr>
+            <tr>
+              <td align="left">250</td>
+              <td align="left">
+                <div id="popup"><a href="https://en.wikipedia.org/wiki/Flatline_%28Doctor_Who%29">Flatline</a></div>
+              </td>
+              <td style="text-align: center">
+                <div class="checkTheBox">
+                  <input type="checkbox" value="1" id="story250" name="check" />
+                  <label for="story250"></label>
+                </div>
+              </td>
+            </tr>
+            <tr>
+              <td align="left">251</td>
+              <td align="left">
+                <div id="popup"><a href="https://en.wikipedia.org/wiki/In_the_Forest_of_the_Night">In the Forest of the Night</a></div>
+              </td>
+              <td style="text-align: center">
+                <div class="checkTheBox">
+                  <input type="checkbox" value="1" id="story251" name="check" />
+                  <label for="story251"></label>
+                </div>
+              </td>
+            </tr>
+            <tr>
+              <td align="left">252</td>
+              <td align="left">
+                <div id="popup"><a href="https://en.wikipedia.org/wiki/Dark_Water_%28Doctor_Who%29">Dark Water</a></div>
+              </td>
+              <td style="text-align: center">
+                <div class="checkTheBox">
+                  <input type="checkbox" value="1" id="story252" name="check" />
+                  <label for="story252"></label>
+                </div>
+              </td>
+            </tr>
+          </table>
+          <div style="padding: 13px">&nbsp;</div>
+        </div>
+      </div>
+
+
+      <div class="expandable-panel" id="cp-37">
+        <div class="expandable-panel-heading">
+          <h2>Series 9 (2015)<span class="icon-close-open"></span></h2>
+        </div>
+        <div class="expandable-panel-content">
+          <table style="border: 0px;">
+            <thead>
+              <tr>
+                <th style="text-align: left">Story</th>
+                <th style="text-align: left">Title</th>
+                <th style="text-align: left">Seen
+                  <br/>It?</th>
+              </tr>
+            </thead>
+            <tr>
+              <td align="left">253</td>
+              <td align="left">
+                <div id="popup"><a href="https://en.wikipedia.org/wiki/Last_Christmas_%28Doctor_Who%29">Last Christmas</a></div>
+              </td>
+              <td style="text-align: center">
+                <div class="checkTheBox">
+                  <input type="checkbox" value="1" id="story253" name="check" />
+                  <label for="story253"></label>
+                </div>
+              </td>
+            </tr>
+            <tr>
+              <td align="left">254</td>
+              <td align="left">
+                <div id="popup"><a href="https://en.wikipedia.org/wiki/The_Magician%27s_Apprentice_%28Doctor_Who%29">The Magician's Apprentice</a></div>
+              </td>
+              <td style="text-align: center">
+                <div class="checkTheBox">
+                  <input type="checkbox" value="1" id="story254" name="check" />
+                  <label for="story254"></label>
+                </div>
+              </td>
+            </tr>
+            <tr>
+              <td align="left">255</td>
+              <td align="left">
+                <div id="popup"><a href="https://en.wikipedia.org/wiki/Under_the_Lake">Under the Lake</a></div>
+              </td>
+              <td style="text-align: center">
+                <div class="checkTheBox">
+                  <input type="checkbox" value="1" id="story255" name="check" />
+                  <label for="story255"></label>
+                </div>
+              </td>
+            </tr>
+            <tr>
+              <td align="left">256</td>
+              <td align="left">
+                <div id="popup"><a href="https://en.wikipedia.org/wiki/The_Girl_Who_Died">The Girl Who Died</a></div>
+              </td>
+              <td style="text-align: center">
+                <div class="checkTheBox">
+                  <input type="checkbox" value="1" id="story256" name="check" />
+                  <label for="story256"></label>
+                </div>
+              </td>
+            </tr>
+            <tr>
+              <td align="left">257</td>
+              <td align="left">
+                <div id="popup"><a href="https://en.wikipedia.org/wiki/The_Woman_Who_Lived">The Woman Who Lived</a></div>
+              </td>
+              <td style="text-align: center">
+                <div class="checkTheBox">
+                  <input type="checkbox" value="1" id="story257" name="check" />
+                  <label for="story257"></label>
+                </div>
+              </td>
+            </tr>
+            <tr>
+              <td align="left">258</td>
+              <td align="left">
+                <div id="popup"><a href="https://en.wikipedia.org/wiki/The_Zygon_Invasion">The Zygon Invasion</a></div>
+              </td>
+              <td style="text-align: center">
+                <div class="checkTheBox">
+                  <input type="checkbox" value="1" id="story258" name="check" />
+                  <label for="story258"></label>
+                </div>
+              </td>
+            </tr>
+            <tr>
+              <td align="left">259</td>
+              <td align="left">
+                <div id="popup"><a href="https://en.wikipedia.org/wiki/Sleep_No_More_%28Doctor_Who%29">Sleep No More</a></div>
+              </td>
+              <td style="text-align: center">
+                <div class="checkTheBox">
+                  <input type="checkbox" value="1" id="story259" name="check" />
+                  <label for="story259"></label>
+                </div>
+              </td>
+            </tr>
+            <tr>
+              <td align="left">260</td>
+              <td align="left">
+                <div id="popup"><a href="https://en.wikipedia.org/wiki/Face_the_Raven">Face the Raven</a></div>
+              </td>
+              <td style="text-align: center">
+                <div class="checkTheBox">
+                  <input type="checkbox" value="1" id="story260" name="check" />
+                  <label for="story260"></label>
+                </div>
+              </td>
+            </tr>
+            <tr>
+              <td align="left">261</td>
+              <td align="left">
+                <div id="popup"><a href="https://en.wikipedia.org/wiki/Heaven_Sent_%28Doctor_Who%29">Heaven Sent</a></div>
+              </td>
+              <td style="text-align: center">
+                <div class="checkTheBox">
+                  <input type="checkbox" value="1" id="story261" name="check" />
+                  <label for="story261"></label>
+                </div>
+              </td>
+            </tr>
+            <tr>
+              <td align="left">262</td>
+              <td align="left">
+                <div id="popup"><a href="https://en.wikipedia.org/wiki/Hell_Bent_%28Doctor_Who%29">Hell Bent</a></div>
+              </td>
+              <td style="text-align: center">
+                <div class="checkTheBox">
+                  <input type="checkbox" value="1" id="story262" name="check" />
+                  <label for="story262"></label>
+                </div>
+              </td>
+            </tr>
+            <tr>
+              <td align="left">263</td>
+              <td align="left">
+                <div id="popup"><a href="https://en.wikipedia.org/wiki/The_Husbands_of_River_Song">The Husbands of River Song</a></div>
+              </td>
+              <td style="text-align: center">
+                <div class="checkTheBox">
+                  <input type="checkbox" value="1" id="story263" name="check" />
+                  <label for="story263"></label>
+                </div>
+              </td>
+            </tr>
+          </table>
+          <div style="padding: 13px">&nbsp;</div>
+        </div>
+      </div>
+    </div>
+  </fieldset>
+</form>
