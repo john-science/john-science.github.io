@@ -23,7 +23,7 @@ li {
   min-height: 50px;
   overflow: auto;
   margin-bottom: 10px;
-  border: 1px solid #999;
+  border: 1px solid #D4D4D4;
 }
 
 .expandable-panel-heading {
@@ -185,6 +185,7 @@ td:nth-child(even) {
   border: 1px solid #D4D4D4;
   padding: 10px;
   background: #FFFFFF;
+  margin: 10px;
 }
 
 .q-input {
@@ -197,4 +198,6 @@ td:nth-child(even) {
 .q-input-label {
   font-size: 30px;
   color: #003b6f;
+  display: block;
+  text-align: center;
 }
