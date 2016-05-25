@@ -139,6 +139,7 @@ td:nth-child(even) {
   border-top: none;
   border-right: none;
   transform: rotate(-45deg);
+  -webkit-transform: rotate(-45deg);
 }
 
 
