@@ -2,7 +2,7 @@
 layout: post
 title: "Python GZIP Peformance"
 tags: [Software, Python]
-summary: Minor changes to boost your GZIP performance on text files in Python.
+summary: Minor changes that will boost your GZIP performance on text files in Python.
 date: 2016-04-27
 ---
 {% include JB/setup %}
@@ -22,28 +22,34 @@ f.close()
 
 But, it turns out that it's (10-20%) faster to do:
 
-    f = gzip.open(out_path, 'wb')
-    try:
-        f.writelines(lines)
-    finally:
-        f.close()
+{% highlight python %}
+f = gzip.open(out_path, 'wb')
+try:
+    f.writelines(lines)
+finally:
+    f.close()
+{% endhighlight %}
 
 ### Reading GZIP files
 
 If you have a big GZIP file to read (text, not binary), you might be temped to read it like:
 
-    import gzip
-    f = gzip.open(in_path, 'rb')
-    for line in f.readlines():
-        # do stuff
-    f.close()
+{% highlight python %}
+import gzip
+f = gzip.open(in_path, 'rb')
+for line in f.readlines():
+    # do stuff
+f.close()
+{% endhighlight %}
 
 But it turns out it can be up to 3 times faster to read it like:
 
-    import gzip
-    import io
-    gz = gzip.open(in_path, 'rb')
-    f = io.BufferedReader(gz)
-         for line in f.readlines():
-             # do stuff
-    gz.close()
+{% highlight python %}
+import gzip
+import io
+gz = gzip.open(in_path, 'rb')
+f = io.BufferedReader(gz)
+     for line in f.readlines():
+         # do stuff
+gz.close()
+{% endhighlight %}
