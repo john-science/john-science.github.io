@@ -13,12 +13,12 @@ I have been testing various ways to read and write text files with GZIP in Pytho
 
 If you have a big list of strings to write to a file, you might be tempted to do:
 
-{{ "{% highlight python "}}%}
+{% highlight python %}
 f = gzip.open(out_path, 'wb')
 for line in lines:
     f.write(line)
 f.close()
-{{ "{% endhighlight "}}%}
+{% endhighlight %}
 
 But, it turns out that it's (10-20%) faster to do:
 
