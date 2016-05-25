@@ -179,3 +179,22 @@ td:nth-child(even) {
   padding: 0px;
   border: 0px;
 }
+
+/* Settins for Q calculators */
+.q-total-input {
+  border: 1px solid #D4D4D4;
+  padding: 10px;
+  background: #FFFFFF;
+}
+
+.q-input {
+  border: 0px solid #003b6f;
+  padding: 5px;
+  background: #ffffff;
+  color: #003B6f;
+}
+
+.q-input-label {
+  font-size: 30px;
+  color: #003b6f;
+}
