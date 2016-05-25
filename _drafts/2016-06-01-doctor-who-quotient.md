@@ -3,7 +3,6 @@ layout: post
 title: "Doctor Who Quotient"
 tags: [Doctor Who, Sci-Fi]
 summary: The Doctor Who Quotient is the ratio of the number of TV stories you've seen to the total. It's a measure of how well you know the Doctor. It's also a way to keep track of which episodes you haven't seen yet.
-date: 2016-06-01
 ---
 {% include JB/setup %}
 
@@ -55,4 +54,4 @@ Is `Q` a reasonable way to measure someone's knowledge of Doctor Who? That's cer
 4. **Shada** - Wait, [Shada](https://en.wikipedia.org/wiki/Shada) isn't on the list! It was never completed or aired, so most people don't count it as an official story. Sorry.
 5. **Season 23** - Wait, the entire of Season 23 is only one story? That's unfair! True, but the writers and producers say this is only one story ([The Trial of a Time Lord](https://en.wikipedia.org/wiki/The_Trial_of_a_Time_Lord)). It doesn't get more official than that.
 
-In the end, `Q` is only a useful measurement because there's no ambiguity. People have suggested other metrics over the years, but this is the easiest to understand. Best of all, calcluating your `Q` means making a big list of all the Doctor Who episodes you haven't seen yet.
+In the end, `Q` is only a useful measurement because there's no ambiguity. People have suggested other metrics over the years, but this is the easiest to understand. Best of all, calculating your `Q` means making a big list of all the Doctor Who episodes you haven't seen yet.
