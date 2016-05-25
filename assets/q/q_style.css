@@ -187,6 +187,7 @@ td:nth-child(even) {
   padding: 10px;
   background: #FFFFFF;
   margin: 10px;
+  width: 3em;
 }
 
 .q-input {
@@ -194,6 +195,7 @@ td:nth-child(even) {
   padding: 5px;
   background: #ffffff;
   color: #003B6f;
+  width: 3em;
 }
 
 .q-input-label {
