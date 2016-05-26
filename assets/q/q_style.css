@@ -17,8 +17,8 @@ li {
 /* --------- COLLAPSIBLE PANELS ----------*/
 
 .expandable-panel {
-  //width: 100%;
-  min-width: 450px;
+  width: 100%;
+  //min-width: 450px;
   position: relative;
   min-height: 50px;
   overflow: auto;
