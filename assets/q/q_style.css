@@ -40,9 +40,11 @@ li {
 }
 
 .expandable-panel-heading h2 {
-  padding: 14px 10px 9px 50px;
+  padding: 14px 10px 9px 40px;
   font-size: 18px;
   line-height: 20px;
+  word-wrap: break-word;
+  margin-bottom: 0px;
 }
 
 .expandable-panel-count {
@@ -72,7 +74,7 @@ li {
   height: 20px;
   position: absolute;
   background-image: url(/assets/q/icon-close-open.png);
-  left: 15px;
+  left: 10px;
 }
 
 .expandable-panel-content img {
