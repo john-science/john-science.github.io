@@ -9,20 +9,29 @@ tagline: Q - Calculator
 <script src="/assets/q/jquery-2.2.4.min.js"></script>
 <script src="/assets/q/q.js"></script>
 
-<h2>Q - Calculator</h2>
+<h2>Calculator</h2>
 <form action="#" method="post" class="demoForm" id="demoForm">
   <fieldset>
-    <p>Q = (# of complete stories you've seen) / (# total)</p>
-    <p>
-      <label>Q =
-        <input type="text" name="total" id="total" class="q-total-input" size="3" value="0" readonly="readonly" />
-      </label>
-      / 263
-      <br/>
-      <label class="q-input-label">Q =
-        <input type="text" name="q" id="q" class="q-input" size="3" value="0.00" readonly="readonly" />
-      </label>
-    </p>
+		<table class="eqn-table">
+		  <tr>
+		    <td>
+		      <div style="float:left;">Q = </div>
+		    </td>
+		    <td>
+		      <div style="float:left">
+		        <div class="eqn-numerator">(# of complete stories you've seen) / (# total)</div>
+		        <div style="text-align:center;">
+		          <input type="text" name="total" id="total" class="q-total-input" size="3" value="0" readonly="readonly" /> / 263</div>
+		      </div>
+		    </td>
+		  </tr>
+		</table>
+		<br/>
+		<p>
+		  <label class="q-input-label">Q =
+		    <input type="text" name="q" id="q" class="q-input" size="3" value="0.00" readonly="readonly" />
+		  </label>
+		</p>
     <br/>
 
 
