@@ -142,9 +142,9 @@
     }
 
     //Uncomment these lines if the expandable panels are not a fixed width and need to resize
-    /* $( window ).resize(function() {
+    $( window ).resize(function() {
        panelinit();
-     });*/
+     });
 
     $(window).load(function() {
       panelinit();
