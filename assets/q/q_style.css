@@ -83,7 +83,7 @@ li {
 }
 
 .header-active {
-  background-color: #D0D7F3;
+  background-color: #99b0c5;
 }
 
 table {
@@ -118,6 +118,8 @@ td:nth-child(even) {
   color: rgb(119, 119, 119);
   font-size: 1em;
   font-family:Arial,Helvetica,sans-serif;
+  width: auto;
+  margin-bottom: 0px;
 }
 
 .eqn-numerator {
