@@ -44,14 +44,18 @@ If you started watching Doctor Who today and got totally obsessed, you could wat
 
 Find your quotient using [this handy calculator](/q.html).
 
-### Is `Q` a good metric?
 
-Is `Q` a reasonable way to measure someone's knowledge of Doctor Who? That's certainly debatable, so let's go over the most common criticisms:
+<br/>
+------------------------------------------------------
 
-1. **Episodes, not Stories** - Perhaps we should measure `Q` based on episodes, not stories. It might be more fair to the 16 stories that are only partially lost. Honestly though, combing through 263 stories is enough work. Call me lazy, but digging through all 826 episodes is just too much work.
-2. **Weights too heavily on the Reboot** - Most of the episodes since 2005 have been stand-alone stories. But in the Classic Who, most stories would take place over 4 or 5 episodes. This means that `Q` is weighted more heavily toward reboot episodes. On the other hand, classic episodes were only about 24 minutes long and reboot episodes have been more like 45 minutes, so it's not as bad as it could be.
-3. **Other Media** - What about all of the Doctor Who content: audio tapes, comics, and books? Surely someone who has read every Doctor Who book is a bigger fan than someone who hasn't? True, but it's impossible to count every piece of non-Canonical Doctor Who lore. And it is even harder to weight the value of a book versus a TV episode in a way everyone will like, so let's not try.
-4. **Shada** - Wait, [Shada](https://en.wikipedia.org/wiki/Shada) isn't on the list! It was never completed or aired, so most people don't count it as an official story. Sorry.
-5. **Season 23** - Wait, the entire of Season 23 is only one story? That's unfair! True, but the writers and producers say this is only one story ([The Trial of a Time Lord](https://en.wikipedia.org/wiki/The_Trial_of_a_Time_Lord)). It doesn't get more official than that.
+#### Is `Q` a good metric?
+
+Obviously, we can't take `Q` too seriously. But is it a reasonable way to measure how big a Doctor Who fan you are? It's debatable, so let's go over some possible criticisms:
+
+1. **Episodes, not Stories** - Should `Q` be based on episodes, not stories? It might be more fair to the 16 stories that are only partially lost. The major reason here is laziness. Combing through 263 stories is thorough enough, digging through all 826 episodes is just too much work.
+2. **Weights Too Heavily on the Reboot** - Most of the episodes since 2005 have been stand-alone stories. But in the Classic Who, most stories would take place over 4 or 5 episodes. This means that `Q` is weighted more heavily toward reboot episodes. On the other hand, classic episodes were only about 24 minutes long and reboot episodes have been more like 45 minutes, so it's not as bad as it could be.
+3. **Other Media** - What about all of the Doctor Who content: audio tapes, comics, and books? Surely someone who has read every Doctor Who book is a bigger fan than someone who hasn't? True, but it's impossible to count every piece of non-Canonical Doctor Who lore. And it is even harder to weight the value of a book versus a TV episode in a way everyone will agree with. So let's not try.
+4. **Shada** - Wait, [Shada](https://en.wikipedia.org/wiki/Shada) isn't on the list! Sorry. It was never completed or aired, so it's not on the story count.
+5. **Season 23** - Wait, the entire Season 23 is only one story? That's unfair! True. But the writers and producers said this was only one story ([The Trial of a Time Lord](https://en.wikipedia.org/wiki/The_Trial_of_a_Time_Lord)). So it's officially unfair.
 
 In the end, `Q` is the only way to measure how well you know the Doctor without resorting to standardized testing. But most importantly, calculating your `Q` value means making a big list of all the Doctor Who episodes you haven't seen yet.
