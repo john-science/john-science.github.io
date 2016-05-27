@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Antineutrino
+title: Minor Obsessions
 tagline: A blog of minor obsessions
 ---
 {% include JB/setup %}
