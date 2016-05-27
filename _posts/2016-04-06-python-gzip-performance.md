@@ -2,8 +2,7 @@
 layout: post
 title: "Python GZIP Peformance"
 tags: [Software, Python]
-summary: Minor changes that will boost your GZIP performance on text files in Python.
-date: 2016-04-27
+summary: Improve your Python GZIP performance on text files.
 ---
 {% include JB/setup %}
 
