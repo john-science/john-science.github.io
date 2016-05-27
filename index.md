@@ -5,7 +5,7 @@ tagline: A blog of minor obsessions
 ---
 {% include JB/setup %}
 
-Hello. I'm John and this is a blog of my minor obsessions. The posts are not opinions or rants. They are research and information. They will never be complete. They will never be in a final form.
+Hello. I'm John and this is a blog of my minor obsessions. These posts should not opinions or rants. They should be research and information. Or maybe small projecs. As such, each post will be under continuous revision. I see no reason there should ever be a final version.
 
 <hr />
 
