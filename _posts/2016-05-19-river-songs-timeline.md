@@ -3,7 +3,6 @@ layout: post
 title: "River Song's Timeline"
 tags: [Doctor Who, Sci-Fi]
 summary: Rewatching all of the Doctor Who TV episodes with River Song, but from her timeline.
-date: 2016-05-19
 ---
 {% include JB/setup %}
 
