@@ -23,7 +23,7 @@ srcset="https://c2.staticflickr.com/6/5546/12732868423_07086b58e3_m.jpg 240w,
 https://c2.staticflickr.com/6/5546/12732868423_07086b58e3_n.jpg 320w,
 https://c2.staticflickr.com/6/5546/12732868423_07086b58e3.jpg 500w,
 https://c2.staticflickr.com/6/5546/12732868423_07086b58e3_z.jpg 640w" 
-sizes="(max-width: 40em) 100vw, 50vw"
+sizes="(max-width: 38em) 100vw, 50vw"
 alt="Winter Bliss">
 
 As a beginner in any field it is easy to see the work of masters and not see the skill involved. I was pretty disheartened. After all, I had a camera and was standing on the same spot, looking at the same hill, why shouldn't I be able to make a decent picture? It turns out the original photograph was taken by [Charles O'Rear](https://en.wikipedia.org/wiki/Charles_O%27Rear), who used to work for National Geographic; which might just be the hardest job to get in photography.
@@ -37,7 +37,7 @@ srcset="https://c2.staticflickr.com/4/3785/13679181035_08dcf77519_m.jpg 240w,
 https://c2.staticflickr.com/4/3785/13679181035_08dcf77519_n.jpg 320w,
 https://c2.staticflickr.com/4/3785/13679181035_08dcf77519.jpg 500w,
 https://c2.staticflickr.com/4/3785/13679181035_08dcf77519_z.jpg 640w"
-sizes="(max-width: 40em) 100vw, 50vw"
+sizes="(max-width: 38em) 100vw, 50vw"
 alt="Spring Bliss">
 
 Nature is messy and complicated. But Charles was able to point a camera at it and make it look simple and perfect. In fact, the image was so perfect, I (like [a lot of other people](http://www.slate.com/blogs/future_tense/2014/04/11/charles_o_rear_is_the_photographer_who_took_the_windows_xp_wallpaper_photo.html)) originally thought it was computer graphics. But it's just the product of an organized mind.
