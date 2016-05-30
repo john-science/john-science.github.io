@@ -5,7 +5,7 @@ tagline: A blog of minor obsessions
 ---
 {% include JB/setup %}
 
-Hello. I'm John and this is a blog of my minor obsessions. These posts should not opinions or rants. They should be research and information. Or maybe small projecs. As such, each post will be under continuous revision. I see no reason there should ever be a final version.
+This is a blog of my minor obsessions. My life is a long series of little things that I find totally engrossing for a short while. If one of these things fits in a short blog post, I'll share it.
 
 <hr />
 
