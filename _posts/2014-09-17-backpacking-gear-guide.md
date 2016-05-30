@@ -38,7 +38,13 @@ What follows is a complete gear list for a beginner. Use your own discretion and
 
 When John Muir stepped out into the wilderness he took nothing but an old coat with some oats in the pocket. You are not John Muir. You will want to take all kinds of stuff with you. Unless you rent a burro, you will need a backpack.
 
-![Pack Diagram](http://www.backpackinggear.net/wp-content/uploads/2009/09/Orizaba-and-mojave-Suspension.jpg)
+<img src="/assets/images/backpacking/backpack_hiking_640px.jpg"
+srcset="/assets/images/backpacking/backpack_hiking_1000px.jpg 1000w,
+/assets/images/backpacking/backpack_hiking_640px.jpg 640w,
+/assets/images/backpacking/backpack_hiking_480px.jpg 480w,
+/assets/images/backpacking/backpack_hiking_360px.jpg 360w" 
+sizes="(max-width: 38em) 100vw, 50vw"
+alt="A Backpack in the Wild">
 
 You want a pack with an internal frame. They offers the support you need to carry a lot of weight. Backpacks range in size from 30 litres to over 100 litres. For short (2-4 day) trips, most beginners start out with packs in the 40 to 60-liter range. The important trade-off here is that a bigger pack can hold more things, but that will make it heavier.
 
