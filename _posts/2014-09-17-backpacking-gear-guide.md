@@ -50,6 +50,14 @@ You want a pack with an internal frame. They offers the support you need to carr
 
 Modern packs have a huge variety of pockets, mesh things, straps, zippers and flaps. Of all these fancy extras, the most important is the slot inside that allows you to hold a water bladder. This allows you to sip water from a tube at any moment while you're walking. (Stay hydrated!) When selecting a water bladder for your bag (they're sold separately), get a 3-litre or maybe a 2-litre. Don't go smaller. I carry a 3-litre bladder and a 1-litre bottle.
 
+<img src="/assets/images/backpacking/bladder_scree_ascent_640px.jpg"
+srcset="/assets/images/backpacking/bladder_scree_ascent_1000px.jpg 1000w,
+/assets/images/backpacking/bladder_scree_ascent_640px.jpg 640w,
+/assets/images/backpacking/bladder_scree_ascent_425px.jpg 425w,
+/assets/images/backpacking/bladder_scree_ascent_250px.jpg 250w" 
+sizes="(max-width: 38em) 100vw, 50vw"
+alt="Use a CamelBak bladder while hiking">
+
 The fit is also really important. Try on your backpack in person, with weight in it, and wander around the store before you buy it. Adjusting a modern pack is easy once you get used to it, but is not immediately obvious. The most important thing to know is that the weight should be resting on your hips and not your shoulders.
 
 There is a nice description of how to adjust your new backpack [here](http://www.rei.com/learn/expert-advice/backpacks-adjusting-fit.html).
@@ -62,6 +70,14 @@ There is a nice description of how to adjust your new backpack [here](http://www
 ## Water Purification
 
 > You need a lot of clean drinking water to live.
+
+<img src="/assets/images/backpacking/water_purification_640px.jpg"
+srcset="/assets/images/backpacking/water_purification_1000px.jpg 1000w,
+/assets/images/backpacking/water_purification_640px.jpg 640w,
+/assets/images/backpacking/water_purification_480px.jpg 480w,
+/assets/images/backpacking/water_purification_320px.jpg 320w" 
+sizes="(max-width: 38em) 100vw, 50vw"
+alt="Getting water from a stream">
 
 If you lost access to drinking water right now, you would die in three to five days. If you are stuck outside hiking around with a heavy pack on, it might only be two days.
 
@@ -99,17 +115,20 @@ Please read what they have to say before you head into the wilderness. It is sho
 
 Hiking poles are only necessary because you're carrying so much weight. They help you go up and down steep terrain carrying a heavy load. And they spread your weight over 4 points on the ground, which reduces the chance you'll roll an ankle.
 
-Don't buy your hiking poles online. Try them out in person. You want something that feels comfortable in your hand and is the right height for you. When you hold your trekking pole, your arm should be at a comfortable 90 degrees:
+<img src="/assets/images/backpacking/poles_resting_640px.jpg"
+srcset="/assets/images/backpacking/poles_resting_1000px.jpg 1000w,
+/assets/images/backpacking/poles_resting_640px.jpg 640w,
+/assets/images/backpacking/poles_resting_480px.jpg 480w,
+/assets/images/backpacking/poles_resting_320px.jpg 320w,
+/assets/images/backpacking/poles_resting_240px.jpg 240w" 
+sizes="(max-width: 38em) 100vw, 50vw"
+alt="Trekking Poles at Rest">
 
-![trekking pole length](http://ymmvreviews.com/wp-content/uploads/Trekking-Pole-Lengths.jpg)
+Don't buy your hiking poles online. Try them out in person. You want something that feels comfortable in your hand and is the right height for you. When you hold your trekking pole, your arm should be at a comfortable 90 degrees.
 
 One thing you'll notice about about a modern trekking pole is the strap on the handle is big and strange. If properly used, these straps mean you barely have to hold on to the handle at all. Which is one less thing to distract you from the view. [Here](http://ymmvreviews.com/wp-content/uploads/Trekking-Pole-Straps.jpg) is a nice drawing showing how to use the trekking pole straps.
 
-An important feature of your hiking poles is the locking mechanism used to keep them at the right length:
-
-![Locking Mechanisms](http://assets.outdoorgearlab.com/photos/11/94/240917_31034_XL.jpg)
-
-Some poles have clips, some have clamps, and some just screw down tight to fix the pole at a certain length. My advice is to not get the poles that twist. These do not seem to be as reliable; I have seen them fail multiple times.
+An important feature of your hiking poles is the locking mechanism used to keep them at the right length. Some poles have clips, some have clamps, and some just screw down tight to fix the pole at a certain length. My advice is to not get the poles that twist. These do not seem to be as reliable; I have seen them fail multiple times.
 
 ## Tent
 
@@ -135,15 +154,7 @@ When selecting a sleeping bag pay careful attention to its 'temperature rating'.
 
 In backpacking you quickly learn when is essential to life and what is a luxury. Well, if sleeping pads are a luxury they are the #1 best luxury and the first one you should add to your pack.
 
-A sleeping pad is a foam or inflatable miniature mattress that you put underneath your sleeping pad. They make the ground a lot softer and almost everyone says they help you sleep. They also serve the important function of insulating you from the cold ground at night.
-
-The slightly heavier, but much cheaper, options are the foam mattress pads:
-
-![foam sleeping pad](http://image.dhgate.com/albu_265071287_00/1.0x0.jpg)
-
-A much more comfortable option is an inflatable pad:
-
-![inflatable sleeping pad](http://assets.outdoorgearlab.com/photos/10/69/228457_10986_XL.jpg)
+A sleeping pad is a foam or inflatable miniature mattress that you put underneath your sleeping bag. They make the ground a lot softer and almost everyone says they help you sleep. They also serve the important function of insulating you from the cold ground at night. The inflatable matresses are a lot more expensive than the foam matresses, but they also pack down a much smaller and are a lot more comfortable.
 
 Aside from price and weight, the most important feature in an inflatable sleeping pad is how it is inflated. Some pads have to be inflated like a large balloon, with your mouth. Which is easy enough at home. But if you've been hiking for 12 hours and you're tired, it's a loathsome task. And if you are trying to set up camp at elevation, the exertion needed to fill the pad can be a dizzying pain. More modern pads have hand pumps built right in. These are much easier to fill. But, honestly, either will be fine.
 
@@ -188,6 +199,14 @@ When you're camping you need to put all of your food and toiletries (anything wi
 A bear can adds some weight, but bring it anyway. Put it 100 yards from your camp site and it will prevent curious bears from eating all your food.
 
 ![A Good Bear Can](http://www.curlybrace.com/words/wp-content/uploads/2009/05/hf_bearcannister.png)
+
+<img src="/assets/images/backpacking/bear_can_and_gear_pile_640px.jpg"
+srcset="/assets/images/backpacking/bear_can_and_gear_pile_1000px.jpg 1000w,
+/assets/images/backpacking/bear_can_and_gear_pile_640px.jpg 640w,
+/assets/images/backpacking/bear_can_and_gear_pile_480px.jpg 480w,
+/assets/images/backpacking/bear_can_and_gear_pile_320px.jpg 320w"
+sizes="(max-width: 38em) 100vw, 50vw"
+alt="A bear can in a pile of gera">
 
  * **TIP**: The transparent bear cans seem like an awesome idea. But the screw-top lids are a huge pain. And bears in Yosemite have learned to open them. Just get the black bear can shown above.
 
@@ -274,6 +293,14 @@ This is one of the places where beginners get into trouble. Sure, you probably n
 
 > Bring good trail maps. Make sure you can read them. Put them in a water proof plastic bag.
 
+<img src="/assets/images/backpacking/maps_exploring_640px.jpg"
+srcset="/assets/images/backpacking/maps_exploring_640px.jpg 640w,
+/assets/images/backpacking/maps_exploring_480px.jpg 480w,
+/assets/images/backpacking/maps_exploring_320px.jpg 320w,
+/assets/images/backpacking/maps_exploring_250px.jpg 250w" 
+sizes="(max-width: 38em) 100vw, 50vw"
+alt="Reading a map on the trail">
+
 ## The Backpacking Knife
 
 > A knife is an extremely versatile tool.
@@ -349,3 +376,11 @@ If you want information on a particular piece of gear, http://www.outdoorgearlab
 This is meant to be an introductory primer. I did not cover cold-weather camping. I did not cover elevation sickness. I did not cover how to deal with grizzly bears, lions, polar bears, or poisonous snakes. I did not cover wilderness navigation or medical emergencies. Before you go out into the wild, you need to research the place you are going. Talk to your local experts.
 
 > No one is responsible for your safety but you.
+
+<img src="/assets/images/backpacking/whitney_ascent_640px.jpg"
+srcset="/assets/images/backpacking/whitney_ascent_1000px.jpg 1000w,
+/assets/images/backpacking/whitney_ascent_640px.jpg 640w,
+/assets/images/backpacking/whitney_ascent_480px.jpg 480w,
+/assets/images/backpacking/whitney_ascent_320px.jpg 320w" 
+sizes="(max-width: 38em) 100vw, 50vw"
+alt="Hiking into the mountains">
