@@ -8,11 +8,11 @@ summary: The Doctor Who Quotient is the ratio of the number of TV stories you've
 
 > How well do you know the Doctor?
 
-That question is just a bit too timey-wimey for me. I want a number.
+How big a fan of the show are you? And I don't want some timey-wimey answer. I want a number.
 
 ### The Doctor Who Quotient
 
-Your Doctor Who Quotient (`Q`) is the number of complete stories you have watched divided by the total number possible (263):
+Your Doctor Who Quotient (`Q`) is the number of complete stories you have seen divided by the number possible (263):
 
     Q = (# stories you've seen) / 263
 
@@ -43,7 +43,6 @@ If you started watching Doctor Who today and got totally obsessed, you could wat
     Q = (263 - 26) / 263 = 0.9  (wildly insane)
 
 To find your `Q`, try the [Q Calculator](/q.html).
-
 
 <br/>
 ------------------------------------------------------
