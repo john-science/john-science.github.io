@@ -198,8 +198,6 @@ When you're camping you need to put all of your food and toiletries (anything wi
 
 A bear can adds some weight, but bring it anyway. Put it 100 yards from your camp site and it will prevent curious bears from eating all your food.
 
-![A Good Bear Can](http://www.curlybrace.com/words/wp-content/uploads/2009/05/hf_bearcannister.png)
-
 <img src="/assets/images/backpacking/bear_can_and_gear_pile_640px.jpg"
 srcset="/assets/images/backpacking/bear_can_and_gear_pile_1000px.jpg 1000w,
 /assets/images/backpacking/bear_can_and_gear_pile_640px.jpg 640w,
