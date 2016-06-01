@@ -12,7 +12,9 @@ How big a fan of the show are you? And I don't want some timey-wimey answer. I w
 
 Your Doctor Who Quotient (`Q`) is the fraction of complete stories you have seen:
 
-    Q = (# stories you've seen) / 263
+{% highlight python %}
+Q = (# stories you have seen) / 263
+{% endhighlight %}
 
 Try the [Q Calculator](/q.html).
 
