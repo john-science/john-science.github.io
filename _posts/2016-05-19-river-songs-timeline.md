@@ -6,7 +6,7 @@ summary: Rewatching all of the Doctor Who TV episodes with River Song, but from 
 ---
 {% include JB/setup %}
 
-I want to re-watch all of the Doctor Who TV episodes with River Song, but from her timeline.This involved a bit of research, so I thought I'd share the results.
+I want to re-watch all of the Doctor Who TV episodes with River Song, but from her timeline. Pulling this together took a bit of research, so I thought I'd share the results.
 
 ### River Song's Timeline - by Episode
 
@@ -28,12 +28,12 @@ Story | Series | Episode Name
 159b | 4 | [Forest of the Dead](http://tardis.wikia.com/wiki/Forest_of_the_Dead)
 238 | 7 | [The Name of the Doctor](http://tardis.wikia.com/wiki/The_Name_of_the_Doctor_%28TV_story%29)
 
-Beware, the first three episodes have River Song at multiple points in her timeline. So it doesn't feel like you are linearly following her through time at the start. But after those first few, it becomes much more linear.
+Beware: the first three episodes have River Song at multiple points in her timeline. So it doesn't *feel* like you are following her timeline, exaclty. But after those those, it becomes much more linear.
 
 ### Huge Story Arc
 
-The River Song story arc is pretty big. Here are some fun metrics to that effect.
+The River Song story arc is pretty big:
 
 * **River meets 3 Doctors** (that we know of)
 * **River is in 15 episodes**
-* **Total run time above: 12 hours** (actually 11 hrs, 55 mins)
+* **Total run time above: 12 hours**
