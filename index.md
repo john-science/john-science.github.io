@@ -5,7 +5,7 @@ tagline: A blog of minor obsessions
 ---
 {% include JB/setup %}
 
-This is a blog of my minor obsessions. My life is a long series of little things that I find totally engrossing for a short while. If one of these things fits in a short blog post, I'll share it.
+This is a blog of my minor obsessions. My life is filled with little things that I find totally engrossing for a short time. If one of these things fits in a blog post, I'll share it.
 
 <hr />
 
