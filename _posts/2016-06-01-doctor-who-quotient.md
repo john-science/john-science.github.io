@@ -24,15 +24,15 @@ Doctor Who has always been broken into "stories". Sometimes a single episode is 
 * [155](https://en.wikipedia.org/wiki/List_of_Doctor_Who_serials#First_Doctor) stories aired between 1964 and 1989
 * [26](https://en.wikipedia.org/wiki/Doctor_Who_missing_episodes) of the original 155 stories are at least partially lost
 * [1](https://en.wikipedia.org/wiki/Doctor_Who_%28film%29) made-for-TV movie was made in 1996
-* [107](https://en.wikipedia.org/wiki/List_of_Doctor_Who_serials#Ninth_Doctor) stories have aired since the 2005 re-boot
+* [107](https://en.wikipedia.org/wiki/List_of_Doctor_Who_serials#Ninth_Doctor) stories have aired since the 2005 reboot
 
 ### What's Your Quotient?
 
-If you are a serious reboot Whovian, and have been watching since 2005, your `Q` could be as high as:
+If you are a serious Nu-Whovian, and have been watching since 2005, your `Q` could be as high as:
 
     Q = 107 / 263 = 0.4  (serious fan)
 
-A classic Whovian, who watched religiously from 1964 to 1989 might have a `Q` as high as:
+A classic Whovian, who watched religiously from 1964 to 1989, might have a `Q` as high as:
 
     Q = 155 / 263 = 0.59  (addict)
 
