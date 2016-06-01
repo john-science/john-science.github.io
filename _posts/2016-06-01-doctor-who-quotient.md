@@ -13,7 +13,7 @@ How big a fan of the show are you? And I don't want some timey-wimey answer. I w
 Your Doctor Who Quotient (`Q`) is the fraction of complete stories you have seen:
 
 {% highlight python %}
-Q = (# stories you have seen) / 263
+Q = (num stories you have seen) / 263
 {% endhighlight %}
 
 Try the [Q Calculator](/q.html).
@@ -32,14 +32,20 @@ Doctor Who has always been broken into "stories". Sometimes a single episode is 
 
 If you are a serious Nu-Whovian, and have been watching since 2005, your `Q` could be as high as:
 
-    Q = 107 / 263 = 0.4  (serious fan)
+{% highlight python %}
+Q = 107 / 263 = 0.4  (serious fan)
+{% endhighlight %}
 
 A classic Whovian, who watched religiously from 1964 to 1989, might have a `Q` as high as:
 
-    Q = 155 / 263 = 0.59  (addict)
+{% highlight python %}
+Q = 155 / 263 = 0.59  (addict)
+{% endhighlight %}
 
 If you started watching Doctor Who today and got totally obsessed, you could watch all the stories except the lost 26. This could put your `Q` as high as:
 
-    Q = (263 - 26) / 263 = 0.9  (wildly insane)
+{% highlight python %}
+Q = (263 - 26) / 263 = 0.9  (wildly insane)
+{% endhighlight %}
 
 [Find  your Q.](/q.html)
