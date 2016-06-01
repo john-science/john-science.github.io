@@ -55,16 +55,16 @@ Lens | FL<br/><sub>(mm)</sub> | Ap<br/><sub>(max)</sub> | Cost<br/><sub>(~$)</su
 
 #### Length
 
- * The lengths shown include the adapter, if it is not a native FE-mount lens.
+ * The lengths shown include the adapter, if any.
 
 #### Weight
 
- * The weights shown do not include the adapter, if it is not a native FE-mount lens.
+ * The weights shown do not include the adapter, if any.
 
 #### Cost
 
  * The costs shown are in approximate US Dollars.
- * The costs shown are based on E-Bay and Amazon searches done in early 2015.
+ * The costs shown are based on E-Bay and Amazon searches done in early 2016.
  * The costs shown do NOT include the cost of a mount adapter for non-native lenses.
 
 ### Comments?
