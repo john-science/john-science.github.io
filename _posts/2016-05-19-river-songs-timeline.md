@@ -2,11 +2,11 @@
 layout: post
 title: "River Song's Timeline"
 tags: [Doctor Who, Sci-Fi]
-summary: Rewatching all of the Doctor Who TV episodes with River Song, but from her timeline.
+summary: Watching all of the Doctor Who episodes with River Song, but from her timeline.
 ---
 {% include JB/setup %}
 
-I want to re-watch all of the Doctor Who TV episodes with River Song, but from her timeline. Pulling this together took a bit of research, so I thought I'd share the results.
+I want to re-watch all of the Doctor Who TV episodes with River Song, but from her timeline. Deciphering the order took a bit of research, so I thought I'd share my results.
 
 ### River Song's Timeline - by Episode
 
@@ -28,8 +28,6 @@ Story | Series | Episode Name
 159b | 4 | [Forest of the Dead](http://tardis.wikia.com/wiki/Forest_of_the_Dead)
 238 | 7 | [The Name of the Doctor](http://tardis.wikia.com/wiki/The_Name_of_the_Doctor_%28TV_story%29)
 
-Beware: the first three episodes have River Song at multiple points in her timeline. So it doesn't *feel* like you are following her timeline, exaclty. But after those those, it becomes much more linear.
-
 ### Huge Story Arc
 
 The River Song story arc is pretty big:
@@ -37,3 +35,8 @@ The River Song story arc is pretty big:
 * **River meets 3 Doctors** (that we know of)
 * **River is in 15 episodes**
 * **Total run time above: 12 hours**
+
+### Post Mortem
+
+The first three episodes in the above list actully have River at multiple points in her own time line. So it doesn't *feel* like you're walking through her life with her, exactly. But after those first few, everything becomes a lot more linear. River Song really has great chemistry with Matt Smith's Doctor, so the first three-quarters of the Timeline is really pretty great. Round about the `The Husbands of River Song` episode, things start to get pretty sad. No spoilers, but the last quarter of the episodes on the Timeline had a lot more feels for me when I watched them from her perspective. Having watched them all again, I think I might remove the last episode from the list. It doesn't really fit.
+
