@@ -2,21 +2,21 @@
 layout: post
 title: "The Most Famous Photograph"
 tags: [Photography]
-summary: The most famous photograph of all time.
+summary: What can we really learn from the most famous photograph of all time?
 ---
 {% include JB/setup %}
 
-> What is fame?
+Like a lot of people, after I bought my first camera I started looking at the work of famous photographers. It seemed natural enough. At some point, an un-fair question occurred to me. What the most famous photograph of all time?
 
-I am not talking about the *best* photograph in the world. It is hard to measure that. So this is all about numbers. In this case, the most *famous* photograph in the world is the one that has seen by the most people.
-
-So, what photograph is that?
+It turns out, this photograph has been seen by more people than any other:
 
 ![Bliss](https://upload.wikimedia.org/wikipedia/en/7/7d/Bliss.png)
 
-This was the default Windows XP background. And by virtue of that alone at least a billion people have seen it [[citation needed]](https://xkcd.com/285/). In fact, as late as July, 2013, [25 percent](http://www.zdnet.com/article/how-long-before-microsoft-windows-xp-disappears/) of all the desktop computers on the planet still ran Windows XP.
+[Bliss](https://en.wikipedia.org/wiki/Bliss_%28image%29) was the default background for Windows XP. By virtue of that alone at least a billion people have seen it [[citation needed]](https://xkcd.com/285/). Even as late as 2013, [25 percent](http://www.zdnet.com/article/how-long-before-microsoft-windows-xp-disappears/) of all the desktop computers on the planet still ran Windows XP.
 
-As luck would have it, I used to live a short 15-minute drive away from the place in Sonoma where this photograph was taken. And when I got my first camera I would stop by that sunny little spot on the side of the road and try to recreate this photograph. My first attempts were uninspiring:
+I felt lucky. I lived only 15-minutes away from the place in Sonoma, California where the photo was taken. I would drive out there at lunch and on weekends with my first camera and try to recreate the image.
+
+My first attempts were uninspiring:
 
 <img src="https://c2.staticflickr.com/6/5546/12732868423_07086b58e3_n.jpg"
 srcset="https://c2.staticflickr.com/6/5546/12732868423_07086b58e3_m.jpg 240w,
@@ -26,11 +26,11 @@ https://c2.staticflickr.com/6/5546/12732868423_07086b58e3_z.jpg 640w"
 sizes="(max-width: 38em) 100vw, 50vw"
 alt="Winter Bliss">
 
-As a beginner in any field it is easy to see the work of masters and not see the skill involved. I was pretty disheartened. After all, I had a camera and was standing on the same spot, looking at the same hill, why shouldn't I be able to make a decent picture? It turns out the original photograph was taken by [Charles O'Rear](https://en.wikipedia.org/wiki/Charles_O%27Rear), who used to work for National Geographic; which might just be the hardest job to get in photography.
+I was crushed. After all, I was standing on the same spot, looking at the same hill, why shouldn't I be able to at least make a decent picture? As a beginner I could only see the most basic elements of the professionals work, and therefore reasoned I should be able to reproduce that work. I could see a hill in the photo, but I couldn't see all the other hills that got passed up that day. I couldn't see the choice of camera. I couldn't see the subtle framing decisions. The world seems so much simpler if you don't know anything about it.
 
-These days, Charles has the [enviable life](http://framework.latimes.com/2014/05/30/charles-orears-road-to-bliss/#/0) of travelling around the world and photographing various wine regions. In fact, he was doing just that when he stopped by the side of the road one day and took this picture; he was living in Napa and working on a photo book of the wine country. Perhaps that is just the kind of freedom one gets after a lifetime of such [success](http://www.cnet.com/au/news/its-bliss-behind-the-iconic-windows-xp-photo/).
+It turns out the original photograph was made by [Charles O'Rear](https://en.wikipedia.org/wiki/Charles_O%27Rear), who used to work for National Geographic; which might just be the hardest job to get in photography. He is so [successful](http://www.cnet.com/au/news/its-bliss-behind-the-iconic-windows-xp-photo/) that he now spends his life traveling the world, [photographing wine regions](http://framework.latimes.com/2014/05/30/charles-orears-road-to-bliss/#/0). That's actually what he was doing when he took the photo above.
 
-I have since moved away from Sonoma and the wine county (more's the pity). Some days I think of going back and making a better image of it "knowing what I know now". But the truth is, even before I left the hill had been covered with grape vines, and then a road was build across it:
+I have, sadly, moved away from the wine country. For a while I had the urge to go back and make a better image of the hill "knowing what I know now". But it turns out they have built a road over the hill and planted grape vines on it:
 
 <img src="https://c2.staticflickr.com/4/3785/13679181035_08dcf77519_n.jpg"
 srcset="https://c2.staticflickr.com/4/3785/13679181035_08dcf77519_m.jpg 240w,
@@ -40,6 +40,6 @@ https://c2.staticflickr.com/4/3785/13679181035_08dcf77519_z.jpg 640w"
 sizes="(max-width: 38em) 100vw, 50vw"
 alt="Spring Bliss">
 
-Nature is messy and complicated. But Charles was able to point a camera at it and make it look simple and perfect. In fact, the image was so perfect, I (like [a lot of other people](http://www.slate.com/blogs/future_tense/2014/04/11/charles_o_rear_is_the_photographer_who_took_the_windows_xp_wallpaper_photo.html)) originally thought it was computer graphics. But it's just the product of an organized mind.
+Now no one can recreate the image. But that's for the best. Even if I had been with Charles on the day he made that photo, mine wouldn't have turned out as well as his. I might have only been standing two feet away from him, but I still would have been holding my first camera. And he would have had thousands of hours more practice than I did. In reality, how much practice was I getting, driving to that same spot all the time, trying to recreate one photograph? I was clicking a button on my camera, sure. But I wasn't doing what Charles had been doing the day he originally took the photograph: just driving around and looking for things that strike him as beautiful.
 
-I was originally only interested in [Bliss](https://en.wikipedia.org/wiki/Bliss_%28image%29) because it was a little piece of local color. But if you're ever in Sonoma, you can go take a look at it for yourself. And when you're done, not 200 feet away, you can go to the [Fremont Diner](http://www.yelp.com/biz/the-fremont-diner-sonoma). That is my favourite restaurant anywhere. It's just a diner, but baked into every bisquit is Napa's modern sensibilities about food. If you're planning your day, I think both the hill and diner are best at breakfast.
+If you're ever in Sonoma, you can try and recreate the photo yourself. Or don't. Instead, not 100 yards away from [that same spot](https://tools.wmflabs.org/geohack/geohack.php?pagename=Bliss_%28image%29&params=38_15_00.5_N_122_24_38.9_W_region:NL_type:landmark) is my favorite restaurant: the [Fremont Diner](http://www.yelp.com/biz/the-fremont-diner-sonoma). I miss it. It's just a diner, but with Napa's sensibilities about good food. Instead of chasing someone else's success, have a buttermilk bisquit. You'll be better for it.
