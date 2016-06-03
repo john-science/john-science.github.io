@@ -12,7 +12,13 @@
     var panelCounts = [8, 9, 10, 9, 7, 7, 4, 5, 5, 5,
                        5, 5, 6, 6, 6, 6, 5, 7, 7, 7,
                        7, 6, 1, 4, 4, 4, 1, 10, 11, 10,
-                       11, 4, 10, 12, 17, 11, 11]
+                       11, 4, 10, 12, 17, 11, 11, 13]
+    var storyLimits = [0, 8, 17, 27, 36, 43, 50, 54, 59,
+                       64, 69, 74, 79, 85, 91, 97, 103,
+                       108, 115, 122, 129, 136, 142,
+                       143, 147, 151, 155, 156, 166,
+                       177, 187, 198, 202, 212, 224,
+                       241, 252, 263, 276]
 
     // Hash Step 1: On Page Load, read URL hash and parse it, checking boxes where available.
     var numStories = 263;
@@ -158,9 +164,35 @@
         box = document.getElementById('story' + i);
         box.onclick = updateTotal;
       }
+
+      // assign updateGroupTotal function to onclick for group checkbox
+      for (var j = 1; j <= numStories; j++) {
+        groupBox = document.getElementById('group' + j.toString());
+        groupBox.onclick = updateGroupTotal;
+      }
     }
 
-    // called onclick of toppings checkboxes
+    // call onclick for group checkboxes
+    function updateGroupTotal(e) {
+      ind = parseInt(this.id.substr(5));
+      //alert(storyLimits[ind]);
+      for (var k = storyLimits[ind - 1] + 1; k <= storyLimits[ind]; k++) {
+        //alert(k);
+        box = document.getElementById('story' + k.toString());
+        // Is the box currently checked?
+        if (this.checked == true) {
+          if (box.checked == false) {
+            box.click();
+          }
+        } else {
+          if (box.checked == true) {
+            box.click();
+          }
+        }
+      }
+    }
+
+    // call onclick for story checkboxes
     function updateTotal(e) {
       // 'this' is reference to checkbox clicked on
       var form = this.form;

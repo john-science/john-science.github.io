@@ -104,6 +104,10 @@ tr:nth-child(even) {
 }
 
 td:nth-child(odd) {
+    width: 12%;
+}
+
+td:first-child {
     width: 10%;
 }
 
