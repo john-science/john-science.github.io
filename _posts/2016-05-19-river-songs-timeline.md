@@ -6,7 +6,7 @@ summary: Watching all of the Doctor Who episodes with River Song, but from her t
 ---
 {% include JB/setup %}
 
-I want to re-watch all of the Doctor Who TV episodes with River Song, but from her timeline. Deciphering the order took a bit of research, so I thought I'd share my results.
+I wanted to re-watch all of the Doctor Who episodes with River Song, but from her timeline. Deciphering the order took a bit of research, so I thought I'd share my results.
 
 ### River Song's Timeline - by Episode
 
@@ -26,7 +26,7 @@ Story | Series | Episode Name
 260 | 9 | [The Husbands of River Song](http://tardis.wikia.com/wiki/The_Husbands_of_River_Song_%28TV_story%29)
 159a | 4 | [Silence in the Library](http://tardis.wikia.com/wiki/Silence_in_the_Library)
 159b | 4 | [Forest of the Dead](http://tardis.wikia.com/wiki/Forest_of_the_Dead)
-238 | 7 | [The Name of the Doctor](http://tardis.wikia.com/wiki/The_Name_of_the_Doctor_%28TV_story%29)
+238 | 7 | [The Name of the Doctor](http://tardis.wikia.com/wiki/The_Name_of_the_Doctor_%28TV_story%29)<br/><sup>*Optional</sup>
 
 ### Huge Story Arc
 
@@ -38,5 +38,12 @@ The River Song story arc is pretty big:
 
 ### Post Mortem
 
-The first three episodes in the above list actully have River at multiple points in her own time line. So it doesn't *feel* like you're walking through her life with her, exactly. But after those first few, everything becomes a lot more linear. River Song really has great chemistry with Matt Smith's Doctor, so the first three-quarters of the Timeline is really pretty great. Round about the `The Husbands of River Song` episode, things start to get pretty sad. No spoilers, but the last quarter of the episodes on the Timeline had a lot more feels for me when I watched them from her perspective. Having watched them all again, I think I might remove the last episode from the list. It doesn't really fit.
+It took a while, but I finally re-watched all these episodes.
 
+I should say that the first three episodes in the above list actually have River at multiple points in her own time line. So those episodes are the ones that feel least like you are actually walking through her life alongside her. But after those first few, the list becomes a lot more cohesive.
+
+The River Song stories were built around Matt Smith's Doctor, so the first three-quarters of the time line is one big story arc. And it's a good one. Round about the episode *The Husbands of River Song*, the time line starts to get somber. **No spoilers**, but the last quarter of the time line had a lot more impact for me when I watched them from her perspective.
+
+After watching them all again, I don't think the last episode really needs to be on the list. The second-to-last episode is really the conclusion of the story. And the last episode only *kind of* has River in it anyway. So I marked it as optional.
+
+I really enjoyed watching the episodes in this order. Watching them all in this strange, jumbled order added an extra dimension to the show. Just a little bit of thought is required to figure out where each character is in their own time line. And it adds a lot of depth to the characters to try and think about things from their point of view. This was a marvelous experiment.
