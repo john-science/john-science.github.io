@@ -36,14 +36,16 @@ The River Song story arc is pretty big:
 * **River is in 15 episodes**
 * **Total run time above: 12 hours**
 
-### Post Mortem
+### Post-Mortem
 
-It took a while, but I finally re-watched all these episodes.
+It took a while, but I finally re-watched all those episodes.
 
-I should say that the first three episodes in the above list actually have River at multiple points in her own time line. So those episodes are the ones that feel least like you are actually walking through her life alongside her. But after those first few, the list becomes a lot more cohesive.
+> **NO SPOILERS**
 
-The River Song stories were built around Matt Smith's Doctor, so the first three-quarters of the time line is one big story arc. And it's a good one. Round about the episode *The Husbands of River Song*, the time line starts to get somber. **No spoilers**, but the last quarter of the time line had a lot more impact for me when I watched them from her perspective.
+I should say, the first three episodes above actually have River at multiple points in her own timeline. So those episodes feel less like you are walking through her life alongside her. But after those first few, the timeline becomes a lot more linear.
 
-After watching them all again, I don't think the last episode really needs to be on the list. The second-to-last episode is really the conclusion of the story. And the last episode only *kind of* has River in it anyway. So I marked it as optional.
+The River Song stories were built around Matt Smith's Doctor, so the first three-quarters of the timeline is one big story arc. And it's a good one. Things start to get somber around the episode *The Husbands of River Song*. No spoilers, but the last quarter of the timeline had a lot more impact for me when I watched them from her perspective.
 
-I really enjoyed watching the episodes in this order. Watching them all in this strange, jumbled order added an extra dimension to the show. Just a little bit of thought is required to figure out where each character is in their own time line. And it adds a lot of depth to the characters to try and think about things from their point of view. This was a marvelous experiment.
+After watching them all again, I don't think the last episode really needs to be on the list. The second-to-last episode is really the conclusion of the River story arc. And the last episode only *kind of* has her in it anyway. So I marked it as optional.
+
+In the end, I really enjoyed watching the episodes in this order. It added an extra dimension to the them. Just a little bit of thought was required to figure out where each character was in their own timeline. And thinking more about the characters perspective gave the characters more depth. This was a marvelous experiment. I'm glad I did it. And I'm glad I did it with my best friend.
