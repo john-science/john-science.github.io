@@ -111,7 +111,7 @@ Please read what they have to say before you head into the wilderness. It is sho
 
 ## Trekking Poles
 
-> Wrist straps are you friend.
+> Wrist straps are your friend.
 
 Hiking poles are only necessary because you're carrying so much weight. They help you go up and down steep terrain carrying a heavy load. And they spread your weight over 4 points on the ground, which reduces the chance you'll roll an ankle.
 
