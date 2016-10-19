@@ -46,7 +46,8 @@ These days start before the Sun and Moon exist, but end in the early written his
 * 150: The Dwarves renew their trade in [Beleriand](https://en.wikipedia.org/wiki/Beleriand).
 * 502: [Húrin](https://en.wikipedia.org/wiki/H%C3%BArin) brings the [Nauglamír](https://en.wikipedia.org/wiki/Middle-earth_objects#Nauglam.C3.ADr) from Nargothrond to King [Thingol](https://en.wikipedia.org/wiki/Thingol) of [Doriath](https://en.wikipedia.org/wiki/Doriath).
 * 503: Doriath is sacked by Dwarves of Nogrod.
-* 590: Melkor is cast into the void forever.
+* 545-587: [The War of Wrath](http://lotr.wikia.com/wiki/War_of_Wrath); after which most the world West of the [Blue Mountains](http://lotr.wikia.com/wiki/Blue_Mountains) is sunk into the sea. And the two ancient houses of Dwarves Nogrod and Belegost are destroyed; the few survivors flee to Khazad-dûm. The two remaining Silmarils are lost.
+* 590: Melkor is cast into the void.
 
 ### Second Age
 
@@ -73,7 +74,7 @@ The third age lasts 3021 years, and during this time the number of Dwarves on Ar
 * 2570-2589: [The War of the Dwarves and Dragons](https://en.wikipedia.org/wiki/Middle-earth_wars_and_battles#War_of_the_Dwarves_and_Dragons) was fought between the Dwarves of the [Grey Mountains](http://tolkiengateway.net/wiki/Grey_Mountains) and the fire drakes from the Northern Waste. The Dwarves eventually lose and the survivors flee to resettle in Erebor and the Iron Hills.
 * 2770: The fire drake [Smaug the Golden](https://en.wikipedia.org/wiki/Smaug) captures Erebor, killing many.
 * c 2780-2790: After fleeing Smaug in Erebor, the Longbeards temporarily settls in the human settlement of [Dunland](https://en.wikipedia.org/wiki/Minor_places_in_Middle-earth_%28fictional%29#Dunland) in the foothills of the Misty Mountains.
- * [Thrór](https://en.wikipedia.org/wiki/Middle-earth_dwarf_characters#Thr.C3.B3r) is King, until his death, then his son [Thrain II](https://en.wikipedia.org/wiki/Thr%C3%A1in_II) is King-in-exile, and his son Thorin waits to be King.
+ * [Thrór](https://en.wikipedia.org/wiki/Middle-earth_dwarf_characters#Thr.C3.B3r) is King, until his death, then his son [Thrain II](https://en.wikipedia.org/wiki/Thr%C3%A1in_II) is King-in-exile.
 * 2790: King Thrór enters Moria alone and is kill by Azog the Orc, who defiles his body and mocks the Dwarves.
 * 2790: Nár, servant of Thrór, brings word of his death back to Thrain II, his son. Thrain II does not eat or sleep for seven days, then declares war.
 * 2790-2793: The [Longbeards](https://en.wikipedia.org/wiki/Middle-earth_dwarf_characters#Durin.27s_folk) gather fighting forces from all seven clans of Dwarves across the world, to re-take Moria.
@@ -88,25 +89,28 @@ The third age lasts 3021 years, and during this time the number of Dwarves on Ar
 * 2859: Birth of [Fíli](https://en.wikipedia.org/wiki/Middle-earth_dwarf_characters#F.C3.ADli) son of [Dís](https://en.wikipedia.org/wiki/Middle-earth_dwarf_characters#D.C3.ADs)
 * 2864: Birth of [Kíli](https://en.wikipedia.org/wiki/Middle-earth_dwarf_characters#K.C3.ADli) son of [Dís](https://en.wikipedia.org/wiki/Middle-earth_dwarf_characters#D.C3.ADs)
 * 2879: Birth of [Gimli](https://en.wikipedia.org/wiki/Gimli_%28Middle-earth%29) son of [Glóin](http://lotr.wikia.com/wiki/Gl%C3%B3in)
-* 2941: Thorin Oakenshield begins the [Quest of Erebor](https://en.wikipedia.org/wiki/The_Quest_of_Erebor) with his close relations: Balin, Fili, Kili, Glóin, [Óin](http://lotr.wikia.com/wiki/%C3%93in), [Dwalin](http://lotr.wikia.com/wiki/Dwalin), [Dori](http://lotr.wikia.com/wiki/Dori), [Nori](http://lotr.wikia.com/wiki/Nori), [Ori](http://lotr.wikia.com/wiki/Ori), [Bifur](http://lotr.wikia.com/wiki/Bifur), [Bofur](http://lotr.wikia.com/wiki/Bofur), and [Bombur](http://lotr.wikia.com/wiki/Bombur). At the request of Gandalf, they invite the Hobbit [Bilbo Baggins](https://en.wikipedia.org/wiki/Bilbo_Baggins).
+* 2941: [Thorin](https://en.wikipedia.org/wiki/Thorin_Oakenshield), son of Thrain II, begins the [Quest of Erebor](https://en.wikipedia.org/wiki/The_Quest_of_Erebor) with his close relations: Balin, Fili, Kili, Glóin, [Óin](http://lotr.wikia.com/wiki/%C3%93in), [Dwalin](http://lotr.wikia.com/wiki/Dwalin), [Dori](http://lotr.wikia.com/wiki/Dori), [Nori](http://lotr.wikia.com/wiki/Nori), [Ori](http://lotr.wikia.com/wiki/Ori), [Bifur](http://lotr.wikia.com/wiki/Bifur), [Bofur](http://lotr.wikia.com/wiki/Bofur), and [Bombur](http://lotr.wikia.com/wiki/Bombur). At the request of Gandalf, they invite the Hobbit [Bilbo Baggins](https://en.wikipedia.org/wiki/Bilbo_Baggins).
 * 2941: Bilbo Baggins obtains the [One Ring](https://en.wikipedia.org/wiki/One_Ring) from the creature Gollum.
 * 2491: The White Council drives Sauron out of Dol Guldur.
 * 2941: Thorin sends Bilbo alone into Erebor to face Smaug.
 * 2941: Esgaroth is attacked by the dragon Smaug, who is consequentially killed by Bard the Bowman.
 * 2941: Bilbo steals the Arkenstone and attempts to use it to forestall a war with Mirkwood Elves and Laketown Humans.
-* 2491: Thorin Oakenshield, Fíli, and Kíli killed at [The Battle of the Five Armies](https://en.wikipedia.org/wiki/Middle-earth_wars_and_battles#Battle_of_Five_Armies) along with Bolg son of Azog. Dáin II Ironfoot becomes King of The Lonely Mountain and recieves the Arkenstone. The town of Dale re-established by Bard.
+* 2491: Thorin, Fíli, and Kíli killed in [The Battle of the Five Armies](https://en.wikipedia.org/wiki/Middle-earth_wars_and_battles#Battle_of_Five_Armies) along with Bolg son of Azog. Dáin II Ironfoot becomes King of The Lonely Mountain and recieves the Arkenstone. The town of Dale re-established by Bard.
 * 2989: [Balin](https://en.wikipedia.org/wiki/Balin_%28Middle-earth%29) takes a company of Dwarves to recolonize Moria. They succeed for a time, and even find [Durin's Axe](https://en.wikipedia.org/wiki/Middle-earth_weapons_and_armour#Durin.27s_Axe).
 * 2994: King Balin is killed by an Orc arrow by outside Moria in [Dimrill Dale](https://en.wikipedia.org/wiki/Minor_places_in_Middle-earth_%28fictional%29#Dimrill_Dale). His tome is built in his throne room; the [Chamber of Mazarbul](https://en.wikipedia.org/wiki/Moria_%28Middle-earth%29#Chamber_of_Mazarbul).
 * 2994: The Orcs have far greater numbers and swiftly retake Moria; the Dwarves make their final stand in the Chamber of Mazarbul.
+* 3017: Sauron sends a emissary to Erebor, seeking the One Ring.
 * 3018: [Gimli](https://en.wikipedia.org/wiki/Gimli_%28Middle-earth%29) and [Glóin](https://en.wikipedia.org/wiki/Middle-earth_dwarf_characters#Gl.C3.B3in.2C_son_of_Gr.C3.B3in) go to Rivendel to find out what happened to Balin. There they learn that the One Ring has been found and Gimli joins the Fellowship of the Ring.
+* 3019: Erebor and Dale are seiged by Orcs and Sauron's forced from the East. But they hold for a year; without which the War of the Ring could not have been won by the free peoples.
 * 3019: Gimli and the Fellowship enter Moria and Gimli on their way to Mordor. Gimli learns the fate of his cousin Balin, of Moria, and sees Durin's Bane first hand.
 * 3019: [Gandalf](https://en.wikipedia.org/wiki/Gandalf) slays the Balrog [Durin's Bane](https://en.wikipedia.org/wiki/Balrog#Durin.27s_Bane) in Moria.
 * 3019: While preparing for the [Battle of Hornburg](https://en.wikipedia.org/wiki/Battle_of_the_Hornburg) Gimli discovers the great glittering caves of [Aglarond](https://en.wikipedia.org/wiki/Helm's_Deep#Aglarond) underneathe the Rohirrim fortress of [Helm's Deep](https://en.wikipedia.org/wiki/Helm's_Deep).
 * 3019: Sauron's One Ring is finally destroyed in Mount Doom.
+* 3019: After Sauron's fall, the siege and Erebor breaks and the Dwarves slaughter the fleeing Orcs. Thorin II becomes King Under the Mountain.
 
 ### Fourth Age
 
-Tolkien does not tell us much about the Fourth Age and beyond.
+Tolkien does not tell us much about the Fourth Age or beyond.
 
 * c 1-100: The Dwarves of [Erebor](https://en.wikipedia.org/wiki/Lonely_Mountain), [Gimli](https://en.wikipedia.org/wiki/Gimli_%28Middle-earth%29) among them, rebulid and greatly improve the Human city of [Minas Tirith](http://lotr.wikia.com/wiki/Minas_Tirith).
 * c 20-120: Gimli returns to [Aglarond](https://en.wikipedia.org/wiki/Helm's_Deep#Aglarond) and founds a Dwarf colony there, where he is known as [Lord of the Glittering Caves](http://tolkiengateway.net/wiki/Lord_of_the_Glittering_Caves). 
@@ -122,16 +126,21 @@ Fun Facts
 * Dwarves naturally live about 250 solar years. Though many die in battle before that age.
 * The Dwarves are secretive about their language and religion.
 * Only one outsider has ever learned the Dwarven language.
-* *If you read that a Dwarf is "son of Thrain" or "father of Dain", don't assume they are male. Dwarves are usually referred to with male pronouns.*
+* *If you read that a Dwarf is "son of Thrain" or "father of Dain", don't assume they are male. Because of translation problems, Dwarves are usually referred to with male pronouns.*
 
 
 Great References
 ----------------------
 
+Books
+
 * [The Silmarillion](https://www.goodreads.com/book/show/7332.The_Silmarillion) - mostly about Elves, but some passages are helpful
 * [The Hobbit](https://www.goodreads.com/book/show/5907.The_Hobbit) - a lot about the Dwarves of Erebor
 * [The Lord of the Rings](https://www.goodreads.com/book/show/33.The_Lord_of_the_Rings) - the chapter on "The Council of Elrond" and the appendicies
 * [The History of Middle Earth](https://www.goodreads.com/book/show/214175.The_Complete_History_Of_Middle_Earth) - again, mostly about Elves, but some good stuff
+
+Online Resources
+
 * [YouTube](https://youtu.be/8qNjclUU290) - a wonderful history of the Dwarves
 * [One Wiki to Rule them All](http://tolkiengateway.net/wiki/Dwarves) - article on Dwarves
 * [Wikipedia](https://en.wikipedia.org/wiki/Timeline_of_Arda) - timeline of Arda
