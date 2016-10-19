@@ -18,7 +18,7 @@ The endless days before history began.
 * [Eru Ilúvatar](https://en.wikipedia.org/wiki/Eru_Il%C3%BAvatar) creates the gods [Ainur](https://en.wikipedia.org/wiki/Ainur_%28Middle-earth%29), with [Aulë](https://en.wikipedia.org/wiki/Aul%C3%AB) and [Melkor](https://en.wikipedia.org/wiki/Morgoth) among them.
 * Melkor is the greatest of the Vala, but is overwhelmed by the desire for power.
 * [Arda](https://en.wikipedia.org/wiki/Arda_%28Tolkien%29), the physical world, is created.
-* Some Ainur descend into Arda to over see it; they are known as the [Vala](https://en.wikipedia.org/wiki/Vala_%28Middle-earth%29).
+* Some Ainur descend into Arda to over see it; they are known as the [Vala](https://en.wikipedia.org/wiki/Vala_%28Middle-earth%29) (or Valar).
 * Melkor claims Arda for himself; he becomes the source of all evil.
 * Aulë, god of skill and craftsmanship, creates the [Dwarves](https://en.wikipedia.org/wiki/Dwarf_%28Middle-earth%29) in secret from the other Vala.
  * *This is probably why the Dwarves are the least corruptable of all races. During the creation of Elves and men, all of the Vala were present and played a part, including Melkor. But Melkor played no part in the creation of the Dwarves.*
@@ -35,34 +35,34 @@ The endless days before history began.
  * Two Fathers were laid to rest in the Blue Mountains, and they founded the lines of the [Broadbeams](http://tolkiengateway.net/wiki/Broadbeams) and the [Firebeards](http://tolkiengateway.net/wiki/Firebeards) who later lived in [Nogrod](https://en.wikipedia.org/wiki/Minor_places_in_Beleriand#Nogrod) and [Belegost](https://en.wikipedia.org/wiki/Minor_places_in_Beleriand#Belegost).
  * Four other Fathers were laid down in the far East, and we know the least about their people's, except that they arose in the [Orocarni](http://tolkiengateway.net/wiki/Orocarni) and formed the clans [Ironfists](http://tolkiengateway.net/wiki/Ironfists), [Stiffbeards](http://tolkiengateway.net/wiki/Stiffbeards), [Blacklocks](http://tolkiengateway.net/wiki/Blacklocks), and [Stonefoots](http://tolkiengateway.net/wiki/Stonefoots).
 * [Nogrod](https://en.wikipedia.org/wiki/Minor_places_in_Beleriand#Nogrod) and [Belegost](https://en.wikipedia.org/wiki/Minor_places_in_Beleriand#Belegost) founded by Dwarves in the same long year as [Khazad-dûm](https://en.wikipedia.org/wiki/Moria_%28Middle-earth%29) was founded by Durin the Deathless.
-* The Dwarves of Nogrod and Belegost are met by the [Sindar](https://en.wikipedia.org/wiki/Sindar), establishing trade.
+* The Dwarves of Nogrod and Belegost are met by the [Sindarian Elves](https://en.wikipedia.org/wiki/Sindar), establishing trade.
 * The Dwarves of Belegost and the Sindarian Elves build the great underground Elven city of [Menegroth](https://en.wikipedia.org/wiki/Doriath).
 * -1: The moon rises for the first time.
 * 1: The sun rises for the first time.
 * 1: Humans are awakened by Ilúvatar in [Hildórien](https://en.wikipedia.org/wiki/Minor_places_in_Arda#Hild.C3.B3rien).
-* c 60–200: Melkor is absent from Angband, after discovering Men. Persuaded by Melkor, Men stop worshipping Iluvatar and turn to evil, but some revolt: the Atanatári. These travel to the West in search for the Valar, aided by Avari Elves and Dwarves. According to legend, Men now lose the gift to die at will as the result of divine punishment, and are doomed to lead short life-spans at the end of which death takes them by force.
-* 150: The Dwarves renew their trade in [Beleriand](https://en.wikipedia.org/wiki/Beleriand). [Caranthir](https://en.wikipedia.org/wiki/List_of_Middle-earth_Elves#Caranthir) meets them.
+* c 60–200: Melkor is absent from his great fortress [Angband](https://en.wikipedia.org/wiki/Angband), after discovering Humans. Persuaded by Melkor, humans stop worshipping Ilúvatar and turn to evil, but some revolt: the Atanatári. Dwarves and Avari Elves aid the people in travelling West in search of the Valar. As divine punishment, humans lose the gift to die at will, and are doomed to lead short life-spans at the end of which death takes them by force.
+* 150: The Dwarves renew their trade in [Beleriand](https://en.wikipedia.org/wiki/Beleriand).
 
 ### Second Age
 
-The second age lasted 3441 years, and the Dwarven people were conspicuously absent from the affairs of Elves and Humans during this time. *This suggests they were quite busy with something else.*
+The second age lasts 3441 years, and the Dwarven people are conspicuously absent from the affairs of Elves and Humans during this time. *This suggests they were quite busy with something else.*
 
-* c 750-1500: The two greatest craftsman of the age, the Elven Lord of Eregion [Celebrimbor](https://en.wikipedia.org/wiki/Celebrimbor) and Dwarf [Narvi](https://en.wikipedia.org/wiki/Middle-earth_dwarf_characters#Narvi), built the [Doors of Durin](http://tolkiengateway.net/wiki/Doors_of_Durin): the West gate of [Khazad-dûm](https://en.wikipedia.org/wiki/Moria_%28Middle-earth%29). These gates were designed to foster the great peace and interactions between Dwarves and Elves.
+* c 750-1500: The two greatest craftsman of the age, the Elven Lord of Eregion [Celebrimbor](https://en.wikipedia.org/wiki/Celebrimbor) and Dwarf [Narvi](https://en.wikipedia.org/wiki/Middle-earth_dwarf_characters#Narvi), build the [Doors of Durin](http://tolkiengateway.net/wiki/Doors_of_Durin): the West gate of [Khazad-dûm](https://en.wikipedia.org/wiki/Moria_%28Middle-earth%29). These gates were designed to aid the great friendship and trade between Dwarves and Elves.
 * c 1500-1590: [Sauron](https://en.wikipedia.org/wiki/Sauron) the Deceiver gives [seven rings of power](http://tolkiengateway.net/wiki/Seven_Rings) to seven Dwarf Kings.
  * It is likely that Celebrimbor gave Durin his ring directly, not Sauron.
- * But Dwarves are not as easily corrupted as Elves and Humans. The rings made their wearers more greedy.
- * Four of these rings were destroyed by Dragons, but Sauron was able to retrieve two during the Second Age.
+ * Dwarves are not as easily corrupted as Elves and Humans. Their rings do not corrupt them; the wearers are given great power, though they are perhaps more greedy than they were.
+ * Four of these rings were destroyed by Dragons, but Sauron was able to retrieve two more during the Second Age.
  * *It is likely that one ring was given to the leader of each of the seven [Dwarven clans](http://tolkiengateway.net/wiki/Dwarves#Origin).*
 * 3430: [Durin IV](https://en.wikipedia.org/wiki/Durin#Durin_IV) joins the [Last Alliance of Elves and Men](https://en.wikipedia.org/wiki/Middle-earth_wars_and_battles#War_of_the_Last_Alliance) with an army of Dwarves in the fight against Sauron.
-* 3434: The Last Alliance defeats Sauron's forces in [Battle of Dagorlad](https://en.wikipedia.org/wiki/Middle-earth_wars_and_battles#War_of_the_Last_Alliance); and the Siege of [Barad-dûr](https://en.wikipedia.org/wiki/Barad-d%C3%BBr) begins.
-* 3441: [Durin IV](https://en.wikipedia.org/wiki/Durin#Durin_IV) leads 50,000-60,000 Dwarves in the final battle where [Isildur](https://en.wikipedia.org/wiki/Isildur) cuts the [One Ring](https://en.wikipedia.org/wiki/One_Ring) from Sauron's finger.
+* 3434: The Last Alliance defeats Sauron's forces in the [Battle of Dagorlad](https://en.wikipedia.org/wiki/Middle-earth_wars_and_battles#War_of_the_Last_Alliance); and the Siege of [Barad-dûr](https://en.wikipedia.org/wiki/Barad-d%C3%BBr) begins.
+* 3441: Alongside Elves and Men, [Durin IV](https://en.wikipedia.org/wiki/Durin#Durin_IV) leads 50,000-60,000 Dwarves in the final battle of the Siege of Barad-dûr. [Isildur](https://en.wikipedia.org/wiki/Isildur) cuts the [One Ring](https://en.wikipedia.org/wiki/One_Ring) from Sauron's finger, ending the war.
 
 ### Third Age
 
-The third age lasted 3021 years, and during this time the number of Dwarves on Arda starts to shrink.
+The third age lasts 3021 years, and during this time the number of Dwarves on Arda appears to decrease.
 
-* 1980: Dwarven mithril miners in [Khazad-dûm](https://en.wikipedia.org/wiki/Moria_%28Middle-earth%29) delve too greedily and too deep, and awaken the Balrog called [Durin's Bane](http://tolkiengateway.net/wiki/Durin's_Bane), which kills King Durin VI.
-* 1981: Durin VI's son, [Nain I](https://en.wikipedia.org/wiki/Middle-earth_dwarf_characters#N.C3.A1in_I) is killed by the Durin's Bane, and Dwarves abandon Khazad-dûm and start calling it Moria, meaning "Black Pit".
+* 1980: Dwarven [mithril](https://en.wikipedia.org/wiki/Mithril) miners in [Khazad-dûm](https://en.wikipedia.org/wiki/Moria_%28Middle-earth%29) delve too greedily and too deep, and awaken the [Balrog](https://en.wikipedia.org/wiki/Balrog) called [Durin's Bane](http://tolkiengateway.net/wiki/Durin's_Bane), which kills [King Durin VI](https://en.wikipedia.org/wiki/Durin#Durin_VI).
+* 1981: Durin VI's son, [Nain I](https://en.wikipedia.org/wiki/Middle-earth_dwarf_characters#N.C3.A1in_I) is killed by the Durin's Bane, and Dwarves abandon Khazad-dûm; they start calling it Moria, meaning "Black Pit".
 * 1999: [Thrain I](http://tolkiengateway.net/wiki/Thr%C3%A1in_I) founded [Erebor](http://tolkiengateway.net/wiki/Lonely_Mountain) as the [Kingdom Under the Mountain](http://tolkiengateway.net/wiki/Kingdom_under_the_Mountain) after fleeing [Durin's Bane](http://tolkiengateway.net/wiki/Durin's_Bane) in Khazad-dûm.
 * 2210: King Thorin I [leaves Erebor](http://tolkiengateway.net/wiki/Third_Age_2210), and goes north to the [Grey Mountains](http://tolkiengateway.net/wiki/Grey_Mountains), where the remnants of Durin's Folk are gathering.
 * 2570-2589: [The War of the Dwarves and Dragons](https://en.wikipedia.org/wiki/Middle-earth_wars_and_battles#War_of_the_Dwarves_and_Dragons) was fought between the Dwarves of the [Grey Mountains](http://tolkiengateway.net/wiki/Grey_Mountains) and the fire drakes from the Northern Waste. The Dwarves eventually lose and flee to resettle in Erebor and the Iron Hills.
