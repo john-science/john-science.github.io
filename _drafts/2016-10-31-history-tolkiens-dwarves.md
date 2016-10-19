@@ -27,6 +27,8 @@ The endless days before history began.
 
 ### First Age
 
+These days start before the Sun and Moon exist, but end in the early written history when Melkor is expelled from Arda.
+
 * [Elves](https://en.wikipedia.org/wiki/Elf_%28Middle-earth%29) are awakened by [Ilúvatar](https://en.wikipedia.org/wiki/Eru_Il%C3%BAvatar).
 * [Sauron](https://en.wikipedia.org/wiki/Sauron) is originally a [Maia](https://en.wikipedia.org/wiki/Maia_%28Middle-earth%29), or demigod servant, to [Aulë](https://en.wikipedia.org/wiki/Aul%C3%AB), but he is corrupted and becomes the chief lieutenant of [Melkor](https://en.wikipedia.org/wiki/Morgoth).
 * Melkor captures Elves and begins breeding [Orcs](https://en.wikipedia.org/wiki/Orc_%28Middle-earth%29) from them.
@@ -42,6 +44,9 @@ The endless days before history began.
 * 1: Humans are awakened by Ilúvatar in [Hildórien](https://en.wikipedia.org/wiki/Minor_places_in_Arda#Hild.C3.B3rien).
 * c 60–200: Melkor is absent from his great fortress [Angband](https://en.wikipedia.org/wiki/Angband), after discovering Humans. Persuaded by Melkor, humans stop worshipping Ilúvatar and turn to evil, but some revolt: the Atanatári. Dwarves and Avari Elves aid the people in travelling West in search of the Valar. As divine punishment, humans lose the gift to die at will, and are doomed to lead short life-spans at the end of which death takes them by force.
 * 150: The Dwarves renew their trade in [Beleriand](https://en.wikipedia.org/wiki/Beleriand).
+* 502: Húrin brings the [Nauglamír](https://en.wikipedia.org/wiki/Middle-earth_objects#Nauglam.C3.ADr) from Nargothrond to Thingol.
+* 503: [Doriath](https://en.wikipedia.org/wiki/Doriath) is sacked by Dwarves of Nogrod.
+* 590: Melkor is into the void forever.
 
 ### Second Age
 
