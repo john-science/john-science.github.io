@@ -6,28 +6,33 @@ summary: The entire history of the Dwarves of Middle Earth.
 ---
 {% include JB/setup %}
 
-I recently took a deep dive into the history of Tolkien's Dwarves for a [game](https://github.com/theJollySin/mazes_of_erebor) I am writing. There is not as much known about the Dwarves as there is about the Elves, and there is no central tome like the Silmarillion to study for Dwarves. So the study is one of hunting around for clues and tidbits here and there.
+I recently took a deep dive into the history of Tolkien's Dwarves for a [game](https://github.com/theJollySin/mazes_of_erebor) I am writing. There is not as much known about the Dwarves as there is about the Elves, and there is no central tome like the Silmarillion to learn about the Dwarves. But there is information sprinkled throughout all of Tolkien's works that provide a broad history.
 
 What follows are the Cliff's Notes for every major event we know of in Dwarven history. Text in italics is not explicitly stated in Tolkien's works, but can be inferred without too much imagination.
 
 
 ### Elder Days
 
-* [Iluvatar](https://en.wikipedia.org/wiki/Eru_Il%C3%BAvatar) creates the [Vala](https://en.wikipedia.org/wiki/Vala_%28Middle-earth%29), and [Aule](https://en.wikipedia.org/wiki/Aul%C3%AB) among them.
-* [Arda](https://en.wikipedia.org/wiki/Arda_%28Tolkien%29) is created.
-* The Vala descend into Arda.
-* Aule, god of skill and craftsmanship, creates the Dwarves in secret from the other Vala.
- * *This is probably why the Dwarves are the least corruptable of all races. During the creation of Elves and men, all of the Vala were present and played a part, including [Melkor](https://en.wikipedia.org/wiki/Morgoth). But Melkor played no part in the creation of the Dwarves.*
- * It [appears](https://en.wikipedia.org/wiki/The_War_of_the_Jewels) Aule created the Dwarven language, which did not change much over time.
-* Iluvatar finds out about the Dwarves creation, and tells Aule to destroy them. But Iluvatar stops him and the Dwarves are allowed to be, but must sleep until the Elves are created.
+The endless days before history began.
+
+* [Eru Ilúvatar](https://en.wikipedia.org/wiki/Eru_Il%C3%BAvatar) creates the gods [Ainur](https://en.wikipedia.org/wiki/Ainur_%28Middle-earth%29), with [Aulë](https://en.wikipedia.org/wiki/Aul%C3%AB) and [Melkor](https://en.wikipedia.org/wiki/Morgoth) among them.
+* Melkor is the greatest of the Vala, but desires more power.
+* [Arda](https://en.wikipedia.org/wiki/Arda_%28Tolkien%29), the physical world, is created.
+* The [Vala](https://en.wikipedia.org/wiki/Vala_%28Middle-earth%29) are the Ainur who descend into Arda to oversee it.
+* Melkor claims Arda for himself and becomes the source of all evil in Arda.
+* Aulë, god of skill and craftsmanship, creates the [Dwarves](https://en.wikipedia.org/wiki/Dwarf_%28Middle-earth%29) in secret from the other Vala.
+ * *This is probably why the Dwarves are the least corruptable of all races. During the creation of Elves and men, all of the Vala were present and played a part, including Melkor. But Melkor played no part in the creation of the Dwarves.*
+ * It [appears](https://en.wikipedia.org/wiki/The_War_of_the_Jewels) Aulë created the Dwarven language, which did not change much over time.
+* Ilúvatar finds out about the Dwarves creation, and tells Aulë to destroy them. But Ilúvatar stops him and the Dwarves are allowed to be, but must sleep until the [Elves](https://en.wikipedia.org/wiki/Elf_%28Middle-earth%29) awake.
 
 ### First Age
 
-* Elves are awakened by Iluvatar.
-* Melkor captures Elves and begins breeding Orcs from them.
-* The [Fathers of Dwarves](https://en.wikipedia.org/wiki/Fathers_of_the_Dwarves) are first awakened by Iluvatar during the [Years of Trees](https://en.wikipedia.org/wiki/History_of_Arda#Years_of_the_Trees), as are the first [Ents](https://en.wikipedia.org/wiki/Ent).
+* [Elves](https://en.wikipedia.org/wiki/Elf_%28Middle-earth%29) are awakened by [Ilúvatar](https://en.wikipedia.org/wiki/Eru_Il%C3%BAvatar).
+* [Sauron](https://en.wikipedia.org/wiki/Sauron) is originally a [Maia](https://en.wikipedia.org/wiki/Maia_%28Middle-earth%29), or demigod servant, to [Aulë](https://en.wikipedia.org/wiki/Aul%C3%AB), but he is corrupted and becomes the chief lieutenant of [Melkor](https://en.wikipedia.org/wiki/Morgoth).
+* Melkor captures Elves and begins breeding [Orcs](https://en.wikipedia.org/wiki/Orc_%28Middle-earth%29) from them.
+* The [Fathers of Dwarves](https://en.wikipedia.org/wiki/Fathers_of_the_Dwarves) are first awakened by [Ilúvatar](https://en.wikipedia.org/wiki/Eru_Il%C3%BAvatar) during the [Years of Trees](https://en.wikipedia.org/wiki/History_of_Arda#Years_of_the_Trees), as are the first [Ents](https://en.wikipedia.org/wiki/Ent).
  * [Durin](https://en.wikipedia.org/wiki/Durin#Durin_the_Deathless) was laid to rest alone and awoke first of all Dwarves in [Mount Gundabad](https://en.wikipedia.org/wiki/Minor_places_in_Middle-earth_%28fictional%29#Mount_Gundabad) in the [Misty Mountains](https://en.wikipedia.org/wiki/Misty_Mountains).
- * Two Fathers were laid to rest in the Blue Mountains, and they founded the lines of the Broadbeams and the Firebeards who later lived in [Nogrod](https://en.wikipedia.org/wiki/Minor_places_in_Beleriand#Nogrod) and [Belegost](https://en.wikipedia.org/wiki/Minor_places_in_Beleriand#Belegost).
+ * Two Fathers were laid to rest in the Blue Mountains, and they founded the lines of the [Broadbeams](http://tolkiengateway.net/wiki/Broadbeams) and the [Firebeards](http://tolkiengateway.net/wiki/Firebeards) who later lived in [Nogrod](https://en.wikipedia.org/wiki/Minor_places_in_Beleriand#Nogrod) and [Belegost](https://en.wikipedia.org/wiki/Minor_places_in_Beleriand#Belegost).
  * Four other Fathers were laid down in the far East, and we know the least about their people's, except that they arose in the [Orocarni](http://tolkiengateway.net/wiki/Orocarni) and formed the clans [Ironfists](http://tolkiengateway.net/wiki/Ironfists), [Stiffbeards](http://tolkiengateway.net/wiki/Stiffbeards), [Blacklocks](http://tolkiengateway.net/wiki/Blacklocks), and [Stonefoots](http://tolkiengateway.net/wiki/Stonefoots).
 * [Nogrod](https://en.wikipedia.org/wiki/Minor_places_in_Beleriand#Nogrod) and [Belegost](https://en.wikipedia.org/wiki/Minor_places_in_Beleriand#Belegost) founded by Dwarves in the same long year as [Khazad-dûm](https://en.wikipedia.org/wiki/Moria_%28Middle-earth%29) was founded by [Durin](https://en.wikipedia.org/wiki/Durin) the Deathless.
 * The Dwarves of Nogrod and Belegost are met by the [Sindar](https://en.wikipedia.org/wiki/Sindar), establishing trade.
@@ -97,13 +102,14 @@ Fun Facts
 ---------
 
 * Both male and female Dwarves are [born with full beards](http://scifi.stackexchange.com/questions/40024/are-dwarfs-born-with-beards).
-* Only one outsider has ever learned the Dwarven language. The Dwarves are secretive about their language and culture.
-* *As such, if you read that someone is "son of Thrain" or "father of Dain", don't assume these are male Dwarves. All Dwarves are usually referred to with male pronouns.*
+* The Dwarves are secretive about their language and religion.
+* Only one outsider has ever learned the Dwarven language.
+* *If you read that a Dwarf is "son of Thrain" or "father of Dain", don't assume they are male. Dwarves are usually referred to with male pronouns.*
 
 Other great references
 ----------------------
 
-* A wonderful [YouTube](https://youtu.be/8qNjclUU290) history of the Dwarves.
-* A [timeline of Arda](https://en.wikipedia.org/wiki/Timeline_of_Arda).
-* [One Wiki to Rule them All](http://tolkiengateway.net/wiki/Dwarves)
-* [Dwarves on Wikipedia](https://en.wikipedia.org/wiki/Dwarf_%28Middle-earth%29)
+* [YouTube](https://youtu.be/8qNjclUU290) - a wonderful history of the Dwarves
+* [One Wiki to Rule them All](http://tolkiengateway.net/wiki/Dwarves) - article on Dwarves
+* [Wikipedia](https://en.wikipedia.org/wiki/Timeline_of_Arda) - timeline of Arda
+* [Wikipedia](https://en.wikipedia.org/wiki/Dwarf_%28Middle-earth%29) - article on Dwarves
