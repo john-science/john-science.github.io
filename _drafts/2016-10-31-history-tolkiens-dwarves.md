@@ -118,7 +118,7 @@ Tolkien does not tell us much about the Fourth Age or beyond.
 * c 20-120: Gimli returns to [Aglarond](https://en.wikipedia.org/wiki/Helm's_Deep#Aglarond) and founds a Dwarf colony there, where he is known as [Lord of the Glittering Caves](http://tolkiengateway.net/wiki/Lord_of_the_Glittering_Caves). 
 * 120: [It is believed](http://tolkiengateway.net/wiki/Dwarves#Fourth_Age) that Gimli, Son of Gloin, became the only Dwarf ever to cross the sea to the [Undying Lands](https://en.wikipedia.org/wiki/Aman_%28Tolkien%29).
 * [Durin VII](http://tolkiengateway.net/wiki/Durin_VII) (Durin the Last) led Durin's Folk back to [Khazad-dûm](http://tolkiengateway.net/wiki/Moria) and restored the greatest kingdom of the Dwarves.
-* Khazad-dûm and Erebor are the two great final kingdoms of the Dwarves. It is not clear if they slowly diminish and are gone from the world or if they simply delve so deeply that they are never seen above ground again.
+* Khazad-dûm and Erebor are the two great final kingdoms of the Dwarves. It is not clear if the Dwarves slowly diminish and are gone from the world or if they simply delve so deeply that they are never seen above ground again.
 
 
 Fun Facts
