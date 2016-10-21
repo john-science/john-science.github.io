@@ -6,9 +6,9 @@ summary: A minimal set of knots that I absolutely must know to go rock climbing.
 ---
 {% include JB/setup %}
 
-Most climbers only know 4-12 knots, and that's enough. The important thing is that you know at least one knot for every situation you might find yourself in. And you have to know that knot well enough to tie it safely while tired and distracted.
+Most climbers only know 4-12 knots, and that's enough. You only need to know one knot for each situation you might find yourself in. But you have to know that knot well enough to tie it safely while tired and distracted.
 
-What follows is the minimal set of knots that I feel I need to know to be safe doing the kinds of climbing that I personally do. It is not meant to be an exhaustive list of all the climbing knots in the world. There are already plenty of [those](https://en.wikipedia.org/wiki/List_of_climbing_knots) out [there](http://www.animatedknots.com/indexclimbing.php#ScrollPoint). (Pro Tip: Every climber needs to know at least one [hitch](https://en.wikipedia.org/wiki/List_of_hitch_knots) and at least one [bight](https://en.wikipedia.org/wiki/Bight_%28knot%29))
+What follows is the minimal set of knots that I feel I need to know to be safe doing the kinds of climbing that I personally do. It is not meant to be an exhaustive list of all the climbing knots in the world. There are already plenty of [those](https://en.wikipedia.org/wiki/List_of_climbing_knots) out [there](http://www.animatedknots.com/indexclimbing.php#ScrollPoint). (Pro Tip: Every climber needs to know at least one [hitch](https://en.wikipedia.org/wiki/List_of_hitch_knots) and at least one [bight](https://en.wikipedia.org/wiki/Bight_%28knot%29).)
 
 ### Rock Climbing Knots by General Use-Case
 
