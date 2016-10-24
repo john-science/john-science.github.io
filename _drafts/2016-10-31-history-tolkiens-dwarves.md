@@ -6,7 +6,7 @@ summary: The entire history of the Dwarves of Middle Earth.
 ---
 {% include JB/setup %}
 
-I recently took a dive into the history of Tolkien's Dwarves for a [game](https://github.com/theJollySin/mazes_of_erebor) I am writing. There is not as much known about the Dwarves as there is about the Elves, who were given the entire Silmarillion for their history. Instead, I had to scrounge information from all of Tolkien's works.
+I recently took a deep dive into the history of Tolkien's Dwarves for a [game](https://github.com/theJollySin/mazes_of_erebor) I am writing. There is not as much known about the Dwarves as there is about the Elves, who were given the entire Silmarillion for their history. Instead, I had to scrounge information from all of Tolkien's works.
 
 What follows is the Cliff's Notes version of every major event in Dwarven history, that we know of. Text in italics is not explicitly stated in Tolkien's works, but can be inferred without too much imagination.
 
@@ -31,7 +31,7 @@ This is a long period that starts before the Sun and Moon exist, but ends in the
 * Elves are awakened by [Ilúvatar](https://en.wikipedia.org/wiki/Eru_Il%C3%BAvatar).
 * [Sauron](https://en.wikipedia.org/wiki/Sauron) is originally a [Maia](https://en.wikipedia.org/wiki/Maia_%28Middle-earth%29), or demigod servant, to [Aulë](https://en.wikipedia.org/wiki/Aul%C3%AB); but he is corrupted and becomes the chief lieutenant of [Melkor](https://en.wikipedia.org/wiki/Morgoth).
 * Melkor captures Elves and begins breeding [Orcs](https://en.wikipedia.org/wiki/Orc_%28Middle-earth%29) from them.
-* The [Fathers of Dwarves](https://en.wikipedia.org/wiki/Fathers_of_the_Dwarves) are first awakened by Ilúvatar, as are [Ents](https://en.wikipedia.org/wiki/Ent).
+* The [Fathers of Dwarves](https://en.wikipedia.org/wiki/Fathers_of_the_Dwarves) are first awakened by Ilúvatar, as are the first [Ents](https://en.wikipedia.org/wiki/Ent).
  * [Durin the Deathless](https://en.wikipedia.org/wiki/Durin#Durin_the_Deathless) was laid to rest alone by Aulë. He awoke first of all Dwarves, alone, in [Mount Gundabad](https://en.wikipedia.org/wiki/Minor_places_in_Middle-earth_%28fictional%29#Mount_Gundabad) in the [Misty Mountains](https://en.wikipedia.org/wiki/Misty_Mountains), and it was forever-after sacred to the Dwarves.
  * Two Fathers were laid to rest in the Blue Mountains, and they founded the lines of the [Broadbeams](http://tolkiengateway.net/wiki/Broadbeams) and the [Firebeards](http://tolkiengateway.net/wiki/Firebeards) who later lived in [Nogrod](https://en.wikipedia.org/wiki/Minor_places_in_Beleriand#Nogrod) and [Belegost](https://en.wikipedia.org/wiki/Minor_places_in_Beleriand#Belegost) respectively.
  * The four other Fathers were laid down in the far East. We know the least about these Dwarves, except that they arose in the [Orocarni](http://tolkiengateway.net/wiki/Orocarni) Mountains and formed the clans [Ironfists](http://tolkiengateway.net/wiki/Ironfists), [Stiffbeards](http://tolkiengateway.net/wiki/Stiffbeards), [Blacklocks](http://tolkiengateway.net/wiki/Blacklocks), and [Stonefoots](http://tolkiengateway.net/wiki/Stonefoots).
@@ -39,7 +39,7 @@ This is a long period that starts before the Sun and Moon exist, but ends in the
 * The Dwarves of Nogrod and Belegost are met by the [Sindarian Elves](https://en.wikipedia.org/wiki/Sindar), establishing trade.
 * The Dwarves are the first to forge mail armor of linked rings. *Tolkien's works rarely involve plate armor: ignore the movies.*
 * The Dwarves of Belegost and the Sindarian Elves build the great underground Elven city of [Doriath](https://en.wikipedia.org/wiki/Doriath).
-* The Dwarves of Nogrod and Belegost build the great [Dwarf-road](http://tolkiengateway.net/wiki/Dwarf-road_of_Beleriand) to [trade](http://www.henneth-annun.net/events_view.cfm?evid=994) with Doriath and Beleriand.
+* The Dwarves of Nogrod and Belegost build the great [Dwarf-road](http://tolkiengateway.net/wiki/Dwarf-road_of_Beleriand) to [trade](http://www.henneth-annun.net/events_view.cfm?evid=994) with the Elves of Doriath and Beleriand.
 * The [First Battle of Beleriand](https://en.wikipedia.org/wiki/First_Battle_of_Beleriand) is the first of the [Wars of Beleriand](https://en.wikipedia.org/wiki/Middle-earth_wars_and_battles#Battles_of_Beleriand) against Melkor. The Dwarves join the Elves and Men.
 * -1: The moon rises for the first time.
 * 1: The sun rises for the first time.
