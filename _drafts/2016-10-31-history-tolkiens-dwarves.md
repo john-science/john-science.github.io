@@ -46,26 +46,28 @@ This is a long period that starts before the Sun and Moon exist, but ends in the
 * 1: Humans are awakened by Ilúvatar in [Hildórien](https://en.wikipedia.org/wiki/Minor_places_in_Arda#Hild.C3.B3rien).
 * c 60–200: Melkor persuades humans to stop worshipping Ilúvatar and turn to evil, but some revolt: the Atanatári. Dwarves and the Avari Elves aid these humans in travelling West in search of the Vala. As divine punishment, humans lose the gift to die at will and are doomed to lead short lives at the end of which death takes them by force.
 * 150: The Dwarves renew their trade with the Elves of [Beleriand](https://en.wikipedia.org/wiki/Beleriand).
+* The great Dwarven smith [Telchor](http://lotr.wikia.com/wiki/Telchar) of Nogrod crafts many works, including the famous blades [Narsil](https://en.wikipedia.org/wiki/Middle-earth_weapons_and_armour#Narsil) and Angrist](https://en.wikipedia.org/wiki/Middle-earth_weapons_and_armour#Angrist) and the [Dragon-helm of Dor-lómin](https://en.wikipedia.org/wiki/Middle-earth_weapons_and_armour#Dragon-helm_of_Dor-l.C3.B3min).
 * 468: The Dwarves of Belegost join the [Union of Meahdros](https://en.wikipedia.org/wiki/Maedhros) in [Nírnaeth Arnoediad](http://lotr.wikia.com/wiki/Nirnaeth_Arnoediad), the fifth battle of the Wars of Beleriand against Melkor. King [Azaghâl](https://en.wikipedia.org/wiki/Middle-earth_dwarf_characters#Azagh.C3.A2l) was slain by [Glaurung](https://en.wikipedia.org/wiki/Glaurung), the first dragon, but not before he stabbed the beast in the stomach making it flee the battle.
  * *It seems likely that since the Dwarves were in the first and fifth of the Wars of Beleriand, they were in the others. But Tolkien only recounts the deeds of the Elves in those battles.*
 * 502: King [Thingol](https://en.wikipedia.org/wiki/Thingol) of Doriath invites the Dwarves of Norgrod to create jewelery in his vast treasury; of these works the necklace [Nauglamír](https://en.wikipedia.org/wiki/Middle-earth_objects#Nauglam.C3.ADr) is their finest.
 * 503: King Thingol has the Dwarves set the [Silmaril](http://lotr.wikia.com/wiki/Silmaril) of [Beren](http://lotr.wikia.com/wiki/Beren) and [Lúthien](http://lotr.wikia.com/wiki/L%C3%BAthien)'s into Nauglamír, making it the fairest object in Arda. The Dwarven jewelers so desire it, then end up slaying Thingol. They lie about what happened to the Dwarves on Norgrond and return with an army to sack Doriath. Heavy with spoils on their march home from Doriath, the Dwarven army is destroyed entirely by Elves and Ents in the [Battle of Sarn Athrad](http://tolkiengateway.net/wiki/Battle_of_Sarn_Athrad).
-* 545-587: [The War of Wrath](http://lotr.wikia.com/wiki/War_of_Wrath) between the Vala; after which most the world West of the [Blue Mountains](http://lotr.wikia.com/wiki/Blue_Mountains) is sunk into the sea. Two great houses of Dwarves, Nogrod and Belegost, are destroyed; the survivors flee to Khazad-dûm.
+* 545-587: [The War of Wrath](http://lotr.wikia.com/wiki/War_of_Wrath) between the Vala; after which most the world West of the [Blue Mountains](http://lotr.wikia.com/wiki/Blue_Mountains) is sunk into the sea. Two great houses of Dwarves, Nogrod and Belegost, are destroyed; the survivors flee to Khazad-dûm. It is also believed that the original mansions of the four Eastern clans are destroyed in this war.
 * 590: Melkor is cast into the void.
 
 ### Second Age
 
-The second age lasts 3441 years, during which the Dwarves are conspicuously absent from Tolkien's history.
+The second age lasts 3441 years, during which little is written about the history of Dwarves.
 
-* c 750-1500: The two greatest craftsman of the age, [Celebrimbor](https://en.wikipedia.org/wiki/Celebrimbor) (the Elven Lord of Eregion) and the Dwarf [Narvi](https://en.wikipedia.org/wiki/Middle-earth_dwarf_characters#Narvi), build the [Doors of Durin](http://tolkiengateway.net/wiki/Doors_of_Durin): the West gate of [Khazad-dûm](https://en.wikipedia.org/wiki/Moria_%28Middle-earth%29). The gate was designed to aid the friendship and trade between Dwarves and Elves.
+* c 750-1500: The two greatest craftsman of the age, [Celebrimbor](https://en.wikipedia.org/wiki/Celebrimbor) (the Elven Lord of Eregion) and the Dwarf [Narvi](https://en.wikipedia.org/wiki/Middle-earth_dwarf_characters#Narvi), build the [Doors of Durin](http://tolkiengateway.net/wiki/Doors_of_Durin): the West gate of [Khazad-dûm](https://en.wikipedia.org/wiki/Moria_%28Middle-earth%29). The gate was designed to aid the friendship between Dwarves and Elves.
 * c 1500-1590: [Sauron](https://en.wikipedia.org/wiki/Sauron) the Deceiver gives [seven rings of power](http://tolkiengateway.net/wiki/Seven_Rings) to seven Dwarf Kings.
  * It is likely that Celebrimbor gives Durin his ring, not Sauron.
  * The rings do not corrupt their Dwarven wearers, so Sauron does not gain dominion over them.
  * Four of these rings are later destroyed by Dragons, and Sauron is able to retrieve two more during the Second Age.
  * *It is likely that one ring is given to the leader of each of the seven [Dwarven clans](http://tolkiengateway.net/wiki/Dwarves#Origin).*
+* 1697: Sauron corrupts [Eregion](https://en.wikipedia.org/wiki/Eregion), the vast region including that above Khazad-dûm, and drives out all the [Sindarian](https://en.wikipedia.org/wiki/Sindarin) Elves. The Doors of Durin are shut, and the Dwarves there begin a more seclusion from the outside world.
 * 3430: [Durin IV](https://en.wikipedia.org/wiki/Durin#Durin_IV) adds a great Dwarven army to the [Last Alliance of Elves and Men](https://en.wikipedia.org/wiki/Middle-earth_wars_and_battles#War_of_the_Last_Alliance), in the fight against Sauron.
 * 3434: The Last Alliance defeats Sauron's forces in the [Battle of Dagorlad](https://en.wikipedia.org/wiki/Middle-earth_wars_and_battles#War_of_the_Last_Alliance); and the Siege of [Barad-dûr](https://en.wikipedia.org/wiki/Barad-d%C3%BBr) begins.
-* 3441: [Isildur](https://en.wikipedia.org/wiki/Isildur) cuts the [One Ring](https://en.wikipedia.org/wiki/One_Ring) from Sauron's finger, ending the war.
+* 3441: [Isildur](https://en.wikipedia.org/wiki/Isildur) cuts the [One Ring](https://en.wikipedia.org/wiki/One_Ring) from Sauron's finger with the sword [Narsil](https://en.wikipedia.org/wiki/Middle-earth_weapons_and_armour#Narsil), ending the war.
 
 ### Third Age
 
@@ -101,8 +103,9 @@ The third age lasts 3021 years, and during this time the number of Dwarves begin
 * 2994: The Orcs have far greater numbers and swiftly retake Moria; the Dwarves make their final stand in the Chamber of Mazarbul.
 * 3017: Sauron sends an emissary to Erebor three times, seeking the One Ring and an alliance with the Dwarves.
 * 3018: [Gimli](https://en.wikipedia.org/wiki/Gimli_%28Middle-earth%29) and his father Glóin go to [Rivendell](https://en.wikipedia.org/wiki/Rivendell) hoping to learn of Balin's fate. There they learn that the One Ring has been found; Gimli joins the [Fellowship of the Ring](http://lotr.wikia.com/wiki/Fellowship_of_the_Ring).
-* 3019: Erebor and Dale are seiged by Sauron's forces from the East. But they hold for a year
+* 3018: Erebor and Dale are seiged by Sauron's forces from the East. But they hold for a year
  * The War of the Ring might have turned out differently had not the Dwarves of Erebor and the Humans of Dale fought this seige for so long against Sauron's Eastern armies.
+* 3019: The Elves of Rivendell reforge the ancient Dwarf blade [Narsil](https://en.wikipedia.org/wiki/Middle-earth_weapons_and_armour#Narsil), for the Human King-in-Exile [Aragorn](https://en.wikipedia.org/wiki/Aragorn).
 * 3019: The Fellowship enters Moria; Gimli learns the fate of his cousin Balin, of Moria, and sees Durin's Bane firsthand.
 * 3019: Gandalf the Grey slays the [Durin's Bane](https://en.wikipedia.org/wiki/Balrog#Durin.27s_Bane) and becomes Gandalf the White.
 * 3019: While preparing for the [Battle of the Hornburg](https://en.wikipedia.org/wiki/Battle_of_the_Hornburg), Gimli discovers the caves of [Aglarond](https://en.wikipedia.org/wiki/Helm's_Deep#Aglarond) underneathe the fortress of [Helm's Deep](https://en.wikipedia.org/wiki/Helm's_Deep).
