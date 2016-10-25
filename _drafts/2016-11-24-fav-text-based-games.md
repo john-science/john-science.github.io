@@ -17,7 +17,17 @@ I also love to think that one day I could create such a game. Without the need f
 
 > 1994-Present, [roguelike](https://en.wikipedia.org/wiki/Roguelike), moderate plot
 
-ADOM is a roguelike with more story than most. I don't want to spoiler it, but I know you're saving the world from some sort of invasion. Most of the monsters you fight are involved with the invasion and there is somewhat more thought put into how it all ties together. The latest version even has an isomorphic 2.5-dimensional display, if straight text isn't your thing. This is the only roguelike to go commerical, but it's still free to play, not freemium. And the community is alive and well. It's a well-developed game with a good culture behind it.
+```
+####....................
+...#.....######........=
+.........#.t..#........=
+####.....#..@.#........=
+.........#....#......T..
+.........##/###......T..
+.....................T..
+```
+
+ADOM is a roguelike with more story than most. I don't want to spoiler it, but you're saving the world from some sort of invasion. Most of the monsters you fight are involved with the invasion and there is somewhat more thought put into how it all ties together. The latest version even has an isomorphic 2.5-dimensional display, if straight text isn't your thing. This is the only roguelike to go commerical, but it's still free to play, not freemium. And the community is alive and well. It's a well-developed game with a good culture behind it.
 
 * [Official Site](http://www.adom.de/home/index.html)
 * [Wikipedia](https://en.wikipedia.org/wiki/Ancient_Domains_of_Mystery)
@@ -38,7 +48,7 @@ ADOM is a roguelike with more story than most. I don't want to spoiler it, but I
     > say "Help! I'm being chased!" to the fisherman
     No one answers you, or even looks your way.
 
-Anchorhead is based on the works of HP Lovecraft, especially the stories involving Cthulu. It is interactive fiction, but something more in the vein of a puzzle game. And there are strains of an open-world explorer here as sometimes you need to look around the world a bit to solve the puzzle. Perhaps the highlight of the game is the writing, which has the haunting tone you'd want from a story about Cthulu. I must admit, I find this game to be difficult. Perhaps I am too used to games phoning it in and making obvious puzzles, where Anchorhead doesn't slap you in the face with the puzzle, you have to figure out what you need to be doing next. I've never "finished" this game, though I'd like to one day. I went into the game expecting an atmospheric spooky game, and got everything I wanted.
+Anchorhead is based on the works of HP Lovecraft, especially the stories involving Cthulu. It is interactive fiction, but something more in the vein of a puzzle game. And there are strains of an open-world explorer here as sometimes you need to look around the world a bit to solve the puzzle. Perhaps the highlight of the game is the writing, which has the haunting tone you'd want from a story about Cthulu. I must admit, I find this game to be difficult. Perhaps I am too used to games phoning it in and making obvious puzzles, where Anchorhead doesn't slap you in the face with the puzzle, you have to figure out what you need to be doing next. I went into the game expecting an atmospheric spooky game, and got everything I wanted.
 
 * [Play Anchorhead Online](http://pr-if.org/play/anchorhead/)
 * [Wikipedia](https://en.wikipedia.org/wiki/Anchorhead)
@@ -49,7 +59,7 @@ Anchorhead is based on the works of HP Lovecraft, especially the stories involvi
 
 > 1990-Present, [roguelike](https://en.wikipedia.org/wiki/Roguelike), little plot (open-source)
 
-Angband is possibly the most popular roguelike out there (see NetHack). When people say a game is "roguelike", they mean Angband. Angband has a lot of flexibility and configuration at the start, which Nethack lacks. And a slightly nicer interface, so it's better for beginners. Though I felt like NetHack had a bigger online presence. If I was stuck in bed with the flu and wanted to play a Roguelike, I would play Angband.
+Angband is perhaps slightly less popular that NetHack (see below), but the early game is designed a big better for players new to "roguelikes". Angband has a lot of flexibility and configuration at the start, which Nethack lacks. And a slightly nicer interface, so it's better for beginners. Though I think like NetHack had a bigger online presence. People new to the genre might see little difference between Angband and NetHack.
 
 * [Official Website](http://trac.rephial.org/)
 * [Wikipedia](http://www.roguebasin.com/index.php?title=Angband)
@@ -59,6 +69,17 @@ Angband is possibly the most popular roguelike out there (see NetHack). When peo
 ### A Dark Room
 
 > 2013, [tile-based](https://en.wikipedia.org/wiki/Tile-based_video_game), [RTS](https://en.wikipedia.org/wiki/Real-time_strategy) [RPG](https://en.wikipedia.org/wiki/Role-playing_game), [tower defense](https://en.wikipedia.org/wiki/Tower_defense)
+
+```
+        T
+       TTT
+      .#ATT  ,,
+     ..P#TT ...,
+     ...@......B.
+    ..H,,,,,....
+     ..,,, ,...
+      V,,   ..
+```
 
 This game grows steadily more interesting and intricate as you play. The world is a dangerous place and you lead a village to protect people against the night. You also explore the world to bring things back to your village. You can play the game where you work for the betterment of your village, or where the village works to support your adventures. But you will probably end up somewhere in the middle. But either way you will have to manage the people and resources of your village to help build the things people need. The game also has a fun mechanic where if you die, a new village takes over and you play as them.
 
@@ -139,12 +160,11 @@ Dwarf Fortress is a phenomenon. It is, by a wide margin, the most complicated ga
     > escape
     You are so keen to escape that you literally leap through the fabric of the space-time continuum. You wake up in a shack in tenth-century Earth. A dressing gown, a toothbrush, and a flathead axe lie by your bed. Before you have a chance to move, Mongol hordes sweep magnificently across the plains of central Asia. They knock down your shack and burn the remains with you inside. You lost interest in the rest of the game.
 
-
-The Hitchhiker's Guide is a hilarious, plot-based, story-driven game based on the hit sci-fi comedy novel by Douglas Adams. Adams had a real gift for humor and loved technology. The writing in the game is great, with a really relaxed and fun tone. It follows the story of the first book in the series pretty closely. The game itself *might* be easier if you've read the book, but honestly I doubt it. This game will kill you a lot. If that sounds frustrating, this probably isn't the game for you.
+The Hitchhiker's Guide is a hilarious, plot-based, story-driven game based on the hit sci-fi comedy novel by Douglas Adams. Adams had a real gift for humor and loved technology. The writing in the game is great, with a really relaxed and fun tone. It follows the story of the first book in the series pretty closely. The game itself *might* be easier if you've read the book, but honestly I doubt it. This game will kill you - a lot. If that sounds frustrating, this probably isn't the game for you.
 
 **Pro Tip #1:** If you type "restart" after you die, sometimes you will start up in the next chapter of the game, instead of having to start from scratch.
 
-**Pro Tip #2:** If you're version of the game allows you to save your progress, do it a lot. Because you're going to die a lot.
+**Pro Tip #2:** If you're version of the game allows you to save your progress, do it as often as you can.
 
 * [Play Online - 20th Anniversary Edition](http://www.bbc.co.uk/programmes/articles/1g84m0sXpnNCv84GpN2PLZG/the-hitchhikers-guide-to-the-galaxy-game-30th-anniversary-edition) - This is the one I like best.
 * [Play Online - Original](http://www.douglasadams.com/creations/infocomjava.html)
@@ -157,15 +177,32 @@ The Hitchhiker's Guide is a hilarious, plot-based, story-driven game based on th
 > 1987-2015, [roguelike](https://en.wikipedia.org/wiki/Roguelike), little plot (open source)
 
 ```
-   ---------
-   |.>..u..|
-   |..@*...|
-   |...^....#
-  #......^.|#
-###|.....%.|######
+You see here a ruby ring.
+
+                                                  ------------
+                                                  +..........|     --------
+       -------------                            # |..........|     |.+*]@!|
+       |............#             ################...........|    #-.%[?f!|
+       |...........|#             #---------  #   ------|-----    #|.@[%))|
+       |>..........|#             #|.......|###         ########  #--------
+       -----.-----.-#             #|.[.....|#                  #  ####
+           ##       #             #|.......|#                  ###   #
+           #        #            ##-.....).|#                    #   #
+           #        #         #####|......)-#                    ##  #
+           #        ###  ------### ---------         -------------+--#
+           #          # #|....|#                     |              |#
+ ----------.--        ###|....-#                     |              +#
+ |............###########.....|                      |              |
+ |...........|          #|....|                      ----------------
+ |....<......+           |....|
+ |...........|           ------
+ -------------
+
+Sprocket the Evoker        St:12 Dx:12 Co:12 In:18 Wi:11 Ch:10  Neutral
+Dlvl:2  $:94 HP:17(17) Pw:23(23) AC:9  Xp:2/25 T:707
 ```
 
-NetHack is possibly the most popular roguelike out there (or it's tied with Angband).  It's classic. Fight to the bottom level of a dungeon, find a thing, and fight your way back up again. The online community is alive and well. People can watch each other play to learn to do better. When people say a game is "roguelike", they mean NetHack (or Angband). NetHack is a bit less friendly than Angband, at least for noobs. You have less options for how you want to configure the game, and the interface might be a bit less friendly. But it's a better game for people to compare scores with, and people play on servers that automatically live-stream their games for other people to watch.
+NetHack is possibly the most popular roguelike out there (see Angband). It's classic. Fight to the bottom level of a dungeon, find a thing, and fight your way back up again. The online community is big and active. Live-streaming serves allow players to watch each other to learn to do better. NetHack is, perhaps, a bit less beginner friendly. But unlike Angband, there is a clear way for people to compare scores and compete.
 
 * [Official Site](http://www.nethack.org/)
 * [RogueBasin Entry](http://www.roguebasin.com/index.php?title=NetHack)
@@ -174,11 +211,8 @@ NetHack is possibly the most popular roguelike out there (or it's tied with Angb
 * [Official Downloads](http://www.nethack.org/v360/downloads.html)
 * [NetHack vs Angband](http://www.iconbar.com/articles/Running_the_gauntlet_-_NetHack_vs._Angband/index1119.html)
 
-These days you can even play NetHack on your phone (with or without graphics). I think the controls are a bit awkward to get used to on most, but I think the iOS version iNetHack2 has the best controls.
+These days you can even play NetHack on your phone (with or without graphics). Since the original game expected you had a full keyboard, a lot of these games are pretty awkward to play. But after trying a dozen of them or so, my favourite is the iOS app [iNetHack 2](https://itunes.apple.com/us/app/inethack2/id962114968?mt=8).
 
-* [iNetHack 2 on the iOS App Store](https://itunes.apple.com/us/app/inethack2/id962114968?mt=8)
-* [NetHack on the iOS App Store](https://itunes.apple.com/us/app/nethack/id334281275?mt=8)
-* [Various NetHack versions on Google Play](https://play.google.com/store/search?q=nethack&c=apps&hl=en)
 
 ### Rogue
 
@@ -205,14 +239,14 @@ These days you can even play NetHack on your phone (with or without graphics). I
 ----------
 ```
 
-Rogue was the start of it all. (Not really, look up "Colossal Cave Adventure".) It is a tile-based, text-only, procedurally-generated, RPG where you delve dungeons, fight evil monsters, and collect treasure. The goal is to get to the bottom of the dungeon to find a thing. It is a quintessential classic. These days, you're probably better off playing NetHack or Angband. I can't say I've played the original "Rogue" much, as NetHack and Angband have had years of growth and improvment starting from Rogue. But I still feel like Rogue is an easier game to learn, and feels a lot less stressful than the two more hardcore versions.
+Rogue was the start of it all. (Not really, look up "Colossal Cave Adventure".) It is a tile-based, text-only, procedurally-generated, RPG where you delve dungeons, fight evil monsters, and collect treasure. The goal is to get to the bottom of the dungeon to find a thing. It is a quintessential classic. These days, you're probably better off playing NetHack or Angband; Rogue was a one-off game but NetHack and Angband are alive and well. The major reasons to play Rogue are: (1) historical, and (2) it is far less complex than Angband and NetHack.
 
 * [Play Online](https://archive.org/details/msdos_Rogue_1983)
 * [Rogue on RogueBasin](http://www.roguebasin.com/index.php?title=Rogue)
 * [Wikipedia](https://en.wikipedia.org/wiki/Rogue_%28video_game%29)
 * [Rogue Commands](http://www.nongnu.org/gmoria/moria.html#Commands) - Which button is what
 
-These days you can play Rogue on your phone (with or without graphics). I think the controls are a bit awkward to get used to on most version, so I'm still looking for the best.
+These days you can play Rogue on your phone (with or without graphics). There are a lot of options out there on iOS and Android, but the controls are a bit iffy on all of them and I haven't found one I love yet.
 
 * [Rogue on the iOS App Store](https://itunes.apple.com/us/app/rogue/id298113808?mt=8)
 * [Rogue for Android](https://play.google.com/store/apps/details?id=jp.android.ytmtsoft.game.rogue)
@@ -233,7 +267,7 @@ Oh, no! You have walked into the slavering fangs of a luring grue!
    **** You have died ****
 ```
 
-Zork is interactive fiction from the dawn of Unix Time. You are dropped into a world and given no introduction as to why you are there. You have to figure everything out for yourself. There will be puzzles to solve, though you won't be told that. This is one of those old-school adventures where you better remember seeing that bottle of water half an hour ago or you'll never been able to open this door. The interface is very forgiving with the words you choose though. You will be pwned by a Grue.
+Zork is interactive fiction from the dawn of Unix Time. You are dropped into a world and given no introduction as to why you are there. You have to figure everything out for yourself. There will be puzzles to solve, though you won't be told that. This is one of those old-school adventures where you better remember seeing that bottle of water half an hour ago or you'll never been able to open this door. The game originally got popular though because the user-input is pretty forgiving.
 
 * [Play Zork 1 Online](https://archive.org/details/a2_Zork_I_The_Great_Underground_Empire_1980_Infocom)
 * [Play Zork 2 Online](https://archive.org/details/a2_Zork_II_The_Wizard_of_Frobozz_1981_Infocom_a)
