@@ -27,6 +27,17 @@ ADOM is a roguelike with more story than most. I don't want to spoiler it, but I
 
 > 1998, [interactive fiction](https://en.wikipedia.org/wiki/Interactive_fiction)
 
+    > n
+    You close your umbrella, as is your habit after coming indoors.
+    
+    Local Pub
+    A dank, drafty old drinking hole lit by flickering oil-burning lanterns. Smoke collects in greasy pools among the rafters, and shadows crowd thick around. The bar runs the length of the room to your right, while to the south a low doorway opens onto the street.
+    Mill workers and fisherman occupy a few of the tables, drinking beer or puffy grimly at long-stemmed pipes. Each is wrapped in his solitude, soaking up the general miasma of dreary fatalism.
+    The lantern sitting on the table nearest you sputters fitfully, throwing distorted shadows across the wall.
+    
+    > say "Help! I'm being chased!" to the fisherman
+    No one answers you, or even looks your way.
+
 Anchorhead is based on the works of HP Lovecraft, especially the stories involving Cthulu. It is interactive fiction, but something more in the vein of a puzzle game. And there are strains of an open-world explorer here as sometimes you need to look around the world a bit to solve the puzzle. Perhaps the highlight of the game is the writing, which has the haunting tone you'd want from a story about Cthulu. I must admit, I find this game to be difficult. Perhaps I am too used to games phoning it in and making obvious puzzles, where Anchorhead doesn't slap you in the face with the puzzle, you have to figure out what you need to be doing next. I've never "finished" this game, though I'd like to one day. I went into the game expecting an atmospheric spooky game, and got everything I wanted.
 
 * [Play Anchorhead Online](http://pr-if.org/play/anchorhead/)
@@ -62,6 +73,23 @@ This game grows steadily more interesting and intricate as you play. The world i
 
 > 2013, puzzle-based [RPG](https://en.wikipedia.org/wiki/Role-playing_game)
 
+
+```
++--------------------------------------------------------------------------------------------------+
+| You have 1 204 266 candies|  THE  | INV  |     |                                      |      | C |
+|  -> 10 544 133 lollipops  | CANDY |  ENT | MAP |                                      | SAVE | F |
+| You have 2 chocolate bars |  BOX  | ORY  |     |                                      |      | G |
+|                           |                       Your health : 1000/1000                        |
++--------------------------------------------------------------------------------------------------+
+
+                                                                                                    
+Eat all the candies                   
+
+You have eaten 16 candies
+
+Throw 10 candies on the ground
+```
+
 At first this will barely feel like a game; there's nothing to it. But the more you play the more it grows. The more there is to do. But I don't think there is any way for me to talk about this game without spoilering it, or at least seriously spoilering the opening. So all I will say is it is puzzle-based.
 
 * [Play Online - Candy Box 2](http://candybox2.net/) - This is the one you want to play.
@@ -70,6 +98,17 @@ At first this will barely feel like a game; there's nothing to it. But the more 
 ### Discworld MUD
 
 > 1991-Present, [MUD](https://en.wikipedia.org/wiki/MUD), [RPG](https://en.wikipedia.org/wiki/Role-playing_game)
+
+    Turnwise Broadway [nw, se]
+    Hp: 1610 (1610) Gp: 255 (285) Xp: 82361
+    You hack the sailor's stomach with your Dragon Fang.
+    > slash sailor with fang
+    You prepare to slash the sailor with the tiger fang.
+    
+    Hp: 1610 (1610) Gp: 233 (285) Xp: 82599
+    You launch a powerful attack. You chop up the sailor's right arm with your tiger fang.
+    You kill the sailor.
+    You get the feeling that someone is watching you - as if this is all a game somehow.    
 
 The Discworld MUD is a hilarious, old school MUD based on Terry Pratchett's wildly successful comedy fantasy book series. This open-world game has more content than any other game ever created. No joke, the community has been adding content for 25 years now and you will never, ever see it all. The game is generally pretty funny, and though some players have had the same character for years, there is serious permadeath in the game. This is my all-time favorite MUD, and I have spent so much time playing it I should probably be embarassed. (I'm not.) GNU Terry Pratchett.
 
@@ -94,6 +133,13 @@ Dwarf Fortress is a phenomenon. It is, by a wide margin, the most complicated ga
 
 > 1984, [interactive fiction](https://en.wikipedia.org/wiki/Interactive_fiction)
 
+    > stab gaurd with the flathead screwdriver
+    I don't know the word "stab".
+
+    > escape
+    You are so keen to escape that you literally leap through the fabric of the space-time continuum. You wake up in a shack in tenth-century Earth. A dressing gown, a toothbrush, and a flathead axe lie by your bed. Before you have a chance to move, Mongol hordes sweep magnificently across the plains of central Asia. They knock down your shack and burn the remains with you inside. You lost interest in the rest of the game.
+
+
 The Hitchhiker's Guide is a hilarious, plot-based, story-driven game based on the hit sci-fi comedy novel by Douglas Adams. Adams had a real gift for humor and loved technology. The writing in the game is great, with a really relaxed and fun tone. It follows the story of the first book in the series pretty closely. The game itself *might* be easier if you've read the book, but honestly I doubt it. This game will kill you a lot. If that sounds frustrating, this probably isn't the game for you.
 
 **Pro Tip #1:** If you type "restart" after you die, sometimes you will start up in the next chapter of the game, instead of having to start from scratch.
@@ -109,6 +155,15 @@ The Hitchhiker's Guide is a hilarious, plot-based, story-driven game based on th
 ### NetHack
 
 > 1987-2015, [roguelike](https://en.wikipedia.org/wiki/Roguelike), little plot (open source)
+
+```
+   ---------
+   |.>..u..|
+   |..@*...|
+   |...^....#
+  #......^.|#
+###|.....%.|######
+```
 
 NetHack is possibly the most popular roguelike out there (or it's tied with Angband).  It's classic. Fight to the bottom level of a dungeon, find a thing, and fight your way back up again. The online community is alive and well. People can watch each other play to learn to do better. When people say a game is "roguelike", they mean NetHack (or Angband). NetHack is a bit less friendly than Angband, at least for noobs. You have less options for how you want to configure the game, and the interface might be a bit less friendly. But it's a better game for people to compare scores with, and people play on servers that automatically live-stream their games for other people to watch.
 
@@ -129,6 +184,27 @@ These days you can even play NetHack on your phone (with or without graphics). I
 
 > 1980, [roguelike](https://en.wikipedia.org/wiki/Roguelike), little plot
 
+```
+    -----------       -----------------
+    |         |  #####+...............+######
+    |         |  ##   |..f............|     ###########
+    |         +####   -@---------------               #
+    -------+---        ###############                ########
+           #                         #                       #
+           ######       -------------+-                      #
+           -----+-      |             |                      #
+           |     +######|             +#########   ----------+--
+           |     |   # #|             |        #   |...........|
+           |     |   # #|     %       |        ####+...........|
+           -+-----   ###+             |            |...........|
+      #######           ---+-----------            --------+----
+------+---                 #                               #
+|        |                 #######                     #####
+|        +########################                     #
+|        |
+----------
+```
+
 Rogue was the start of it all. (Not really, look up "Colossal Cave Adventure".) It is a tile-based, text-only, procedurally-generated, RPG where you delve dungeons, fight evil monsters, and collect treasure. The goal is to get to the bottom of the dungeon to find a thing. It is a quintessential classic. These days, you're probably better off playing NetHack or Angband. I can't say I've played the original "Rogue" much, as NetHack and Angband have had years of growth and improvment starting from Rogue. But I still feel like Rogue is an easier game to learn, and feels a lot less stressful than the two more hardcore versions.
 
 * [Play Online](https://archive.org/details/msdos_Rogue_1983)
@@ -144,6 +220,18 @@ These days you can play Rogue on your phone (with or without graphics). I think 
 ### Zork
 
 > 1977-1982, [interactive fiction](https://en.wikipedia.org/wiki/Interactive_fiction)
+
+```
+Forest
+> UP
+You have moved into a dark place.
+It is pitch black. You are likely to be eaten by a grue.
+
+> N
+Oh, no! You have walked into the slavering fangs of a luring grue!
+
+   **** You have died ****
+```
 
 Zork is interactive fiction from the dawn of Unix Time. You are dropped into a world and given no introduction as to why you are there. You have to figure everything out for yourself. There will be puzzles to solve, though you won't be told that. This is one of those old-school adventures where you better remember seeing that bottle of water half an hour ago or you'll never been able to open this door. The interface is very forgiving with the words you choose though. You will be pwned by a Grue.
 
