@@ -106,7 +106,7 @@ You have eaten 7 546 968 candies
 Throw 10 candies on the ground
 ```
 
-At first this will barely feel like a game; there's nothing to it. But the more you play the more it grows. The more there is to do. But I don't think there is any way for me to talk about this game without spoilering it, or at least seriously spoilering the opening. So all I will say is it is puzzle-based.
+At first this will barely feel like a game; there is nothing to it. But the more you play the more it grows. This makes it hard to talk about the game without spoilering it, or at least spoilering the opening. But I *can* say the game is puzzle-based. It is a light-hearted, low-key game you can walk away from at any moment and come back days later. Hell, that might even help you. By the end, you will feel like you have a relationship with the game developer.
 
 * [Play Online - Candy Box 2](http://candybox2.net/) - This is the one you want to play.
 * [Play Online - Candy Box](http://candies.aniwey.net/)
