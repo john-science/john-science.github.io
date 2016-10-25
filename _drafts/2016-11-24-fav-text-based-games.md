@@ -85,7 +85,7 @@ This game grows steadily more interesting and intricate as you play. The world i
                                                                                                     
 Eat all the candies                   
 
-You have eaten 16 candies
+You have eaten 7 546 968 candies
 
 Throw 10 candies on the ground
 ```
