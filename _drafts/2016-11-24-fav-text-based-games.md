@@ -2,7 +2,7 @@
 layout: post
 title: "My Favourite Text-Based Games"
 tags: [Games, Software]
-summary: A quick look at my favourite text-based games.
+summary: The best text-based computer games of all time.
 ---
 {% include JB/setup %}
 
