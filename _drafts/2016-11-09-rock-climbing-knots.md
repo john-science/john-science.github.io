@@ -23,6 +23,7 @@ Knot | Rapelling | Top Roping | Sport Climbing | Trad Climbing | Self-Rescue
 [Super Munter Hitch](https://youtu.be/OLaEmPs7tac) |  |  |  | X | X
 [Bowline on a Bight](https://youtu.be/CDZOYUZabV4)  |  |  |  | X | 
 [Alpine Butterfly Loop](https://youtu.be/gX1dWKg6Ttc) |  |  |  |  | X
+[Butterfly](https://youtu.be/gX1dWKg6Ttc) |  |  |  |  | X
 
 * **Pro Tip**: All three of the above hitches can be [tied with one hand](http://www.climbing.com/skills/learn-this-one-handed-munter-and-clove-hitches/). This is extremely helpful; learn this.
 * **Pro Tip**: Every climber needs to know at least one [hitch](https://en.wikipedia.org/wiki/List_of_hitch_knots) and at least one [bight](https://en.wikipedia.org/wiki/Bight_%28knot%29).
