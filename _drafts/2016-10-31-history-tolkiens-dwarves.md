@@ -6,7 +6,7 @@ summary: The entire history of the Dwarves of Middle Earth.
 ---
 {% include JB/setup %}
 
-I recently took a deep dive into the history of Tolkien's Dwarves for a [game](https://github.com/theJollySin/mazes_of_erebor) I am writing. There is not as much known about the Dwarves as there is about the Elves, who were given entire books for their history. Instead, I had to scrounge information from all of Tolkien's works.
+I recently took a deep dive into the history of Tolkien's Dwarves for a [game](https://github.com/theJollySin/mazes_of_erebor) I am writing. There is not as much known about the Dwarves as there is about the Elves, who were given entire books for their history. So, I had to scrounge information from all of Tolkien's works.
 
 What follows is the Cliff's Notes version of every major event in Dwarven history, that we know of. Text in italics is not explicitly stated in Tolkien's works, but can be inferred without too much imagination.
 
@@ -135,7 +135,8 @@ Fun Facts
 * The Dwarves are secretive about their language, Khudzul; which was given to them by Aulë.
  * Dwarves would not even speak their language in front of non-Dwarves. Only two outsiders ever learned to speak it: the elves [Eöl](https://en.wikipedia.org/wiki/E%C3%B6l) and [Curufin](https://en.wikipedia.org/wiki/Curufin).
  * The Dwarven language remained unchange throughout all four ages.
-* *If you read that a Dwarf is "son of Thrain" or "father of Dain", don't assume they are male. Because of translation problems and the beards, Dwarves are usually referred to with male pronouns by outsiders.*
+ * By the third age, Dwarves are protecting the purity of their language by not learning it a birth (instead they learn the local Human or Elven dialect), but studying it school in its official original form.
+* *If you read that a Dwarf is "son of Thrain" or "father of Dain", don't assume they are male. Because of translation problems, and the beards, Dwarves are usually referred to with male pronouns by outsiders.*
 
 
 Great References
