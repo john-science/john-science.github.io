@@ -133,9 +133,9 @@ Fun Facts
 * Dwarves naturally live about 250 solar years.
 * The Dwarves are secretive about their religion. *But it probably revolves around [Aulë](https://en.wikipedia.org/wiki/Aul%C3%AB).*
 * The Dwarves are secretive about their language, Khudzul; which was given to them by Aulë.
- * Dwarves would not even speak their language in front of non-Dwarves. Only two outsiders ever learned to speak it: the elves [Eöl](https://en.wikipedia.org/wiki/E%C3%B6l) and [Curufin](https://en.wikipedia.org/wiki/Curufin).
+ * Dwarves do not even speak their language in front of non-Dwarves. Only two outsiders ever learned to speak it: the elves [Eöl](https://en.wikipedia.org/wiki/E%C3%B6l) and [Curufin](https://en.wikipedia.org/wiki/Curufin).
  * The Dwarven language remained unchange throughout all four ages.
- * By the third age, Dwarves are protecting the purity of their language by not learning it a birth (instead they learn the local Human or Elven dialect), but studying it school in its official original form.
+ * By the third age, Dwarves are protecting the purity of their language by not learning it a birth (instead they learn the local Human or Elven dialect), but learn it through study later in life in its official original form.
 * *If you read that a Dwarf is "son of Thrain" or "father of Dain", don't assume they are male. Because of translation problems, and the beards, Dwarves are usually referred to with male pronouns by outsiders.*
 
 
