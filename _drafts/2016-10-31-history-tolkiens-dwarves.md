@@ -28,7 +28,7 @@ These are the endless days before history.
 
 This is a long period that starts before the Sun and Moon exist, but ends in the early written history.
 
-* Elves are awakened by [Ilúvatar](https://en.wikipedia.org/wiki/Eru_Il%C3%BAvatar).
+* [YT](https://en.wikipedia.org/wiki/History_of_Arda#Years_of_the_Trees) 1050: Elves are awakened by [Ilúvatar](https://en.wikipedia.org/wiki/Eru_Il%C3%BAvatar).
 * [Sauron](https://en.wikipedia.org/wiki/Sauron) is originally a [Maia](https://en.wikipedia.org/wiki/Maia_%28Middle-earth%29), or demigod servant, to [Aulë](https://en.wikipedia.org/wiki/Aul%C3%AB); but he is corrupted and becomes the chief lieutenant of [Melkor](https://en.wikipedia.org/wiki/Morgoth).
 * Melkor captures Elves and begins breeding [Orcs](https://en.wikipedia.org/wiki/Orc_%28Middle-earth%29) from them.
 * The [Fathers of Dwarves](https://en.wikipedia.org/wiki/Fathers_of_the_Dwarves) are first awakened by Ilúvatar, as are the first [Ents](https://en.wikipedia.org/wiki/Ent).
@@ -36,13 +36,13 @@ This is a long period that starts before the Sun and Moon exist, but ends in the
  * Two Fathers were laid to rest in the Blue Mountains, and there they founded the clans of the [Broadbeams](http://tolkiengateway.net/wiki/Broadbeams) and the [Firebeards](http://tolkiengateway.net/wiki/Firebeards) who later lived in [Nogrod](https://en.wikipedia.org/wiki/Minor_places_in_Beleriand#Nogrod) and [Belegost](https://en.wikipedia.org/wiki/Minor_places_in_Beleriand#Belegost) respectively.
  * The four other Fathers were laid down in the far East. We know the least about these Dwarves, except that they arose in the [Orocarni](http://tolkiengateway.net/wiki/Orocarni) Mountains and formed the four clans [Ironfists](http://tolkiengateway.net/wiki/Ironfists), [Stiffbeards](http://tolkiengateway.net/wiki/Stiffbeards), [Blacklocks](http://tolkiengateway.net/wiki/Blacklocks), and [Stonefoots](http://tolkiengateway.net/wiki/Stonefoots).
 * Durin sees a reflection of himself wearing a crown in the lake [Kheled-zâram](http://lotr.wikia.com/wiki/Mirrormere) and then founds [Khazad-dûm](https://en.wikipedia.org/wiki/Moria_%28Middle-earth%29) in the caves behind it. Dwarves begin to gather there forming the [Longbeards](http://tolkiengateway.net/wiki/Durin's_Folk) clan, and Khazad-dûm slowly grows to become the greatest Dwarven kingdom.
-* The Dwarves of Nogrod and Belegost are met by the [Sindarian Elves](https://en.wikipedia.org/wiki/Sindar), establishing trade.
+* YT 1250: The Dwarves of Nogrod and Belegost are met by the [Sindarian Elves](https://en.wikipedia.org/wiki/Sindar), establishing trade.
 * The Dwarves are the first to forge mail armor of linked rings. *Tolkien's works rarely involve plate armor: ignore the movies.*
-* The Dwarves of Belegost and the Sindarian Elves build the great underground Elven city of [Doriath](https://en.wikipedia.org/wiki/Doriath).
+* YT 1300: The Dwarves of Belegost and the Sindarian Elves begin building the great underground Elven city of [Doriath](https://en.wikipedia.org/wiki/Doriath).
 * The Dwarves of Nogrod and Belegost build the great [Dwarf-road](http://tolkiengateway.net/wiki/Dwarf-road_of_Beleriand) to [trade](http://www.henneth-annun.net/events_view.cfm?evid=994) with the Elves of Doriath and Beleriand.
-* Dwarves join the Sindarian and Green Elves in the [First Battle of Beleriand](https://en.wikipedia.org/wiki/First_Battle_of_Beleriand) is the first of the [Wars of Beleriand](https://en.wikipedia.org/wiki/Middle-earth_wars_and_battles#Battles_of_Beleriand) against Melkor.
+* YT 1497: Dwarves join the Sindarian and Green Elves in the [First Battle of Beleriand](https://en.wikipedia.org/wiki/First_Battle_of_Beleriand) is the first of the [Wars of Beleriand](https://en.wikipedia.org/wiki/Middle-earth_wars_and_battles#Battles_of_Beleriand) against Melkor.
 * -1: The moon rises for the first time.
-* 1: The sun rises for the first time.
+* 1: The sun rises for the first time.  (YT 1500)
 * 1: Humans are awakened by Ilúvatar in [Hildórien](https://en.wikipedia.org/wiki/Minor_places_in_Arda#Hild.C3.B3rien).
 * c 60–200: Melkor persuades humans to stop worshipping Ilúvatar and turn to evil, but some revolt: the Atanatári. Dwarves and the Avari Elves aid these humans in travelling West in search of the Vala. As divine punishment, humans lose the gift to die at will and are doomed to lead short lives at the end of which death takes them by force.
 * 150: The Dwarves renew their trade with the Elves of [Beleriand](https://en.wikipedia.org/wiki/Beleriand).
@@ -155,3 +155,4 @@ Online Resources
 * [One Wiki to Rule them All](http://tolkiengateway.net/wiki/Dwarves) - article on Dwarves
 * [Wikipedia](https://en.wikipedia.org/wiki/Timeline_of_Arda) - timeline of Arda
 * [Wikipedia](https://en.wikipedia.org/wiki/Dwarf_%28Middle-earth%29) - article on Dwarves
+* [LotR Project](http://lotrproject.com/timeline/#zoom=2&lat=-1485&lon=1500&layers=B) - Timeline of Middle-Earth
