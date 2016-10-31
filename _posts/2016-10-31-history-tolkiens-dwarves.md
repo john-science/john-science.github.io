@@ -123,14 +123,14 @@ Fun Facts
 Great References
 ----------------------
 
-Books
+#### Books
 
 + [The Silmarillion](https://www.goodreads.com/book/show/7332.The_Silmarillion) - mostly about Elves, but some passages are helpful
 + [The Hobbit](https://www.goodreads.com/book/show/5907.The_Hobbit) - a lot about the Dwarves of Erebor
 + [The Lord of the Rings](https://www.goodreads.com/book/show/33.The_Lord_of_the_Rings) - the chapter on "The Council of Elrond" and the appendicies
 + [The History of Middle Earth](https://www.goodreads.com/book/show/214175.The_Complete_History_Of_Middle_Earth) - again, mostly about Elves, but some good stuff
 
-Online Resources
+#### Online Resources
 
 + [YouTube](https://youtu.be/8qNjclUU290) - a wonderful history of the Dwarves
 + [One Wiki to Rule them All](http://tolkiengateway.net/wiki/Dwarves) - article on Dwarves
