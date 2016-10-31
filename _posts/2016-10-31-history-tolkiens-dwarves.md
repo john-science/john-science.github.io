@@ -21,7 +21,7 @@ These are the endless days before history.
 + Some Ainur descend into Arda to oversee it; they are known as the [Vala](https://en.wikipedia.org/wiki/Vala_%28Middle-earth%29) (or Valar).
 + Melkor claims Arda for himself, and so becomes the source of all evil.
 + Aulë, god of skill and craftsmanship, creates the Dwarves in secret from the other Vala.
- + *This is probably why the Dwarves are the least corruptable of all races. During the creation of Elves and Humans, all of the Vala were present and played a small part, including Melkor. But Melkor played no part in the creation of the Dwarves.*
+ * *This is probably why the Dwarves are the least corruptable of all races. During the creation of Elves and Humans, all of the Vala were present and played a small part, including Melkor. But Melkor played no part in the creation of the Dwarves.*
 + Ilúvatar finds out about the Dwarves, and tells Aulë to destroy them. But Ilúvatar stops Aulë at the last moment and allows the Dwarves to exist, stipulating only that they must go to sleep until after the Elves awake.
 
 ### First Age
