@@ -10,7 +10,7 @@ I recently took a deep dive into the history of Tolkien's Dwarves for a [game](h
 
 What follows is the Cliff's Notes version of every major event in Dwarven history, that we know of. Text in italics is not explicitly stated in Tolkien's works, but can be inferred without too much imagination.
 
- 
+ &nbsp;
 
 ### Elder Days
 
