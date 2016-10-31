@@ -10,7 +10,7 @@ I recently took a deep dive into the history of Tolkien's Dwarves for a [game](h
 
 What follows is the Cliff's Notes version of every major event in Dwarven history, that we know of. Text in italics is not explicitly stated in Tolkien's works, but can be inferred without too much imagination.
 
-</br>
+ 
 
 ### Elder Days
 
@@ -24,7 +24,7 @@ These are the endless days before history.
 + Aulë, god of skill and craftsmanship, creates the Dwarves in secret from the other Vala. (*This is probably why the Dwarves are the least corruptable of all races. During the creation of Elves and Humans, all of the Vala played a small part, including Melkor. But Melkor played no part in the creation of the Dwarves.*)
 + Ilúvatar finds out about the Dwarves, and tells Aulë to destroy them. But Ilúvatar stops Aulë at the last moment and allows the Dwarves to exist, stipulating only that they must go to sleep until after the Elves awake.
 
-</br>
+ 
 
 ### First Age
 
@@ -54,7 +54,7 @@ This is a long period that starts before the Sun and Moon exist, but ends in the
 + 545-587: [The War of Wrath](http://lotr.wikia.com/wiki/War_of_Wrath) between the Vala; after which the world West of the [Blue Mountains](http://lotr.wikia.com/wiki/Blue_Mountains) is sunk into the sea. Melkor is captured. Two great houses of Dwarves, Nogrod and Belegost, are destroyed; the survivors flee to Khazad-dûm. It is also believed that the original mansions of the four Eastern clans are destroyed in this war.
 + 590: Melkor is cast into the void.
 
-</br>
+ 
 
 ### Second Age
 
@@ -67,7 +67,7 @@ The second age lasts 3441 years, during which little is written about the histor
 + 3434: The Last Alliance defeats Sauron's forces in the [Battle of Dagorlad](https://en.wikipedia.org/wiki/Middle-earth_wars_and_battles#War_of_the_Last_Alliance); and the Siege of [Barad-dûr](https://en.wikipedia.org/wiki/Barad-d%C3%BBr) begins.
 * 3441: [Isildur](https://en.wikipedia.org/wiki/Isildur) cuts the [One Ring](https://en.wikipedia.org/wiki/One_Ring) from Sauron's finger with the shattered hilt of the sword [Narsil](https://en.wikipedia.org/wiki/Middle-earth_weapons_and_armour#Narsil), ending the war.
 
-</br>
+ 
 
 ### Third Age
 
@@ -105,7 +105,7 @@ The third age lasts 3021 years, and during this time the number of Dwarves begin
 + 3019: Sauron's One Ring is destroyed in Mount Doom.
 + 3019: After Sauron's fall, the siege of Erebor breaks and the Dwarves slaughter the fleeing Orcs. [Dáin II](https://en.wikipedia.org/wiki/D%C3%A1in_II_Ironfoot) becomes [King Under the Mountain](http://lotr.wikia.com/wiki/King_under_the_Mountain).
 
-</br>
+ 
 
 ### Fourth Age
 
@@ -118,7 +118,7 @@ Tolkien does not tell us much about the Fourth Age or beyond.
 + Khazad-dûm and Erebor are the two great final kingdoms of the Dwarves.
 + It is not clear if the Dwarves slowly diminish and are gone from the world or if they simply delve so deeply that they are never seen above ground again.
 
-</br>
+ 
 
 Fun Facts
 ---------
@@ -129,7 +129,7 @@ Fun Facts
 + The Dwarves are secretive about their language, Khudzul; which was given to them by Aulë. (They do not speak Khudzul in front of non-Dwarves and only two outsiders ever learned to speak it: the elves [Eöl](https://en.wikipedia.org/wiki/E%C3%B6l) and [Curufin](https://en.wikipedia.org/wiki/Curufin). Through intensive effort, Khudzul remained unchanged throughout all four ages.)
 + *If you read that a Dwarf is "son of Thrain" or "father of Dain", don't assume they are male. Because of translation problems, and the beards, Dwarves are usually referred to with male pronouns by outsiders.*
 
-</br>
+ 
 
 Great References
 ----------------------
