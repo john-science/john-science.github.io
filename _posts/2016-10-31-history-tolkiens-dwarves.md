@@ -21,7 +21,7 @@ These are the endless days before history.
 + Some Ainur descend into Arda to oversee it; they are known as the [Vala](https://en.wikipedia.org/wiki/Vala_%28Middle-earth%29) (or Valar).
 + Melkor claims Arda for himself, and so becomes the source of all evil.
 + Aulë, god of skill and craftsmanship, creates the Dwarves in secret from the other Vala.
-  - *This is probably why the Dwarves are the least corruptable of all races. During the creation of Elves and Humans, all of the Vala were present and played a small part, including Melkor. But Melkor played no part in the creation of the Dwarves.*
+ + *This is probably why the Dwarves are the least corruptable of all races. During the creation of Elves and Humans, all of the Vala were present and played a small part, including Melkor. But Melkor played no part in the creation of the Dwarves.*
 + Ilúvatar finds out about the Dwarves, and tells Aulë to destroy them. But Ilúvatar stops Aulë at the last moment and allows the Dwarves to exist, stipulating only that they must go to sleep until after the Elves awake.
 
 ### First Age
@@ -32,9 +32,9 @@ This is a long period that starts before the Sun and Moon exist, but ends in the
 + [Sauron](https://en.wikipedia.org/wiki/Sauron) is originally a [Maia](https://en.wikipedia.org/wiki/Maia_%28Middle-earth%29), or demigod servant, to [Aulë](https://en.wikipedia.org/wiki/Aul%C3%AB); but he is corrupted and becomes the chief lieutenant of [Melkor](https://en.wikipedia.org/wiki/Morgoth).
 + Melkor captures Elves and begins breeding [Orcs](https://en.wikipedia.org/wiki/Orc_%28Middle-earth%29) from them.
 + The seven [Fathers of Dwarves](https://en.wikipedia.org/wiki/Fathers_of_the_Dwarves) are first awakened by Ilúvatar, as are the first [Ents](https://en.wikipedia.org/wiki/Ent).
-  - [Durin the Deathless](https://en.wikipedia.org/wiki/Durin#Durin_the_Deathless) was laid to rest alone by Aulë. He awoke first of all Dwarves, in [Mount Gundabad](https://en.wikipedia.org/wiki/Minor_places_in_Middle-earth_%28fictional%29#Mount_Gundabad) in the [Misty Mountains](https://en.wikipedia.org/wiki/Misty_Mountains), and it was forever after sacred to the Dwarves.
-  - Two Fathers were laid to rest in the Blue Mountains, and there they founded the clans of the [Broadbeams](http://tolkiengateway.net/wiki/Broadbeams) and the [Firebeards](http://tolkiengateway.net/wiki/Firebeards) who later lived in [Nogrod](https://en.wikipedia.org/wiki/Minor_places_in_Beleriand#Nogrod) and [Belegost](https://en.wikipedia.org/wiki/Minor_places_in_Beleriand#Belegost) respectively.
-  - The four other Fathers were laid down in the far East. We know the least about these Dwarves, except that they arose in the [Orocarni](http://tolkiengateway.net/wiki/Orocarni) Mountains and formed the four clans [Ironfists](http://tolkiengateway.net/wiki/Ironfists), [Stiffbeards](http://tolkiengateway.net/wiki/Stiffbeards), [Blacklocks](http://tolkiengateway.net/wiki/Blacklocks), and [Stonefoots](http://tolkiengateway.net/wiki/Stonefoots).
+ + [Durin the Deathless](https://en.wikipedia.org/wiki/Durin#Durin_the_Deathless) was laid to rest alone by Aulë. He awoke first of all Dwarves, in [Mount Gundabad](https://en.wikipedia.org/wiki/Minor_places_in_Middle-earth_%28fictional%29#Mount_Gundabad) in the [Misty Mountains](https://en.wikipedia.org/wiki/Misty_Mountains), and it was forever after sacred to the Dwarves.
+ + Two Fathers were laid to rest in the Blue Mountains, and there they founded the clans of the [Broadbeams](http://tolkiengateway.net/wiki/Broadbeams) and the [Firebeards](http://tolkiengateway.net/wiki/Firebeards) who later lived in [Nogrod](https://en.wikipedia.org/wiki/Minor_places_in_Beleriand#Nogrod) and [Belegost](https://en.wikipedia.org/wiki/Minor_places_in_Beleriand#Belegost) respectively.
+ + The four other Fathers were laid down in the far East. We know the least about these Dwarves, except that they arose in the [Orocarni](http://tolkiengateway.net/wiki/Orocarni) Mountains and formed the four clans [Ironfists](http://tolkiengateway.net/wiki/Ironfists), [Stiffbeards](http://tolkiengateway.net/wiki/Stiffbeards), [Blacklocks](http://tolkiengateway.net/wiki/Blacklocks), and [Stonefoots](http://tolkiengateway.net/wiki/Stonefoots).
 + Durin sees a reflection of himself wearing a crown in the lake [Kheled-zâram](http://lotr.wikia.com/wiki/Mirrormere) and then founds [Khazad-dûm](https://en.wikipedia.org/wiki/Moria_%28Middle-earth%29) in the caves behind it. Dwarves begin to gather there and form the composite [Longbeards](http://tolkiengateway.net/wiki/Durin's_Folk) clan.
 + YT 1250: The Dwarves of Nogrod and Belegost are met by the [Sindarian Elves](https://en.wikipedia.org/wiki/Sindar), etablishing trade.
 + The Dwarves are the first to forge mail armor of linked rings. *Tolkien's works rarely involve plate armor.*
@@ -47,7 +47,7 @@ This is a long period that starts before the Sun and Moon exist, but ends in the
 + c 60–200: Melkor persuades humans to stop worshipping Ilúvatar and turn to evil, but some revolt: the Atanatári. Dwarves and the Avari Elves aid these humans in travelling West in search of the Vala. As divine punishment, humans lose the gift to die at will and are doomed to lead short lives at the end of which death takes them by force.
 + The great Dwarven smith [Telchor](http://lotr.wikia.com/wiki/Telchar) of Nogrod crafts many works, including the famous blades [Narsil](https://en.wikipedia.org/wiki/Middle-earth_weapons_and_armour#Narsil) and [Angrist](https://en.wikipedia.org/wiki/Middle-earth_weapons_and_armour#Angrist) and the [Dragon-helm of Dor-lómin](https://en.wikipedia.org/wiki/Middle-earth_weapons_and_armour#Dragon-helm_of_Dor-l.C3.B3min).
 + 468: The Dwarves of Belegost join the [Union of Meahdros](https://en.wikipedia.org/wiki/Maedhros) in [Nírnaeth Arnoediad](http://lotr.wikia.com/wiki/Nirnaeth_Arnoediad), the fifth battle of the Wars of Beleriand against Melkor. King [Azaghâl](https://en.wikipedia.org/wiki/Middle-earth_dwarf_characters#Azagh.C3.A2l) was slain by [Glaurung](https://en.wikipedia.org/wiki/Glaurung), the first dragon, but not before he stabbed the beast in the stomach making it flee the battle.
-  - *It seems likely that since the Dwarves were in the first and fifth of the Wars of Beleriand, they were in the others. But Tolkien only recounts the deeds of the Elves in those battles.*
+ + *It seems likely that since the Dwarves were in the first and fifth of the Wars of Beleriand, they were in the others. But Tolkien only recounts the deeds of the Elves in those battles.*
 + 502: King [Thingol](https://en.wikipedia.org/wiki/Thingol) of Doriath invites the Dwarves of Norgrod to create jewelery in his vast treasury; of these works the necklace [Nauglamír](https://en.wikipedia.org/wiki/Middle-earth_objects#Nauglam.C3.ADr) is their finest.
 + 503: King Thingol has Dwarves set the [Silmaril](http://lotr.wikia.com/wiki/Silmaril) of [Beren](http://lotr.wikia.com/wik/Beren) and [Lúthien](http://lotr.wikia.com/wiki/L%C3%BAthien) into Nauglamír, making it the fairest object in Arda. The Dwarven jewelers so desire it, then end up slaying Thingol. They lie about what happened to the Dwarves on Norgrond and return with an army to sack Doriath. Heavy with spoils on their march home from Doriath, the Dwarven army is destroyed entirely by Elves and Ents in the [Battle of Sarn Athrad](http://tolkiengateway.net/wiki/Battle_of_Sarn_Athrad).
 + 545-587: [The War of Wrath](http://lotr.wikia.com/wiki/War_of_Wrath) between the Vala; after which the world West of the [Blue Mountains](http://lotr.wikia.com/wiki/Blue_Mountains) is sunk into the sea. Melkor is captured. Two great houses of Dwarves, Nogrod and Belegost, are destroyed; the survivors flee to Khazad-dûm. It is also believed that the original mansions of the four Eastern clans are destroyed in this war.
@@ -59,10 +59,10 @@ The second age lasts 3441 years, during which little is written about the histor
 
 + c 750-1500: The two greatest craftsman of the age, [Celebrimbor](https://en.wikipedia.org/wiki/Celebrimbor) (the Elven Lord of Eregion) and the Dwarf [Narvi](https://en.wikipedia.org/wiki/Middle-earth_dwarf_characters#Narvi), build the [Doors of Durin](http://tolkiengateway.net/wiki/Doors_of_Durin): the West gate of [Khazad-dûm](https://en.wikipedia.org/wiki/Moria_%28Middle-earth%29). The gate was designed to aid the friendship between Dwarves and Elves.
 + c 1500-1590: [Sauron](https://en.wikipedia.org/wiki/Sauron) the Deceiver gives [seven rings of power](http://tolkiengateway.net/wiki/Seven_Rings) to seven Dwarf Kings.
-  - It is likely that Celebrimbor, not Sauron, gives one of these rings to Durin his ring. Though Celebrimbor probably did not yet konw of Sauron's evil.
-  - The rings do not corrupt their Dwarven wearers, so Sauron does not gain dominion over them.
-  - Four of these rings are later destroyed by Dragons, and Sauron is able to retrieve two more during the Second Age.
-  - *It is likely that a ring is given to the leader of each of the seven [Dwarven clans](http://tolkiengateway.net/wiki/Dwarves#Origin).*
+ + It is likely that Celebrimbor, not Sauron, gives one of these rings to Durin his ring. Though Celebrimbor probably did not yet konw of Sauron's evil.
+ + The rings do not corrupt their Dwarven wearers, so Sauron does not gain dominion over them.
+ + Four of these rings are later destroyed by Dragons, and Sauron is able to retrieve two more during the Second Age.
+ + *It is likely that a ring is given to the leader of each of the seven [Dwarven clans](http://tolkiengateway.net/wiki/Dwarves#Origin).*
 + 1697: Sauron corrupts [Eregion](https://en.wikipedia.org/wiki/Eregion), the vast region including that above Khazad-dûm, and drives out all the [Sindarian](https://en.wikipedia.org/wiki/Sindarin) Elves. The Doors of Durin are shut, and the Dwarves there begin a long seclusion from the outside world.
 + 3430: [Durin IV](https://en.wikipedia.org/wiki/Durin#Durin_IV) adds a great Dwarven army to the [Last Alliance of Elves and Men](https://en.wikipedia.org/wiki/Middle-earth_wars_and_battles#War_of_the_Last_Alliance), in the fight against Sauron.
 + 3434: The Last Alliance defeats Sauron's forces in the [Battle of Dagorlad](https://en.wikipedia.org/wiki/Middle-earth_wars_and_battles#War_of_the_Last_Alliance); and the Siege of [Barad-dûr](https://en.wikipedia.org/wiki/Barad-d%C3%BBr) begins.
@@ -84,12 +84,12 @@ The third age lasts 3021 years, and during this time the number of Dwarves begin
 + 2790-2793: For the first time, all seven clans of Dwarves gather; to wage war on the Orcs.
 + 2793-2799: [The War of Dwarves and Orcs](https://en.wikipedia.org/wiki/Middle-earth_wars_and_battles#War_of_the_Dwarves_and_Orcs) starts at [Mount Gundbad](https://en.wikipedia.org/wiki/Minor_places_in_Middle-earth_%28fictional%29#Mount_Gundabad) in the North of the Misty Mountains and the Dwarves clear out every Orc stronghold to [Methedras](https://en.wikipedia.org/wiki/Minor_places_in_Middle-earth_%28fictional%29#Methedras) in the South.
 + 2799: The war ends at the Eastern gate of Moria with the [Battle of Azanulbizar](http://lotr.wikia.com/wiki/Battle_of_Azanulbizar). Every Orc is slain, but the Dwarves suffer huge losses.
-  - Azog kills [Náin Ironfoot](http://lotr.wikia.com/wiki/N%C3%A1in,_father_of_D%C3%A1in_Ironfoot), whose son [Dáin II Ironfoot](http://lotr.wikia.com/wiki/D%C3%A1in_II_Ironfoot) avenges him by killing Azog.
-  - Thorin II, son King Thráin II, loses his sheild and has to use a tree branch instead; he is forever after known as Thorin Oakenshield.
-  - There are too many bodies to bury in stone tomes, so they are burned in a great pyre. The decendants of those who died in Azanulbizar are honored as "sons of burned Dwarves".
-  - After the battle, Dwarves see the Balrog in the gates of Moria, and turn back. They do not retake Moria. 
-  - *This war set the stage for the [War of the Ring](https://en.wikipedia.org/wiki/War_of_the_Ring) (3018-3019). Without this (mostly underground) war, there would have been many more orcs in the Misty Mountains during the War of the Ring that would have attacked Gondor and Rohan from behind and divided their war into two fronts. It would also have made it nearly impossible to cross the Misty Mountains safely.*
-  - *This war also accounts for why Dwarven numbers were already so small by the time of the War of the Ring.*
+ + Azog kills [Náin Ironfoot](http://lotr.wikia.com/wiki/N%C3%A1in,_father_of_D%C3%A1in_Ironfoot), whose son [Dáin II Ironfoot](http://lotr.wikia.com/wiki/D%C3%A1in_II_Ironfoot) avenges him by killing Azog.
+ + Thorin II, son King Thráin II, loses his sheild and has to use a tree branch instead; he is forever after known as Thorin Oakenshield.
+ + There are too many bodies to bury in stone tomes, so they are burned in a great pyre. The decendants of those who died in Azanulbizar are honored as "sons of burned Dwarves".
+ + After the battle, Dwarves see the Balrog in the gates of Moria, and turn back. They do not retake Moria. 
+ + *This war set the stage for the [War of the Ring](https://en.wikipedia.org/wiki/War_of_the_Ring) (3018-3019). Without this (mostly underground) war, there would have been many more orcs in the Misty Mountains during the War of the Ring that would have attacked Gondor and Rohan from behind and divided their war into two fronts. It would also have made it nearly impossible to cross the Misty Mountains safely.*
+ + *This war also accounts for why Dwarven numbers were already so small by the time of the War of the Ring.*
 + 2845: Thráin II was captured by [Sauron](https://en.wikipedia.org/wiki/Sauron)'s forces and in the dungeons of [Dol Guldur](https://en.wikipedia.org/wiki/Dol_Guldur) and the last of the seven rings was taken back.
 + 2850: [Gandalf the Grey](https://en.wikipedia.org/wiki/Gandalf) finds Thráin II in Dol Guldur, insane after years of torture. Thráin gives Gandalf a map and a key to Erebor and asks Gandalf to give them to his son, though Gandalf does not yet know who Thráin is.
 + 2941: Thorin Oakenshield begins the [Quest of Erebor](https://en.wikipedia.org/wiki/The_Quest_of_Erebor) with his close relations: [Balin](https://en.wikipedia.org/wiki/Balin_%28Middle-earth%29), [Fíli](https://en.wikipedia.org/wiki/Middle-earth_dwarf_characters#F.C3.ADli), [Kíli](https://en.wikipedia.org/wiki/Middle-earth_dwarf_characters#K.C3.ADli), [Glóin](http://lotr.wikia.com/wiki/Gl%C3%B3in), [Óin](http://lotr.wikia.com/wiki/%C3%93in), [Dwalin](http://lotr.wikia.com/wiki/Dwalin), [Dori](http://lotr.wikia.com/wiki/Dori), [Nori](http://lotr.wikia.com/wiki/Nori), [Ori](http://lotr.wikia.com/wiki/Ori), [Bifur](http://lotr.wikia.com/wiki/Bifur), [Bofur](http://lotr.wikia.com/wiki/Bofur), and [Bombur](http://lotr.wikia.com/wiki/Bombur). At the request of Gandalf, they invite the Hobbit [Bilbo Baggins](https://en.wikipedia.org/wiki/Bilbo_Baggins).
@@ -103,7 +103,7 @@ The third age lasts 3021 years, and during this time the number of Dwarves begin
 + 3017: Sauron sends an emissary to Erebor three times, seeking the One Ring and an alliance with the Dwarves.
 + 3018: [Gimli](https://en.wikipedia.org/wiki/Gimli_%28Middle-earth%29) and his father Glóin go to [Rivendell](https://en.wikipedia.org/wiki/Rivendell) hoping to learn of Balin's fate. There they learn that the One Ring has been found; Gimli joins the [Fellowship of the Ring](http://lotr.wikia.com/wiki/Fellowship_of_the_Ring).
 + 3018: Erebor and Dale are seiged by Sauron's forces from the East. But they hold for a year
-  - The War of the Ring might have turned out differently had not the Dwarves of Erebor and the Humans of Dale fought this seige for so long against Sauron's Eastern armies.
+ + The War of the Ring might have turned out differently had not the Dwarves of Erebor and the Humans of Dale fought this seige for so long against Sauron's Eastern armies.
 + 3019: The Elves of Rivendell reforge the ancient Dwarf blade [Narsil](https://en.wikipedia.org/wiki/Middle-earth_weapons_and_armour#Narsil), for the Human King-in-Exile [Aragorn](https://en.wikipedia.org/wiki/Aragorn).
 + 3019: The Fellowship enters Moria; Gimli learns the fate of his cousin Balin, of Moria, and sees Durin's Bane firsthand.
 + 3019: Gandalf the Grey slays the [Durin's Bane](https://en.wikipedia.org/wiki/Balrog#Durin.27s_Bane) and becomes Gandalf the White.
@@ -116,10 +116,10 @@ The third age lasts 3021 years, and during this time the number of Dwarves begin
 Tolkien does not tell us much about the Fourth Age or beyond.
 
 + c 1-100: The Dwarves of [Erebor](https://en.wikipedia.org/wiki/Lonely_Mountain), [Gimli](https://en.wikipedia.org/wiki/Gimli_%28Middle-earth%29) in particular, rebulid and greatly improve the Human city of [Minas Tirith](http://lotr.wikia.com/wiki/Minas_Tirith).
-  - Minas Tirith is given great gates of steel and mithril.
+ + Minas Tirith is given great gates of steel and mithril.
 + c 20-120: Gimli returns to [Aglarond](https://en.wikipedia.org/wiki/Helm's_Deep#Aglarond) and founds a Dwarf colony there, where he is known as [Lord of the Glittering Caves](http://tolkiengateway.net/wiki/Lord_of_the_Glittering_Caves). 
 + 120: [It is believed](http://tolkiengateway.net/wiki/Dwarves#Fourth_Age) that Gimli, son of [Glóin](http://lotr.wikia.com/wiki/Gl%C3%B3in), becomes the only Dwarf ever to cross the sea to the [Undying Lands](https://en.wikipedia.org/wiki/Aman_%28Tolkien%29).
-  - He is given passage because of his part in the [Fellowship of the Ring](http://lotr.wikia.com/wiki/Fellowship_of_the_Ring), and his great friendship with the Elf prince [Legolas](http://tolkiengateway.net/wiki/Legolas) of Mirkwood.
+ + He is given passage because of his part in the [Fellowship of the Ring](http://lotr.wikia.com/wiki/Fellowship_of_the_Ring), and his great friendship with the Elf prince [Legolas](http://tolkiengateway.net/wiki/Legolas) of Mirkwood.
 + [Durin VII](http://tolkiengateway.net/wiki/Durin_VII) (Durin the Last) leads Durin's Folk back to [Khazad-dûm](http://tolkiengateway.net/wiki/Moria) and restores the greatest kingdom of the Dwarves.
 + Khazad-dûm and Erebor are the two great final kingdoms of the Dwarves.
 + It is not clear if the Dwarves slowly diminish and are gone from the world or if they simply delve so deeply that they are never seen above ground again.
@@ -132,10 +132,10 @@ Fun Facts
 + Dwarves naturally live about 250 solar years.
 + The Dwarves are secretive about their religion. *But it probably revolves around [Aulë](https://en.wikipedia.org/wiki/Aul%C3%AB).*
 + The Dwarves are secretive about their language, Khudzul; which was given to them by Aulë.
-  - Dwarves do not even speak their language in front of non-Dwarves. Only two outsiders ever learned to speak it: the elves [Eöl](https://en.wikipedia.org/wiki/E%C3%B6l) and [Curufin](https://en.wikipedia.org/wiki/Curufin).
-  - The Dwarven language remained unchange throughout all four ages.
-  - By the third age, Dwarves are protecting the purity of their language by not learning it a birth (instead they learn the local Human or Elven dialect), but learn it through study later in life in its official original form.
-+ *If you read that a Dwarf is "son of Thrain" or "father of Dain", don't assume they are male. Because of translation problems, and the beards, Dwarves are usually referred to with male pronouns by outsiders.*
+ + Dwarves do not even speak their language in front of non-Dwarves. Only two outsiders ever learned to speak it: the elves [Eöl](https://en.wikipedia.org/wiki/E%C3%B6l) and [Curufin](https://en.wikipedia.org/wiki/Curufin).
+ + The Dwarven language remained unchange throughout all four ages.
+ + By the third age, Dwarves are protecting the purity of their language by not learning it a birth (instead they learn the local Human or Elven dialect), but learn it through study later in life in its official original form.
++ **If you read that a Dwarf is "son of Thrain" or "father of Dain", don't assume they are male. Because of translation problems, and the beards, Dwarves are usually referred to with male pronouns by outsiders.**
 
 
 Great References
