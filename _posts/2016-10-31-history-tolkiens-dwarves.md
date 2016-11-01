@@ -19,9 +19,9 @@ These are the endless days before history.
 + [Eru Ilúvatar](https://en.wikipedia.org/wiki/Eru_Il%C3%BAvatar) creates the gods [Ainur](https://en.wikipedia.org/wiki/Ainur_%28Middle-earth%29), with [Aulë](https://en.wikipedia.org/wiki/Aul%C3%AB) and [Melkor](https://en.wikipedia.org/wiki/Morgoth) among them.
 + Melkor is the greatest of the Ainur, but is overwhelmed by a desire for power.
 + [Arda](https://en.wikipedia.org/wiki/Arda_%28Tolkien%29), the physical world, is created.
-+ Some Ainur descend into Arda to oversee it; they are known as the [Vala](https://en.wikipedia.org/wiki/Vala_%28Middle-earth%29) (or Valar).
++ Some Ainur descend into Arda to oversee it; they are known as the [Valar](https://en.wikipedia.org/wiki/Vala_%28Middle-earth%29).
 + Melkor claims Arda for himself, and so becomes the source of all evil.
-+ Aulë, god of skill and craftsmanship, creates the Dwarves in secret from the other Vala. (*This is probably why the Dwarves are the least corruptable of all races. During the creation of Elves and Humans, all of the Vala played a small part, including Melkor. But Melkor played no part in the creation of the Dwarves.*)
++ Aulë, god of skill and craftsmanship, creates the Dwarves in secret from the other Valar.
 + Ilúvatar finds out about the Dwarves, and tells Aulë to destroy them. But Ilúvatar stops Aulë at the last moment and allows the Dwarves to exist, stipulating only that they must go to sleep until after the Elves awake.
 
  &nbsp;
@@ -46,12 +46,12 @@ This is a long period that starts before the Sun and Moon exist, but ends in the
 + -1: The moon rises for the first time.
 + 0: The sun rises for the first time.  (YT 1500)
 + 0: Humans are awakened by Ilúvatar in [Hildórien](https://en.wikipedia.org/wiki/Minor_places_in_Arda#Hild.C3.B3rien).
-+ c 60–200: Melkor persuades humans to stop worshipping Ilúvatar and turn to evil, but some revolt: the Atanatári. Dwarves and the Avari Elves aid these humans in travelling West in search of the Vala. As divine punishment, humans lose the gift to die at will and are doomed to lead short lives at the end of which death takes them by force.
++ c 60–200: Melkor persuades humans to stop worshipping Ilúvatar and turn to evil, but some revolt: the Atanatári. Dwarves and the Avari Elves aid these humans in travelling West in search of the Valar. As divine punishment, humans lose the gift to die at will and are doomed to lead short lives at the end of which death takes them by force.
 + The great Dwarven smith [Telchor](http://lotr.wikia.com/wiki/Telchar) of Nogrod crafts many works, including the famous blades [Narsil](https://en.wikipedia.org/wiki/Middle-earth_weapons_and_armour#Narsil) and [Angrist](https://en.wikipedia.org/wiki/Middle-earth_weapons_and_armour#Angrist) and the [Dragon-helm of Dor-lómin](https://en.wikipedia.org/wiki/Middle-earth_weapons_and_armour#Dragon-helm_of_Dor-l.C3.B3min).
 + 468: The Dwarves of Belegost join the [Union of Meahdros](https://en.wikipedia.org/wiki/Maedhros) in [Nírnaeth Arnoediad](http://lotr.wikia.com/wiki/Nirnaeth_Arnoediad), the fifth battle of the Wars of Beleriand against Melkor. King [Azaghâl](https://en.wikipedia.org/wiki/Middle-earth_dwarf_characters#Azagh.C3.A2l) was slain by [Glaurung](https://en.wikipedia.org/wiki/Glaurung), the first dragon, but not before he stabbed the beast in the stomach making it flee the battle.  (*Since Dwarves were in the first and fifth wars of Beleriand, they were probably in the others.*)
 + 502: King [Thingol](https://en.wikipedia.org/wiki/Thingol) of Doriath invites the Dwarves of Norgrod to create jewelery in his vast treasury; of these works the necklace [Nauglamír](https://en.wikipedia.org/wiki/Middle-earth_objects#Nauglam.C3.ADr) is their finest.
 + 503: King Thingol has Dwarves set the [Silmaril](http://lotr.wikia.com/wiki/Silmaril) of [Beren](http://lotr.wikia.com/wik/Beren) and [Lúthien](http://lotr.wikia.com/wiki/L%C3%BAthien) into Nauglamír, making it the fairest object in Arda. The Dwarven jewelers so desire it, then end up slaying Thingol. They lie about what happened to the Dwarves on Norgrond and return with an army to sack Doriath. Heavy with spoils on their march home from Doriath, the Dwarven army is destroyed entirely by Elves and Ents in the [Battle of Sarn Athrad](http://tolkiengateway.net/wiki/Battle_of_Sarn_Athrad).
-+ 545-587: [The War of Wrath](http://lotr.wikia.com/wiki/War_of_Wrath) between the Vala; after which the world West of the [Blue Mountains](http://lotr.wikia.com/wiki/Blue_Mountains) is sunk into the sea. Melkor is captured. Two great houses of Dwarves, Nogrod and Belegost, are destroyed; the survivors flee to Khazad-dûm. It is also believed that the original mansions of the four Eastern clans are destroyed in this war.
++ 545-587: [The War of Wrath](http://lotr.wikia.com/wiki/War_of_Wrath) between the Valar; after which the world West of the [Blue Mountains](http://lotr.wikia.com/wiki/Blue_Mountains) is sunk into the sea. Melkor is captured. Two great houses of Dwarves, Nogrod and Belegost, are destroyed; the survivors flee to Khazad-dûm. It is also believed that the original mansions of the four Eastern clans are destroyed in this war.
 + 590: Melkor is cast into the void.
 
  &nbsp;
