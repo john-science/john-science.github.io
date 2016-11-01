@@ -103,10 +103,10 @@ The third age lasts 3021 years, and during this time the number of Dwarves begin
 + 3018: [Gimli](https://en.wikipedia.org/wiki/Gimli_%28Middle-earth%29) and his father Glóin go to [Rivendell](https://en.wikipedia.org/wiki/Rivendell) hoping to learn of Balin's fate. There they learn that the One Ring has been found; Gimli joins the [Fellowship of the Ring](http://lotr.wikia.com/wiki/Fellowship_of_the_Ring).
 + 3018: Erebor and Dale are seiged by Sauron's forces from the East. But they hold for a year. (*The War of the Ring might have turned out differently had not the Dwarves of Erebor held out against this seige.*)
 + 3019: The Elves of Rivendell reforge the ancient Dwarf blade [Narsil](https://en.wikipedia.org/wiki/Middle-earth_weapons_and_armour#Narsil), for the Human King-in-Exile [Aragorn](https://en.wikipedia.org/wiki/Aragorn).
-+ 3019: The Fellowship enters Moria; Gimli learns the fate of his cousin Balin, of Moria, and sees Durin's Bane firsthand.
++ 3019: The Fellowship enters Moria; Gimli learns the fate of his cousin Balin, of Moria, and sees Durin's Bane firsthand. <sub>11</sub>
 + 3019: Gandalf the Grey slays the [Durin's Bane](https://en.wikipedia.org/wiki/Balrog#Durin.27s_Bane) and becomes Gandalf the White.
 + 3019: While preparing for the [Battle of the Hornburg](https://en.wikipedia.org/wiki/Battle_of_the_Hornburg), Gimli discovers the caves of [Aglarond](https://en.wikipedia.org/wiki/Helm's_Deep#Aglarond) underneathe the fortress of [Helm's Deep](https://en.wikipedia.org/wiki/Helm's_Deep).
-+ 3019: Sauron's One Ring is destroyed in Mount Doom.
++ 3019: Sauron's One Ring is destroyed in Mount Doom. <sub>10</sub>
 + 3019: After Sauron's fall, the siege of Erebor breaks and the Dwarves slaughter the fleeing Orcs. [Dáin II](https://en.wikipedia.org/wiki/D%C3%A1in_II_Ironfoot) becomes [King Under the Mountain](http://lotr.wikia.com/wiki/King_under_the_Mountain).
 
  &nbsp;
@@ -159,3 +159,5 @@ Tolkien does not tell us much about the Fourth Age or beyond.
 7. The Hobbit - Chapter 5 - Riddles in the Dark
 8. The Silmarillion - Chapter 3 - On the Coming of Elves and the Captivity of Melkor
 9. The Silmarillion - Chapter 2 - Of Aule and Yavanna
+10. LotR - Return of the King - Book 6 - Chapter III - Mount Doom
+11. LotR - Fellowship of the Ring - Book 1 - Chapter V - The Bridge of Khazad-dum
