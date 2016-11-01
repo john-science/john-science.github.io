@@ -12,7 +12,7 @@ What follows is the Cliff's Notes version of every major event in Dwarven histor
 
  &nbsp;
 
-### Elder Days
+### Valian Years
 
 These are the endless days before history.
 
@@ -61,7 +61,7 @@ This is a long period that starts before the Sun and Moon exist, but ends in the
 The second age lasts 3441 years, during which little is written about the history of Dwarves.
 
 + c 750-1500: The two greatest craftsman of the age, [Celebrimbor](https://en.wikipedia.org/wiki/Celebrimbor) (the Elven Lord of Eregion) and the Dwarf [Narvi](https://en.wikipedia.org/wiki/Middle-earth_dwarf_characters#Narvi), build the [Doors of Durin](http://tolkiengateway.net/wiki/Doors_of_Durin): the West gate of [Khazad-dûm](https://en.wikipedia.org/wiki/Moria_%28Middle-earth%29). The gate was designed to aid the friendship between Dwarves and Elves.
-+ c 1500-1590: [Sauron](https://en.wikipedia.org/wiki/Sauron) gives [seven rings of power](http://tolkiengateway.net/wiki/Seven_Rings) to seven Dwarf Kings. (*It is likely that a ring is given to the leader of each of the seven [Dwarven clans](http://tolkiengateway.net/wiki/Dwarves#Origin). But these rings are not able to corrupt their Dwarven bearers. During the Second Age, four of these rings are destroyed by Dragons, and Sauron retrieves two more.*)
++ c 1500-1590: [Sauron](https://en.wikipedia.org/wiki/Sauron) gives [seven rings of power](http://tolkiengateway.net/wiki/Seven_Rings) to seven Dwarf Kings. (*It is likely that a ring is given to the leader of each of the seven [Dwarven clans](http://tolkiengateway.net/wiki/Dwarves#Origin). But these rings are not able to corrupt their Dwarven bearers. Later in the Second Age, four of these rings are destroyed by Dragons, and Sauron retrieves two more.*)
 + 1697: Sauron corrupts [Eregion](https://en.wikipedia.org/wiki/Eregion), the vast region including that above Khazad-dûm, and drives out all the [Sindarian](https://en.wikipedia.org/wiki/Sindarin) Elves. The Doors of Durin are shut, and the Dwarves there begin a long seclusion from the outside world.
 + 3430: [Durin IV](https://en.wikipedia.org/wiki/Durin#Durin_IV) adds a great Dwarven army to the [Last Alliance of Elves and Men](https://en.wikipedia.org/wiki/Middle-earth_wars_and_battles#War_of_the_Last_Alliance), in the fight against Sauron.
 + 3434: The Last Alliance defeats Sauron's forces in the [Battle of Dagorlad](https://en.wikipedia.org/wiki/Middle-earth_wars_and_battles#War_of_the_Last_Alliance); and the Siege of [Barad-dûr](https://en.wikipedia.org/wiki/Barad-d%C3%BBr) begins.
