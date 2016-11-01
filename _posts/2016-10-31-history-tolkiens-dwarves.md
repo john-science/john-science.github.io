@@ -69,7 +69,7 @@ The second age lasts 3441 years, during which little is written about the histor
 + 1697: Sauron corrupts [Eregion](https://en.wikipedia.org/wiki/Eregion), the vast region including that above Khazad-dûm, and drives out all the [Sindarian](https://en.wikipedia.org/wiki/Sindarin) Elves. The Doors of Durin are shut, and the Dwarves there begin a long seclusion from the outside world.
 + 3430: [Durin IV](https://en.wikipedia.org/wiki/Durin#Durin_IV) adds a great Dwarven army to the [Last Alliance of Elves and Men](https://en.wikipedia.org/wiki/Middle-earth_wars_and_battles#War_of_the_Last_Alliance), in the fight against Sauron.
 + 3434: The Last Alliance defeats Sauron's forces in the [Battle of Dagorlad](https://en.wikipedia.org/wiki/Middle-earth_wars_and_battles#War_of_the_Last_Alliance); and the Siege of [Barad-dûr](https://en.wikipedia.org/wiki/Barad-d%C3%BBr) begins.
-* 3441: [Isildur](https://en.wikipedia.org/wiki/Isildur) cuts the [One Ring](https://en.wikipedia.org/wiki/One_Ring) from Sauron's finger with the shattered hilt of the sword [Narsil](https://en.wikipedia.org/wiki/Middle-earth_weapons_and_armour#Narsil), ending the war.
+* 3441: [Isildur](https://en.wikipedia.org/wiki/Isildur) cuts the [One Ring](https://en.wikipedia.org/wiki/One_Ring) from Sauron's finger with the shattered hilt of the sword [Narsil](https://en.wikipedia.org/wiki/Middle-earth_weapons_and_armour#Narsil), ending the war. <sub>14</sub>
 
  &nbsp;
 
@@ -89,23 +89,23 @@ The third age lasts 3021 years, and during this time the number of Dwarves begin
 + 2790-2793: For the first time, all seven clans of Dwarves gather; to wage war on the Orcs.
 + 2793-2799: [The War of Dwarves and Orcs](https://en.wikipedia.org/wiki/Middle-earth_wars_and_battles#War_of_the_Dwarves_and_Orcs) starts at [Mount Gundbad](https://en.wikipedia.org/wiki/Minor_places_in_Middle-earth_%28fictional%29#Mount_Gundabad) in the North of the Misty Mountains and the Dwarves clear out every Orc stronghold to [Methedras](https://en.wikipedia.org/wiki/Minor_places_in_Middle-earth_%28fictional%29#Methedras) in the South.
 + 2799: The war ends at the Eastern gate of Moria with the [Battle of Azanulbizar](http://lotr.wikia.com/wiki/Battle_of_Azanulbizar). In this battle that Thorin II, son King Thráin II, gains the epithet "Oakenshield". Every Orc is slain, but the Dwarves suffer huge losses. Instead of the usual stone tombs, the dead are burned in a great pyre and their decendants are honored as "the sons of burned Dwarves". After the battle, Dwarves see the Balrog in the gates of Moria, and turn back. They do not retake Moria.  (*Without this underground war, there would have been many more orcs in the Misty Mountains during the [War of the Ring](https://en.wikipedia.org/wiki/War_of_the_Ring), and it would have been much harder to win. This war also accounts for why Dwarven numbers were already so small by the time of the War of the Ring.*)
-+ 2845: Thráin II was captured by [Sauron](https://en.wikipedia.org/wiki/Sauron)'s forces and in the dungeons of [Dol Guldur](https://en.wikipedia.org/wiki/Dol_Guldur) and the last of the seven rings was taken back.
-+ 2850: [Gandalf the Grey](https://en.wikipedia.org/wiki/Gandalf) finds Thráin II in Dol Guldur, insane after years of torture. Thráin gives Gandalf a map and a key to Erebor and asks Gandalf to give them to his son, though Gandalf does not yet know who Thráin is.
-+ 2941: Thorin Oakenshield begins the [Quest of Erebor](https://en.wikipedia.org/wiki/The_Quest_of_Erebor) with his close relations: [Balin](https://en.wikipedia.org/wiki/Balin_%28Middle-earth%29), [Fíli](https://en.wikipedia.org/wiki/Middle-earth_dwarf_characters#F.C3.ADli), [Kíli](https://en.wikipedia.org/wiki/Middle-earth_dwarf_characters#K.C3.ADli), [Glóin](http://lotr.wikia.com/wiki/Gl%C3%B3in), [Óin](http://lotr.wikia.com/wiki/%C3%93in), [Dwalin](http://lotr.wikia.com/wiki/Dwalin), [Dori](http://lotr.wikia.com/wiki/Dori), [Nori](http://lotr.wikia.com/wiki/Nori), [Ori](http://lotr.wikia.com/wiki/Ori), [Bifur](http://lotr.wikia.com/wiki/Bifur), [Bofur](http://lotr.wikia.com/wiki/Bofur), and [Bombur](http://lotr.wikia.com/wiki/Bombur). At the request of Gandalf, they invite the Hobbit [Bilbo Baggins](https://en.wikipedia.org/wiki/Bilbo_Baggins).
++ 2845: Thráin II was captured by [Sauron](https://en.wikipedia.org/wiki/Sauron)'s forces and in the dungeons of [Dol Guldur](https://en.wikipedia.org/wiki/Dol_Guldur) and the last of the seven rings was taken back. <sub>4</sub>
++ 2850: [Gandalf the Grey](https://en.wikipedia.org/wiki/Gandalf) finds Thráin II in Dol Guldur, insane after years of torture. Thráin gives Gandalf a map and a key to Erebor and asks Gandalf to give them to his son, though Gandalf does not yet know who Thráin is. <sub>4</sub>
++ 2941: Thorin Oakenshield begins the [Quest of Erebor](https://en.wikipedia.org/wiki/The_Quest_of_Erebor) with his close relations: [Balin](https://en.wikipedia.org/wiki/Balin_%28Middle-earth%29), [Fíli](https://en.wikipedia.org/wiki/Middle-earth_dwarf_characters#F.C3.ADli), [Kíli](https://en.wikipedia.org/wiki/Middle-earth_dwarf_characters#K.C3.ADli), [Glóin](http://lotr.wikia.com/wiki/Gl%C3%B3in), [Óin](http://lotr.wikia.com/wiki/%C3%93in), [Dwalin](http://lotr.wikia.com/wiki/Dwalin), [Dori](http://lotr.wikia.com/wiki/Dori), [Nori](http://lotr.wikia.com/wiki/Nori), [Ori](http://lotr.wikia.com/wiki/Ori), [Bifur](http://lotr.wikia.com/wiki/Bifur), [Bofur](http://lotr.wikia.com/wiki/Bofur), and [Bombur](http://lotr.wikia.com/wiki/Bombur). At the request of Gandalf, they invite the Hobbit [Bilbo Baggins](https://en.wikipedia.org/wiki/Bilbo_Baggins). <sub>12</sub>
 + 2941: Bilbo Baggins obtains the [One Ring](https://en.wikipedia.org/wiki/One_Ring) from [Gollum](https://en.wikipedia.org/wiki/Gollum), who had carried it for 478 years. <sub>6 7</sub>
-+ 2941: Esgaroth is attacked by the dragon Smaug, who is consequentially killed by Bard the Bowman.
-+ 2941: Bilbo steals the Arkenstone and attempts to use it to forestall a war with Mirkwood Elves and Esgaroth Humans.
-+ 2941: Thorin, Fíli, and Kíli are killed in [The Battle of the Five Armies](https://en.wikipedia.org/wiki/Middle-earth_wars_and_battles#Battle_of_Five_Armies) along with Bolg son of Azog, and many Orcs, Dwarves, Elves, and Humans. Dáin II Ironfoot becomes King of The Lonely Mountain and recieves the Arkenstone. The town of Dale, just outside of Erebor, is re-established by Bard.
++ 2941: Esgaroth is attacked by the dragon Smaug, who is consequentially killed by Bard the Bowman. <sub>15</sub>
++ 2941: Bilbo steals the Arkenstone and attempts to use it to forestall a war with Mirkwood Elves and Esgaroth Humans. <sub>16</sub>
++ 2941: Thorin, Fíli, and Kíli are killed in [The Battle of the Five Armies](https://en.wikipedia.org/wiki/Middle-earth_wars_and_battles#Battle_of_Five_Armies) along with Bolg son of Azog, and many Orcs, Dwarves, Elves, and Humans. Dáin II Ironfoot becomes King of The Lonely Mountain and recieves the Arkenstone. The town of Dale, just outside of Erebor, is re-established by Bard. <sub>4 13</sub>
 + 2989: Balin takes a company of Dwarves to recolonize Moria. They succeed for a time, and even find [Durin's Axe](https://en.wikipedia.org/wiki/Middle-earth_weapons_and_armour#Durin.27s_Axe).
 + 2994: King Balin is killed by an Orc arrow outside Moria in the [Dimrill Dale](https://en.wikipedia.org/wiki/Minor_places_in_Middle-earth_%28fictional%29#Dimrill_Dale). His tome is built in his throne room; the [Chamber of Mazarbul](https://en.wikipedia.org/wiki/Moria_%28Middle-earth%29#Chamber_of_Mazarbul).
 + 2994: The Orcs have far greater numbers and swiftly retake Moria; the Dwarves make their final stand in the Chamber of Mazarbul.
-+ 3017: Sauron sends an emissary to Erebor three times, seeking the One Ring and an alliance with the Dwarves.
-+ 3018: [Gimli](https://en.wikipedia.org/wiki/Gimli_%28Middle-earth%29) and his father Glóin go to [Rivendell](https://en.wikipedia.org/wiki/Rivendell) hoping to learn of Balin's fate. There they learn that the One Ring has been found; Gimli joins the [Fellowship of the Ring](http://lotr.wikia.com/wiki/Fellowship_of_the_Ring).
++ 3017: Sauron sends an emissary to Erebor three times, seeking the One Ring and an alliance with the Dwarves. <sub>14</sub>
++ 3018: [Gimli](https://en.wikipedia.org/wiki/Gimli_%28Middle-earth%29) and his father Glóin go to [Rivendell](https://en.wikipedia.org/wiki/Rivendell) hoping to learn of Balin's fate. There they learn that the One Ring has been found; Gimli joins the [Fellowship of the Ring](http://lotr.wikia.com/wiki/Fellowship_of_the_Ring). <sub>14</sub>
 + 3018: Erebor and Dale are seiged by Sauron's forces from the East. But they hold for a year. (*The War of the Ring might have turned out differently had not the Dwarves of Erebor held out against this seige.*)
 + 3019: The Elves of Rivendell reforge the ancient Dwarf blade [Narsil](https://en.wikipedia.org/wiki/Middle-earth_weapons_and_armour#Narsil), for the Human King-in-Exile [Aragorn](https://en.wikipedia.org/wiki/Aragorn).
 + 3019: The Fellowship enters Moria; Gimli learns the fate of his cousin Balin, of Moria, and sees Durin's Bane firsthand. <sub>11</sub>
-+ 3019: Gandalf the Grey slays the [Durin's Bane](https://en.wikipedia.org/wiki/Balrog#Durin.27s_Bane) and becomes Gandalf the White.
-+ 3019: While preparing for the [Battle of the Hornburg](https://en.wikipedia.org/wiki/Battle_of_the_Hornburg), Gimli discovers the caves of [Aglarond](https://en.wikipedia.org/wiki/Helm's_Deep#Aglarond) underneathe the fortress of [Helm's Deep](https://en.wikipedia.org/wiki/Helm's_Deep).
++ 3019: Gandalf the Grey slays the [Durin's Bane](https://en.wikipedia.org/wiki/Balrog#Durin.27s_Bane) and becomes Gandalf the White. <sub>17</sub>
++ 3019: While preparing for the [Battle of the Hornburg](https://en.wikipedia.org/wiki/Battle_of_the_Hornburg), Gimli discovers the caves of [Aglarond](https://en.wikipedia.org/wiki/Helm's_Deep#Aglarond) underneathe the fortress of [Helm's Deep](https://en.wikipedia.org/wiki/Helm's_Deep). <sub>18</sub>
 + 3019: Sauron's One Ring is destroyed in Mount Doom. <sub>10</sub>
 + 3019: After Sauron's fall, the siege of Erebor breaks and the Dwarves slaughter the fleeing Orcs. [Dáin II](https://en.wikipedia.org/wiki/D%C3%A1in_II_Ironfoot) becomes [King Under the Mountain](http://lotr.wikia.com/wiki/King_under_the_Mountain).
 
@@ -153,7 +153,7 @@ Tolkien does not tell us much about the Fourth Age or beyond.
 1. The Silmarillion - Ainulindalë
 2. The Silmarillion - Valaquenta
 3. HoME Volume 11, page 205
-4. LotR - Appendix A, part III - Durin's Folk
+4. LotR - Appendix A - Durin's Folk
 5. HoME - Volume 11, part 4, Appendix D
 6. UT - [ae-lib.org](http://ae-lib.org.ua/texts-c/tolkien__unfinished_tales__en.htm) - Note #9 from Christopher Tolkien in the Unfinished Tales says that Smeagol acquired the One Ring in 2463.
 7. The Hobbit - Chapter 5 - Riddles in the Dark
@@ -161,3 +161,10 @@ Tolkien does not tell us much about the Fourth Age or beyond.
 9. The Silmarillion - Chapter 2 - Of Aule and Yavanna
 10. LotR - Return of the King - Book 6 - Chapter III - Mount Doom
 11. LotR - Fellowship of the Ring - Book 1 - Chapter V - The Bridge of Khazad-dum
+12. The Hobbit - Chapter 1
+13. The Hobbit - Chapter 18
+14. LotR - Fellowship of the Ring - Book 2 - Chapter II - The Council of Elrond
+15. The Hobbit - Chapter 14
+16. The Hobbit - Chapter 16
+17. LotR - Two Towers - Book 3 - Chapter V - The White Rider
+18. LotR - Two Towers - Book 2 - Chapter VIII - The Road to Isengard
