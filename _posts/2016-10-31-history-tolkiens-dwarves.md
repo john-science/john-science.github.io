@@ -25,11 +25,11 @@ Much happens before the Dwarves are awakened that shapes their world.
 + Ilúvatar finds out about the Dwarves, and tells Aulë to destroy them. But Ilúvatar stops Aulë at the last moment and allows the Dwarves to exist, stipulating only that they must go to sleep until after the Elves awake. <sub>9</sub>
 + [YT](https://en.wikipedia.org/wiki/History_of_Arda#Years_of_the_Trees) 1050: Elves are awakened by [Ilúvatar](https://en.wikipedia.org/wiki/Eru_Il%C3%BAvatar). <sub>8</sub>
 + [Sauron](https://en.wikipedia.org/wiki/Sauron) is originally a [Maia](https://en.wikipedia.org/wiki/Maia_%28Middle-earth%29), or demigod servant, to [Aulë](https://en.wikipedia.org/wiki/Aul%C3%AB); but he is corrupted and becomes the chief lieutenant of [Melkor](https://en.wikipedia.org/wiki/Morgoth). <sub>2</sub>
-+ Melkor captures begins breeding [Orcs](https://en.wikipedia.org/wiki/Orc_%28Middle-earth%29).** <sub>9</sub>
++ Melkor begins breeding [Orcs](https://en.wikipedia.org/wiki/Orc_%28Middle-earth%29).** <sub>9</sub>
 
 <sub>*In the Valquenta, Tolkien writes of the Valar "Men often called them Gods", but he does not say what the Dwarves called them.</sub>
 
-<sub>**Tolkien gives many hints as to the creation of the Orcs. Maybe they were once Elves, or Humans, or both. In all versions, Melkor creates them.</sub>
+<sub>**Tolkien gives many hints and versions as to the creation of the Orcs. Maybe they were once Elves, or Humans, or both. In all versions, Melkor is responsible.</sub>
 
  &nbsp;
 
