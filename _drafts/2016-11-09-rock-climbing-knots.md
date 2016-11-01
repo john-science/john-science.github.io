@@ -28,4 +28,17 @@ Knot | Rapelling | Top Roping | Sport Climbing | Trad Climbing | Self-Rescue
 * **Pro Tip**: All three of the above hitches can be [tied with one hand](http://www.climbing.com/skills/learn-this-one-handed-munter-and-clove-hitches/). This is extremely helpful; learn this.
 * **Pro Tip**: Every climber needs to know at least one [hitch](https://en.wikipedia.org/wiki/List_of_hitch_knots) and at least one [bight](https://en.wikipedia.org/wiki/Bight_%28knot%29).
 
+### Double Fisherman
+
+The double fisherman is used to turn a length of cord into a loop. This is a really basic knot to know. This is the basic knot that lets people build anchors with cord (as opposed to slings).
+
+<a href="https://youtu.be/O6oJwedcb18?t=7"><img src="/assets/images/knots/double_fisherman_640px.png"
+srcset="/assets/images/knots/double_fisherman_850px.png 850w,
+/assets/images/knots/double_fisherman_640px.png 640w,
+/assets/images/knots/double_fisherman_420px.png 420w" 
+sizes="(max-width: 38em) 100vw, 50vw"
+alt="Double Fisherman knot-tying video"></a>
+
+ &nbsp;
+
 What knots do you use that I do not? Am I missing an important rescue knot? Leave a comment below.
