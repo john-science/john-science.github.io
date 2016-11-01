@@ -21,10 +21,10 @@ Much happens before the Dwarves are awakened that shapes their world.
 + [Arda](https://en.wikipedia.org/wiki/Arda_%28Tolkien%29), the physical world, is created. <1>
 + Some Ainur descend into Arda to oversee it; they are known as the [Valar](https://en.wikipedia.org/wiki/Vala_%28Middle-earth%29). <1>
 + Melkor claims Arda for himself, and so becomes the source of all evil. <2>
-+ Aulë, god of skill and craftsmanship, creates the Dwarves in secret from the other Valar. <2>
++ Aulë, god* of skill and craftsmanship, creates the Dwarves in secret from the other Valar. <sub><2>  (*In the Valquenta, Tolkien writes of the Valar "Men often call them Gods", but he does not say what the Dwarves call them.)</sub>
 + Ilúvatar finds out about the Dwarves, and tells Aulë to destroy them. But Ilúvatar stops Aulë at the last moment and allows the Dwarves to exist, stipulating only that they must go to sleep until after the Elves awake.
 + [YT](https://en.wikipedia.org/wiki/History_of_Arda#Years_of_the_Trees) 1050: Elves are awakened by [Ilúvatar](https://en.wikipedia.org/wiki/Eru_Il%C3%BAvatar). <8>
-+ [Sauron](https://en.wikipedia.org/wiki/Sauron) is originally a [Maia](https://en.wikipedia.org/wiki/Maia_%28Middle-earth%29), or demigod servant, to [Aulë](https://en.wikipedia.org/wiki/Aul%C3%AB); but he is corrupted and becomes the chief lieutenant of [Melkor](https://en.wikipedia.org/wiki/Morgoth).
++ [Sauron](https://en.wikipedia.org/wiki/Sauron) is originally a [Maia](https://en.wikipedia.org/wiki/Maia_%28Middle-earth%29), or demigod servant, to [Aulë](https://en.wikipedia.org/wiki/Aul%C3%AB); but he is corrupted and becomes the chief lieutenant of [Melkor](https://en.wikipedia.org/wiki/Morgoth). <2>
 + Melkor captures Elves and begins breeding [Orcs](https://en.wikipedia.org/wiki/Orc_%28Middle-earth%29) from them.
 
  &nbsp;
@@ -122,7 +122,7 @@ Tolkien does not tell us much about the Fourth Age or beyond.
 
 #### Nature of Dwarves
 
-+ The average Dwarf is shorter than the average Human or Elf. (citation needed)
++ The average Dwarf is shorter than the average Human or Elf. <citation needed>
 + Both male and female Dwarves are  born with full beards. <3>
 + By the Second and Third Age Dwarves naturally live about 250 solar years <4>.
 + The Dwarves are secretive about their religion. *But it probably revolves around [Aulë](https://en.wikipedia.org/wiki/Aul%C3%AB).*
@@ -137,6 +137,8 @@ Tolkien does not tell us much about the Fourth Age or beyond.
 + [The Lord of the Rings](https://www.goodreads.com/book/show/33.The_Lord_of_the_Rings) - the chapter on "The Council of Elrond" and the appendicies
 + [The History of Middle Earth](https://www.goodreads.com/book/show/214175.The_Complete_History_Of_Middle_Earth) - very sparse information about Dwarves
 + [The Unfinished Tales](https://www.goodreads.com/book/show/7329.Unfinished_Tales_of_N_menor_and_Middle_Earth) - very sparse information about Dwarves
+
+ &nbsp;
 
 #### Citations
 ----------------
