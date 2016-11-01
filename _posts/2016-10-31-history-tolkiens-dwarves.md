@@ -6,15 +6,15 @@ summary: The entire history of the Dwarves of Middle Earth.
 ---
 {% include JB/setup %}
 
-I recently took a deep dive into the history of Tolkien's Dwarves for a [game](https://github.com/theJollySin/mazes_of_erebor) I am writing. There is not as much known about the Dwarves as there is about the Elves, who were given entire books for their history. So, I had to scrounge information from all of Tolkien's works.
+I have been working on a [game](https://github.com/theJollySin/mazes_of_erebor) lately, and I found myself wanting a history of the Dwarves. Unfortunately, there is far less written about the Dwarves than there is about the Elves. If Tolkien did flush out the history of the Dwarves, he didn't share it with us. What I was able to cobble together had to be scrounged from all of his works.
 
-What follows is the Cliff's Notes version of every major event in Dwarven history, that we know of. Tolkien's mythology evolved and improved over time; where possible I try to use the last and most recent version. Text in italics is not explicitly stated in Tolkien's works, but can be inferred without too much imagination.
+What follows is a brief timeline of every major event in Dwarven history, that we know of. Tolkien's mythology evolved and improved over time; where possible I try to use his last and most recent version. Text in italics is not explicitly stated in Tolkien's works, but can be inferred without too much imagination.
 
  &nbsp;
 
 ### Before the Dwarves
 
-Much happens before the Dwarves are awakened that shapes their world.
+Much of what happened before the Dwarves were awakened that shaped their world.
 
 + [Eru Ilúvatar](https://en.wikipedia.org/wiki/Eru_Il%C3%BAvatar) creates the gods* [Ainur](https://en.wikipedia.org/wiki/Ainur_%28Middle-earth%29), with [Aulë](https://en.wikipedia.org/wiki/Aul%C3%AB) and [Melkor](https://en.wikipedia.org/wiki/Morgoth) among them. <sub>1</sub>
 + Melkor is the greatest of the Ainur, but is overwhelmed by a desire for power. <sub>1</sub>
@@ -22,9 +22,9 @@ Much happens before the Dwarves are awakened that shapes their world.
 + Some Ainur descend into Arda to oversee it; they are known as the [Valar](https://en.wikipedia.org/wiki/Vala_%28Middle-earth%29). <sub>1</sub>
 + Melkor claims Arda for himself, and so becomes the source of all evil. <sub>2</sub>
 + Aulë, god* of skill and craftsmanship, creates the Dwarves in secret from the other Valar. <sub>2 9</sub>
-+ Ilúvatar finds out about the Dwarves, and tells Aulë to destroy them. But Ilúvatar stops Aulë at the last moment and allows the Dwarves to exist, stipulating only that they must go to sleep until after the Elves awake. <sub>9</sub>
++ Ilúvatar tells Aulë to destroy the Dwarves, but stops him at the last moment and allows the Dwarves to exist, stipulating only that they must go to sleep until after the Elves awake. <sub>9</sub>
 + [YT](https://en.wikipedia.org/wiki/History_of_Arda#Years_of_the_Trees) 1050: Elves are awakened by [Ilúvatar](https://en.wikipedia.org/wiki/Eru_Il%C3%BAvatar). <sub>8</sub>
-+ [Sauron](https://en.wikipedia.org/wiki/Sauron) is originally a [Maia](https://en.wikipedia.org/wiki/Maia_%28Middle-earth%29), or demigod servant, to [Aulë](https://en.wikipedia.org/wiki/Aul%C3%AB); but he is corrupted and becomes the chief lieutenant of [Melkor](https://en.wikipedia.org/wiki/Morgoth). <sub>2</sub>
++ [Sauron](https://en.wikipedia.org/wiki/Sauron) is originally a [Maia](https://en.wikipedia.org/wiki/Maia_%28Middle-earth%29), something like a demigod servant, to [Aulë](https://en.wikipedia.org/wiki/Aul%C3%AB); but he is corrupted and becomes the chief lieutenant of [Melkor](https://en.wikipedia.org/wiki/Morgoth). <sub>2</sub>
 + Melkor begins breeding [Orcs](https://en.wikipedia.org/wiki/Orc_%28Middle-earth%29). <sub>9</sub>
 
 <sub>*In the Valquenta, Tolkien writes of the Valar: "Men often called them Gods", but he does not say what the Dwarves called them.</sub>
