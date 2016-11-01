@@ -32,7 +32,7 @@ Knot | Rapelling | Top Roping | Sport Climbing | Trad Climbing | Self-Rescue
 
 The double fisherman is used to turn a length of cord into a loop. This is a really basic knot to know. This is the basic knot that lets people build anchors with cord (as opposed to slings).
 
-<a href="https://youtu.be/O6oJwedcb18?t=7"><img src="/assets/images/knots/double_fisherman_640px.png"
+<a href="https://youtu.be/O6oJwedcb18?t=7"  target="_blank"><img src="/assets/images/knots/double_fisherman_640px.png"
 srcset="/assets/images/knots/double_fisherman_850px.png 850w,
 /assets/images/knots/double_fisherman_640px.png 640w,
 /assets/images/knots/double_fisherman_420px.png 420w" 
