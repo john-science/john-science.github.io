@@ -14,30 +14,108 @@ What follows is the minimal set of knots that I feel I need to know to be safe d
 
 Knot | Rapelling | Top Roping | Sport Climbing | Trad Climbing | Self-Rescue
 :--- | :--- | :--- | :--- | :--- | :---
-[Figure-8 Follow-Through](https://youtu.be/aLopeVBb7yU) | X | X | X | X | X
-[Overhand](https://youtu.be/I0ShGbIR0ZI) | X |  | X | X | 
-[Double Fisherman](https://youtu.be/O6oJwedcb18) |  | X | X | X | 
-[Girth Hitch](https://youtu.be/blP6BL05Q34) |  | X | X | X | 
-[Prussik](https://youtu.be/CP7iAF_YU7A) | X |  |  |  | X
-[Munter Hitch](https://youtu.be/IslYcjJ-htI) |  |  |  | X | X
-[Super Munter Hitch](https://youtu.be/OLaEmPs7tac) |  |  |  | X | X
-[Bowline on a Bight](https://youtu.be/CDZOYUZabV4)  |  |  |  | X | 
-[Alpine Butterfly Loop](https://youtu.be/gX1dWKg6Ttc) |  |  |  |  | X
-[Butterfly](https://youtu.be/gX1dWKg6Ttc) |  |  |  |  | X
+[Figure 8 Follow Through](https://youtu.be/aLopeVBb7yU?t=7) | X | X | X | X | X
+[Overhand](https://youtu.be/I0ShGbIR0ZI?t=7) | X |  | X | X | 
+[Double Fisherman](https://youtu.be/O6oJwedcb18?t=7) |  | X | X | X | 
+[Girth Hitch](https://youtu.be/blP6BL05Q34?t=7) |  | X | X | X | 
+[Prussik](https://youtu.be/CP7iAF_YU7A?t=7) | X |  |  |  | X
+[Munter Hitch](https://youtu.be/IslYcjJ-htI?t=7) |  |  |  | X | X
+[Super Munter Hitch](https://youtu.be/OLaEmPs7tac?t=7) |  |  |  | X | X
+[Bowline on a Bight](https://youtu.be/CDZOYUZabV4?t=7)  |  |  |  | X | 
+[Alpine Butterfly Loop](https://youtu.be/gX1dWKg6Ttc?t=7) |  |  |  |  | X
+[Butterfly](https://youtu.be/gX1dWKg6Ttc?t=7) |  |  |  |  | X
 
 * **Pro Tip**: All three of the above hitches can be [tied with one hand](http://www.climbing.com/skills/learn-this-one-handed-munter-and-clove-hitches/). This is extremely helpful; learn this.
 * **Pro Tip**: Every climber needs to know at least one [hitch](https://en.wikipedia.org/wiki/List_of_hitch_knots) and at least one [bight](https://en.wikipedia.org/wiki/Bight_%28knot%29).
+
+### Figure 8 Follow Through
+
+This is the knot you will use to tie into your harness. And sometimes to tie into a trad anchor.
+
+<a href="https://youtu.be/aLopeVBb7yU?t=7" target="_blank">
+<img src="/assets/images/knots/figure_8_639px.png"
+srcset="/assets/images/knots/figure_8_962px.png 962w,
+/assets/images/knots/figure_8_639px.png 639w,
+/assets/images/knots/figure_8_420px.png 420w" 
+sizes="(max-width: 38em) 100vw, 50vw"
+alt="Figure 8 knot-tying video">
+</a>
+
+### Overhand
+
+This knot is so basic you probably grew up being able to tie it. And you just called it "a knot".
+
+<a href="https://youtu.be/I0ShGbIR0ZI?t=7" target="_blank">
+<img src="/assets/images/knots/overhand_638px.png"
+srcset="/assets/images/knots/overhand_960px.png 960w,
+/assets/images/knots/overhand_638px.png 638w,
+/assets/images/knots/overhand_420px.png 420w" 
+sizes="(max-width: 38em) 100vw, 50vw"
+alt="Overhand knot-tying video">
+</a>
 
 ### Double Fisherman
 
 The double fisherman is used to turn a length of cord into a loop. This is a really basic knot to know. This is the basic knot that lets people build anchors with cord (as opposed to slings).
 
-<a href="https://youtu.be/O6oJwedcb18?t=7"  target="_blank"><img src="/assets/images/knots/double_fisherman_640px.png"
+<a href="https://youtu.be/O6oJwedcb18?t=7" target="_blank">
+<img src="/assets/images/knots/double_fisherman_640px.png"
 srcset="/assets/images/knots/double_fisherman_850px.png 850w,
 /assets/images/knots/double_fisherman_640px.png 640w,
 /assets/images/knots/double_fisherman_420px.png 420w" 
 sizes="(max-width: 38em) 100vw, 50vw"
-alt="Double Fisherman knot-tying video"></a>
+alt="Double Fisherman knot-tying video">
+</a>
+
+### Girth Hitch
+
+<a href="https://youtu.be/blP6BL05Q34?t=7" target="_blank">
+<img src="/assets/images/knots/girth_hitch_638px.png"
+srcset="/assets/images/knots/girth_hitch_1279px.png 1279w,
+/assets/images/knots/girth_hitch_968px.png 960w,
+/assets/images/knots/girth_hitch_638px.png 638w,
+/assets/images/knots/girth_hitch_420px.png 420w" 
+sizes="(max-width: 38em) 100vw, 50vw"
+alt="Girth Hitch knot-tying video">
+</a>
+
+### Prussik
+
+You will need to know how to tie a Prussel Prussik if you ever want to repel from a climb. And repelling is the absolute most basic self-rescue technique for rock climbers.
+
+<a href="https://youtu.be/CP7iAF_YU7A?t=7" target="_blank">
+
+</a>
+
+### Munter Hitch
+
+<a href="https://youtu.be/IslYcjJ-htI?t=7" target="_blank">
+
+</a>
+
+### Super Munter Hitch
+
+<a href="https://youtu.be/OLaEmPs7tac?t=7" target="_blank">
+
+</a>
+
+### Bowline on a Bight
+
+<a href="https://youtu.be/CDZOYUZabV4?t=7" target="_blank">
+
+</a>
+
+### Alpine Butterfly Loop
+
+<a href="https://youtu.be/gX1dWKg6Ttc?t=7" target="_blank">
+
+</a>
+
+### Butterfly
+
+<a href="https://youtu.be/gX1dWKg6Ttc?t=7" target="_blank">
+
+</a>
 
  &nbsp;
 
