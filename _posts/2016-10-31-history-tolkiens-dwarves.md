@@ -37,7 +37,7 @@ Much happens before the Dwarves are awakened that shapes their world.
 
 The First Age is counted by Elves as starting before Eru awoke the Dwarves. But Dwarven history starts here, before the Sun and Moon exist.
 
-+ The seven [Fathers of Dwarves](https://en.wikipedia.org/wiki/Fathers_of_the_Dwarves) are first awakened by [Ilúvatar](https://en.wikipedia.org/wiki/Eru_Il%C3%BAvatar), as are the first [Ents](https://en.wikipedia.org/wiki/Ent).
++ The seven [Fathers of Dwarves](https://en.wikipedia.org/wiki/Fathers_of_the_Dwarves) are first awakened by [Ilúvatar](https://en.wikipedia.org/wiki/Eru_Il%C3%BAvatar), as are the first [Ents](https://en.wikipedia.org/wiki/Ent). <sub>9</sub>
 + [Durin the Deathless](https://en.wikipedia.org/wiki/Durin#Durin_the_Deathless) awakes alone, first of all Dwarves, in [Mount Gundabad](https://en.wikipedia.org/wiki/Minor_places_in_Middle-earth_%28fictional%29#Mount_Gundabad) in the [Misty Mountains](https://en.wikipedia.org/wiki/Misty_Mountains), and it was forever after sacred to the Dwarves.
 + Two Fathers awoke in the Blue Mountains, and there they founded the clans of the [Broadbeams](http://tolkiengateway.net/wiki/Broadbeams) and the [Firebeards](http://tolkiengateway.net/wiki/Firebeards) who later lived in [Nogrod](https://en.wikipedia.org/wiki/Minor_places_in_Beleriand#Nogrod) and [Belegost](https://en.wikipedia.org/wiki/Minor_places_in_Beleriand#Belegost) respectively.
 + The four other Fathers awoke in the far East. We know the least about these Dwarves, except that they arose in the [Orocarni](http://tolkiengateway.net/wiki/Orocarni) Mountains and formed the four clans [Ironfists](http://tolkiengateway.net/wiki/Ironfists), [Stiffbeards](http://tolkiengateway.net/wiki/Stiffbeards), [Blacklocks](http://tolkiengateway.net/wiki/Blacklocks), and [Stonefoots](http://tolkiengateway.net/wiki/Stonefoots).
@@ -127,10 +127,11 @@ Tolkien does not tell us much about the Fourth Age or beyond.
 #### Nature of Dwarves
 
 + The average Dwarf is shorter than the average Human or Elf. <sub>citation needed</sub>
++ The Dwarves were "stone-hard, stubborn, fast in friendship and enmity, and they suffer toil and hunger and hurt of body more heartily than other speaking peoples". <sub>9</sub>
 + Both male and female Dwarves are  born with full beards. <sub>3</sub>
 + By the Second and Third Age Dwarves naturally live about 250 solar years <sub>4</sub>.
-+ The Dwarves are secretive about their religion. *But it probably revolves around [Aulë](https://en.wikipedia.org/wiki/Aul%C3%AB).*
-+ The Dwarves are secretive about their language, Khudzul; which was given to them by Aulë. (They do not speak Khudzul in front of non-Dwarves and only two outsiders ever learned to speak it: the elves [Eöl](https://en.wikipedia.org/wiki/E%C3%B6l) and [Curufin](https://en.wikipedia.org/wiki/Curufin). Through intensive effort, Khudzul remained unchanged throughout all four ages.) <sub>5</sub>
++ The Dwarves are secretive about their religion. *But it probably revolves around [Aulë](https://en.wikipedia.org/wiki/Aul%C3%AB).* <sub>9</sub>
++ The Dwarves are secretive about their language, Khudzul; which was given to them by Aulë. <sub>9</sub> (They do not speak Khudzul in front of non-Dwarves and only two outsiders ever learned to speak it: the elves [Eöl](https://en.wikipedia.org/wiki/E%C3%B6l) and [Curufin](https://en.wikipedia.org/wiki/Curufin). Through intensive effort, Khudzul remained unchanged throughout all four ages.) <sub>5</sub>
 
  &nbsp;
 
