@@ -12,9 +12,9 @@ What follows is the Cliff's Notes version of every major event in Dwarven histor
 
  &nbsp;
 
-### Valian Years
+### Before the Dwarves
 
-These are the endless days before history.
+Much happens before the Dwarves are awakened that shapes their world.
 
 + [Eru Ilúvatar](https://en.wikipedia.org/wiki/Eru_Il%C3%BAvatar) creates the gods [Ainur](https://en.wikipedia.org/wiki/Ainur_%28Middle-earth%29), with [Aulë](https://en.wikipedia.org/wiki/Aul%C3%AB) and [Melkor](https://en.wikipedia.org/wiki/Morgoth) among them.
 + Melkor is the greatest of the Ainur, but is overwhelmed by a desire for power.
@@ -23,22 +23,22 @@ These are the endless days before history.
 + Melkor claims Arda for himself, and so becomes the source of all evil.
 + Aulë, god of skill and craftsmanship, creates the Dwarves in secret from the other Valar.
 + Ilúvatar finds out about the Dwarves, and tells Aulë to destroy them. But Ilúvatar stops Aulë at the last moment and allows the Dwarves to exist, stipulating only that they must go to sleep until after the Elves awake.
++ [YT](https://en.wikipedia.org/wiki/History_of_Arda#Years_of_the_Trees) 1050: Elves are awakened by [Ilúvatar](https://en.wikipedia.org/wiki/Eru_Il%C3%BAvatar).
++ [Sauron](https://en.wikipedia.org/wiki/Sauron) is originally a [Maia](https://en.wikipedia.org/wiki/Maia_%28Middle-earth%29), or demigod servant, to [Aulë](https://en.wikipedia.org/wiki/Aul%C3%AB); but he is corrupted and becomes the chief lieutenant of [Melkor](https://en.wikipedia.org/wiki/Morgoth).
++ Melkor captures Elves and begins breeding [Orcs](https://en.wikipedia.org/wiki/Orc_%28Middle-earth%29) from them.
 
  &nbsp;
 
 ### First Age
 
-This is a long period that starts before the Sun and Moon exist, but ends in the early written history.
+The First Age is counted by Elves as starting before Eru awoke the Dwarves. But Dwarven history starts here, before the Sun and Moon exist.
 
-+ [YT](https://en.wikipedia.org/wiki/History_of_Arda#Years_of_the_Trees) 1050: Elves are awakened by [Ilúvatar](https://en.wikipedia.org/wiki/Eru_Il%C3%BAvatar).
-+ [Sauron](https://en.wikipedia.org/wiki/Sauron) is originally a [Maia](https://en.wikipedia.org/wiki/Maia_%28Middle-earth%29), or demigod servant, to [Aulë](https://en.wikipedia.org/wiki/Aul%C3%AB); but he is corrupted and becomes the chief lieutenant of [Melkor](https://en.wikipedia.org/wiki/Morgoth).
-+ Melkor captures Elves and begins breeding [Orcs](https://en.wikipedia.org/wiki/Orc_%28Middle-earth%29) from them.
-+ The seven [Fathers of Dwarves](https://en.wikipedia.org/wiki/Fathers_of_the_Dwarves) are first awakened by Ilúvatar, as are the first [Ents](https://en.wikipedia.org/wiki/Ent).
-+ [Durin the Deathless](https://en.wikipedia.org/wiki/Durin#Durin_the_Deathless) awoke alone, first of all Dwarves, in [Mount Gundabad](https://en.wikipedia.org/wiki/Minor_places_in_Middle-earth_%28fictional%29#Mount_Gundabad) in the [Misty Mountains](https://en.wikipedia.org/wiki/Misty_Mountains), and it was forever after sacred to the Dwarves.
++ The seven [Fathers of Dwarves](https://en.wikipedia.org/wiki/Fathers_of_the_Dwarves) are first awakened by [Ilúvatar](https://en.wikipedia.org/wiki/Eru_Il%C3%BAvatar), as are the first [Ents](https://en.wikipedia.org/wiki/Ent).
++ [Durin the Deathless](https://en.wikipedia.org/wiki/Durin#Durin_the_Deathless) awakes alone, first of all Dwarves, in [Mount Gundabad](https://en.wikipedia.org/wiki/Minor_places_in_Middle-earth_%28fictional%29#Mount_Gundabad) in the [Misty Mountains](https://en.wikipedia.org/wiki/Misty_Mountains), and it was forever after sacred to the Dwarves.
 + Two Fathers awoke in the Blue Mountains, and there they founded the clans of the [Broadbeams](http://tolkiengateway.net/wiki/Broadbeams) and the [Firebeards](http://tolkiengateway.net/wiki/Firebeards) who later lived in [Nogrod](https://en.wikipedia.org/wiki/Minor_places_in_Beleriand#Nogrod) and [Belegost](https://en.wikipedia.org/wiki/Minor_places_in_Beleriand#Belegost) respectively.
 + The four other Fathers awoke in the far East. We know the least about these Dwarves, except that they arose in the [Orocarni](http://tolkiengateway.net/wiki/Orocarni) Mountains and formed the four clans [Ironfists](http://tolkiengateway.net/wiki/Ironfists), [Stiffbeards](http://tolkiengateway.net/wiki/Stiffbeards), [Blacklocks](http://tolkiengateway.net/wiki/Blacklocks), and [Stonefoots](http://tolkiengateway.net/wiki/Stonefoots).
 + Durin sees a reflection of himself wearing a crown in the lake [Kheled-zâram](http://lotr.wikia.com/wiki/Mirrormere) and then founds [Khazad-dûm](https://en.wikipedia.org/wiki/Moria_%28Middle-earth%29) in the caves behind it. Dwarves begin to gather there and form the composite [Longbeards](http://tolkiengateway.net/wiki/Durin's_Folk) clan.
-+ YT 1250: The Dwarves of Nogrod and Belegost are met by the [Sindarian Elves](https://en.wikipedia.org/wiki/Sindar), etablishing trade.
++ [YT](https://en.wikipedia.org/wiki/History_of_Arda#Years_of_the_Trees) 1250: The Dwarves of Nogrod and Belegost are met by the [Sindarian Elves](https://en.wikipedia.org/wiki/Sindar), etablishing trade.
 + The Dwarves are the first to forge mail armor of linked rings. *Tolkien's works rarely involve plate armor.*
 + YT 1300: The Dwarves of Belegost and the Sindarian Elves begin building the great underground Elven city of [Doriath](https://en.wikipedia.org/wiki/Doriath).
 + The Dwarves of Nogrod and Belegost build the great [Dwarf-road](http://tolkiengateway.net/wiki/Dwarf-road_of_Beleriand) to [trade](http://www.henneth-annun.net/events_view.cfm?evid=994) with the Elves of Doriath and Beleriand.
