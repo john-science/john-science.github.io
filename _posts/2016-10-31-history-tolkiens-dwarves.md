@@ -88,7 +88,7 @@ The third age lasts 3021 years, and during this time the number of Dwarves begin
 + 2845: Thráin II was captured by [Sauron](https://en.wikipedia.org/wiki/Sauron)'s forces and in the dungeons of [Dol Guldur](https://en.wikipedia.org/wiki/Dol_Guldur) and the last of the seven rings was taken back.
 + 2850: [Gandalf the Grey](https://en.wikipedia.org/wiki/Gandalf) finds Thráin II in Dol Guldur, insane after years of torture. Thráin gives Gandalf a map and a key to Erebor and asks Gandalf to give them to his son, though Gandalf does not yet know who Thráin is.
 + 2941: Thorin Oakenshield begins the [Quest of Erebor](https://en.wikipedia.org/wiki/The_Quest_of_Erebor) with his close relations: [Balin](https://en.wikipedia.org/wiki/Balin_%28Middle-earth%29), [Fíli](https://en.wikipedia.org/wiki/Middle-earth_dwarf_characters#F.C3.ADli), [Kíli](https://en.wikipedia.org/wiki/Middle-earth_dwarf_characters#K.C3.ADli), [Glóin](http://lotr.wikia.com/wiki/Gl%C3%B3in), [Óin](http://lotr.wikia.com/wiki/%C3%93in), [Dwalin](http://lotr.wikia.com/wiki/Dwalin), [Dori](http://lotr.wikia.com/wiki/Dori), [Nori](http://lotr.wikia.com/wiki/Nori), [Ori](http://lotr.wikia.com/wiki/Ori), [Bifur](http://lotr.wikia.com/wiki/Bifur), [Bofur](http://lotr.wikia.com/wiki/Bofur), and [Bombur](http://lotr.wikia.com/wiki/Bombur). At the request of Gandalf, they invite the Hobbit [Bilbo Baggins](https://en.wikipedia.org/wiki/Bilbo_Baggins).
-+ 2941: Bilbo Baggins obtains the [One Ring](https://en.wikipedia.org/wiki/One_Ring) from [Gollum](https://en.wikipedia.org/wiki/Gollum), who had carried it for 522 years.
++ 2941: Bilbo Baggins obtains the [One Ring](https://en.wikipedia.org/wiki/One_Ring) from [Gollum](https://en.wikipedia.org/wiki/Gollum), who had carried it for 478 years.
 + 2941: Esgaroth is attacked by the dragon Smaug, who is consequentially killed by Bard the Bowman.
 + 2941: Bilbo steals the Arkenstone and attempts to use it to forestall a war with Mirkwood Elves and Esgaroth Humans.
 + 2941: Thorin, Fíli, and Kíli are killed in [The Battle of the Five Armies](https://en.wikipedia.org/wiki/Middle-earth_wars_and_battles#Battle_of_Five_Armies) along with Bolg son of Azog, and many Orcs, Dwarves, Elves, and Humans. Dáin II Ironfoot becomes King of The Lonely Mountain and recieves the Arkenstone. The town of Dale, just outside of Erebor, is re-established by Bard.
@@ -115,33 +115,33 @@ Tolkien does not tell us much about the Fourth Age or beyond.
 + c 20-120: Gimli returns to [Aglarond](https://en.wikipedia.org/wiki/Helm's_Deep#Aglarond) and founds a Dwarf colony there, where he is known as [Lord of the Glittering Caves](http://tolkiengateway.net/wiki/Lord_of_the_Glittering_Caves). 
 + 120: [It is believed](http://tolkiengateway.net/wiki/Dwarves#Fourth_Age) that Gimli, son of [Glóin](http://lotr.wikia.com/wiki/Gl%C3%B3in), becomes the only Dwarf ever to cross the sea to the [Undying Lands](https://en.wikipedia.org/wiki/Aman_%28Tolkien%29).
 + [Durin VII](http://tolkiengateway.net/wiki/Durin_VII) (Durin the Last) leads Durin's Folk back to [Khazad-dûm](http://tolkiengateway.net/wiki/Moria) and restores the greatest kingdom of the Dwarves.
-+ Khazad-dûm and Erebor are the two great final kingdoms of the Dwarves.
++ Khazad-dûm and Erebor are the two great final kingdoms of the Dwarves. (citation needed)
 + It is not clear if the Dwarves slowly diminish and are gone from the world or if they simply delve so deeply that they are never seen above ground again.
 
  &nbsp;
 
-Fun Facts
----------
+Nature of Dwarves
+-----------------
 
-+ Both male and female Dwarves are [born with full beards](http://scifi.stackexchange.com/questions/40024/are-dwarfs-born-with-beards).
-+ Dwarves naturally live about 250 solar years.
++ The average Dwarf is shorter than the average Human or Elf. (citation needed)
++ Both male and female Dwarves are  born with full beards ([HoME Vol. 11](https://www.goodreads.com/book/show/18964.The_War_of_the_Jewels), page 205).
++ By the Second and Third Age Dwarves naturally live about 250 solar years ([LotR](https://www.goodreads.com/book/show/33.The_Lord_of_the_Rings) Appendix A III - Durin's Folk).
 + The Dwarves are secretive about their religion. *But it probably revolves around [Aulë](https://en.wikipedia.org/wiki/Aul%C3%AB).*
-+ The Dwarves are secretive about their language, Khudzul; which was given to them by Aulë. (They do not speak Khudzul in front of non-Dwarves and only two outsiders ever learned to speak it: the elves [Eöl](https://en.wikipedia.org/wiki/E%C3%B6l) and [Curufin](https://en.wikipedia.org/wiki/Curufin). Through intensive effort, Khudzul remained unchanged throughout all four ages.)
++ The Dwarves are secretive about their language, Khudzul; which was given to them by Aulë. (They do not speak Khudzul in front of non-Dwarves and only two outsiders ever learned to speak it: the elves [Eöl](https://en.wikipedia.org/wiki/E%C3%B6l) and [Curufin](https://en.wikipedia.org/wiki/Curufin). Through intensive effort, Khudzul remained unchanged throughout all four ages.) ([HoME Vol. 11](https://www.goodreads.com/book/show/18964.The_War_of_the_Jewels), part 4, Appendix D)
 
  &nbsp;
 
-Great References
-----------------------
+The Books
+---------
 
-#### Books
-
-+ [The Silmarillion](https://www.goodreads.com/book/show/7332.The_Silmarillion) - mostly about Elves, but some passages are helpful
++ [The Silmarillion](https://www.goodreads.com/book/show/7332.The_Silmarillion) - mostly about Elves
 + [The Hobbit](https://www.goodreads.com/book/show/5907.The_Hobbit) - a lot about the Dwarves of Erebor
 + [The Lord of the Rings](https://www.goodreads.com/book/show/33.The_Lord_of_the_Rings) - the chapter on "The Council of Elrond" and the appendicies
-+ [The History of Middle Earth](https://www.goodreads.com/book/show/214175.The_Complete_History_Of_Middle_Earth) - again, mostly about Elves, but some good stuff
-+ [The Unfinished Tales](https://www.goodreads.com/book/show/7329.Unfinished_Tales_of_N_menor_and_Middle_Earth) - very sparsely useful
++ [The History of Middle Earth](https://www.goodreads.com/book/show/214175.The_Complete_History_Of_Middle_Earth) - very sparse information about Dwarves
++ [The Unfinished Tales](https://www.goodreads.com/book/show/7329.Unfinished_Tales_of_N_menor_and_Middle_Earth) - very sparse information about Dwarves
 
-#### Online Resources
+Online Resources
+----------------
 
 + [YouTube](https://youtu.be/8qNjclUU290) - a wonderful history of the Dwarves
 + [One Wiki to Rule them All](http://tolkiengateway.net/wiki/Dwarves) - article on Dwarves
