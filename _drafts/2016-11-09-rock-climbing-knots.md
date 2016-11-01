@@ -19,7 +19,8 @@ Knot | Rapelling | Top Roping | Sport Climbing | Trad Climbing | Self-Rescue
 [Double Fisherman](https://youtu.be/O6oJwedcb18?t=7) |  | X | X | X | 
 [Girth Hitch](https://youtu.be/blP6BL05Q34?t=7) |  | X | X | X | 
 [Prussik](https://youtu.be/CP7iAF_YU7A?t=7) | X |  |  |  | X
-[Munter Hitch](https://youtu.be/IslYcjJ-htI?t=7) |  |  |  | X | X
+[Munter Hitch](https://youtu.be/Q3UlClqZqrE?t=8) |  |  |  | X | X
+[Munter Mule Hitch](https://youtu.be/IslYcjJ-htI?t=7) |  |  |  | X | X
 [Super Munter Hitch](https://youtu.be/OLaEmPs7tac?t=7) |  |  |  | X | X
 [Bowline on a Bight](https://youtu.be/CDZOYUZabV4?t=7)  |  |  |  | X | 
 [Alpine Butterfly Loop](https://youtu.be/gX1dWKg6Ttc?t=7) |  |  |  |  | X
@@ -88,6 +89,12 @@ You will need to know how to tie a Prussel Prussik if you ever want to repel fro
 </a>
 
 ### Munter Hitch
+
+<a href="https://youtu.be/Q3UlClqZqrE?t=8" target="_blank">
+
+</a>
+
+### Munter Mule Hitch
 
 <a href="https://youtu.be/IslYcjJ-htI?t=7" target="_blank">
 
