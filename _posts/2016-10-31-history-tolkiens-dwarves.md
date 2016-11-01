@@ -8,7 +8,7 @@ summary: The entire history of the Dwarves of Middle Earth.
 
 I recently took a deep dive into the history of Tolkien's Dwarves for a [game](https://github.com/theJollySin/mazes_of_erebor) I am writing. There is not as much known about the Dwarves as there is about the Elves, who were given entire books for their history. So, I had to scrounge information from all of Tolkien's works.
 
-What follows is the Cliff's Notes version of every major event in Dwarven history, that we know of. J.R.R. Tolkien's mythology evolved and improved over time; where possible I try to the last/latest version, giving weight to the History of Middle Earth published by his son. Text in italics is not explicitly stated in Tolkien's works, but can be inferred without too much imagination.
+What follows is the Cliff's Notes version of every major event in Dwarven history, that we know of. Tolkien's mythology evolved and improved over time; where possible I try to use the last and most recent version. Text in italics is not explicitly stated in Tolkien's works, but can be inferred without too much imagination.
 
  &nbsp;
 
@@ -16,16 +16,20 @@ What follows is the Cliff's Notes version of every major event in Dwarven histor
 
 Much happens before the Dwarves are awakened that shapes their world.
 
-+ [Eru Ilúvatar](https://en.wikipedia.org/wiki/Eru_Il%C3%BAvatar) creates the gods [Ainur](https://en.wikipedia.org/wiki/Ainur_%28Middle-earth%29), with [Aulë](https://en.wikipedia.org/wiki/Aul%C3%AB) and [Melkor](https://en.wikipedia.org/wiki/Morgoth) among them. <1>
-+ Melkor is the greatest of the Ainur, but is overwhelmed by a desire for power. <1>
-+ [Arda](https://en.wikipedia.org/wiki/Arda_%28Tolkien%29), the physical world, is created. <1>
-+ Some Ainur descend into Arda to oversee it; they are known as the [Valar](https://en.wikipedia.org/wiki/Vala_%28Middle-earth%29). <1>
-+ Melkor claims Arda for himself, and so becomes the source of all evil. <2>
-+ Aulë, god* of skill and craftsmanship, creates the Dwarves in secret from the other Valar. <sub><2>  (*In the Valquenta, Tolkien writes of the Valar "Men often call them Gods", but he does not say what the Dwarves call them.)</sub>
-+ Ilúvatar finds out about the Dwarves, and tells Aulë to destroy them. But Ilúvatar stops Aulë at the last moment and allows the Dwarves to exist, stipulating only that they must go to sleep until after the Elves awake.
-+ [YT](https://en.wikipedia.org/wiki/History_of_Arda#Years_of_the_Trees) 1050: Elves are awakened by [Ilúvatar](https://en.wikipedia.org/wiki/Eru_Il%C3%BAvatar). <8>
-+ [Sauron](https://en.wikipedia.org/wiki/Sauron) is originally a [Maia](https://en.wikipedia.org/wiki/Maia_%28Middle-earth%29), or demigod servant, to [Aulë](https://en.wikipedia.org/wiki/Aul%C3%AB); but he is corrupted and becomes the chief lieutenant of [Melkor](https://en.wikipedia.org/wiki/Morgoth). <2>
-+ Melkor captures Elves and begins breeding [Orcs](https://en.wikipedia.org/wiki/Orc_%28Middle-earth%29) from them.
++ [Eru Ilúvatar](https://en.wikipedia.org/wiki/Eru_Il%C3%BAvatar) creates the gods* [Ainur](https://en.wikipedia.org/wiki/Ainur_%28Middle-earth%29), with [Aulë](https://en.wikipedia.org/wiki/Aul%C3%AB) and [Melkor](https://en.wikipedia.org/wiki/Morgoth) among them. <sub>1</sub>
++ Melkor is the greatest of the Ainur, but is overwhelmed by a desire for power. <sub>1</sub>
++ [Arda](https://en.wikipedia.org/wiki/Arda_%28Tolkien%29), the physical world, is created. <sub>1</sub>
++ Some Ainur descend into Arda to oversee it; they are known as the [Valar](https://en.wikipedia.org/wiki/Vala_%28Middle-earth%29). <sub>1</sub>
++ Melkor claims Arda for himself, and so becomes the source of all evil. <sub>2</sub>
++ Aulë, god* of skill and craftsmanship, creates the Dwarves in secret from the other Valar. <sub>2 9</sub>
++ Ilúvatar finds out about the Dwarves, and tells Aulë to destroy them. But Ilúvatar stops Aulë at the last moment and allows the Dwarves to exist, stipulating only that they must go to sleep until after the Elves awake. <sub>9</sub>
++ [YT](https://en.wikipedia.org/wiki/History_of_Arda#Years_of_the_Trees) 1050: Elves are awakened by [Ilúvatar](https://en.wikipedia.org/wiki/Eru_Il%C3%BAvatar). <sub>8</sub>
++ [Sauron](https://en.wikipedia.org/wiki/Sauron) is originally a [Maia](https://en.wikipedia.org/wiki/Maia_%28Middle-earth%29), or demigod servant, to [Aulë](https://en.wikipedia.org/wiki/Aul%C3%AB); but he is corrupted and becomes the chief lieutenant of [Melkor](https://en.wikipedia.org/wiki/Morgoth). <sub>2</sub>
++ Melkor captures begins breeding [Orcs](https://en.wikipedia.org/wiki/Orc_%28Middle-earth%29).** <sub>9</sub>
+
+<sub>*In the Valquenta, Tolkien writes of the Valar "Men often called them Gods", but he does not say what the Dwarves called them.</sub>
+
+<sub>**Tolkien gives many hints as to the creation of the Orcs. Maybe they were once Elves, or Humans, or both. In all versions, Melkor creates them.</sub>
 
  &nbsp;
 
@@ -88,7 +92,7 @@ The third age lasts 3021 years, and during this time the number of Dwarves begin
 + 2845: Thráin II was captured by [Sauron](https://en.wikipedia.org/wiki/Sauron)'s forces and in the dungeons of [Dol Guldur](https://en.wikipedia.org/wiki/Dol_Guldur) and the last of the seven rings was taken back.
 + 2850: [Gandalf the Grey](https://en.wikipedia.org/wiki/Gandalf) finds Thráin II in Dol Guldur, insane after years of torture. Thráin gives Gandalf a map and a key to Erebor and asks Gandalf to give them to his son, though Gandalf does not yet know who Thráin is.
 + 2941: Thorin Oakenshield begins the [Quest of Erebor](https://en.wikipedia.org/wiki/The_Quest_of_Erebor) with his close relations: [Balin](https://en.wikipedia.org/wiki/Balin_%28Middle-earth%29), [Fíli](https://en.wikipedia.org/wiki/Middle-earth_dwarf_characters#F.C3.ADli), [Kíli](https://en.wikipedia.org/wiki/Middle-earth_dwarf_characters#K.C3.ADli), [Glóin](http://lotr.wikia.com/wiki/Gl%C3%B3in), [Óin](http://lotr.wikia.com/wiki/%C3%93in), [Dwalin](http://lotr.wikia.com/wiki/Dwalin), [Dori](http://lotr.wikia.com/wiki/Dori), [Nori](http://lotr.wikia.com/wiki/Nori), [Ori](http://lotr.wikia.com/wiki/Ori), [Bifur](http://lotr.wikia.com/wiki/Bifur), [Bofur](http://lotr.wikia.com/wiki/Bofur), and [Bombur](http://lotr.wikia.com/wiki/Bombur). At the request of Gandalf, they invite the Hobbit [Bilbo Baggins](https://en.wikipedia.org/wiki/Bilbo_Baggins).
-+ 2941: Bilbo Baggins obtains the [One Ring](https://en.wikipedia.org/wiki/One_Ring) from [Gollum](https://en.wikipedia.org/wiki/Gollum), who had carried it for 478 years. <6> <7>
++ 2941: Bilbo Baggins obtains the [One Ring](https://en.wikipedia.org/wiki/One_Ring) from [Gollum](https://en.wikipedia.org/wiki/Gollum), who had carried it for 478 years. <sub>6 7</sub>
 + 2941: Esgaroth is attacked by the dragon Smaug, who is consequentially killed by Bard the Bowman.
 + 2941: Bilbo steals the Arkenstone and attempts to use it to forestall a war with Mirkwood Elves and Esgaroth Humans.
 + 2941: Thorin, Fíli, and Kíli are killed in [The Battle of the Five Armies](https://en.wikipedia.org/wiki/Middle-earth_wars_and_battles#Battle_of_Five_Armies) along with Bolg son of Azog, and many Orcs, Dwarves, Elves, and Humans. Dáin II Ironfoot becomes King of The Lonely Mountain and recieves the Arkenstone. The town of Dale, just outside of Erebor, is re-established by Bard.
@@ -115,18 +119,18 @@ Tolkien does not tell us much about the Fourth Age or beyond.
 + c 20-120: Gimli returns to [Aglarond](https://en.wikipedia.org/wiki/Helm's_Deep#Aglarond) and founds a Dwarf colony there, where he is known as [Lord of the Glittering Caves](http://tolkiengateway.net/wiki/Lord_of_the_Glittering_Caves). 
 + 120: [It is believed](http://tolkiengateway.net/wiki/Dwarves#Fourth_Age) that Gimli, son of [Glóin](http://lotr.wikia.com/wiki/Gl%C3%B3in), becomes the only Dwarf ever to cross the sea to the [Undying Lands](https://en.wikipedia.org/wiki/Aman_%28Tolkien%29).
 + [Durin VII](http://tolkiengateway.net/wiki/Durin_VII) (Durin the Last) leads Durin's Folk back to [Khazad-dûm](http://tolkiengateway.net/wiki/Moria) and restores the greatest kingdom of the Dwarves.
-+ Khazad-dûm and Erebor are the two great final kingdoms of the Dwarves. (citation needed)
-+ It is not clear if the Dwarves slowly diminish and are gone from the world or if they simply delve so deeply that they are never seen above ground again.
++ Khazad-dûm and Erebor are the two great final kingdoms of the Dwarves. <sub>citation needed</sub>
++ It is not clear if the Dwarves slowly diminish and are gone from the world or if they simply delve so deeply that they are never seen above ground again. <sub>citation needed</sub>
 
  &nbsp;
 
 #### Nature of Dwarves
 
-+ The average Dwarf is shorter than the average Human or Elf. <citation needed>
-+ Both male and female Dwarves are  born with full beards. <3>
-+ By the Second and Third Age Dwarves naturally live about 250 solar years <4>.
++ The average Dwarf is shorter than the average Human or Elf. <sub>citation needed</sub>
++ Both male and female Dwarves are  born with full beards. <sub>3</sub>
++ By the Second and Third Age Dwarves naturally live about 250 solar years <sub>4</sub>.
 + The Dwarves are secretive about their religion. *But it probably revolves around [Aulë](https://en.wikipedia.org/wiki/Aul%C3%AB).*
-+ The Dwarves are secretive about their language, Khudzul; which was given to them by Aulë. (They do not speak Khudzul in front of non-Dwarves and only two outsiders ever learned to speak it: the elves [Eöl](https://en.wikipedia.org/wiki/E%C3%B6l) and [Curufin](https://en.wikipedia.org/wiki/Curufin). Through intensive effort, Khudzul remained unchanged throughout all four ages.) <5>
++ The Dwarves are secretive about their language, Khudzul; which was given to them by Aulë. (They do not speak Khudzul in front of non-Dwarves and only two outsiders ever learned to speak it: the elves [Eöl](https://en.wikipedia.org/wiki/E%C3%B6l) and [Curufin](https://en.wikipedia.org/wiki/Curufin). Through intensive effort, Khudzul remained unchanged throughout all four ages.) <sub>5</sub>
 
  &nbsp;
 
@@ -153,3 +157,4 @@ Tolkien does not tell us much about the Fourth Age or beyond.
 6. UT - [ae-lib.org](http://ae-lib.org.ua/texts-c/tolkien__unfinished_tales__en.htm) - Note #9 from Christopher Tolkien in the Unfinished Tales says that Smeagol acquired the One Ring in 2463.
 7. The Hobbit - Chapter 5 - Riddles in the Dark
 8. The Silmarillion - Chapter 3 - On the Coming of Elves and the Captivity of Melkor
+9. The Silmarillion - Chapter 2 - Of Aule and Yavanna
