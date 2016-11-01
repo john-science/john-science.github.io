@@ -139,6 +139,7 @@ Great References
 + [The Hobbit](https://www.goodreads.com/book/show/5907.The_Hobbit) - a lot about the Dwarves of Erebor
 + [The Lord of the Rings](https://www.goodreads.com/book/show/33.The_Lord_of_the_Rings) - the chapter on "The Council of Elrond" and the appendicies
 + [The History of Middle Earth](https://www.goodreads.com/book/show/214175.The_Complete_History_Of_Middle_Earth) - again, mostly about Elves, but some good stuff
++ [The Unfinished Tales](https://www.goodreads.com/book/show/7329.Unfinished_Tales_of_N_menor_and_Middle_Earth) - very sparsely useful
 
 #### Online Resources
 
@@ -147,3 +148,4 @@ Great References
 + [Wikipedia](https://en.wikipedia.org/wiki/Timeline_of_Arda) - timeline of Arda
 + [Wikipedia](https://en.wikipedia.org/wiki/Dwarf_%28Middle-earth%29) - article on Dwarves
 + [LotR Project](http://lotrproject.com/timeline/#zoom=2&lat=-1485&lon=1500&layers=B) - Timeline of Middle-Earth
++ [ae-lib.org](http://ae-lib.org.ua/texts-c/tolkien__unfinished_tales__en.htm) - Note #9 from Christopher Tolkien in the Unfinished Tales says that Smeagol acquired the One Ring in 2463.
