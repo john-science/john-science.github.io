@@ -166,7 +166,7 @@ alt="Clove Hitch knot-tying video">
 
 ### Bonus Knots
 
-* [Monkey's Fist](https://youtu.be/gp9w-T2d_NY?t=7) - Great fun. If your friends look bored, toss them a rope with a Monkey's Fist tied into it. It has limited climbing uses, but if you ever need to throw one end of a rope (over a tree branch or up to a lead climber) this is a helpful trick to know.
+* [Monkey's Fist](https://youtu.be/gp9w-T2d_NY?t=7) - Great fun. If your friends look bored, toss them a Monkey's Fist. It does not get used often in climbing. But it is helpful if you ever need to throw a rope: up to a climber, or over a tree branch.
 * [One-Handed Figure 8](https://youtu.be/-iE8WG33xJY?t=1) - Look like a cowboy when you tie in. It turns out, if your reflexes are good, you can tie a figure 8 with one hand. This is more for style points than anything else.
 
  &nbsp;
