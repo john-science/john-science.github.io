@@ -136,6 +136,8 @@ alt="Super Munter Hitch knot-tying video">
 
 ### Bowline on a Bight
 
+A lot of people use the bowline on a bight to tie in. This is a fine knot, though I personally trust a figure-on-a-bight is more secure and easier to tie. The bowline is usually thought of as easier to untie after a fall than a figure 8, but there is [much talk](http://www.rockandice.com/lates-news/rethinking-the-double-loop-bowline) about the safety of this knot.
+
 <a href="https://youtu.be/CDZOYUZabV4?t=7" target="_blank">
 <img src="/assets/images/knots/bowline_ona_bight_639px.png"
 srcset="/assets/images/knots/bowline_ona_bight_1280px.png 1280w,
