@@ -84,31 +84,58 @@ alt="Girth Hitch knot-tying video">
 You will need to know how to tie a Prussel Prussik if you ever want to repel from a climb. And repelling is the absolute most basic self-rescue technique for rock climbers.
 
 <a href="https://youtu.be/CP7iAF_YU7A?t=7" target="_blank">
-
+<img src="/assets/images/knots/prusik_639px.png"
+srcset="/assets/images/knots/prusik_1281px.png 1281w,
+/assets/images/knots/prusik_959px.png 959w,
+/assets/images/knots/prusik_639px.png 639w" 
+sizes="(max-width: 38em) 100vw, 50vw"
+alt="Prusik Hitch knot-tying video">
 </a>
 
 ### Munter Hitch
 
 <a href="https://youtu.be/Q3UlClqZqrE?t=8" target="_blank">
-
+<img src="/assets/images/knots/munter_638px.png"
+srcset="/assets/images/knots/munter_1279px.png 1279w,
+/assets/images/knots/munter_960px.png 960w,
+/assets/images/knots/munter_638px.png 638w" 
+sizes="(max-width: 38em) 100vw, 50vw"
+alt="Munter Hitch knot-tying video">
 </a>
 
 ### Munter Mule Hitch
 
 <a href="https://youtu.be/IslYcjJ-htI?t=7" target="_blank">
-
+<img src="/assets/images/knots/munter_mule_638px.png"
+srcset="/assets/images/knots/munter_mule_1280px.png 1280w,
+/assets/images/knots/munter_mule_959px.png 959w,
+/assets/images/knots/munter_mule_638px.png 638w" 
+sizes="(max-width: 38em) 100vw, 50vw"
+alt="Munter Mule Hitch knot-tying video">
 </a>
 
 ### Super Munter Hitch
 
 <a href="https://youtu.be/OLaEmPs7tac?t=7" target="_blank">
-
+<img src="/assets/images/knots/super_munter_640px.png"
+srcset="/assets/images/knots/super_munter_1279px.png 1279w,
+/assets/images/knots/super_munter_850px.png 850w,
+/assets/images/knots/super_munter_640px.png 640w,
+/assets/images/knots/super_munter_420px.png 420w" 
+sizes="(max-width: 38em) 100vw, 50vw"
+alt="Super Munter Hitch knot-tying video">
 </a>
 
 ### Bowline on a Bight
 
 <a href="https://youtu.be/CDZOYUZabV4?t=7" target="_blank">
-
+<img src="/assets/images/knots/bowline_ona_bight_639px.png"
+srcset="/assets/images/knots/bowline_ona_bight_1280px.png 1280w,
+/assets/images/knots/bowline_ona_bight_840px.png 840w,
+/assets/images/knots/bowline_ona_bight_639px.png 639w,
+/assets/images/knots/bowline_ona_bight_420px.png 420w" 
+sizes="(max-width: 38em) 100vw, 50vw"
+alt="Bowline on a Bight knot-tying video">
 </a>
 
 ### Alpine Butterfly Loop
@@ -120,7 +147,13 @@ You will need to know how to tie a Prussel Prussik if you ever want to repel fro
 ### Butterfly
 
 <a href="https://youtu.be/gX1dWKg6Ttc?t=7" target="_blank">
-
+<img src="/assets/images/knots/butterfly_639px.png"
+srcset="/assets/images/knots/butterfly_1280px.png 1280w,
+/assets/images/knots/butterfly_853px.png 853w,
+/assets/images/knots/butterfly_639px.png 639w,
+/assets/images/knots/butterfly_420px.png 420w" 
+sizes="(max-width: 38em) 100vw, 50vw"
+alt="Butterfly knot-tying video">
 </a>
 
  &nbsp;
