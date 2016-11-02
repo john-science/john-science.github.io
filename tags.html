@@ -11,11 +11,23 @@ group: navigation
   {% include JB/tags_list %}
 </ul>
 
-
+<!-- Find the most popular tag -->
+{% assign tags_max = 0 %}
 {% for tag in site.tags %}
-  <h3 id="{{ tag[0] }}-ref">{{ tag[0] }}</h3>
-  <ul>
-    {% assign pages_list = tag[1] %}
-    {% include JB/pages_list %}
-  </ul>
+    {% if tag[1].size > tags_max %}
+        {% assign tags_max = tag[1].size %}
+    {% endif %}
+{% endfor %}
+
+<!-- Show the post by tag, most popular tags first -->
+{% for i in (1..tags_max) reversed %}
+    {% for tag in site.tags %}
+        {% if tag[1].size == i %}
+            <h3 id="{{ tag[0] }}-ref">{{ tag[0] }}</h3>
+            <ul>
+              {% assign pages_list = tag[1] %}
+              {% include JB/pages_list %}
+            </ul>
+        {% endif %}
+    {% endfor %}
 {% endfor %}
