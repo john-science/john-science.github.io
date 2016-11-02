@@ -14,20 +14,20 @@ What follows is the minimal set of knots that I use. This is not meant to be a c
 
 Knot | Rapelling | Top Roping | Sport Climbing | Trad Climbing | Self-Rescue
 :--- | :--- | :--- | :--- | :--- | :---
-[Figure 8 Follow Through](https://youtu.be/aLopeVBb7yU?t=7) | X | X | X | X | X
-[Overhand](https://youtu.be/I0ShGbIR0ZI?t=7) | X |  | X | X | 
-[Double Fisherman](https://youtu.be/O6oJwedcb18?t=7) |  | X | X | X | 
-[Girth Hitch](https://youtu.be/blP6BL05Q34?t=7) |  | X | X | X | 
-[Prussik](https://youtu.be/CP7iAF_YU7A?t=7) | X |  |  |  | X
-[Munter Hitch](https://youtu.be/Q3UlClqZqrE?t=8) |  |  |  | X | X
-[Munter Mule Hitch](https://youtu.be/IslYcjJ-htI?t=7) |  |  |  | X | X
-[Super Munter Hitch](https://youtu.be/OLaEmPs7tac?t=7) |  |  |  | X | X
-[Alpine Butterfly Loop](https://youtu.be/gX1dWKg6Ttc?t=7) |  |  |  |  | X
+[Figure 8 Follow Through](#figure8) | X | X | X | X | X
+[Overhand](#overhand) | X |  | X | X | 
+[Double Fisherman](#doublefisherman) |  | X | X | X | 
+[Girth Hitch](#girth) |  | X | X | X | 
+[Prusik](#prusik) | X |  |  |  | X
+[Munter Hitch](#munter) |  |  |  | X | X
+[Munter Mule Hitch](#mule) |  |  |  | X | X
+[Super Munter Hitch](#supermunter) |  |  |  | X | X
+[Alpine Butterfly Loop](#butterfly) |  |  |  |  | X
 
 * **Pro Tip**: All three of the above hitches can be [tied with one hand](http://www.climbing.com/skills/learn-this-one-handed-munter-and-clove-hitches/). This is extremely helpful; learn this.
 * **Pro Tip**: Every climber needs to know at least one [hitch](https://en.wikipedia.org/wiki/List_of_hitch_knots) and at least one [bight](https://en.wikipedia.org/wiki/Bight_%28knot%29).
 
-### Figure 8 Follow Through
+### <a name="figure8"></a>Figure 8 Follow Through
 
 This is the knot you will use to tie into your harness. And sometimes to tie into a trad anchor.
 
@@ -40,7 +40,7 @@ sizes="(max-width: 38em) 100vw, 50vw"
 alt="Figure 8 knot-tying video">
 </a>
 
-### Overhand
+### <a name="overhand"></a>Overhand
 
 This knot is so basic you probably grew up being able to tie it. And you just called it "a knot".
 
@@ -53,7 +53,7 @@ sizes="(max-width: 38em) 100vw, 50vw"
 alt="Overhand knot-tying video">
 </a>
 
-### Double Fisherman
+### <a name="doublefisherman"></a>Double Fisherman
 
 The double fisherman is used to turn a length of cord into a loop. This is a really basic knot to know. This is the basic knot that lets people build anchors with cord (as opposed to slings).
 
@@ -66,7 +66,7 @@ sizes="(max-width: 38em) 100vw, 50vw"
 alt="Double Fisherman knot-tying video">
 </a>
 
-### Girth Hitch
+### <a name="girth"></a>Girth Hitch
 
 Some days we get lucky and we can use a tree as part of our anchor. A good tree can really make a solid anchor and much faster than usual. Just toss some webbing around the trunk, and finish off with a girth hitch. Done.
 
@@ -80,9 +80,9 @@ sizes="(max-width: 38em) 100vw, 50vw"
 alt="Girth Hitch knot-tying video">
 </a>
 
-### Prussik
+### <a name="prusik"></a>Prusik
 
-You will need to know how to tie a Prussel Prussik if you ever want to repel from a climb. And repelling is the absolute most basic self-rescue technique for rock climbers.
+You will need to know how to tie a Prusik if you ever want to repel from a climb. And repelling is the absolute most basic self-rescue technique for rock climbers.
 
 <a href="https://youtu.be/CP7iAF_YU7A?t=7" target="_blank">
 <img src="/assets/images/knots/prusik_639px.png"
@@ -93,7 +93,7 @@ sizes="(max-width: 38em) 100vw, 50vw"
 alt="Prusik Hitch knot-tying video">
 </a>
 
-### Munter Hitch
+### <a name="munter"></a>Munter Hitch
 
 If you drop your belay device on a climb, you can use the Munter Hitch to belay your partner safely. This is an extremely valuable skill to have in your toolbox, as shit happens.
 
@@ -106,7 +106,7 @@ sizes="(max-width: 38em) 100vw, 50vw"
 alt="Munter Hitch knot-tying video">
 </a>
 
-### Munter Mule Hitch
+### <a name="mule"></a>Munter Mule Hitch
 
 The munter mule is the favorite knot to escape a belay. That is, if you are belaying and the climber is stopped for a long time and you need to do something, how do you let go of the rope? Tie a munter mule into the rope and then clip the loop into the anchor. Bam, now your hands are free to do whatever.
 
@@ -119,7 +119,7 @@ sizes="(max-width: 38em) 100vw, 50vw"
 alt="Munter Mule Hitch knot-tying video">
 </a>
 
-### Super Munter Hitch
+### <a name="supermunter"></a>Super Munter Hitch
 
 Very similar to the regular munter hitch, the super munter hitch can be used in place of a belay device. The difference here is that the super munter hitch has a lot more friction in the system, so you can lower much heavier loads more safely. This knot is sufficient for even search-and-rescue teams to lower the injured.
 
@@ -133,7 +133,7 @@ sizes="(max-width: 38em) 100vw, 50vw"
 alt="Super Munter Hitch knot-tying video">
 </a>
 
-### Alpine Butterfly Loop
+### <a name="butterfly"></a>Alpine Butterfly Loop
 
 The Alpine Butterfly loop is a great way to create a little loop in your rope. And if the rope is pulled from either direction, the knot won't come undone. You might want to use this knot to isolate a worn section of your rope, to tie off against a core break in your rope, or just to help equalize a trad anchor. It is easy to learn, and takes less rope than a figure-8-on-a-bight.
 
