@@ -15,7 +15,7 @@ The absolute extreme are the `ultra-lightweight backpackers` who believe in sacr
 
 What follows is a complete gear list for a beginner. Use your own discretion and judgement about what you need. Plan ahead. And remember that you have to carry every gram of equipment you bring with you.
 
-## The Master List
+## <a name="masterlist"></a>The Master List
 
  * backpack
  * water filter/tablets
@@ -34,7 +34,7 @@ What follows is a complete gear list for a beginner. Use your own discretion and
  * maps
  * a knife
 
-## The Pack
+## <a name="pack"></a>The Pack
 
 When John Muir stepped out into the wilderness he took nothing but an old coat with some oats in the pocket. You are not John Muir. You will want to take all kinds of stuff with you. Unless you rent a burro, you will need a backpack.
 
@@ -67,7 +67,7 @@ There is a nice description of how to adjust your new backpack [here](http://www
  * **TIP**: You can hang your sleeping bag or tent off the bottom of your pack. This will save you a lot of room inside.
  * **TIP**: Your pack will have a lot of straps on it. Learn what all of them are for. Most of them are useful.
 
-## Water Purification
+## <a name="waterpurify"></a>Water Purification
 
 > You need a lot of clean drinking water to live.
 
@@ -109,7 +109,7 @@ Please read what they have to say before you head into the wilderness. It is sho
  * **TIP**: Iodine makes your water taste bad, be prepared.
  * **TIP**: Water filters also remove particulates, which are neither tasty nor good for you.
 
-## Trekking Poles
+## <a name="trekkingpoles"></a>Trekking Poles
 
 > Wrist straps are your friend.
 
@@ -130,7 +130,7 @@ One thing you'll notice about about a modern trekking pole is the strap on the h
 
 An important feature of your hiking poles is the locking mechanism used to keep them at the right length. Some poles have clips, some have clamps, and some just screw down tight to fix the pole at a certain length. My advice is to not get the poles that twist. These do not seem to be as reliable; I have seen them fail multiple times.
 
-## Tent
+## <a name="tent"></a>Tent
 
 Assuming you're not camping in snow, all you need is a light-weight tent. There are hundreds of really great options out there. There are tents with carbon fibre supports wrapped in exotic materials. There are tents designed to be easy to set up in a thunderstorm. There are tents for areas where mosquitos and malaria are the concern. There are ultra-lightweight tents that are little more than a tarp help up by your trekking poles.
 
@@ -138,7 +138,7 @@ As it turns out, I know half-a-dozen backpackers who just went to REI and bought
 
  * **TIP**: You can separate the tent poles from the rest of the bag. This will make it easier to fit in your pack while walking, or allow two people to share the load.
 
-## Sleeping Bags
+## <a name="sleepingbags"></a>Sleeping Bags
 
 There are two types of sleeping bag materials: synthetic and down. The standard wisdom is that synthetic bags are cheaper but down bags are lighter. You should also know that down sleeping bags are worse than useless when they're wet.
 
@@ -150,7 +150,7 @@ When selecting a sleeping bag pay careful attention to its 'temperature rating'.
  * **TIP**: If you get stuck out in the cold, put on every stitch of clothing you have and pack anything soft inside your sleeping bag with you.
  * **TIP**: Don't bring a pillow. Just wad up a sweater under your head or get used to using your pack as a pillow.
 
-## Sleeping Pads
+## <a name="sleeping pads"></a>Sleeping Pads
 
 In backpacking you quickly learn when is essential to life and what is a luxury. Well, if sleeping pads are a luxury they are the #1 best luxury and the first one you should add to your pack.
 
@@ -160,7 +160,7 @@ Aside from price and weight, the most important feature in an inflatable sleepin
 
  * **TIP**: They make some sleeping pads specifically for women. This is not a gimmick, they actually do make a difference in comfort.
 
-## Food
+## <a name="food"></a>Food
 
 There are a few major theories on the food you need to bring with you. Ultra-lightweight backpackers bring only freeze-dried food, to save weight. They buy pre-made meals or make their own at home. All of their cooking is done with a Jetboil stove and water.
 
@@ -170,7 +170,7 @@ Either way, make sure you plan all your meals long before you get out on the tra
 
  * **TIP**: If you're a coffee/tea drinker the trail is not the time to go into caffeine withdrawal. Instant coffee and tea are light and super quick to make in the morning. Bring a metal cup or Thermos.
 
-## Camping Stove
+## <a name="stove"></a>Camping Stove
 
 What camping stove you bring backpacking depends entirely on your food plans. If all you're going to do is boil water to rehydrate food, then you should get a Jetboil. If you plan on cooking meals, you will need a small propane stove. Many companies make these, but the smallest and lightest sit right on top of the propane tank:
 
@@ -180,7 +180,7 @@ What camping stove you bring backpacking depends entirely on your food plans. If
  * **TIP**: The MSR Pocket Rocket and Snow Peak Giga Power are both great mini stoves. The Giga Power has the benefit of not needing a lighter or matches to start it.
  * **TIP**: Don't forget, you will need cookware and silverware to eat. Titanium pots and sporks are pricey, but they clean easy and are very light.
 
-## Fire
+## <a name="fire"></a>Fire
 
 > In a real emergency, fire is key.
 
@@ -190,7 +190,7 @@ You can bring a flint, but make sure you have practised with it at home a lot. A
 
  * **TIP**: Some backpacking knives have flints built in.
 
-## Bear Can
+## <a name="bearcan"></a>Bear Can
 
 > Keep the wildlife wild.
 
@@ -208,14 +208,14 @@ alt="A bear can in a pile of gera">
 
  * **TIP**: The transparent bear cans seem like an awesome idea. But the screw-top lids are a huge pain. And bears in Yosemite have learned to open them. Just get the black bear can shown above.
 
-## Headlamp
+## <a name="headlamp"></a>Headlamp
 
 Headlamps don't weigh that much, just get one. Make sure it is a modern LED lamp, the batteries will last longer.
 
  * **TIP**: Some headlamps have a dimmer setting for the main light and a little red light. Both of these are helpful in conserving battery and saving your night vision.
  * **TIP**: If it is dark out and you look at someone with your headlamp on, they are now blind. Try to be courteous.
 
-## Boots
+## <a name="boots"></a>Boots
 
 > The heavier your pack, the stiffer your boots need to be.
 
@@ -223,7 +223,7 @@ If you're an ultra-lightweight backpacker and your pack weighs 4 pounds, you can
 
 The heaviest soled boots are called "backpacking boots" and you can find them at REI or any similar store.
 
-## Clothes
+## <a name="clothes"></a>Clothes
 
 > By the end of a long backpacking trip you will stink. Bringing more clothes won't help.
 
@@ -263,7 +263,7 @@ An easy way to stay warm at night is to bring one set of long underwear that you
  * MAYBE one set of long underwear, depending on the weather
  * MAYBE one garbage bag for an emergency rain poncho
 
-## Toiletries
+## <a name="toiletries"></a>Toiletries
 
 This is one of the places where beginners get into trouble. Sure, you probably need sunblock. But do you need bug spray? Can you go two days without dental floss? How many headache drugs do you REALLY need to take with you?
 
@@ -287,7 +287,7 @@ This is one of the places where beginners get into trouble. Sure, you probably n
  * **TIP**: Some biodegradable soaps, like Dr. Bronnor's, can wash your dishware, your underwear, and yourself, all with one soap.
  * **TIP**: If you wear contacts, you may not want to bring them backpacking. And if you do, make sure your hands are clean before you touch your eyes. There is a risk of infection.
 
-## Maps
+## <a name="maps"></a>Maps
 
 > Bring good trail maps. Make sure you can read them. Put them in a water proof plastic bag.
 
@@ -299,7 +299,7 @@ srcset="/assets/images/backpacking/maps_exploring_640px.jpg 640w,
 sizes="(max-width: 38em) 100vw, 50vw"
 alt="Reading a map on the trail">
 
-## The Backpacking Knife
+## <a name="knife"></a>The Backpacking Knife
 
 > A knife is an extremely versatile tool.
 
@@ -349,7 +349,7 @@ In the end, the knife you need depends on where you are going and what your plan
 
 You will *probably* get a stainless steel knife. A knife made of 440 steel will be lighter and sharper. But a knife made of 1080 (or higher) steel is meant for more heavy-duty work and will keep its edge longer. Whatever the material is, all knives need to be sharpened eventually.
 
-## Optional Extras
+## <a name="extras"></a>Optional Extras
 
 People are used to taking all sorts of things on vacation, and so people frequently bring unnecessary stuff backpacking just to make themselves more comfortable. Remember that carrying a heavier pack may also detract from your comfort.
 
@@ -365,11 +365,11 @@ Obviously, a GPS device or a cell phone might be an important piece of safety ge
  * **TIP**: Don't bring books. They get real heavy, real fast.
  * **TIP**: Don't carry all your house keys on the trail. Take your one car key off the ring and put it somewhere safe in your pack.
 
-## Reviews
+## <a name="reviews"></a>Reviews
 
-If you want information on a particular piece of gear, http://www.outdoorgearlab.com/ is a great resource.
+If you want information on a particular piece of gear, [OutdoorGearLab](http://www.outdoorgearlab.com/) is a great resource.
 
-## One Final Note
+## <a name="planahead"></a>One Final Note
 
 This is meant to be an introductory primer. I did not cover cold-weather camping. I did not cover elevation sickness. I did not cover how to deal with grizzly bears, lions, polar bears, or poisonous snakes. I did not cover wilderness navigation or medical emergencies. Before you go out into the wild, you need to research the place you are going. Talk to your local experts.
 
