@@ -151,12 +151,6 @@ alt="Bowline on a Bight knot-tying video">
 ### Alpine Butterfly Loop
 
 <a href="https://youtu.be/gX1dWKg6Ttc?t=7" target="_blank">
-
-</a>
-
-### Butterfly
-
-<a href="https://youtu.be/gX1dWKg6Ttc?t=7" target="_blank">
 <img src="/assets/images/knots/butterfly_639px.png"
 srcset="/assets/images/knots/butterfly_1280px.png 1280w,
 /assets/images/knots/butterfly_853px.png 853w,
