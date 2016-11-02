@@ -25,8 +25,7 @@ Knot | Rapelling | Top Roping | Sport Climbing | Trad Climbing | Self-Rescue
 [Munter Mule Hitch](#mule) |  |  |  | X | X
 [Super Munter Hitch](#supermunter) |  |  |  | X | X
 [Alpine Butterfly Loop](#butterfly) |  |  |  | X | X
-
-* **Pro Tip**: All three of the above hitches can be [tied with one hand](http://www.climbing.com/skills/learn-this-one-handed-munter-and-clove-hitches/). This is extremely helpful; learn this.
+[Clove Hitch](#clove) |  |  |  |  | X
 
  &nbsp;
 
@@ -104,9 +103,9 @@ alt="Prusik Hitch knot-tying video">
 
 ### <a name="munter"></a>Munter Hitch
 
-If you drop your belay device on a climb, you can use the Munter Hitch to belay your partner. This is an extremely valuable skill to have in your toolbox. Shit happens: be prepared.
+If you drop your belay device, you can use the munter hitch to belay your partner. This is an extremely valuable skill to have in your toolbox. Since the munter hitch can be easily tied with one hand, I can not think of any reason to learn how to tie it with two.
 
-<a href="https://youtu.be/Q3UlClqZqrE?t=8" target="_blank">
+<a href="https://youtu.be/pO9ksZ3fGDY?t=49" target="_blank">
 <img src="/assets/images/knots/munter_638px.png"
 srcset="/assets/images/knots/munter_1279px.png 1279w,
 /assets/images/knots/munter_960px.png 960w,
@@ -154,6 +153,20 @@ srcset="/assets/images/knots/butterfly_1280px.png 1280w,
 /assets/images/knots/butterfly_420px.png 420w" 
 sizes="(max-width: 38em) 100vw, 50vw"
 alt="Butterfly knot-tying video">
+</a>
+
+### <a name="clove"></a>Clove Hitch
+
+When leading a trad climbing, you can use the clove hitch to quickly tie into an anchor. Or you can even use it to help equalize a trad anchor. The clove hitch can be easily tied with one hand. And if you are leading a climb, you might only have one hand free. Definitely learn the one-hand method.
+
+<a href="https://youtu.be/pO9ksZ3fGDY?t=8" target="_blank">
+<img src="/assets/images/knots/clove_hitch_640px.png"
+srcset="/assets/images/knots/clove_hitch_1280px.png 1280w,
+/assets/images/knots/clove_hitch_850px.png 850w,
+/assets/images/knots/clove_hitch_640px.png 640w,
+/assets/images/knots/clove_hitch_420px.png 420w" 
+sizes="(max-width: 38em) 100vw, 50vw"
+alt="Clove Hitch knot-tying video">
 </a>
 
  &nbsp;
