@@ -30,6 +30,8 @@ Knot | Rappelling | Top Roping | Sport Climbing | Trad Climbing | Self-Rescue
 
 ### <a name="figure8"></a>Figure 8 Follow Through
 
+> Uses: attaching the rope to your harness or other close loops
+
 This is the knot you will use to tie into your harness. And sometimes to tie into a trad anchor.
 
 In the old days, people used to tie into their harness with a bowline. That has fallen out of favor now, due to safety concerns. <sub>[1](http://www.rockandice.com/lates-news/rethinking-the-double-loop-bowline) [2](https://en.wikipedia.org/wiki/Bowline_on_a_bight#Dangers)</sub> It is important that you learn to tie this knot neatly and cleanly, so that your climbing partner can quickly and easily tell if you are safe and ready to climb.
@@ -49,6 +51,8 @@ alt="Figure 8 knot-tying video">
 
 ### <a name="overhand"></a>Overhand
 
+> Uses: back-up knot, and stopper knot
+
 This knot is so basic you probably grew up being able to tie it. And you just called it "a knot".
 
 This knot has three major uses. First, a lot of people use it as a backup knot for their harness tie-in. This has the added adavantage of ensuring the free end of the rope can not hit you in the eye. Second, it is smart to tie this knot into the rope before a long rappel, so you do not rappel of the end of the rope. Lastly, belayers frequently tie this knot in their end of the rope, so the climber can not leave belay if they climb too far or take a big fall.
@@ -66,7 +70,9 @@ alt="Overhand knot-tying video">
 
 ### <a name="doublefisherman"></a>Double Fisherman
 
-The double fisherman is used to turn a length of cord into a loop. This basic knot lets people build anchors with cord (as opposed to slings).
+> Uses: join two ends of rope, creating a loop of cord
+
+Most generally, the double fisherman is used to connect two ends of cord or rope. Most commonly, people use the double fisherman to create a loop of cord for anchor building.
 
 <a href="https://youtu.be/O6oJwedcb18?t=7" target="_blank">
 <img src="/assets/images/knots/double_fisherman_640px.png"
@@ -78,6 +84,8 @@ alt="Double Fisherman knot-tying video">
 </a>
 
 ### <a name="girth"></a>Girth Hitch
+
+> Uses: attaching a loop to things, building anchors
 
 If we are lucky, we can use a tree as part of our anchor. A good tree can make a really solid anchor and much faster than usual. Just toss some webbing around the trunk, and finish off with a girth hitch. Done.
 
@@ -93,6 +101,8 @@ alt="Girth Hitch knot-tying video">
 
 ### <a name="prusik"></a>Prusik
 
+> Uses: friction knot to attach a cord to a rope, auto-blocking rappel and belay
+
 You will need to know how to tie a Prusik if you ever want to rappel from a climb. Rappelling is the absolute most basic self-rescue technique for rock climbers. And rappelling is often the only way down from a multi-pitch climb.
 
 <a href="https://youtu.be/CP7iAF_YU7A?t=7" target="_blank">
@@ -105,6 +115,8 @@ alt="Prusik Hitch knot-tying video">
 </a>
 
 ### <a name="munter"></a>Munter Hitch
+
+> Uses: belaying without a belay device
 
 If you drop your belay device, you can use the munter hitch to belay your partner. This is an extremely valuable skill to have in your toolbox. Since the munter hitch can be easily tied with one hand, I can not think of any reason to learn how to tie it with two.
 
@@ -123,6 +135,8 @@ alt="Munter Hitch knot-tying video">
 
 ### <a name="mule"></a>Munter-Mule Overhand
 
+> Uses: Escaping the belay, passing a knot on rappel, self-rescue
+
 The munter-mule is a favorite knot to escape a belay. That is, if you are belaying and the climber is stopped for a long time or you need to do something, how do you let go of the rope? Tie a munter mule into the rope and then clip the biner into the loop. Bam. Now your hands are free to do whatever.
 
 The real benefit of the munter-mule is that it allows for a smooth transition back to belaying. Just undo the loop and you have your normal munter hitch for lowering weight.
@@ -140,6 +154,8 @@ alt="Munter Mule Hitch knot-tying video">
 
 ### <a name="butterfly"></a>Alpine Butterfly Loop
 
+> Uses: isolating bad sections of rope, attaching yourself to the anchor
+
 The Alpine Butterfly loop is a great way to create a little loop in your rope. And the loop will not come undone if you pull on the rope in either direction. If your rope gets worn or you get a core break, you can use this knot to isolate the offending section of rope. It is easy to learn, and takes less rope than a figure-8-on-a-bight.
 
 <a href="https://youtu.be/gX1dWKg6Ttc?t=7" target="_blank">
@@ -153,6 +169,8 @@ alt="Butterfly knot-tying video">
 </a>
 
 ### <a name="clove"></a>Clove Hitch
+
+> Uses: attaching yourself to the anchor, building anchors, attaching things to the center of the rope
 
 When leading a trad climbing, you can use the clove hitch to quickly tie into an anchor. Or you can even use it to help equalize a trad anchor. The clove hitch can be easily tied with one hand. And if you are leading a climb, you might only have one hand free. Definitely learn the one-hand method.
 
