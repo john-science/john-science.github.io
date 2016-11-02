@@ -69,6 +69,8 @@ alt="Double Fisherman knot-tying video">
 
 ### Girth Hitch
 
+On some lucky days we get to use trees as part of our anchor systems. A good try can make a stout anchor that is far faster to build than usual. Just toss the webbing around the trunk, and finish off with a girth hitch. Done.
+
 <a href="https://youtu.be/blP6BL05Q34?t=7" target="_blank">
 <img src="/assets/images/knots/girth_hitch_638px.png"
 srcset="/assets/images/knots/girth_hitch_1279px.png 1279w,
@@ -94,6 +96,8 @@ alt="Prusik Hitch knot-tying video">
 
 ### Munter Hitch
 
+If you drop your belay device on a climb, you can use the Munter Hitch to belay your partner safely. This is an extremely valuable skill to have in your toolbox, as shit happens.
+
 <a href="https://youtu.be/Q3UlClqZqrE?t=8" target="_blank">
 <img src="/assets/images/knots/munter_638px.png"
 srcset="/assets/images/knots/munter_1279px.png 1279w,
@@ -105,6 +109,8 @@ alt="Munter Hitch knot-tying video">
 
 ### Munter Mule Hitch
 
+The munter mule is the favorite knot to escape a belay. That is, if you are belaying and the climber is stopped for a long time and you need to do something, how do you let go of the rope? Tie a munter mule into the rope and then clip the loop into the anchor. Bam, now your hands are free to do whatever.
+
 <a href="https://youtu.be/IslYcjJ-htI?t=7" target="_blank">
 <img src="/assets/images/knots/munter_mule_638px.png"
 srcset="/assets/images/knots/munter_mule_1280px.png 1280w,
@@ -115,6 +121,8 @@ alt="Munter Mule Hitch knot-tying video">
 </a>
 
 ### Super Munter Hitch
+
+Very similar to the regular munter hitch, the super munter hitch can be used in place of a belay device. The difference here is that the super munter hitch has a lot more friction in the system, so you can lower much heavier loads more safely. This knot is sufficient for even search-and-rescue teams to lower the injured.
 
 <a href="https://youtu.be/OLaEmPs7tac?t=7" target="_blank">
 <img src="/assets/images/knots/super_munter_640px.png"
