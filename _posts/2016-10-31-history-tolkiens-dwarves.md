@@ -75,12 +75,12 @@ The second age lasts 3441 years, during which little is written about the histor
 
 The third age lasts 3021 years, and during this time the number of Dwarves begins to decline.
 
-+ 1980: Dwarven [mithril](https://en.wikipedia.org/wiki/Mithril) miners in [Khazad-dûm](https://en.wikipedia.org/wiki/Moria_%28Middle-earth%29) delve too greedily and too deep and awaken a [Balrog](https://en.wikipedia.org/wiki/Balrog) which kills [King Durin VI](https://en.wikipedia.org/wiki/Durin#Durin_VI), and ever after the Dwarves call it [Durin's Bane](http://tolkiengateway.net/wiki/Durin's_Bane).
-+ 1981: Durin VI's son, [Náin I](https://en.wikipedia.org/wiki/Middle-earth_dwarf_characters#N.C3.A1in_I) is killed by the Durin's Bane, and Dwarves abandon Khazad-dûm; they start calling it Moria, meaning "Black Pit".
++ 1980: Dwarven [mithril](https://en.wikipedia.org/wiki/Mithril) miners in [Khazad-dûm](https://en.wikipedia.org/wiki/Moria_%28Middle-earth%29) delve too greedily and too deep and awaken a [Balrog](https://en.wikipedia.org/wiki/Balrog) which kills [King Durin VI](https://en.wikipedia.org/wiki/Durin#Durin_VI), and ever after the Dwarves call it [Durin's Bane](http://tolkiengateway.net/wiki/Durin's_Bane). <sub>4 19</sub>
++ 1981: Durin VI's son, [Náin I](https://en.wikipedia.org/wiki/Middle-earth_dwarf_characters#N.C3.A1in_I) is killed by the Durin's Bane, and Dwarves abandon Khazad-dûm; they start calling it Moria, meaning "Black Pit". <sub>4</sub>
 + 1999: After fleeing Khazad-dûm, [Thráin I](http://tolkiengateway.net/wiki/Thr%C3%A1in_I) founds [Erebor](http://tolkiengateway.net/wiki/Lonely_Mountain) and discovers the [Arkenstone](https://en.wikipedia.org/wiki/Middle-earth_objects#Arkenstone) underneathe it.
 + 2210: King Thorin I [leaves Erebor](http://tolkiengateway.net/wiki/Third_Age_2210), and goes north to the [Grey Mountains](http://tolkiengateway.net/wiki/Grey_Mountains), where the remnants of Durin's Folk are gathering.
 + 2570-2589: [The War of the Dwarves and Dragons](https://en.wikipedia.org/wiki/Middle-earth_wars_and_battles#War_of_the_Dwarves_and_Dragons) in the [Grey Mountains](http://tolkiengateway.net/wiki/Grey_Mountains). The Dwarves lose and the survivors flee to resettle in Erebor and the Iron Hills.
-+ 2770: The fire drake [Smaug the Golden](https://en.wikipedia.org/wiki/Smaug) takes Erebor, killing many.
++ 2770: The fire drake [Smaug the Golden](https://en.wikipedia.org/wiki/Smaug) takes Erebor, killing many. <sub>12</sub>
 + c 2780-2790: After fleeing Smaug, the Longbeards temporarily settle in the human town of [Dunland](https://en.wikipedia.org/wiki/Minor_places_in_Middle-earth_%28fictional%29#Dunland), in the foothills of the [Misty Mountains](https://en.wikipedia.org/wiki/Misty_Mountains).
 + 2790: King-in-Exile [Thrór](https://en.wikipedia.org/wiki/Middle-earth_dwarf_characters#Thr.C3.B3r) leaves Dunland and enters Moria alone. Azog the Orc kills him, defiles the body, and claims Moria for the Orcs.
 + 2790: [Nár](http://lotr.wikia.com/wiki/N%C3%A1r), servant of Thrór, brings word of Thrór's death back to [Thráin II](https://en.wikipedia.org/wiki/Thr%C3%A1in_II), his son. Thráin II does not eat or sleep for seven days, then declares war on the Orcs.
@@ -115,7 +115,7 @@ Tolkien does not tell us much about the Fourth Age or beyond.
 
 + c 1-100: The Dwarves of [Erebor](https://en.wikipedia.org/wiki/Lonely_Mountain), [Gimli](https://en.wikipedia.org/wiki/Gimli_%28Middle-earth%29) in particular, rebulid and greatly improve the Human city of [Minas Tirith](http://lotr.wikia.com/wiki/Minas_Tirith).
 + c 20-120: Gimli returns to [Aglarond](https://en.wikipedia.org/wiki/Helm's_Deep#Aglarond) and founds a Dwarf colony there, where he is known as [Lord of the Glittering Caves](http://tolkiengateway.net/wiki/Lord_of_the_Glittering_Caves). 
-+ 120: [It is believed](http://tolkiengateway.net/wiki/Dwarves#Fourth_Age) that Gimli, son of [Glóin](http://lotr.wikia.com/wiki/Gl%C3%B3in), becomes the only Dwarf ever to cross the sea to the [Undying Lands](https://en.wikipedia.org/wiki/Aman_%28Tolkien%29).
++ 120: It is said that Gimli, son of [Glóin](http://lotr.wikia.com/wiki/Gl%C3%B3in), becomes the only Dwarf ever to cross the sea to the [Undying Lands](https://en.wikipedia.org/wiki/Aman_%28Tolkien%29). <sub>19</sub>
 + [Durin VII](http://tolkiengateway.net/wiki/Durin_VII) (Durin the Last) leads Durin's Folk back to [Khazad-dûm](http://tolkiengateway.net/wiki/Moria) and restores the greatest kingdom of the Dwarves.
 + Khazad-dûm and Erebor are the two great final kingdoms of the Dwarves. <sub>citation needed</sub>
 + It is not clear if the Dwarves slowly diminish and are gone from the world or if they simply delve so deeply that they are never seen above ground again. <sub>citation needed</sub>
@@ -124,7 +124,7 @@ Tolkien does not tell us much about the Fourth Age or beyond.
 
 #### Nature of Dwarves
 
-+ The average Dwarf is shorter than the average Human or Elf. <sub>citation needed</sub>
++ The average Dwarf is shorter than the average Human or Elf, but taller than the average Hobbit. <sub>citation needed</sub>
 + The Dwarves were "stone-hard, stubborn, fast in friendship and enmity, and they suffer toil and hunger and hurt of body more heartily than other speaking peoples". <sub>9</sub>
 + Both male and female Dwarves are  born with full beards. <sub>3</sub>
 + By the Second and Third Age Dwarves naturally live about 250 solar years <sub>4</sub>.
@@ -151,7 +151,7 @@ Tolkien does not tell us much about the Fourth Age or beyond.
 1. The Silmarillion - Ainulindalë
 2. The Silmarillion - Valaquenta
 3. HoME Volume 11, page 205
-4. LotR - Appendix A - Durin's Folk
+4. LotR - Return of the King - Appendix A - Durin's Folk
 5. HoME - Volume 11, part 4, Appendix D
 6. UT - [ae-lib.org](http://ae-lib.org.ua/texts-c/tolkien__unfinished_tales__en.htm) - Note #9 from Christopher Tolkien in the Unfinished Tales says that Smeagol acquired the One Ring in 2463.
 7. The Hobbit - Chapter 5 - Riddles in the Dark
@@ -159,10 +159,11 @@ Tolkien does not tell us much about the Fourth Age or beyond.
 9. The Silmarillion - Chapter 2 - Of Aule and Yavanna
 10. LotR - Return of the King - Book 6 - Chapter III - Mount Doom
 11. LotR - Fellowship of the Ring - Book 1 - Chapter V - The Bridge of Khazad-dum
-12. The Hobbit - Chapter 1
-13. The Hobbit - Chapter 18
+12. The Hobbit - Chapter 1 - An Unexpected Party
+13. The Hobbit - Chapter 18 - The Return Journey
 14. LotR - Fellowship of the Ring - Book 2 - Chapter II - The Council of Elrond
-15. The Hobbit - Chapter 14
-16. The Hobbit - Chapter 16
+15. The Hobbit - Chapter 14 - Fire and Water
+16. The Hobbit - Chapter 16 - A Thief in the Night
 17. LotR - Two Towers - Book 3 - Chapter V - The White Rider
 18. LotR - Two Towers - Book 2 - Chapter VIII - The Road to Isengard
+19. LotR - Return of the King - Appendix B - The Tale of Years
