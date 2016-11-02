@@ -6,9 +6,9 @@ summary: A minimal set of knots that I absolutely must know to go rock climbing.
 ---
 {% include JB/setup %}
 
-Most climbers only know 4-12 knots, and that's enough. You only need to know one knot for each situation you might find yourself in. But you have to know that knot well enough to tie it safely while tired and distracted.
+Most climbers only know 4-12 knots, and that's enough. Which is not to say that having more tools in your toolbox is not helpful. But all you need is to know one knot for each and every need you have. But you need to know that knot well enough to tie it safely while tired and distracted.
 
-What follows is the minimal set of knots that I feel I need to know to be safe doing the kinds of climbing that I personally do. It is not meant to be an exhaustive list of all the climbing knots in the world. There are already plenty of [those](https://en.wikipedia.org/wiki/List_of_climbing_knots) out [there](http://www.animatedknots.com/indexclimbing.php#ScrollPoint).
+What follows is the minimal set of knots that I use. This is not meant to be a complete guide to all the climbing knots in the world. There are already plenty of [those](https://en.wikipedia.org/wiki/List_of_climbing_knots) out [there](http://www.animatedknots.com/indexclimbing.php#ScrollPoint). I can not say what you will need when you climb, only what I need. This is just a guide to the basics.
 
 ### Rock Climbing Knots by General Use-Case
 
@@ -146,6 +146,10 @@ srcset="/assets/images/knots/butterfly_1280px.png 1280w,
 sizes="(max-width: 38em) 100vw, 50vw"
 alt="Butterfly knot-tying video">
 </a>
+
+### Bonus Knots
+
+* The [Monkey's Fist](http://www.animatedknots.com/monkeysfist/#ScrollPoint) is great fun. Everyone loves playing with it. It has kind of limited use, but if you ever need to throw one end of a rope (over a tree branch, or up to a lead climber) this is the knot.
 
  &nbsp;
 
