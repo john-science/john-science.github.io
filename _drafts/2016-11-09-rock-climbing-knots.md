@@ -14,7 +14,7 @@ What follows is the minimal set of knots that I use. This is not meant to be a c
 
 ### Rock Climbing Knots by General Use-Case
 
-Knot | Rapelling | Top Roping | Sport Climbing | Trad Climbing | Self-Rescue
+Knot | Rappelling | Top Roping | Sport Climbing | Trad Climbing | Self-Rescue
 :--- | :--- | :--- | :--- | :--- | :---
 [Figure 8 Follow Through](#figure8) | X | X | X | X | X
 [Overhand](#overhand) | X | X | X | X | X
@@ -22,7 +22,7 @@ Knot | Rapelling | Top Roping | Sport Climbing | Trad Climbing | Self-Rescue
 [Girth Hitch](#girth) |  | X | X | X | 
 [Prusik](#prusik) | X |  |  |  | X
 [Munter Hitch](#munter) |  |  |  | X | X
-[Munter Mule Hitch](#mule) |  |  |  | X | X
+[Munter-Mule Overhand](#mule) |  |  |  | X | X
 [Alpine Butterfly Loop](#butterfly) |  |  |  | X | X
 [Clove Hitch](#clove) |  |  |  |  | X
 
@@ -51,7 +51,7 @@ alt="Figure 8 knot-tying video">
 
 This knot is so basic you probably grew up being able to tie it. And you just called it "a knot".
 
-This knot has three major uses. First, a lot of people use it as a backup knot for their harness tie-in. This has the added adavantage of ensuring the free end of the rope can not hit you in the eye. Second, it is smart to tie this knot into the rope before a long repell, so you do not repel of the end of the rope. Lastly, belayers frequently tie this knot in their end of the rope, so the climber can not leave belay if they climb too far or take a big fall.
+This knot has three major uses. First, a lot of people use it as a backup knot for their harness tie-in. This has the added adavantage of ensuring the free end of the rope can not hit you in the eye. Second, it is smart to tie this knot into the rope before a long rappel, so you do not rappel of the end of the rope. Lastly, belayers frequently tie this knot in their end of the rope, so the climber can not leave belay if they climb too far or take a big fall.
 
 I would be extremely suspicious of any climber that can not tie an overhand knot blindfolded.
 
@@ -93,7 +93,7 @@ alt="Girth Hitch knot-tying video">
 
 ### <a name="prusik"></a>Prusik
 
-You will need to know how to tie a Prusik if you ever want to repel from a climb. Repelling is the absolute most basic self-rescue technique for rock climbers. And repelling is often the only way down from a multi-pitch climb.
+You will need to know how to tie a Prusik if you ever want to rappel from a climb. Rappelling is the absolute most basic self-rescue technique for rock climbers. And rappelling is often the only way down from a multi-pitch climb.
 
 <a href="https://youtu.be/CP7iAF_YU7A?t=7" target="_blank">
 <img src="/assets/images/knots/prusik_639px.png"
@@ -121,9 +121,13 @@ alt="Munter Hitch knot-tying video">
 
 * The [Super Munter](https://youtu.be/OLaEmPs7tac?t=7) - used for belaying, but has more friction in the system, so you can belay more weight and slower
 
-### <a name="mule"></a>Munter Mule Hitch
+### <a name="mule"></a>Munter-Mule Overhand
 
-The munter mule is a favorite knot to escape a belay. That is, if you are belaying and the climber is stopped for a long time or you need to do something, how do you let go of the rope? Tie a munter mule into the rope and then clip the loop into the anchor. Bam. Now your hands are free to do whatever.
+The munter-mule is a favorite knot to escape a belay. That is, if you are belaying and the climber is stopped for a long time or you need to do something, how do you let go of the rope? Tie a munter mule into the rope and then clip the biner into the loop. Bam. Now your hands are free to do whatever.
+
+The real benefit of the munter-mule is that it allows for a smooth transition back to belaying. Just undo the loop and you have your normal munter hitch for lowering weight.
+
+As an added bonus, you can use the munter-mule to pass a knot on rappel. For instance, if your rope has a core break, you pretect that with a butterfly knot, but the knot doesn't have to stop you rappelling if you use the munter-mule.
 
 <a href="https://youtu.be/IslYcjJ-htI?t=7" target="_blank">
 <img src="/assets/images/knots/munter_mule_638px.png"
