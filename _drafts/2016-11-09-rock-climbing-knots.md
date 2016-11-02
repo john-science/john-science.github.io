@@ -150,6 +150,8 @@ alt="Bowline on a Bight knot-tying video">
 
 ### Alpine Butterfly Loop
 
+The Alpine Butterfly loop is a great way to create a little loop in your rope. And if the rope is pulled from either direction, the knot won't come undone. You might want to use this knot to isolate a worn section of your rope, to tie off against a core break in your rope, or just to help equalize a trad anchor. It is easy to learn, and takes less rope than a figure-8-on-a-bight.
+
 <a href="https://youtu.be/gX1dWKg6Ttc?t=7" target="_blank">
 <img src="/assets/images/knots/butterfly_639px.png"
 srcset="/assets/images/knots/butterfly_1280px.png 1280w,
@@ -162,4 +164,4 @@ alt="Butterfly knot-tying video">
 
  &nbsp;
 
-What knots do you use that I do not? Am I missing an important rescue knot? Leave a comment below.
+Do you think I am missing an important knot? Or have I forgotten to mention an important note about one of the knots above? Leave a comment below.
