@@ -30,9 +30,9 @@ Knot | Rappelling | Top Roping | Sport Climbing | Trad Climbing | Self-Rescue
 
 ### <a name="figure8"></a>Figure 8 Follow Through
 
-> Uses: attaching the rope to your harness or other close loops
+> Uses: attaching the rope to your harness or other closed loops
 
-This is the knot you will use to tie into your harness. And sometimes to tie into a trad anchor.
+This is the knot you will use to tie into your harness, and sometimes to tie into a trad anchor.
 
 In the old days, people used to tie into their harness with a bowline. That has fallen out of favor now, due to safety concerns. <sub>[1](http://www.rockandice.com/lates-news/rethinking-the-double-loop-bowline) [2](https://en.wikipedia.org/wiki/Bowline_on_a_bight#Dangers)</sub> It is important that you learn to tie this knot neatly and cleanly, so that your climbing partner can quickly and easily tell if you are safe and ready to climb.
 
