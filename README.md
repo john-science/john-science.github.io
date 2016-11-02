@@ -9,12 +9,12 @@ Topics of Interest:
 * Physics
 * Math
 * Science Fiction
-* and anything else
+* anything else
 
 ## Licenses
 
 This blog-ish project is based on [Jekyll Boostrap](http://jekyllbootstrap.com), under the standard [MIT License](http://opensource.org/licenses/MIT).
 
-The current theme being used started out life as [the-minimum](http://themes.jekyllbootstrap.com/preview/the-minimum/), also under the [MIT License](http://opensource.org/licenses/MIT). I greatly appologize for what I did to your beautiful theme.
+The theme I am using started life as [the-minimum](http://themes.jekyllbootstrap.com/preview/the-minimum/), also under the [MIT License](http://opensource.org/licenses/MIT). I appologize for what I did to your beautiful theme.
 
 This code for this project itself has the [Apache 2 License](https://github.com/theJollySin/thejollysin.github.io/blob/master/LICENSE). And I hold full copyright privileges to the written content (blog posts) herein.  
