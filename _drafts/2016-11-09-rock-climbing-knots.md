@@ -22,7 +22,6 @@ Knot | Rapelling | Top Roping | Sport Climbing | Trad Climbing | Self-Rescue
 [Munter Hitch](https://youtu.be/Q3UlClqZqrE?t=8) |  |  |  | X | X
 [Munter Mule Hitch](https://youtu.be/IslYcjJ-htI?t=7) |  |  |  | X | X
 [Super Munter Hitch](https://youtu.be/OLaEmPs7tac?t=7) |  |  |  | X | X
-[Bowline on a Bight](https://youtu.be/CDZOYUZabV4?t=7)  |  |  |  | X | 
 [Alpine Butterfly Loop](https://youtu.be/gX1dWKg6Ttc?t=7) |  |  |  |  | X
 
 * **Pro Tip**: All three of the above hitches can be [tied with one hand](http://www.climbing.com/skills/learn-this-one-handed-munter-and-clove-hitches/). This is extremely helpful; learn this.
@@ -69,7 +68,7 @@ alt="Double Fisherman knot-tying video">
 
 ### Girth Hitch
 
-On some lucky days we get to use trees as part of our anchor systems. A good try can make a stout anchor that is far faster to build than usual. Just toss the webbing around the trunk, and finish off with a girth hitch. Done.
+Some days we get lucky and we can use a tree as part of our anchor. A good tree can really make a solid anchor and much faster than usual. Just toss some webbing around the trunk, and finish off with a girth hitch. Done.
 
 <a href="https://youtu.be/blP6BL05Q34?t=7" target="_blank">
 <img src="/assets/images/knots/girth_hitch_638px.png"
@@ -132,20 +131,6 @@ srcset="/assets/images/knots/super_munter_1279px.png 1279w,
 /assets/images/knots/super_munter_420px.png 420w" 
 sizes="(max-width: 38em) 100vw, 50vw"
 alt="Super Munter Hitch knot-tying video">
-</a>
-
-### Bowline on a Bight
-
-A lot of people use the bowline on a bight to tie in. This is a fine knot, though I personally trust a figure-on-a-bight is more secure and easier to tie. The bowline is usually thought of as easier to untie after a fall than a figure 8, but there is [much talk](http://www.rockandice.com/lates-news/rethinking-the-double-loop-bowline) about the safety of this knot.
-
-<a href="https://youtu.be/CDZOYUZabV4?t=7" target="_blank">
-<img src="/assets/images/knots/bowline_ona_bight_639px.png"
-srcset="/assets/images/knots/bowline_ona_bight_1280px.png 1280w,
-/assets/images/knots/bowline_ona_bight_840px.png 840w,
-/assets/images/knots/bowline_ona_bight_639px.png 639w,
-/assets/images/knots/bowline_ona_bight_420px.png 420w" 
-sizes="(max-width: 38em) 100vw, 50vw"
-alt="Bowline on a Bight knot-tying video">
 </a>
 
 ### Alpine Butterfly Loop
