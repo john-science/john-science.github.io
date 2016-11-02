@@ -23,7 +23,6 @@ Knot | Rapelling | Top Roping | Sport Climbing | Trad Climbing | Self-Rescue
 [Prusik](#prusik) | X |  |  |  | X
 [Munter Hitch](#munter) |  |  |  | X | X
 [Munter Mule Hitch](#mule) |  |  |  | X | X
-[Super Munter Hitch](#supermunter) |  |  |  | X | X
 [Alpine Butterfly Loop](#butterfly) |  |  |  | X | X
 [Clove Hitch](#clove) |  |  |  |  | X
 
@@ -43,6 +42,10 @@ srcset="/assets/images/knots/figure_8_962px.png 962w,
 sizes="(max-width: 38em) 100vw, 50vw"
 alt="Figure 8 knot-tying video">
 </a>
+
+#### Variants
+
+* [Figure 8 on a Bight](https://youtu.be/D8jRok7Kofw?t=13) - useful for tying into a trad anchor
 
 ### <a name="overhand"></a>Overhand
 
@@ -114,6 +117,10 @@ sizes="(max-width: 38em) 100vw, 50vw"
 alt="Munter Hitch knot-tying video">
 </a>
 
+#### Variants
+
+* The [Super Munter](https://youtu.be/OLaEmPs7tac?t=7) - used for belaying, but has more friction in the system, so you can belay more weight and slower
+
 ### <a name="mule"></a>Munter Mule Hitch
 
 The munter mule is a favorite knot to escape a belay. That is, if you are belaying and the climber is stopped for a long time or you need to do something, how do you let go of the rope? Tie a munter mule into the rope and then clip the loop into the anchor. Bam. Now your hands are free to do whatever.
@@ -125,20 +132,6 @@ srcset="/assets/images/knots/munter_mule_1280px.png 1280w,
 /assets/images/knots/munter_mule_638px.png 638w" 
 sizes="(max-width: 38em) 100vw, 50vw"
 alt="Munter Mule Hitch knot-tying video">
-</a>
-
-### <a name="supermunter"></a>Super Munter Hitch
-
-Very similar to the regular munter hitch, the super munter hitch can be used in place of a belay device. The difference here is that the super munter hitch has a lot more friction in the system, which makes it easier to lower slower or lower much heavier loads. This knot is sufficient for even search-and-rescue teams to lower the injured.
-
-<a href="https://youtu.be/OLaEmPs7tac?t=7" target="_blank">
-<img src="/assets/images/knots/super_munter_640px.png"
-srcset="/assets/images/knots/super_munter_1279px.png 1279w,
-/assets/images/knots/super_munter_850px.png 850w,
-/assets/images/knots/super_munter_640px.png 640w,
-/assets/images/knots/super_munter_420px.png 420w" 
-sizes="(max-width: 38em) 100vw, 50vw"
-alt="Super Munter Hitch knot-tying video">
 </a>
 
 ### <a name="butterfly"></a>Alpine Butterfly Loop
@@ -171,9 +164,10 @@ alt="Clove Hitch knot-tying video">
 
  &nbsp;
 
-### Bonus Knot
+### Bonus Knots
 
-* The [Monkey's Fist](https://youtu.be/gp9w-T2d_NY?t=7) is great fun. If your friends look bored, toss them a rope with a Monkey's Fist tied into it. It has limited use, but if you ever need to throw one end of a rope (over a tree branch or up to a lead climber) this is a great trick to know.
+* [Monkey's Fist](https://youtu.be/gp9w-T2d_NY?t=7) - Great fun. If your friends look bored, toss them a rope with a Monkey's Fist tied into it. It has limited climbing uses, but if you ever need to throw one end of a rope (over a tree branch or up to a lead climber) this is a helpful trick to know.
+* [One-Handed Figure 8](https://youtu.be/-iE8WG33xJY?t=1) - Look like a cowboy when you tie in. It turns out, if your reflexes are good, you can tie a figure 8 with one hand. This is more for style points than anything else.
 
  &nbsp;
 
