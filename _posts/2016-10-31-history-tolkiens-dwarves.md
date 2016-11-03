@@ -132,15 +132,14 @@ What follows is a brief timeline of every major event in Dwarven history, that w
 
 + The average Dwarf is shorter than the average Human or Elf, but taller than the average Hobbit. <sub>citation needed</sub>
 + The Dwarves were "stone-hard, stubborn, fast in friendship and enmity, and they suffer toil and hunger and hurt of body more heartily than other speaking peoples". <sub>9</sub>
-+ Both male and female Dwarves are  born with full beards. <sub>3</sub>
-+ By the Second and Third Age Dwarves naturally live about 250 solar years <sub>4</sub>.
++ Both male and female Dwarves are born with full beards. <sub>3</sub>
++ By the Second Age, Dwarves naturally live about 250 solar years <sub>4</sub>.
 + The Dwarves are secretive about their religion. *But it probably revolves around [Aulë](https://en.wikipedia.org/wiki/Aul%C3%AB).* <sub>9</sub>
 + The Dwarves are secretive about their language, Khudzul; which was given to them by Aulë. <sub>9 27</sub> (They do not speak Khudzul in front of non-Dwarves and only two outsiders ever learned to speak it: the elves [Eöl](https://en.wikipedia.org/wiki/E%C3%B6l) and [Curufin](https://en.wikipedia.org/wiki/Curufin). Through intensive effort, Khudzul remained unchanged throughout all four ages.) <sub>5 27</sub>
-* Dwarves did not give their real names to outsiders. Even common Dwarven names, like Gimli, were taken from local Human dialects, and were not the true names of the Dwarves in their own language. <sub>27</sub>
+* Dwarves did not give their real names to outsiders, instead they usually used names from the local Human dialect. Even very famous names, like Durin and Gimli, are only the names they gave to outsiders. <sub>27</sub>
 * The Dwarves had a lunar calendar, that we know little about. <sub>28</sub>
 
- &nbsp;
-
+ &nbsp; 
 #### References
 
 **The Books**
