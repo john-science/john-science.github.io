@@ -10,17 +10,16 @@ I have been working on a [game](https://github.com/theJollySin/mazes_of_erebor) 
 
 What follows is a brief timeline of every major event in Dwarven history, that we know of. Tolkien's mythology evolved and improved over time; where possible I try to use his last and most recent version. Text in italics is not explicitly stated in Tolkien's works, but can be inferred without too much imagination.
 
- &nbsp;
-
-Table of Contents
+### Table of Contents
 
 * auto-gen TOC:
 {:toc}
 
+ &nbsp;
 
 ### <a name="beforedwarves"></a>Before the Dwarves
 
-Much of what happened before the Dwarves were awakened that shaped their world.
+Much of what happened before the Dwarves were awakened shaped their world.
 
 + [Eru Ilúvatar](https://en.wikipedia.org/wiki/Eru_Il%C3%BAvatar) creates the gods* [Ainur](https://en.wikipedia.org/wiki/Ainur_%28Middle-earth%29), with [Aulë](https://en.wikipedia.org/wiki/Aul%C3%AB) and [Melkor](https://en.wikipedia.org/wiki/Morgoth) among them. <sub>1</sub>
 + Melkor is the greatest of the Ainur, but is overwhelmed by a desire for power. <sub>1</sub>
@@ -152,7 +151,7 @@ Here are Tolkien's works, in rough order are how much information about Dwarves 
 
  &nbsp;
 
-#### <a name="citationsa"></a>Citations
+#### <a name="citations"></a>Citations
 
 > NOTE: A full citation of this article is in progress, but will take me some time.
 
