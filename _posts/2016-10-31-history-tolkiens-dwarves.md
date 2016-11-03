@@ -49,7 +49,7 @@ The First Age is counted by Elves as starting before Eru awoke the Dwarves. But 
 + 0: The sun rises for the first time. (YT 1500) <sub>24</sub>
 + 0: Humans are awakened by Ilúvatar in [Hildórien](https://en.wikipedia.org/wiki/Minor_places_in_Arda#Hild.C3.B3rien). <sub>25</sub>
 + c 60–200: Melkor persuades humans to stop worshipping Ilúvatar and turn to evil, but some revolt: the Atanatári. Dwarves and the Avari Elves aid these humans in travelling West in search of the Valar. As divine punishment, humans lose the ability to die at will and are doomed to lead short lives at the end of which death takes them by force. <sub>27</sub>
-+ The great Dwarven smith [Telchor](http://lotr.wikia.com/wiki/Telchar) of Nogrod crafts many works, including the famous blades [Narsil](https://en.wikipedia.org/wiki/Middle-earth_weapons_and_armour#Narsil) and [Angrist](https://en.wikipedia.org/wiki/Middle-earth_weapons_and_armour#Angrist) and the [Dragon-helm of Dor-lómin](https://en.wikipedia.org/wiki/Middle-earth_weapons_and_armour#Dragon-helm_of_Dor-l.C3.B3min).
++ The great Dwarven smith [Telchar](http://lotr.wikia.com/wiki/Telchar) of Nogrod crafts many works, including the famous blades [Narsil](https://en.wikipedia.org/wiki/Middle-earth_weapons_and_armour#Narsil) and [Angrist](https://en.wikipedia.org/wiki/Middle-earth_weapons_and_armour#Angrist) and the [Dragon-helm of Dor-lómin](https://en.wikipedia.org/wiki/Middle-earth_weapons_and_armour#Dragon-helm_of_Dor-l.C3.B3min).
 + 468: The Dwarves of Belegost join the [Union of Meahdros](https://en.wikipedia.org/wiki/Maedhros) in [Nírnaeth Arnoediad](http://lotr.wikia.com/wiki/Nirnaeth_Arnoediad), the fifth battle of the Wars of Beleriand against Melkor. King [Azaghâl](https://en.wikipedia.org/wiki/Middle-earth_dwarf_characters#Azagh.C3.A2l) was slain by [Glaurung](https://en.wikipedia.org/wiki/Glaurung), the first dragon, but not before he stabbed the beast in the stomach making it flee the battle.  (*Since Dwarves were in the first and fifth wars of Beleriand, they were probably in the others.*)
 + 502: The [Nauglamír](https://en.wikipedia.org/wiki/Middle-earth_objects#Nauglam.C3.ADr) is wrought of the treasure of [Glaurung](https://en.wikipedia.org/wiki/Glaurung), and the [Silmaril](http://lotr.wikia.com/wiki/Silmaril) is hung thereon. [Thingol](https://en.wikipedia.org/wiki/Thingol) quarrels with the Dwarves who had wrought for him the Necklace. (*This was the Silmaril of [Beren](https://en.wikipedia.org/wiki/Beren) and [Lúthien](https://en.wikipedia.org/wiki/L%C3%BAthien)*) <sub>20</sub>
 + 503: The Dwarves of Belegost and Nogrod invade Doriath. King Elu Thingol is slain and his realm ended.[...] [Curufin](https://en.wikipedia.org/wiki/Curufin) and [Celegorm](https://en.wikipedia.org/wiki/Celegorm), hearing of the sack of [Menegroth](https://en.wikipedia.org/wiki/Doriath), ambushed the Dwarves at the Fords of Ascar as they sought to carry off the Dragon-gold to the mountains. The Dwarves were defeated with great loss, but they cast the gold into the river, which was therefore after named [Rathloriel](http://tolkiengateway.net/wiki/Rathl%C3%B3riel). (*This ambush is sometimes called the [Battle of Sarn Athrad](http://tolkiengateway.net/wiki/Battle_of_Sarn_Athrad). It should be noted that later, Tolkien wrote other Elves out of this battle, saying it was only the Elf Beren and the Ents.*) <sub>20 21</sub>
@@ -136,24 +136,26 @@ Tolkien does not tell us much about the Fourth Age or beyond.
 
 #### <a name="books"></a>The Books
 
-+ [The Silmarillion](https://www.goodreads.com/book/show/7332.The_Silmarillion) - mostly about Elves
-+ [The Hobbit](https://www.goodreads.com/book/show/5907.The_Hobbit) - a lot about the Dwarves of Erebor
+Here are Tolkien's works, in rough order are how much information about Dwarves they contain.
+
 + [The Lord of the Rings](https://www.goodreads.com/book/show/33.The_Lord_of_the_Rings) - the chapter on "The Council of Elrond" and the appendicies
++ [The Hobbit](https://www.goodreads.com/book/show/5907.The_Hobbit) - a lot about the Dwarves of Erebor
 + [The History of Middle Earth](https://www.goodreads.com/book/show/214175.The_Complete_History_Of_Middle_Earth) - very sparse information about Dwarves
++ [The Silmarillion](https://www.goodreads.com/book/show/7332.The_Silmarillion) - mostly about Elves
 + [The Unfinished Tales](https://www.goodreads.com/book/show/7329.Unfinished_Tales_of_N_menor_and_Middle_Earth) - very sparse information about Dwarves
 
  &nbsp;
 
 #### <a name="citationsa"></a>Citations
 
-> NOTE: A full citation of this article is in progress, and will take me some time.
+> NOTE: A full citation of this article is in progress, but will take me some time.
 
 1. The Silmarillion - Ainulindalë
 2. The Silmarillion - Valaquenta
 3. HoME - Volume 11 - Part 4 - Quendi and Eldar
 4. LotR - Return of the King - Appendix A - Durin's Folk
 5. HoME - Volume 11, part 4, Appendix D
-6. UT - [ae-lib.org](http://ae-lib.org.ua/texts-c/tolkien__unfinished_tales__en.htm) - Note #9 from Christopher Tolkien in the Unfinished Tales says that Smeagol acquired the One Ring in 2463.
+6. Unfinished Tales - [Note #9](http://ae-lib.org.ua/texts-c/tolkien__unfinished_tales__en.htm)
 7. The Hobbit - Chapter 5 - Riddles in the Dark
 8. The Silmarillion - Chapter 3 - On the Coming of Elves and the Captivity of Melkor
 9. The Silmarillion - Chapter 2 - Of Aule and Yavanna
