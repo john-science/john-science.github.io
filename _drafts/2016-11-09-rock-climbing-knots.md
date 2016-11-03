@@ -8,11 +8,11 @@ summary: A minimal set of knots that I absolutely must know to go rock climbing.
 
 Standard safety warning:
 
-> I do not know what kind of climbing you are doing, or what kind of trouble you might get yourself in. You, and you alone, are responsible for your own safety.
+> I do not know what kind of climbing you are doing, or what kind of trouble you might get yourself in. You, and you alone, are responsible for your own safety. Blah, blah, blah.
 
-What follows is the minimal set of knots that I think I need to know to go rock climbing. This is not meant to be an exhaustive list of all the climbing knots in the world, there are already plenty of [those](https://en.wikipedia.org/wiki/List_of_climbing_knots) out [there](http://www.animatedknots.com/indexclimbing.php#ScrollPoint). I have not find such lists useful.
+This is the minimal set of knots that I think I need to know to go rock climbing. This is not meant to be an exhaustive list of all the climbing knots in the world, there are already plenty of [those](https://en.wikipedia.org/wiki/List_of_climbing_knots) out [there](http://www.animatedknots.com/indexclimbing.php#ScrollPoint). I have not found such lists useful.
 
-It is more important to know some set of knots extremely well than to know a great variety of knots. When climbing, you might find yourself having to tie a knot one-handed while extremely tired and distracted. In those situations it is more important to understand one knot extremely well, and to have it totally dialed in, than it is to know 20 different knots to choose from.
+It is more important to know a small set of knots extremely well than to memorize a huge galaxy of knots. When climbing, you might find yourself having to tie a knot one-handed while extremely tired and distracted. In that situation, the only thing that matters is that you know one knot for the job, and you have practiced enough to tie it without thinking. To that end, I have found these are the knots I need to know. I have practiced them: one-handed, with my right and left hand, in the dark, without looking. And I will practice them some more.
 
  &nbsp;
 
@@ -25,11 +25,11 @@ It is more important to know some set of knots extremely well than to know a gre
 
 ### Figure 8 Follow Through
 
-> Uses: attaching the rope to your harness or other closed loops
+> Uses: attaching the rope to your harness (or other closed loops)
 
 This is the knot used to tie the rope into the harness.
 
-In the old days, people used to tie into their harness with a bowline. That has fallen out of favor, due to safety concerns. <sub>[1](http://www.rockandice.com/lates-news/rethinking-the-double-loop-bowline) [2](https://en.wikipedia.org/wiki/Bowline_on_a_bight#Dangers)</sub> It is important that you learn to tie this knot neatly and cleanly, so that your climbing partner can quickly and easily tell if you are safe and ready to climb.
+I should note that people used to tie into their harness with a bowline, but hat has fallen out of favor, due to safety concerns. <sub>[1](http://www.rockandice.com/lates-news/rethinking-the-double-loop-bowline) [2](https://en.wikipedia.org/wiki/Bowline_on_a_bight#Dangers)</sub> It is important that you learn to tie this knot neatly, so that your climbing partner can quickly and easily tell if you are safe and ready to climb. 
 
 <a href="https://youtu.be/aLopeVBb7yU?t=7" target="_blank">
 <img src="/assets/images/knots/figure_8_639px.png"
@@ -50,7 +50,7 @@ alt="Figure 8 knot-tying video">
 
 This knot is so basic you probably grew up being able to tie it. And you just called it "a knot".
 
-This knot has three major uses. First, a lot of people use it as a backup knot for their harness tie-in. This has the added adavantage of ensuring the free end of the rope does not hit you in the eye. Second, it is smart to tie this knot into the rope before a long rappel, so you do not rappel of the end of the rope. Lastly, belayers sometimes tie this knot in their end of the rope, so the climber can not climb (or fall) past the end of the rope.
+This knot has two major uses. First, a lot of people use it as a backup for their harness tie-in. This has the added adavantage of ensuring the free piece of the rope does not hit you in the eye. Second, it is smart to tie this at the end of your rope before rappelling, so you do not rappel off your rope. (Which happens.)
 
 <a href="https://youtu.be/I0ShGbIR0ZI?t=7" target="_blank">
 <img src="/assets/images/knots/overhand_638px.png"
@@ -61,11 +61,15 @@ sizes="(max-width: 38em) 100vw, 50vw"
 alt="Overhand knot-tying video">
 </a>
 
+**Variants**
+
+* [Double Overhand](https://youtu.be/7Eso8q84aCc?t=7) - same thing, twice the stopping power
+
 ### Double Fisherman
 
-> Uses: joining two ends of rope, creating a loop of cord
+> Uses: joining two ends of rope, creating a loop
 
-Most generally, the double fisherman is used to connect two ends of cord or rope. Most commonly, people use the double fisherman to create a loop of cord for building and anchor.
+Most generally, the double fisherman is used to connect two ends of cord or rope. Most commonly, people use this knot to create a loop of cord for anchor building.
 
 <a href="https://youtu.be/O6oJwedcb18?t=7" target="_blank">
 <img src="/assets/images/knots/double_fisherman_640px.png"
@@ -76,11 +80,27 @@ sizes="(max-width: 38em) 100vw, 50vw"
 alt="Double Fisherman knot-tying video">
 </a>
 
+### Clove Hitch
+
+> Uses: attaching yourself to the anchor, building anchors, attaching things to the center of the rope
+
+When leading a climb, you can use the clove hitch to quickly tie into an anchor. Or you can even use it to help equalize an anchor. Definitely learn to tie the clove hitch with one hand.
+
+<a href="https://youtu.be/pO9ksZ3fGDY?t=8" target="_blank">
+<img src="/assets/images/knots/clove_hitch_640px.png"
+srcset="/assets/images/knots/clove_hitch_1280px.png 1280w,
+/assets/images/knots/clove_hitch_850px.png 850w,
+/assets/images/knots/clove_hitch_640px.png 640w,
+/assets/images/knots/clove_hitch_420px.png 420w" 
+sizes="(max-width: 38em) 100vw, 50vw"
+alt="Clove Hitch knot-tying video">
+</a>
+
 ### Girth Hitch
 
 > Uses: attaching a loop to things, building anchors
 
-When you get lucky, you can use a tree as part of your anchor. A good tree can make a really solid anchor fast. Just toss some webbing around the trunk, and finish off with a girth hitch. Done. On rare occassion, people also use this knot to connect a sling to their rope.
+When you get lucky, you can use a tree as part of your anchor. Trees make bomber anchors, and they are faster than constructing your own. Just toss some webbing around the trunk, and finish off with a girth hitch. Done. On rare occassion, people also use this knot to connect a sling to their rope.
 
 <a href="https://youtu.be/blP6BL05Q34?t=7" target="_blank">
 <img src="/assets/images/knots/girth_hitch_638px.png"
@@ -125,7 +145,7 @@ alt="Munter Hitch knot-tying video">
 
 **Variants**
 
-* The [Super Munter](https://youtu.be/OLaEmPs7tac?t=7) - used for belaying, but has more friction in the system, so you can belay more weight and slower
+* The [Super Munter](https://youtu.be/OLaEmPs7tac?t=7) - also used for belaying, but provides more friction so you can belay more weight and slower
 
 ### Munter-Mule Overhand
 
@@ -150,7 +170,7 @@ alt="Munter Mule Hitch knot-tying video">
 
 > Uses: isolating bad sections of rope, attaching yourself to the anchor
 
-The Alpine Butterfly loop is a great way to create a little loop in your rope. And the loop will not come undone if you pull on the rope in either direction. If your rope gets worn or you get a core break, you can use this knot to isolate the offending section of rope. It is easy to learn, and takes less rope than a figure-8-on-a-bight.
+The Alpine Butterfly loop is a great way to create a little loop in your rope. And the loop will not come undone if you pull on the rope in either direction. If your rope gets worn or has a [core break](http://www.rollglobal.org/2010/11/ropereplacement/), you can use this knot to isolate the offending section of rope. It also takes less rope than a figure-8-on-a-bight.
 
 <a href="https://youtu.be/gX1dWKg6Ttc?t=7" target="_blank">
 <img src="/assets/images/knots/butterfly_639px.png"
@@ -162,29 +182,13 @@ sizes="(max-width: 38em) 100vw, 50vw"
 alt="Butterfly knot-tying video">
 </a>
 
-### Clove Hitch
-
-> Uses: attaching yourself to the anchor, building anchors, attaching things to the center of the rope
-
-When leading a trad climbing, you can use the clove hitch to quickly tie into an anchor. Or you can even use it to help equalize a trad anchor. Definitely learn to tie the clove hitch with one hand.
-
-<a href="https://youtu.be/pO9ksZ3fGDY?t=8" target="_blank">
-<img src="/assets/images/knots/clove_hitch_640px.png"
-srcset="/assets/images/knots/clove_hitch_1280px.png 1280w,
-/assets/images/knots/clove_hitch_850px.png 850w,
-/assets/images/knots/clove_hitch_640px.png 640w,
-/assets/images/knots/clove_hitch_420px.png 420w" 
-sizes="(max-width: 38em) 100vw, 50vw"
-alt="Clove Hitch knot-tying video">
-</a>
-
- &nbsp;
+&nbsp;
 
 ### Bonus Knots
 
-* [Monkey's Fist](https://youtu.be/gp9w-T2d_NY?t=7) - Great fun. If your friends look bored, toss them a Monkey's Fist. It does not get used often in climbing. But it is helpful if you ever need to throw a rope: up to a climber, or over a tree branch.
+* [Monkey's Fist](https://youtu.be/gp9w-T2d_NY?t=7) - Great fun. If your friends look bored, toss them a Monkey's Fist. To be honest, you won't use it much while climbing. But it is helpful if you ever need to throw a rope: up to a climber, or over a tree branch.
 * [One-Handed Figure 8](https://youtu.be/-iE8WG33xJY?t=1) - Look like a cowboy when you tie in. It turns out, if your reflexes are good, you can tie a figure 8 with one hand. This is more for style points than anything else.
 
  &nbsp;
 
-Do you think I am missing an important knot? Or have I forgotten to mention an important note about one of the knots above? Leave a comment below.
+Am I missing your favorite knot? Or have I forgotten to mention something important about one of the knots above? Leave a comment below.
