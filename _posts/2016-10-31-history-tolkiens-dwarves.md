@@ -20,7 +20,7 @@ What follows is a brief timeline of every major event in Dwarven history, that w
 
 ### Before the Dwarves
 
-Much of what happened before the Dwarves were awakened shaped their world.
+> Much of what happened before the Dwarves were awakened shaped their world.
 
 + [Eru Ilúvatar](https://en.wikipedia.org/wiki/Eru_Il%C3%BAvatar) creates the gods* [Ainur](https://en.wikipedia.org/wiki/Ainur_%28Middle-earth%29), with [Aulë](https://en.wikipedia.org/wiki/Aul%C3%AB) and [Melkor](https://en.wikipedia.org/wiki/Morgoth) among them. <sub>1</sub>
 + Melkor is the greatest of the Ainur, but is overwhelmed by a desire for power. <sub>1</sub>
@@ -39,7 +39,7 @@ Much of what happened before the Dwarves were awakened shaped their world.
 
 ### First Age
 
-The First Age is counted by Elves as starting before Eru awoke the Dwarves. But Dwarven history starts here; even before the Sun and Moon exist.
+> The First Age is counted by Elves as starting before Eru awoke the Dwarves. But Dwarven history starts here; even before the Sun and Moon exist.
 
 + The seven [Fathers of Dwarves](https://en.wikipedia.org/wiki/Fathers_of_the_Dwarves) are first awakened by [Ilúvatar](https://en.wikipedia.org/wiki/Eru_Il%C3%BAvatar), as are the first [Ents](https://en.wikipedia.org/wiki/Ent). <sub>9 26</sub>
 + [Durin the Deathless](https://en.wikipedia.org/wiki/Durin#Durin_the_Deathless) awakes alone, first of all Dwarves, in [Mount Gundabad](https://en.wikipedia.org/wiki/Minor_places_in_Middle-earth_%28fictional%29#Mount_Gundabad) in the [Misty Mountains](https://en.wikipedia.org/wiki/Misty_Mountains), and it was forever after sacred to the Dwarves. <sub>4 27</sub>
@@ -66,7 +66,7 @@ The First Age is counted by Elves as starting before Eru awoke the Dwarves. But 
 
 ### Second Age
 
-The second age lasts 3441 years, during which little is written about the Dwarves.
+> The second age lasts 3441 years, during which little is written about the Dwarves.
 
 + c 750-1500: The two greatest craftsman of the age, [Celebrimbor](https://en.wikipedia.org/wiki/Celebrimbor) (the Elven Lord of Eregion) and the Dwarf [Narvi](https://en.wikipedia.org/wiki/Middle-earth_dwarf_characters#Narvi), build the [Doors of Durin](http://tolkiengateway.net/wiki/Doors_of_Durin): the West gate of [Khazad-dûm](https://en.wikipedia.org/wiki/Moria_%28Middle-earth%29). The gate was designed to aid the friendship between Dwarves and Elves. <sub>19</sub>
 + c 1500-1590: [Sauron](https://en.wikipedia.org/wiki/Sauron) led Elven-smiths to craft [seven rings of power](http://tolkiengateway.net/wiki/Seven_Rings) for seven Dwarf Kings. It is these Elven smiths, and not Sauron, who give [Durin III](http://middle-earthencyclopedia.weebly.com/durin-iii.html) his ring. (*It is clear that these rings could not corrupt Dwarves as they did Humans. It is likely that a ring is given to the leader of each of the seven [Dwarven clans](http://tolkiengateway.net/wiki/Dwarves#Origin). Later in the Second Age, four of these rings are destroyed by Dragons, and Sauron retrieves two more.*) <sub>4 19</sub>
@@ -79,7 +79,7 @@ The second age lasts 3441 years, during which little is written about the Dwarve
 
 ### Third Age
 
-The third age lasts 3021 years, and during this time the number of Dwarves begins to decline.
+> The third age lasts 3021 years, and during this time the number of Dwarves begins to decline.
 
 + 1980: Dwarven [mithril](https://en.wikipedia.org/wiki/Mithril) miners in [Khazad-dûm](https://en.wikipedia.org/wiki/Moria_%28Middle-earth%29) delve too greedily and too deep and awaken a [Balrog](https://en.wikipedia.org/wiki/Balrog) which kills [King Durin VI](https://en.wikipedia.org/wiki/Durin#Durin_VI), and ever after the Dwarves call it [Durin's Bane](http://tolkiengateway.net/wiki/Durin's_Bane). <sub>4 19</sub>
 + 1981: Durin VI's son, [Náin I](https://en.wikipedia.org/wiki/Middle-earth_dwarf_characters#N.C3.A1in_I) is killed by the Durin's Bane, and Dwarves abandon Khazad-dûm; they start calling it Moria, meaning "Black Pit". <sub>4</sub>
@@ -117,7 +117,7 @@ The third age lasts 3021 years, and during this time the number of Dwarves begin
 
 ### Fourth Age
 
-Tolkien does not tell us much about the Fourth Age or beyond.
+> Tolkien does not tell us much about the Fourth Age or beyond.
 
 + c 1-100: The Dwarves of [Erebor](https://en.wikipedia.org/wiki/Lonely_Mountain), [Gimli](https://en.wikipedia.org/wiki/Gimli_%28Middle-earth%29) in particular, rebulid and greatly improve the Human city of [Minas Tirith](https://en.wikipedia.org/wiki/Minas_Tirith). <sub>citation needed</sub>
 + c 20-120: Gimli returns to [Aglarond](https://en.wikipedia.org/wiki/Helm's_Deep#Aglarond) and founds a Dwarf colony there, where he is known as [Lord of the Glittering Caves](http://tolkiengateway.net/wiki/Lord_of_the_Glittering_Caves). <sub>citation needed</sub>
@@ -143,7 +143,7 @@ Tolkien does not tell us much about the Fourth Age or beyond.
 
 #### The Books
 
-The works of J.R.R. Tolkien and his son Christopher, in order of publication.
+> The works of J.R.R. Tolkien and his son Christopher, in order of publication.
 
 + [The Hobbit](https://www.goodreads.com/book/show/5907.The_Hobbit) - a lot about the Dwarves of Erebor
 + [The Lord of the Rings](https://www.goodreads.com/book/show/33.The_Lord_of_the_Rings) - the chapter on "The Council of Elrond" and the appendicies
@@ -155,7 +155,7 @@ The works of J.R.R. Tolkien and his son Christopher, in order of publication.
 
 #### Citations
 
-> NOTE: A full citation of this article is in progress, but will take me some time.
+> NOTE: A full citation of this article is in progress.
 
 1. The Silmarillion - Ainulindalë
 2. The Silmarillion - Valaquenta
