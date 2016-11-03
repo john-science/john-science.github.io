@@ -6,29 +6,24 @@ summary: A minimal set of knots that I absolutely must know to go rock climbing.
 ---
 {% include JB/setup %}
 
-Most climbers only know 4-12 knots, and that's enough. Which is not to say that having more tools in your toolbox is not helpful. But all you need is to know one knot for each and every need you have. But you need to know that knot well enough to tie it safely while tired and distracted.
+Standard safety warning:
 
-What follows is the minimal set of knots that I use. This is not meant to be a complete guide to all the climbing knots in the world. There are already plenty of [those](https://en.wikipedia.org/wiki/List_of_climbing_knots) out [there](http://www.animatedknots.com/indexclimbing.php#ScrollPoint). I can not say what you will need when you climb, only what I need. This is just a guide to the basics.
+> I do not know what kind of climbing you are doing, or what kind of trouble you might get yourself in. You, and you alone, are responsible for your own safety.
 
- &nbsp;
+What follows is the minimal set of knots that I think I need to know to go rock climbing. This is not meant to be an exhaustive list of all the climbing knots in the world, there are already plenty of [those](https://en.wikipedia.org/wiki/List_of_climbing_knots) out [there](http://www.animatedknots.com/indexclimbing.php#ScrollPoint). I have not find such lists useful.
 
-### Rock Climbing Knots by General Use-Case
-
-Knot | Rappelling | Top Roping | Sport Climbing | Trad Climbing | Self-Rescue
-:--- | :--- | :--- | :--- | :--- | :---
-[Figure 8 Follow Through](#figure8) | X | X | X | X | X
-[Overhand](#overhand) | X | X | X | X | X
-[Double Fisherman](#doublefisherman) |  | X | X | X | 
-[Girth Hitch](#girth) |  | X | X | X | 
-[Prusik](#prusik) | X |  |  |  | X
-[Munter Hitch](#munter) |  |  |  | X | X
-[Munter-Mule Overhand](#mule) |  |  |  | X | X
-[Alpine Butterfly Loop](#butterfly) |  |  |  | X | X
-[Clove Hitch](#clove) |  |  |  |  | X
+It is more important to know some set of knots extremely well than to know a great variety of knots. When climbing, you might find yourself having to tie a knot one-handed while extremely tired and distracted. In those situations it is more important to understand one knot extremely well, and to have it totally dialed in, than it is to know 20 different knots to choose from.
 
  &nbsp;
 
-### <a name="figure8"></a>Figure 8 Follow Through
+**Table of Contents**
+
+* auto-gen TOC:
+{:toc}
+
+ &nbsp;
+
+### Figure 8 Follow Through
 
 > Uses: attaching the rope to your harness or other closed loops
 
@@ -45,11 +40,11 @@ sizes="(max-width: 38em) 100vw, 50vw"
 alt="Figure 8 knot-tying video">
 </a>
 
-#### Variants
+**Variants**
 
 * [Figure 8 on a Bight](https://youtu.be/D8jRok7Kofw?t=13) - useful for tying into a trad anchor
 
-### <a name="overhand"></a>Overhand
+### Overhand
 
 > Uses: back-up knot, and stopper knot
 
@@ -66,7 +61,7 @@ sizes="(max-width: 38em) 100vw, 50vw"
 alt="Overhand knot-tying video">
 </a>
 
-### <a name="doublefisherman"></a>Double Fisherman
+### Double Fisherman
 
 > Uses: joining two ends of rope, creating a loop of cord
 
@@ -81,7 +76,7 @@ sizes="(max-width: 38em) 100vw, 50vw"
 alt="Double Fisherman knot-tying video">
 </a>
 
-### <a name="girth"></a>Girth Hitch
+### Girth Hitch
 
 > Uses: attaching a loop to things, building anchors
 
@@ -97,7 +92,7 @@ sizes="(max-width: 38em) 100vw, 50vw"
 alt="Girth Hitch knot-tying video">
 </a>
 
-### <a name="prusik"></a>Prusik
+### Prusik
 
 > Uses: friction knot to attach a cord to a rope, auto-blocking rappel and belay, ascending rope
 
@@ -112,7 +107,7 @@ sizes="(max-width: 38em) 100vw, 50vw"
 alt="Prusik Hitch knot-tying video">
 </a>
 
-### <a name="munter"></a>Munter Hitch
+### Munter Hitch
 
 > Uses: belaying without a belay device
 
@@ -127,11 +122,11 @@ sizes="(max-width: 38em) 100vw, 50vw"
 alt="Munter Hitch knot-tying video">
 </a>
 
-#### Variants
+**Variants**
 
 * The [Super Munter](https://youtu.be/OLaEmPs7tac?t=7) - used for belaying, but has more friction in the system, so you can belay more weight and slower
 
-### <a name="mule"></a>Munter-Mule Overhand
+### Munter-Mule Overhand
 
 > Uses: Escaping the belay, passing a knot on rappel, self-rescue
 
@@ -150,7 +145,7 @@ sizes="(max-width: 38em) 100vw, 50vw"
 alt="Munter Mule Hitch knot-tying video">
 </a>
 
-### <a name="butterfly"></a>Alpine Butterfly Loop
+### Alpine Butterfly Loop
 
 > Uses: isolating bad sections of rope, attaching yourself to the anchor
 
@@ -166,7 +161,7 @@ sizes="(max-width: 38em) 100vw, 50vw"
 alt="Butterfly knot-tying video">
 </a>
 
-### <a name="clove"></a>Clove Hitch
+### Clove Hitch
 
 > Uses: attaching yourself to the anchor, building anchors, attaching things to the center of the rope
 
