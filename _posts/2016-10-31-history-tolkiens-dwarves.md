@@ -10,14 +10,15 @@ I have been working on a [game](https://github.com/theJollySin/mazes_of_erebor) 
 
 What follows is a brief timeline of every major event in Dwarven history, that we know of. Tolkien's mythology evolved and improved over time; where possible I try to use his last and most recent version. Text in italics is not explicitly stated in Tolkien's works, but can be inferred without too much imagination.
 
-### Table of Contents
+
+**Table of Contents**
 
 * auto-gen TOC:
 {:toc}
 
  &nbsp;
 
-### <a name="beforedwarves"></a>Before the Dwarves
+### Before the Dwarves
 
 Much of what happened before the Dwarves were awakened shaped their world.
 
@@ -36,7 +37,7 @@ Much of what happened before the Dwarves were awakened shaped their world.
 
  &nbsp;
 
-### <a name="firstage"></a>First Age
+### First Age
 
 The First Age is counted by Elves as starting before Eru awoke the Dwarves. But Dwarven history starts here, before the Sun and Moon exist.
 
