@@ -91,6 +91,7 @@ srcset="/assets/images/knots/girth_hitch_1279px.png 1279w,
 sizes="(max-width: 38em) 100vw, 50vw"
 alt="Girth Hitch knot-tying video">
 </a>
+&nbsp;
 
 ### Prusik
 
