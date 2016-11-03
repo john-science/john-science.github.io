@@ -12,6 +12,12 @@ What follows is a brief timeline of every major event in Dwarven history, that w
 
  &nbsp;
 
+Table of Contents
+
+* auto-gen TOC:
+{:toc}
+
+
 ### <a name="beforedwarves"></a>Before the Dwarves
 
 Much of what happened before the Dwarves were awakened that shaped their world.
