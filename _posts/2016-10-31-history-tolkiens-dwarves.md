@@ -141,7 +141,9 @@ What follows is a brief timeline of every major event in Dwarven history, that w
 
  &nbsp;
 
-#### The Books
+#### References
+
+**The Books**
 
 > The works of J.R.R. Tolkien and his son Christopher, in order of publication.
 
@@ -151,9 +153,8 @@ What follows is a brief timeline of every major event in Dwarven history, that w
 + [The Unfinished Tales](https://www.goodreads.com/book/show/7329.Unfinished_Tales_of_N_menor_and_Middle_Earth) - very sparse information about Dwarves
 + [The History of Middle Earth](https://www.goodreads.com/book/show/214175.The_Complete_History_Of_Middle_Earth) - very sparse information about Dwarves
 
- &nbsp;
 
-#### Citations
+**Citations**
 
 > NOTE: A full citation of this article is in progress.
 
