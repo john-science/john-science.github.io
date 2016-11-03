@@ -139,7 +139,8 @@ What follows is a brief timeline of every major event in Dwarven history, that w
 * Dwarves did not give their real names to outsiders, instead they usually used names from the local Human dialect. Even very famous names, like Durin and Gimli, are only the names they gave to outsiders. <sub>27</sub>
 * The Dwarves had a lunar calendar, that we know little about. <sub>28</sub>
 
- &nbsp; 
+&nbsp;
+
 #### References
 
 **The Books**
