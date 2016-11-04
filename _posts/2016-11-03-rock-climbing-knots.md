@@ -12,7 +12,7 @@ Standard safety warning:
 
 This is the minimal set of knots that I think I need to know to go rock climbing. This is not meant to be an exhaustive list of all the climbing knots in the world, there are already plenty of [those](https://en.wikipedia.org/wiki/List_of_climbing_knots) out [there](http://www.animatedknots.com/indexclimbing.php#ScrollPoint). I have not found such lists useful.
 
-It is more important to know a small set of knots extremely well than to memorize a huge galaxy of knots. When climbing, you might find yourself having to tie a knot one-handed while extremely tired and distracted. In that situation, the only thing that matters is that you know one knot for the job, and you have practiced enough to tie it without thinking. To that end, I have found these are the knots I need to know. I have practiced them: one-handed, with my right and left hand, in the dark, without looking. And I will practice them some more.
+My theory is it is more important to know a small set of knots extremely well than to memorize a huge galaxy of knots. When climbing, you might find yourself having to tie a knot one-handed while extremely tired and distracted. In that situation, the only thing that matters is that you know one knot for the job, and you have practiced enough to tie it without thinking. To that end, I have found these are the knots I need to know. I have practiced them: one-handed, with my right and left hand, in the dark, without looking. And I will practice them some more.
 
  &nbsp;
 
@@ -84,7 +84,7 @@ alt="Double Fisherman knot-tying video">
 
 > Uses: attaching yourself to the anchor, building anchors, attaching things to the center of the rope
 
-When leading a climb, you can use the clove hitch to quickly tie into an anchor. Or you can even use it to help equalize an anchor. Definitely learn to tie the clove hitch with one hand.
+When leading a climb, you can use the clove hitch to quickly tie into an anchor. Or you can use it to help equalize an anchor. Definitely learn to tie the clove hitch with one hand.
 
 <a href="https://youtu.be/pO9ksZ3fGDY?t=8" target="_blank">
 <img src="/assets/images/knots/clove_hitch_640px.png"
@@ -100,7 +100,7 @@ alt="Clove Hitch knot-tying video">
 
 > Uses: attaching a loop to things, building anchors
 
-When you get lucky, you can use a tree as part of your anchor. Trees make bomber anchors, and they are faster than constructing your own. Just toss some webbing around the trunk, and finish off with a girth hitch. Done. On rare occassion, people also use this knot to connect a sling to their rope.
+When you get lucky, you can use a tree as part of your anchor. Trees make bomber anchors, and they are faster than building one from gear. Just toss some webbing around the trunk, and finish off with a girth hitch. Done. On rare occassion, people also use this knot to connect a sling to their rope.
 
 <a href="https://youtu.be/blP6BL05Q34?t=7" target="_blank">
 <img src="/assets/images/knots/girth_hitch_638px.png"
@@ -151,11 +151,11 @@ alt="Munter Hitch knot-tying video">
 
 > Uses: Escaping the belay, passing a knot on rappel, self-rescue
 
-The munter-mule is a favorite knot to [escape a belay](https://www.youtube.com/watch?v=IRYkca9xEjc). That is, if you are belaying and the climber is stopped for a long time or you need to do something, how do you let go of the rope without dropping your partner? Tie a munter mule into the rope and then clip the biner into the loop. Bam. Now your hands are free to do whatever.
+The munter-mule is a favorite knot to [escape a belay](https://www.youtube.com/watch?v=IRYkca9xEjc). That is, if you are belaying and the climber is stopped for a long time or you need to do something, how do you let go of the rope without dropping your partner? Tie a munter mule into the rope and then clip a biner into the loop. Bam. Now your hands are free to do whatever.
 
 The real benefit of the munter-mule is that it allows for a smooth transition back to belaying. Just undo the loop and you have your normal munter hitch.
 
-As an added bonus, you can use the munter-mule to pass a knot on rappel. For instance, if your rope has a core break, you pretect that with a butterfly knot, but the knot won't have to stop you rappelling if you use the munter-mule.
+As an added bonus, you can use the munter-mule to pass a knot on rappel. For instance, if your rope has a core break, and you protect that with a butterfly knot, you can still rappel.
 
 <a href="https://youtu.be/IslYcjJ-htI?t=7" target="_blank">
 <img src="/assets/images/knots/munter_mule_638px.png"
@@ -170,7 +170,7 @@ alt="Munter Mule Hitch knot-tying video">
 
 > Uses: isolating bad sections of rope, attaching yourself to the anchor
 
-The Alpine Butterfly loop is a great way to create a little loop in your rope. And the loop will not come undone if you pull on the rope in either direction. If your rope gets worn or has a [core break](http://www.rollglobal.org/2010/11/ropereplacement/), you can use this knot to isolate the offending section of rope. It also takes less rope than a figure-8-on-a-bight.
+The Alpine Butterfly loop is a great way to create a little loop in your rope. And the loop will not come undone if you pull on the rope in either direction. If your rope gets worn or has a [core break](http://www.rollglobal.org/2010/11/ropereplacement/), you can use this knot to isolate the offending section of rope. This also takes less rope than a figure-8-on-a-bight.
 
 <a href="https://youtu.be/gX1dWKg6Ttc?t=7" target="_blank">
 <img src="/assets/images/knots/butterfly_639px.png"
@@ -187,7 +187,7 @@ alt="Butterfly knot-tying video">
 ### Bonus Knots
 
 * [Monkey's Fist](https://youtu.be/gp9w-T2d_NY?t=7) - Great fun. If your friends look bored, toss them a Monkey's Fist. To be honest, you won't use it much while climbing. But it is helpful if you ever need to throw a rope: up to a climber, or over a tree branch.
-* [One-Handed Figure 8](https://youtu.be/-iE8WG33xJY?t=1) - Look like a cowboy when you tie in. It turns out, if your reflexes are good, you can tie a figure 8 with one hand. This is more for style points than anything else.
+* [One-Handed Figure 8](https://youtu.be/-iE8WG33xJY?t=1) - Look like a cowboy when you tie in. This is more for style points than anything else.
 
  &nbsp;
 
