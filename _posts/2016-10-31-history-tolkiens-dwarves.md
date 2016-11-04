@@ -10,14 +10,17 @@ I have been working on a [game](https://github.com/theJollySin/mazes_of_erebor) 
 
 What follows is a brief timeline of every major event in Dwarven history, that we know of. Tolkien's mythology evolved and improved over time; where possible I try to use his last and most recent version. Text in italics is not explicitly stated in Tolkien's works, but can be inferred without too much imagination.
 
+### Table of Contents
 
-**Table of Contents**
+ * [Before the Dwarves](#before-the-dwarves)
+ * [First Age](#first-age)
+ * [Second Age](#second-age)
+ * [Third Age](#third-age)
+ * [Fourth Age](#fourth-age)
+ * [Nature of Dwarves](#nature-of-dwarves)
+ * [References](#references)
 
-* auto-gen TOC:
-{:toc}
-
-
-### Before the Dwarves
+### <a name="before-the-dwarves"></a>Before the Dwarves
 
 > Much of what happened before the Dwarves were awakened shaped their world.
 
@@ -35,7 +38,7 @@ What follows is a brief timeline of every major event in Dwarven history, that w
 <sub>*In the Valquenta, Tolkien writes of the Valar: "Men often called them Gods", but he does not say what the Dwarves called them.</sub>
 
 
-### First Age
+### <a name="first-age"></a>First Age
 
 > The First Age is counted by Elves as starting before Eru awoke the Dwarves. But Dwarven history starts here; even before the Sun and Moon exist.
 
@@ -61,7 +64,7 @@ What follows is a brief timeline of every major event in Dwarven history, that w
 + 590: Melkor is cast into the void. <sub>citation needed</sub>
 
 
-### Second Age
+### <a name="second-age"></a>Second Age
 
 > The second age lasts 3441 years, during which little is written about the Dwarves.
 
@@ -73,7 +76,7 @@ What follows is a brief timeline of every major event in Dwarven history, that w
 * 3441: [Isildur](https://en.wikipedia.org/wiki/Isildur) cuts the [One Ring](https://en.wikipedia.org/wiki/One_Ring) from Sauron's finger with the shattered hilt of the sword [Narsil](https://en.wikipedia.org/wiki/Middle-earth_weapons_and_armour#Narsil), ending the war. <sub>14</sub>
 
 
-### Third Age
+### <a name="third-age"></a>Third Age
 
 > The third age lasts 3021 years, and during this time the number of Dwarves begins to decline.
 
@@ -110,7 +113,7 @@ What follows is a brief timeline of every major event in Dwarven history, that w
 + 3019: After Sauron's fall, the siege of Erebor breaks and the Dwarves slaughter the fleeing Orcs. [Thorin III Stonehelm](https://en.wikipedia.org/wiki/Middle-earth_dwarf_characters#Thorin_III_Stonehelm) becomes [King Under the Mountain](http://tolkiengateway.net/wiki/King_under_the_Mountain). <sub>19</sub>
 
 
-### Fourth Age
+### <a name="fourth-age"></a>Fourth Age
 
 > Tolkien does not tell us much about the Fourth Age or beyond.
 
@@ -122,7 +125,7 @@ What follows is a brief timeline of every major event in Dwarven history, that w
 + It is not clear if the Dwarves slowly diminish and are gone from the world or if they simply delve so deeply that they are never seen above ground again. <sub>citation needed</sub>
 
 
-#### Nature of Dwarves
+#### <a name="nature-of-dwarves"></a>Nature of Dwarves
 
 + The average Dwarf is shorter than the average Human or Elf, but taller than the average Hobbit. <sub>citation needed</sub>
 + The Dwarves were "stone-hard, stubborn, fast in friendship and enmity, and they suffer toil and hunger and hurt of body more heartily than other speaking peoples". <sub>9</sub>
@@ -134,7 +137,7 @@ What follows is a brief timeline of every major event in Dwarven history, that w
 * The Dwarves had a lunar calendar, that we know little about. <sub>28</sub>
 
 
-#### References
+#### <a name="references"></a>References
 
 **The Books**
 
