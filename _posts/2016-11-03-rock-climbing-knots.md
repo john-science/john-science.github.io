@@ -113,7 +113,7 @@ When you get lucky, you can use a tree as part of your anchor. Trees make bomber
 <a href="https://youtu.be/blP6BL05Q34?t=7" target="_blank">
 <img src="/assets/images/knots/girth_hitch_638px.png"
 srcset="/assets/images/knots/girth_hitch_1279px.png 1279w,
-/assets/images/knots/girth_hitch_968px.png 960w,
+/assets/images/knots/girth_hitch_960px.png 960w,
 /assets/images/knots/girth_hitch_638px.png 638w,
 /assets/images/knots/girth_hitch_420px.png 420w" 
 sizes="(max-width: 38em) 100vw, 50vw"
