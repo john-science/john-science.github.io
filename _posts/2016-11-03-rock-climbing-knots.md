@@ -21,7 +21,6 @@ My theory is it is more important to know a small set of knots extremely well th
 * auto-gen TOC:
 {:toc}
 
- &nbsp;
 
 ### Figure 8 Follow Through
 
@@ -44,7 +43,6 @@ alt="Figure 8 knot-tying video">
 
 * [Figure 8 on a Bight](https://youtu.be/D8jRok7Kofw?t=13) - useful for tying into a trad anchor
 
-&nbsp;
 
 ### Overhand
 
@@ -67,7 +65,6 @@ alt="Overhand knot-tying video">
 
 * [Double Overhand](https://youtu.be/7Eso8q84aCc?t=7) - same thing, twice the stopping power
 
-&nbsp;
 
 ### Double Fisherman
 
@@ -84,7 +81,6 @@ sizes="(max-width: 38em) 100vw, 50vw"
 alt="Double Fisherman knot-tying video">
 </a>
 
-&nbsp;
 
 ### Clove Hitch
 
@@ -102,7 +98,6 @@ sizes="(max-width: 38em) 100vw, 50vw"
 alt="Clove Hitch knot-tying video">
 </a>
 
-&nbsp;
 
 ### Girth Hitch
 
@@ -120,7 +115,6 @@ sizes="(max-width: 38em) 100vw, 50vw"
 alt="Girth Hitch knot-tying video">
 </a>
 
- &nbsp;
 
 ### Prusik
 
@@ -137,7 +131,6 @@ sizes="(max-width: 38em) 100vw, 50vw"
 alt="Prusik Hitch knot-tying video">
 </a>
 
-&nbsp;
 
 ### Munter Hitch
 
@@ -158,7 +151,6 @@ alt="Munter Hitch knot-tying video">
 
 * The [Super Munter](https://youtu.be/OLaEmPs7tac?t=7) - also used for belaying, but provides more friction so you can belay more weight and slower
 
-&nbsp;
 
 ### Alpine Butterfly Loop
 
@@ -176,7 +168,6 @@ sizes="(max-width: 38em) 100vw, 50vw"
 alt="Butterfly knot-tying video">
 </a>
 
-&nbsp;
 
 ### Munter-Mule Overhand
 
@@ -197,7 +188,6 @@ sizes="(max-width: 38em) 100vw, 50vw"
 alt="Munter Mule Hitch knot-tying video">
 </a>
 
-&nbsp;
 
 ### Alpine Butterfly Loop
 
@@ -215,7 +205,6 @@ sizes="(max-width: 38em) 100vw, 50vw"
 alt="Butterfly knot-tying video">
 </a>
 
-&nbsp;
 
 ### Bonus Knots
 
