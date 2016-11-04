@@ -14,7 +14,6 @@ This is the minimal set of knots that I think I need to know to go rock climbing
 
 My theory is it is more important to know a small set of knots extremely well than to memorize a huge galaxy of knots. When climbing, you might find yourself having to tie a knot one-handed while extremely tired and distracted. In that situation, the only thing that matters is that you know one knot for the job, and you have practiced enough to tie it without thinking. To that end, I have found these are the knots I need to know. I have practiced them: one-handed, with my right and left hand, in the dark, without looking. And I will practice them some more.
 
- &nbsp;
 
 **Table of Contents**
 
