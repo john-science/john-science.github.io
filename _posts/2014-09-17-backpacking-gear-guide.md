@@ -17,22 +17,23 @@ What follows is a complete gear list for a beginner. Use your own discretion and
 
 ## <a name="masterlist"></a>The Master List
 
- * backpack
- * water filter/tablets
- * trekking poles
- * tent
- * sleeping bags
- * food
- * fire
- * camping stove
- * bear can
- * headlamp
- * sleeping pads
- * boots
- * clothes
- * toiletries
- * maps
- * a knife
+ * [backpack](#pack)
+ * [water filter/tablets](#waterpurify)
+ * [trekking poles](#trekkingpoles)
+ * [tent](#tent)
+ * [sleeping bags](#sleepingbags)
+ * [sleeping pads](#sleepingpads)
+ * [food](#food)
+ * [camping stove](#stove)
+ * [fire](#fire)
+ * [bear can](#bearcan)
+ * [headlamp](#headlamp)
+ * [boots](#boots)
+ * [clothes](#clothes)
+ * [toiletries](#toiletries)
+ * [maps](#maps)
+ * [a knife](#knife)
+ * [extras](#extras)
 
 ## <a name="pack"></a>The Pack
 
@@ -150,7 +151,7 @@ When selecting a sleeping bag pay careful attention to its 'temperature rating'.
  * **TIP**: If you get stuck out in the cold, put on every stitch of clothing you have and pack anything soft inside your sleeping bag with you.
  * **TIP**: Don't bring a pillow. Just wad up a sweater under your head or get used to using your pack as a pillow.
 
-## <a name="sleeping pads"></a>Sleeping Pads
+## <a name="sleepingpads"></a>Sleeping Pads
 
 In backpacking you quickly learn when is essential to life and what is a luxury. Well, if sleeping pads are a luxury they are the #1 best luxury and the first one you should add to your pack.
 
