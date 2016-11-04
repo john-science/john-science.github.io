@@ -16,7 +16,6 @@ What follows is a brief timeline of every major event in Dwarven history, that w
 * auto-gen TOC:
 {:toc}
 
- &nbsp;
 
 ### Before the Dwarves
 
@@ -35,7 +34,6 @@ What follows is a brief timeline of every major event in Dwarven history, that w
 
 <sub>*In the Valquenta, Tolkien writes of the Valar: "Men often called them Gods", but he does not say what the Dwarves called them.</sub>
 
- &nbsp;
 
 ### First Age
 
@@ -62,7 +60,6 @@ What follows is a brief timeline of every major event in Dwarven history, that w
 + 545-587: [The War of Wrath](https://en.wikipedia.org/wiki/War_of_Wrath) between the Valar; after which the world West of the [Blue Mountains](https://en.wikipedia.org/wiki/Eriador) is sunk into the sea. Melkor is captured. Two great houses of Dwarves, Nogrod and Belegost, are destroyed; the survivors flee to Khazad-dûm. It is also believed that the original mansions of the four Eastern clans are destroyed in this war. <sub>citation needed</sub>
 + 590: Melkor is cast into the void. <sub>citation needed</sub>
 
- &nbsp;
 
 ### Second Age
 
@@ -75,7 +72,6 @@ What follows is a brief timeline of every major event in Dwarven history, that w
 + 3434: The Last Alliance defeats Sauron's forces in the [Battle of Dagorlad](https://en.wikipedia.org/wiki/Middle-earth_wars_and_battles#War_of_the_Last_Alliance); and the Siege of [Barad-dûr](https://en.wikipedia.org/wiki/Barad-d%C3%BBr) begins.
 * 3441: [Isildur](https://en.wikipedia.org/wiki/Isildur) cuts the [One Ring](https://en.wikipedia.org/wiki/One_Ring) from Sauron's finger with the shattered hilt of the sword [Narsil](https://en.wikipedia.org/wiki/Middle-earth_weapons_and_armour#Narsil), ending the war. <sub>14</sub>
 
- &nbsp;
 
 ### Third Age
 
@@ -113,7 +109,6 @@ What follows is a brief timeline of every major event in Dwarven history, that w
 + 3019: Sauron's One Ring is destroyed in Mount Doom. <sub>10 19</sub>
 + 3019: After Sauron's fall, the siege of Erebor breaks and the Dwarves slaughter the fleeing Orcs. [Thorin III Stonehelm](https://en.wikipedia.org/wiki/Middle-earth_dwarf_characters#Thorin_III_Stonehelm) becomes [King Under the Mountain](http://tolkiengateway.net/wiki/King_under_the_Mountain). <sub>19</sub>
 
- &nbsp;
 
 ### Fourth Age
 
@@ -126,7 +121,6 @@ What follows is a brief timeline of every major event in Dwarven history, that w
 + Khazad-dûm and Erebor are the two great final kingdoms of the Dwarves. <sub>citation needed</sub>
 + It is not clear if the Dwarves slowly diminish and are gone from the world or if they simply delve so deeply that they are never seen above ground again. <sub>citation needed</sub>
 
- &nbsp;
 
 #### Nature of Dwarves
 
@@ -139,7 +133,6 @@ What follows is a brief timeline of every major event in Dwarven history, that w
 * Dwarves did not give their real names to outsiders, instead they usually used names from the local Human dialect. Even very famous names, like Durin and Gimli, are only the names they gave to outsiders. <sub>27</sub>
 * The Dwarves had a lunar calendar, that we know little about. <sub>28</sub>
 
-&nbsp;
 
 #### References
 
