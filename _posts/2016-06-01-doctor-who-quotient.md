@@ -15,7 +15,6 @@ Your Doctor Who Quotient (`Q`) is the fraction of complete stories you have seen
     Q = (# stories you've seen) / 263
 
 #### Try the [Q Calculator](/q.html).
-<br/>
 
 ### What is a Story?
 
