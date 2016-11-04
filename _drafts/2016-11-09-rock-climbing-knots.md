@@ -27,7 +27,7 @@ It is more important to know a small set of knots extremely well than to memoriz
 
 > Uses: attaching the rope to your harness (or other closed loops)
 
-This is the knot used to tie the rope into the harness.
+This is the knot used to [tie the rope into the harness](https://youtu.be/H1cEWPx2xnA?t=6).
 
 I should note that people used to tie into their harness with a bowline, but hat has fallen out of favor, due to safety concerns. <sub>[1](http://www.rockandice.com/lates-news/rethinking-the-double-loop-bowline) [2](https://en.wikipedia.org/wiki/Bowline_on_a_bight#Dangers)</sub> It is important that you learn to tie this knot neatly, so that your climbing partner can quickly and easily tell if you are safe and ready to climb. 
 
@@ -117,7 +117,7 @@ alt="Girth Hitch knot-tying video">
 
 > Uses: friction knot to attach a cord to a rope, auto-blocking rappel and belay, ascending rope
 
-You will need to know how to tie a Prusik if you ever want to rappel from a climb. Rappelling is the absolute most basic self-rescue technique for rock climbers, and often the only way down from a multi-pitch climb. One Prusik can serve as an auto-block while rappelling, two can help you ascend rope in a pinch.
+You will need to know how to tie a Prusik if you ever want to rappel from a climb. Rappelling is the absolute most basic self-rescue technique for rock climbers, and often the only way down from a multi-pitch climb. One Prusik can serve as an [auto-block while rappelling](https://youtu.be/PNbKJKYBGik?t=66), two can help you [ascend rope](https://youtu.be/GWH3lnnl0ro?t=4) in a pinch.
 
 <a href="https://youtu.be/CP7iAF_YU7A?t=7" target="_blank">
 <img src="/assets/images/knots/prusik_639px.png"
@@ -132,7 +132,7 @@ alt="Prusik Hitch knot-tying video">
 
 > Uses: belaying without a belay device
 
-If you drop your belay device, you can use the munter hitch to belay your partner. This is an extremely valuable skill to have in your toolbox. Learn to tie it with one hand.
+If you drop your belay device, you can [use the munter hitch to belay](https://youtu.be/TOf1Yzu_OS0?t=12) your partner. This is an extremely valuable skill to have in your toolbox. Learn to tie it with one hand.
 
 <a href="https://youtu.be/pO9ksZ3fGDY?t=49" target="_blank">
 <img src="/assets/images/knots/munter_638px.png"
@@ -151,7 +151,7 @@ alt="Munter Hitch knot-tying video">
 
 > Uses: Escaping the belay, passing a knot on rappel, self-rescue
 
-The munter-mule is a favorite knot to escape a belay. That is, if you are belaying and the climber is stopped for a long time or you need to do something, how do you let go of the rope without dropping your partner? Tie a munter mule into the rope and then clip the biner into the loop. Bam. Now your hands are free to do whatever.
+The munter-mule is a favorite knot to [escape a belay](https://www.youtube.com/watch?v=IRYkca9xEjc). That is, if you are belaying and the climber is stopped for a long time or you need to do something, how do you let go of the rope without dropping your partner? Tie a munter mule into the rope and then clip the biner into the loop. Bam. Now your hands are free to do whatever.
 
 The real benefit of the munter-mule is that it allows for a smooth transition back to belaying. Just undo the loop and you have your normal munter hitch.
 
