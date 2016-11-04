@@ -53,15 +53,15 @@ Lens | FL<br/><sub>(mm)</sub> | Ap<br/><sub>(max)</sub> | Cost<br/><sub>(~$)</su
 
 ### Notes
 
-#### Length
+**Length**
 
  * The lengths shown include the adapter, if any.
 
-#### Weight
+**Weight**
 
  * The weights shown do not include the adapter, if any.
 
-#### Cost
+**Cost**
 
  * The costs shown are in approximate US Dollars.
  * The costs shown are based on E-Bay and Amazon searches done in early 2016.
