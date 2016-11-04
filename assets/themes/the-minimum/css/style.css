@@ -259,7 +259,9 @@ pre {
   color: #002342;
   border: 0;
 }
-.unit-article .entry-content:first-child h2,
+.unit-article .entry-content:first-child h2 {
+  margin-top: 1.0em;
+}
 .unit-article .entry-content:first-child h3,
 .unit-article .entry-content:first-child h4,
 .unit-article .entry-content:first-child h5,
