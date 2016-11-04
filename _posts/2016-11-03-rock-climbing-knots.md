@@ -15,13 +15,21 @@ This is the minimal set of knots that I think I need to know to go rock climbing
 My theory is it is more important to know a small set of knots extremely well than to memorize a huge galaxy of knots. When climbing, you might find yourself having to tie a knot one-handed while extremely tired and distracted. In that situation, the only thing that matters is that you know one knot for the job, and you have practiced enough to tie it without thinking. To that end, I have found these are the knots I need to know. I have practiced them: one-handed, with my right and left hand, in the dark, without looking. And I will practice them some more.
 
 
-**Table of Contents**
+### Table of Contents
 
-* auto-gen TOC:
-{:toc}
+ * [Figure 8 Follow Through](#figure-8-follow-through)
+ * [Overhand](#overhand)
+ * [Double Fisherman](#double-fisherman)
+ * [Clove Hitch](#clove-hitch)
+ * [Girth Hitch](#girth-hitch)
+ * [Prusik](#prusik)
+ * [Munter Hitch](#munter-hitch)
+ * [Alpine Butterfly](#alpine-butterfly-loop)
+ * [Munter Mule](#munter-mule-overhand)
+ * [Bonus Knots](#bonus-knots)
 
 
-### Figure 8 Follow Through
+### <a name="figure-8-follow-through"></a>Figure 8 Follow Through
 
 > Uses: attaching the rope to your harness (or other closed loops)
 
@@ -43,7 +51,7 @@ alt="Figure 8 knot-tying video">
 * [Figure 8 on a Bight](https://youtu.be/D8jRok7Kofw?t=13) - useful for tying into a trad anchor
 
 
-### Overhand
+### <a name="overhand"></a>Overhand
 
 > Uses: back-up knot, and stopper knot
 
@@ -65,7 +73,7 @@ alt="Overhand knot-tying video">
 * [Double Overhand](https://youtu.be/7Eso8q84aCc?t=7) - same thing, twice the stopping power
 
 
-### Double Fisherman
+### <a name="double-fisherman"></a>Double Fisherman
 
 > Uses: joining two ends of rope, creating a loop
 
@@ -81,7 +89,7 @@ alt="Double Fisherman knot-tying video">
 </a>
 
 
-### Clove Hitch
+### <a name="clove-hitch"></a>Clove Hitch
 
 > Uses: attaching yourself to the anchor, building anchors, attaching things to the center of the rope
 
@@ -98,7 +106,7 @@ alt="Clove Hitch knot-tying video">
 </a>
 
 
-### Girth Hitch
+### <a name="girth-hitch"></a>Girth Hitch
 
 > Uses: attaching a loop to things, building anchors
 
@@ -115,7 +123,7 @@ alt="Girth Hitch knot-tying video">
 </a>
 
 
-### Prusik
+### <a name="prusik"></a>Prusik
 
 > Uses: friction knot to attach a cord to a rope, auto-blocking rappel and belay, ascending rope
 
@@ -131,7 +139,7 @@ alt="Prusik Hitch knot-tying video">
 </a>
 
 
-### Munter Hitch
+### <a name="munter-hitch"></a>Munter Hitch
 
 > Uses: belaying without a belay device
 
@@ -151,7 +159,7 @@ alt="Munter Hitch knot-tying video">
 * The [Super Munter](https://youtu.be/OLaEmPs7tac?t=7) - also used for belaying, but provides more friction so you can belay more weight and slower
 
 
-### Alpine Butterfly Loop
+### <a name="alpine-butterfly-loop"></a>Alpine Butterfly Loop
 
 > Uses: isolating bad sections of rope, attaching yourself to the anchor
 
@@ -167,8 +175,7 @@ sizes="(max-width: 38em) 100vw, 50vw"
 alt="Butterfly knot-tying video">
 </a>
 
-
-### Munter-Mule Overhand
+### <a name="munter-mule-overhand"></a>Munter-Mule Overhand
 
 > Uses: Escaping the belay, passing a knot on rappel, self-rescue
 
@@ -187,25 +194,7 @@ sizes="(max-width: 38em) 100vw, 50vw"
 alt="Munter Mule Hitch knot-tying video">
 </a>
 
-
-### Alpine Butterfly Loop
-
-> Uses: isolating bad sections of rope, attaching yourself to the anchor
-
-The Alpine Butterfly loop is a great way to create a little loop in your rope. And the loop will not come undone if you pull on the rope in either direction. If your rope gets worn or has a [core break](http://www.rollglobal.org/2010/11/ropereplacement/), you can use this knot to isolate the offending section of rope. This also takes less rope than a figure-8-on-a-bight.
-
-<a href="https://youtu.be/gX1dWKg6Ttc?t=7" target="_blank">
-<img src="/assets/images/knots/butterfly_639px.png"
-srcset="/assets/images/knots/butterfly_1280px.png 1280w,
-/assets/images/knots/butterfly_853px.png 853w,
-/assets/images/knots/butterfly_639px.png 639w,
-/assets/images/knots/butterfly_420px.png 420w" 
-sizes="(max-width: 38em) 100vw, 50vw"
-alt="Butterfly knot-tying video">
-</a>
-
-
-### Bonus Knots
+### <a name="bonus-knots"></a>Bonus Knots
 
 * [Monkey's Fist](https://youtu.be/gp9w-T2d_NY?t=7) - Great fun. If your friends look bored, toss them a Monkey's Fist. To be honest, you won't use it much while climbing. But it is helpful if you ever need to throw a rope: up to a climber, or over a tree branch.
 * [One-Handed Figure 8](https://youtu.be/-iE8WG33xJY?t=1) - Look like a cowboy when you tie in. This is more for style points than anything else.
