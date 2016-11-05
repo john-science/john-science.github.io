@@ -24,16 +24,16 @@ What follows is a brief timeline of every major event in Dwarven history, that w
 
 > Much of what happened before the Dwarves were awakened shaped their world.
 
-+ [Eru Ilúvatar](https://en.wikipedia.org/wiki/Eru_Il%C3%BAvatar) creates the gods* [Ainur](https://en.wikipedia.org/wiki/Ainur_%28Middle-earth%29), with [Aulë](https://en.wikipedia.org/wiki/Aul%C3%AB) and [Melkor](https://en.wikipedia.org/wiki/Morgoth) among them. <sub>1</sub>
++ [Eru Ilúvatar](https://en.wikipedia.org/wiki/Eru_Il%C3%BAvatar) creates the gods* [Ainur](https://en.wikipedia.org/wiki/Ainur_%28Middle-earth%29), with [Aulë](https://en.wikipedia.org/wiki/Aul%C3%AB) and [Melkor](https://en.wikipedia.org/wiki/Morgoth) among them. <sub>1 29</sub>
 + Melkor is the greatest of the Ainur, but is overwhelmed by a desire for power. <sub>1</sub>
 + [Arda](https://en.wikipedia.org/wiki/Arda_%28Tolkien%29), the physical world, is created. <sub>1</sub>
-+ Some Ainur descend into Arda to oversee it; they are known as the [Valar](https://en.wikipedia.org/wiki/Vala_%28Middle-earth%29). <sub>1</sub>
++ Some Ainur descend into Arda to oversee it; they are known as the [Valar](https://en.wikipedia.org/wiki/Vala_%28Middle-earth%29). <sub>1 29</sub>
 + Melkor claims Arda for himself, and so becomes the source of all evil. <sub>2</sub>
 + Aulë, god* of skill and craftsmanship, creates the Dwarves in secret from the other Valar. <sub>2 9 26</sub>
 + Ilúvatar tells Aulë to destroy the Dwarves, but stops him at the last moment and allows the Dwarves to exist, stipulating only that they must go to sleep until after the Elves awake. <sub>9 26</sub>
 + [Sauron](https://en.wikipedia.org/wiki/Sauron) is originally a [Maia](https://en.wikipedia.org/wiki/Maia_%28Middle-earth%29), something like a demigod servant, to [Aulë](https://en.wikipedia.org/wiki/Aul%C3%AB); but he is corrupted and becomes the chief lieutenant of [Melkor](https://en.wikipedia.org/wiki/Morgoth). <sub>2</sub>
 + [YT](https://en.wikipedia.org/wiki/History_of_Arda#Years_of_the_Trees) 1050: Elves are awakened by [Ilúvatar](https://en.wikipedia.org/wiki/Eru_Il%C3%BAvatar). <sub>8</sub>
-+ Melkor begins breeding [Orcs](https://en.wikipedia.org/wiki/Orc_%28Middle-earth%29). <sub>9</sub>
++ Melkor begins breeding [Orcs](https://en.wikipedia.org/wiki/Orc_%28Middle-earth%29). <sub>8 9</sub>
 
 <sub>*In the Valquenta, Tolkien writes of the Valar: "Men often called them Gods", but he does not say what the Dwarves called them.</sub>
 
@@ -42,26 +42,26 @@ What follows is a brief timeline of every major event in Dwarven history, that w
 
 > The First Age is counted by Elves as starting before Eru awoke the Dwarves. But Dwarven history starts here; even before the Sun and Moon exist.
 
-+ The seven [Fathers of Dwarves](https://en.wikipedia.org/wiki/Fathers_of_the_Dwarves) are first awakened by [Ilúvatar](https://en.wikipedia.org/wiki/Eru_Il%C3%BAvatar), as are the first [Ents](https://en.wikipedia.org/wiki/Ent). <sub>9 26</sub>
++ The seven [Fathers of Dwarves](https://en.wikipedia.org/wiki/Fathers_of_the_Dwarves) are first awakened by [Ilúvatar](https://en.wikipedia.org/wiki/Eru_Il%C3%BAvatar), as are the first [Ents](https://en.wikipedia.org/wiki/Ent). <sub>9 26 29</sub>
 + [Durin the Deathless](https://en.wikipedia.org/wiki/Durin#Durin_the_Deathless) awakes alone, first of all Dwarves, in [Mount Gundabad](https://en.wikipedia.org/wiki/Minor_places_in_Middle-earth_%28fictional%29#Mount_Gundabad) in the [Misty Mountains](https://en.wikipedia.org/wiki/Misty_Mountains), and it was forever after sacred to the Dwarves. <sub>4 27</sub>
-+ Two Fathers awoke in the Blue Mountains, and there they founded the clans of the [Broadbeams](http://tolkiengateway.net/wiki/Broadbeams) and the [Firebeards](http://tolkiengateway.net/wiki/Firebeards) who later lived in [Nogrod](https://en.wikipedia.org/wiki/Minor_places_in_Beleriand#Nogrod) and [Belegost](https://en.wikipedia.org/wiki/Minor_places_in_Beleriand#Belegost) respectively. <sub>27</sub>
++ Two Fathers awoke in the Blue Mountains, and there they founded the clans of the [Broadbeams](http://tolkiengateway.net/wiki/Broadbeams) and the [Firebeards](http://tolkiengateway.net/wiki/Firebeards) who later lived in [Nogrod](https://en.wikipedia.org/wiki/Minor_places_in_Beleriand#Nogrod) and [Belegost](https://en.wikipedia.org/wiki/Minor_places_in_Beleriand#Belegost) respectively. <sub>27 29</sub>
 + The four other Fathers awoke in the far East. We know the least about these Dwarves, except that they arose in the [Orocarni](http://tolkiengateway.net/wiki/Orocarni) Mountains and formed the four clans [Ironfists](http://tolkiengateway.net/wiki/Ironfists), [Stiffbeards](http://tolkiengateway.net/wiki/Stiffbeards), [Blacklocks](http://tolkiengateway.net/wiki/Blacklocks), and [Stonefoots](http://tolkiengateway.net/wiki/Stonefoots). <sub>27</sub>
 + Durin sees a reflection of himself wearing a crown in the lake [Kheled-zâram](https://en.wikipedia.org/wiki/Minor_places_in_Middle-earth_%28fictional%29#Mirrormere) and then founds [Khazad-dûm](https://en.wikipedia.org/wiki/Moria_%28Middle-earth%29) in the caves behind it. Dwarves begin to gather there and form the composite [Longbeards](http://tolkiengateway.net/wiki/Durin's_Folk) clan. <sub>4</sub>
 + [YT](https://en.wikipedia.org/wiki/History_of_Arda#Years_of_the_Trees) 1250: The Dwarves of Nogrod and Belegost are met by the [Sindarin Elves](https://en.wikipedia.org/wiki/Sindar), etablishing trade. <sub>23</sub>
 + The Dwarves are the first to forge mail armor of linked rings. *Tolkien's works rarely involve plate armor.* <sub>26</sub>
 + YT 1300: The Dwarves of Belegost and the Sindarin Elves begin building the great underground Elven city of [Doriath](https://en.wikipedia.org/wiki/Doriath). <sub>23</sub>
-+ The Dwarves of Nogrod and Belegost build the great [Dwarf-road](http://tolkiengateway.net/wiki/Dwarf-road_of_Beleriand) to [trade](http://www.henneth-annun.net/events_view.cfm?evid=994) with the Elves of Doriath and Beleriand. <sub>23</sub>
-+ YT 1497: Dwarves join the Sindarin and Green Elves in the [First Battle of Beleriand](https://en.wikipedia.org/wiki/First_Battle_of_Beleriand) is the first of the [Wars of Beleriand](https://en.wikipedia.org/wiki/Middle-earth_wars_and_battles#Battles_of_Beleriand) against Melkor. <sub>citation needed</sub>
++ The Dwarves of Nogrod and Belegost build the great [Dwarf-road](http://tolkiengateway.net/wiki/Dwarf-road_of_Beleriand) to [trade](http://www.henneth-annun.net/events_view.cfm?evid=994) with the Elves of Doriath and Beleriand. <sub>23 29</sub>
++ YT 1497: Dwarves join the Sindarin and Green Elves in the [First Battle of Beleriand](https://en.wikipedia.org/wiki/First_Battle_of_Beleriand) is the first of the [Wars of Beleriand](https://en.wikipedia.org/wiki/Middle-earth_wars_and_battles#Battles_of_Beleriand) against Melkor. <sub>31</sub>
 + -1: The moon rises for the first time. <sub>24</sub>
 + 0: The sun rises for the first time. (YT 1500) <sub>24</sub>
 + 0: Humans are awakened by Ilúvatar in [Hildórien](https://en.wikipedia.org/wiki/Minor_places_in_Arda#Hild.C3.B3rien). <sub>25</sub>
 + c 60–200: Melkor persuades humans to stop worshipping Ilúvatar and turn to evil, but some revolt: the Atanatári. Dwarves and the Avari Elves aid these humans in travelling West in search of the Valar. As divine punishment, humans lose the ability to die at will and are doomed to lead short lives at the end of which death takes them by force. <sub>27</sub>
-+ The great Dwarven smith [Telchar](https://en.wikipedia.org/wiki/Middle-earth_dwarf_characters#Telchar) of Nogrod crafts many works, including the famous blades [Narsil](https://en.wikipedia.org/wiki/Middle-earth_weapons_and_armour#Narsil) and [Angrist](https://en.wikipedia.org/wiki/Middle-earth_weapons_and_armour#Angrist) and the [Dragon-helm of Dor-lómin](https://en.wikipedia.org/wiki/Middle-earth_weapons_and_armour#Dragon-helm_of_Dor-l.C3.B3min). <sub>citation needed</sub>
-+ 468: The Dwarves of Belegost join the [Union of Meahdros](https://en.wikipedia.org/wiki/Maedhros) in [Nírnaeth Arnoediad](https://en.wikipedia.org/wiki/N%C3%ADrnaeth_Arnoediad), the fifth battle of the Wars of Beleriand against Melkor. King [Azaghâl](https://en.wikipedia.org/wiki/Middle-earth_dwarf_characters#Azagh.C3.A2l) was slain by [Glaurung](https://en.wikipedia.org/wiki/Glaurung), the first dragon, but not before he stabbed the beast in the stomach making it flee the battle.  (*Since Dwarves were in the first and fifth wars of Beleriand, they were probably in the others.*) <sub>citation needed</sub>
-+ 502: The [Nauglamír](https://en.wikipedia.org/wiki/Middle-earth_objects#Nauglam.C3.ADr) is wrought of the treasure of [Glaurung](https://en.wikipedia.org/wiki/Glaurung), and the [Silmaril](https://en.wikipedia.org/wiki/Silmaril) is hung thereon. [Thingol](https://en.wikipedia.org/wiki/Thingol) quarrels with the Dwarves who had wrought for him the Necklace. (*This was the Silmaril of [Beren](https://en.wikipedia.org/wiki/Beren) and [Lúthien](https://en.wikipedia.org/wiki/L%C3%BAthien)*) <sub>20</sub>
-+ 503: The Dwarves of Belegost and Nogrod invade Doriath. King Elu Thingol is slain and his realm ended.[...] [Curufin](https://en.wikipedia.org/wiki/Curufin) and [Celegorm](https://en.wikipedia.org/wiki/Celegorm), hearing of the sack of [Menegroth](https://en.wikipedia.org/wiki/Doriath), ambushed the Dwarves at the Fords of Ascar as they sought to carry off the Dragon-gold to the mountains. The Dwarves were defeated with great loss, but they cast the gold into the river, which was therefore after named [Rathloriel](http://tolkiengateway.net/wiki/Rathl%C3%B3riel). (*This ambush is sometimes called the [Battle of Sarn Athrad](http://tolkiengateway.net/wiki/Battle_of_Sarn_Athrad). It should be noted that later, Tolkien wrote other Elves out of this battle, saying it was only the Elf Beren and the Ents.*) <sub>20 21</sub>
-+ 545-587: [The War of Wrath](https://en.wikipedia.org/wiki/War_of_Wrath) between the Valar; after which the world West of the [Blue Mountains](https://en.wikipedia.org/wiki/Eriador) is sunk into the sea. Melkor is captured. Two great houses of Dwarves, Nogrod and Belegost, are destroyed; the survivors flee to Khazad-dûm. It is also believed that the original mansions of the four Eastern clans are destroyed in this war. <sub>citation needed</sub>
-+ 590: Melkor is cast into the void. <sub>citation needed</sub>
++ The great Dwarven smith [Telchar](https://en.wikipedia.org/wiki/Middle-earth_dwarf_characters#Telchar) of Nogrod crafts many works, including the famous blades [Narsil](https://en.wikipedia.org/wiki/Middle-earth_weapons_and_armour#Narsil) and [Angrist](https://en.wikipedia.org/wiki/Middle-earth_weapons_and_armour#Angrist) and the [Dragon-helm of Dor-lómin](https://en.wikipedia.org/wiki/Middle-earth_weapons_and_armour#Dragon-helm_of_Dor-l.C3.B3min). <sub>27 29</sub>
++ 468: The Dwarves of Belegost join the [Union of Meahdros](https://en.wikipedia.org/wiki/Maedhros) in [Nírnaeth Arnoediad](https://en.wikipedia.org/wiki/N%C3%ADrnaeth_Arnoediad), the fifth battle of the Wars of Beleriand against Melkor. King [Azaghâl](https://en.wikipedia.org/wiki/Middle-earth_dwarf_characters#Azagh.C3.A2l) was slain by [Glaurung](https://en.wikipedia.org/wiki/Glaurung), the first dragon, but not before he stabbed the beast in the stomach making it flee the battle.  (*Since Dwarves were in the first and fifth wars of Beleriand, they were probably in the others.*) <sub>29 30</sub>
++ 502: The [Nauglamír](https://en.wikipedia.org/wiki/Middle-earth_objects#Nauglam.C3.ADr) is wrought of the treasure of [Glaurung](https://en.wikipedia.org/wiki/Glaurung), and the [Silmaril](https://en.wikipedia.org/wiki/Silmaril) is hung thereon. [Thingol](https://en.wikipedia.org/wiki/Thingol) quarrels with the Dwarves who had wrought for him the Necklace. (*This was the Silmaril of [Beren](https://en.wikipedia.org/wiki/Beren) and [Lúthien](https://en.wikipedia.org/wiki/L%C3%BAthien)*) <sub>20 29</sub>
++ 503: The Dwarves of Belegost and Nogrod invade Doriath. King Elu Thingol is slain and his realm ended.[...] [Curufin](https://en.wikipedia.org/wiki/Curufin) and [Celegorm](https://en.wikipedia.org/wiki/Celegorm), hearing of the sack of [Menegroth](https://en.wikipedia.org/wiki/Doriath), ambushed the Dwarves at the Fords of Ascar as they sought to carry off the Dragon-gold to the mountains. The Dwarves were defeated with great loss, but they cast the gold into the river, which was therefore after named [Rathloriel](http://tolkiengateway.net/wiki/Rathl%C3%B3riel). (*This ambush is sometimes called the [Battle of Sarn Athrad](http://tolkiengateway.net/wiki/Battle_of_Sarn_Athrad). It should be noted that later, Tolkien wrote other Elves out of this battle, saying it was only the Elf Beren and the Ents.*) <sub>20 21 29</sub>
++ 545-587: [The War of Wrath](https://en.wikipedia.org/wiki/War_of_Wrath) between the Valar; after which the world West of the [Blue Mountains](https://en.wikipedia.org/wiki/Eriador) is sunk into the sea. Melkor is captured. Two great houses of Dwarves, Nogrod and Belegost, are destroyed; the survivors flee to Khazad-dûm. It is also believed that the original mansions of the four Eastern clans are destroyed in this war. <sub>32</sub>
++ 590: The Valar thrust Melkor into the Timeless void. <sub>32</sub>
 
 
 ### <a name="second-age"></a>Second Age
@@ -117,22 +117,21 @@ What follows is a brief timeline of every major event in Dwarven history, that w
 
 > Tolkien does not tell us much about the Fourth Age or beyond.
 
-+ c 1-100: The Dwarves of [Erebor](https://en.wikipedia.org/wiki/Lonely_Mountain), [Gimli](https://en.wikipedia.org/wiki/Gimli_%28Middle-earth%29) in particular, rebulid and greatly improve the Human city of [Minas Tirith](https://en.wikipedia.org/wiki/Minas_Tirith). <sub>citation needed</sub>
-+ c 20-120: Gimli returns to [Aglarond](https://en.wikipedia.org/wiki/Helm's_Deep#Aglarond) and founds a Dwarf colony there, where he is known as [Lord of the Glittering Caves](http://tolkiengateway.net/wiki/Lord_of_the_Glittering_Caves). <sub>citation needed</sub>
-+ 120: It is said that Gimli, son of [Glóin](https://en.wikipedia.org/wiki/Middle-earth_dwarf_characters#Gl.C3.B3in.2C_son_of_Gr.C3.B3in), becomes the only Dwarf ever to cross the sea to the [Undying Lands](https://en.wikipedia.org/wiki/Aman_%28Tolkien%29). <sub>19</sub>
-+ [Durin VII](http://tolkiengateway.net/wiki/Durin_VII) (Durin the Last) leads Durin's Folk back to [Khazad-dûm](http://tolkiengateway.net/wiki/Moria) and restores the greatest kingdom of the Dwarves.
-+ Khazad-dûm and Erebor are the two great final kingdoms of the Dwarves. <sub>citation needed</sub>
-+ It is not clear if the Dwarves slowly diminish and are gone from the world or if they simply delve so deeply that they are never seen above ground again. <sub>citation needed</sub>
++ c 1-100: The Dwarves of [Erebor](https://en.wikipedia.org/wiki/Lonely_Mountain), [Gimli](https://en.wikipedia.org/wiki/Gimli_%28Middle-earth%29) in particular, rebulid and greatly improve the Human city of [Minas Tirith](https://en.wikipedia.org/wiki/Minas_Tirith). <sub>4</sub>
++ c 20-120: Gimli returns to [Aglarond](https://en.wikipedia.org/wiki/Helm's_Deep#Aglarond) and founds a Dwarf colony there, where he is known as [Lord of the Glittering Caves](http://tolkiengateway.net/wiki/Lord_of_the_Glittering_Caves). <sub>4</sub>
++ 120: It is said that Gimli, son of [Glóin](https://en.wikipedia.org/wiki/Middle-earth_dwarf_characters#Gl.C3.B3in.2C_son_of_Gr.C3.B3in), becomes the only Dwarf ever to cross the sea to the [Undying Lands](https://en.wikipedia.org/wiki/Aman_%28Tolkien%29). <sub>4 19</sub>
++ In Erebor the line of [Dain](https://en.wikipedia.org/wiki/D%C3%A1in_II_Ironfoot) prospered until there arose again for the last time an heir of that House that bore the name of [Durin](https://en.wikipedia.org/wiki/Durin#Durin_VII), and he returned to [Moria](https://en.wikipedia.org/wiki/Moria_%28Middle-earth%29); and there was light again in deep places, and the ringing of hammers and the harping of harps, until the world grew old and the Dwarves failed and the days of Durin's race were ended. <sub>27</sub>
 
 
 #### <a name="nature-of-dwarves"></a>Nature of Dwarves
 
-+ The average Dwarf is shorter than the average Human or Elf, but taller than the average Hobbit. <sub>citation needed</sub>
-+ The Dwarves were "stone-hard, stubborn, fast in friendship and enmity, and they suffer toil and hunger and hurt of body more heartily than other speaking peoples". <sub>9</sub>
-+ Both male and female Dwarves are born with full beards. <sub>3</sub>
++ Dwarves are "short and squat in stature; they were deep-breasted, strong in the arm, and stout in the leg, and their beards were long." <sub>27</sub>
++ Dwarves are "stone-hard, stubborn, fast in friendship and enmity, and they suffer toil and hunger and hurt of body more heartily than other speaking peoples". <sub>9</sub>
++ Both male and female Dwarves are born with full beards. <sub>3 26</sub>
++ Of Dwarves in the First Age, Tolkien writes, "A warlike race of old were all the [Naugrim](https://en.wikipedia.org/wiki/Dwarf_%28Middle-earth%29#Names), and they would fight fiercely with whomsoever aggrieved them: folk of [Melkor](https://en.wikipedia.org/wiki/Morgoth), or [Eldar](https://en.wikipedia.org/wiki/Sundering_of_the_Elves#Eldar), or [Avari](https://en.wikipedia.org/wiki/Avari_%28Middle-earth%29), or wild beasts, or not seldom with their own kin". <sub>27</sub> *The phrasing would suggest they were less warlike in the later ages.*
 + By the Second Age, Dwarves naturally live about 250 solar years <sub>4</sub>.
 + The Dwarves are secretive about their religion. *But it probably revolves around [Aulë](https://en.wikipedia.org/wiki/Aul%C3%AB).* <sub>9</sub>
-+ The Dwarves are secretive about their language, Khudzul; which was given to them by Aulë. <sub>9 27</sub> (They do not speak Khudzul in front of non-Dwarves and only two outsiders ever learned to speak it: the elves [Eöl](https://en.wikipedia.org/wiki/E%C3%B6l) and [Curufin](https://en.wikipedia.org/wiki/Curufin). Through intensive effort, Khudzul remained unchanged throughout all four ages.) <sub>5 27</sub>
++ The Dwarves are secretive about their language, Khudzul; which was given to them by Aulë (who the Dwarves call Mahar). <sub>9 27</sub> (They do not speak Khudzul in front of non-Dwarves and only two outsiders ever learned to speak it: the elves [Eöl](https://en.wikipedia.org/wiki/E%C3%B6l) and [Curufin](https://en.wikipedia.org/wiki/Curufin). Through intensive effort, Khudzul remained unchanged throughout all four ages.) <sub>5 27 29</sub>
 * Dwarves did not give their real names to outsiders, instead they usually used names from the local Human dialect. Even very famous names, like Durin and Gimli, are only the names they gave to outsiders. <sub>27</sub>
 * The Dwarves had a lunar calendar, that we know little about. <sub>28</sub>
 
@@ -151,8 +150,6 @@ What follows is a brief timeline of every major event in Dwarven history, that w
 
 
 **Citations**
-
-> NOTE: A full citation of this article is in progress.
 
 1. The Silmarillion - Ainulindalë
 2. The Silmarillion - Valaquenta
@@ -182,3 +179,7 @@ What follows is a brief timeline of every major event in Dwarven history, that w
 26. HoME - Volume 11 - Part 2 - Chapter 13 - Concerning the Dwarves
 27. HoME - Volume 12 - Part 10 - Of Dwarves and Men
 28. The Hobbit - Chapter 3 - A Short Rest
+29. The Silmarillion - Index of Names
+30. The Silmarillion - Chapter 20 - Of the Fifth Battle: Nirnaeth Arnoediad
+31. HoME - Volume 11 - The Grey Annals
+32. The Silmarillion - Chapter 24 - Of the Voyage of Earendil and the War of Wrath
