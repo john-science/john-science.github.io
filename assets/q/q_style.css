@@ -16,6 +16,10 @@ li {
 
 /* --------- COLLAPSIBLE PANELS ----------*/
 
+.unit-article .entry-content:first-child h2 {
+    margin-top: 0;
+}
+
 .expandable-panel {
   width: 100%;
   //min-width: 450px;
