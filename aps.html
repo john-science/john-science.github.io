@@ -9,7 +9,7 @@ group: navigation
 {% for ap in site.aps %}
   <h2 id="{{ ap[0] }}-ref">{{ ap[0] }}</h2>
   <ul>
-    {% assign pages_list = ap[1] %}
-    {% include JB/pages_list %}
+    {% assign aps_list = ap[1] %}
+    {% include JB/aps_list %}
   </ul>
 {% endfor %}
