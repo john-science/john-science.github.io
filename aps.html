@@ -1,15 +1,22 @@
 ---
 layout: page
 title: Aps
-header: Aps By Topic
+header: Aps
 group: navigation
 ---
 {% include JB/setup %}
 
-{% for ap in site.aps %}
-  <h2 id="{{ ap[0] }}-ref">{{ ap[0] }}</h2>
+<ul class="tag_box inline">
+  {% assign categories_list = site.categories %}
+  {% include JB/categories_list %}
+</ul>
+
+
+{% for category in site.categories %} 
+  <h2 id="{{ category[0] }}-ref">{{ category[0] | join: "/" }}</h2>
   <ul>
-    {% assign aps_list = ap[1] %}
-    {% include JB/aps_list %}
+    {% assign pages_list = category[1] %}  
+    {% include JB/pages_list %}
   </ul>
 {% endfor %}
+
