@@ -10,28 +10,9 @@ I love text-based games. There is always something distinct and special about a 
 
 And I like to think that, one day, I could create such a game. Maybe it could really happen if it is text-based. Without the need for a big art department and a 3D graphics team and sound engineers, it is just possible that I could create some simple little game that a few people would play and enjoy. Maybe one day. A boy can dream.
 
-The collection that follows are the best text-based games ever made. All of these games have legions of fans. They all did something new, or creative, or fun, that people love.
+The collection that follows are my favorite text-based games ever made. All of these games have legions of fans. They all did something new, or creative, or fun, that people love.
 
 **All these games are free to play, right now!**
-
-
-### ADOM
-
-> 1994-Present, [roguelike](https://en.wikipedia.org/wiki/Roguelike), moderate plot
-
-```
-####....................
-...#.....######........=
-.........#.t..#........=
-####.....#..@.#........=
-.........#....#......T..
-.........##/###......T..
-.....................T..
-```
-
-[ADOM](https://en.wikipedia.org/wiki/Ancient_Domains_of_Mystery) is a roguelike with more story than most. I don't want to spoiler it, but you're saving the world from some sort of invasion. Most of the monsters you fight are involved with the invasion and there is somewhat more thought put into how it all ties together. The latest version even has an isomorphic 2.5-dimensional display, if straight text isn't your thing. This is the only roguelike to go commerical, but it's still free to play, not freemium. And the community is alive and well. It's a well-developed game with a good culture behind it.
-
-* [Download Game](http://www.adom.de/home/index.html)
 
 
 ### Anchorhead
@@ -53,16 +34,6 @@ The collection that follows are the best text-based games ever made. All of thes
 
 * [Play Online](http://pr-if.org/play/anchorhead/)
 * [Solution Guide](http://ifarchive.giga.or.at/if-archive/solutions/AnchorSolve.txt) - Full Spoilers, obvs
-
-
-### Angband
-
-> 1990-Present, [roguelike](https://en.wikipedia.org/wiki/Roguelike), little plot (open-source)
-
-[Angband](http://www.roguebasin.com/index.php?title=Angband) is perhaps slightly less popular that NetHack (see below), but the early game is designed a big better for players new to "roguelikes". Angband has a lot of flexibility and configuration at the start, which Nethack lacks. And a slightly nicer interface, so it's better for beginners. Though I think like NetHack had a bigger online presence. People new to the genre might see little difference between Angband and NetHack.
-
-* [Download Game](http://trac.rephial.org/)
-* [Download Code](https://github.com/angband/angband)
 
 
 ### A Dark Room
@@ -194,15 +165,19 @@ Sprocket the Evoker        St:12 Dx:12 Co:12 In:18 Wi:11 Ch:10  Neutral
 Dlvl:2  $:94 HP:17(17) Pw:23(23) AC:9  Xp:2/25 T:707
 ```
 
-[NetHack](https://en.wikipedia.org/wiki/NetHack) is possibly the most popular roguelike out there (see Angband). It's classic. Fight to the bottom level of a dungeon, find a thing, and fight your way back up again. The online community is big and active. Live-streaming serves allow players to watch each other to learn to do better. NetHack is, perhaps, a bit less beginner friendly. But unlike Angband, there is a clear way for people to compare scores and compete.
+[NetHack](https://en.wikipedia.org/wiki/NetHack) is possibly the most popular roguelike out there. It's classic. Fight to the bottom level of a dungeon, find a thing, and fight your way back up again. The online community is big and active. Live-streaming serves allow players to watch each other to learn to do better. 
 
 * [Download Game](http://www.nethack.org/v360/downloads.html)
 * [Download Code](https://github.com/NetHack/NetHack)
 * [Official Site](http://www.nethack.org/)
 * [Guidebook](http://www.nethack.org/v360/Guidebook.html)
+* [iNetHack2 on iOS](https://itunes.apple.com/us/app/inethack2/id962114968?mt=8) - I've tried dozens of versions of NetHack for my phone, but the game was originally designed for a keyboard. So it is hard to adapt. This is my favorite iOS adaptation.
 
-There are dozens of version of NetHack you can get for your phone or tablet. But the original game expected you to have a full keyboard, so I find the controls pretty awkward on most of these. After trying more than a dozen, my favourite is the iOS app [iNetHack 2](https://itunes.apple.com/us/app/inethack2/id962114968?mt=8).
+Also, I haven't played either [ADOM](https://en.wikipedia.org/wiki/Ancient_Domains_of_Mystery) or [Angband](http://www.roguebasin.com/index.php?title=Angband), but they are probably the other two most popular roguelikes out there. Angband is supposed to be a bit more beginner friendly and a lot more customizable than NetHack. And ADOM is decended from the same place, but has more plot and content.
 
+* [Download ADOM Game](http://www.adom.de/home/index.html) - 1994-Present, roguelike, moderate plot
+* [Download Angband Game](http://trac.rephial.org/) - 1990-Present, roguelike, little plot (open-source)
+* [Download Angband Code](https://github.com/angband/angband)
 
 ### Rogue
 
