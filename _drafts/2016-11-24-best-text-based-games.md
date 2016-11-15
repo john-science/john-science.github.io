@@ -6,11 +6,11 @@ summary: The best text-based computer games of all time.
 ---
 {% include JB/setup %}
 
-I love text-based games. There is always something distinct and special about a game designed by a single person, or a small time, instead of a giant corporation. They have better stories and a more cohesive personality.
+I love text-based games. They are frequently a lot more unique and interesting than your average video/computer game. Maybe it is because they can focus on the actual content of the game, rather than just making the 3D graphics awesome. Or maybe games just turn out better when they can be built by one person alone, rather than created by a committee in some giant corporation. Who knows.
 
-And I like to think that, one day, I could create such a game. Maybe it could really happen if it is text-based. Without the need for a big art department and a 3D graphics team and sound engineers, it is just possible that I could create some simple little game that a few people would play and enjoy. Maybe one day. A boy can dream.
+Maybe I just love the idea that one day even I could write a great text-based game. Without all the fuss of a huge 3D art team, sound engineers, and corporate stooges, it is just possible that I could create a little game that a few people would love. Maybe one day. A boy can dream.
 
-The collection that follows are my favorite text-based games ever made. All of these games have legions of fans. They all did something new, or creative, or fun, that people love.
+The following are my favorite text-based games. All of these games have legions of fans. They all did something new, or creative, or fun, and people love them.
 
 **All these games are free to play, right now!**
 
@@ -24,10 +24,10 @@ The collection that follows are my favorite text-based games ever made. All of t
     
     Local Pub
     A dank, drafty old drinking hole lit by flickering oil-burning lanterns. Smoke collects in greasy pools among the rafters, and shadows crowd thick around. The bar runs the length of the room to your right, while to the south a low doorway opens onto the street.
-    Mill workers and fisherman occupy a few of the tables, drinking beer or puffy grimly at long-stemmed pipes. Each is wrapped in his solitude, soaking up the general miasma of dreary fatalism.
+    Mill workers and fishermen occupy a few of the tables, drinking beer or puffing grimly at long-stemmed pipes. Each is wrapped in his solitude, soaking up the general miasma of dreary fatalism.
     The lantern sitting on the table nearest you sputters fitfully, throwing distorted shadows across the wall.
     
-    > say "Help! I'm being chased!" to the fisherman
+    > say "Help! I'm being chased!" to a fisherman
     No one answers you, or even looks your way.
 
 [Anchorhead](https://en.wikipedia.org/wiki/Anchorhead) is based on the works of HP Lovecraft, especially the stories involving Cthulu. You are a young woman who just moved to a small, coastal town with your husband. But things start out strange and get stranger. The story is well-written and haunting with the a lot of great atmospheric detail. To move the story forward you have to solve puzzles, but you can also explore the big, open world and no one will stop you. The puzzles themselves are really natural and flow well with the story of the game. I went into the game hoping for quiet dread, and I got it.
@@ -51,7 +51,7 @@ The collection that follows are my favorite text-based games ever made. All of t
       V,,   ..
 ```
 
-[A Dark Room](https://en.wikipedia.org/wiki/A_Dark_Room) was [reviewed by the New Yorker](http://www.newyorker.com/tech/elements/a-dark-room-the-best-selling-game-that-no-one-can-explain) as a game no one can explain. And while you might have a hard time figuring out which genre to file this game under, the game itself is easy to understand once you start playing. The reason for that is that the game starts so simply you might not think it is a game at all. You are alone in the dark and you are cold. So start a fire. And the longer your fire burns, the more people will come to warm themselves by it. Until you have a village and a town with people working together to fend off the terrors of the world. And you can go exploring the world to find resources to help your people. There are some really fun mechanics in this game.
+[A Dark Room](https://en.wikipedia.org/wiki/A_Dark_Room) was [reviewed by the New Yorker](http://www.newyorker.com/tech/elements/a-dark-room-the-best-selling-game-that-no-one-can-explain) as a game no one can explain. And while you might have a hard time figuring out which genre to file this game under, the game itself is easy to understand once you start playing. In fact, the game starts so simply you might not think it is a game at all. You are alone in the dark and you are cold. So start a fire. And the longer your fire burns, the more people will come to warm themselves by it. Soon you have a village of people that need your help. You can defend them against the terrors of the world, or go off exploring. There are some really fun mechanics in this game.
 
 * [Play Online](http://adarkroom.doublespeakgames.com/)
 * [Play iOS](https://itunes.apple.com/us/app/a-dark-room/id736683061?mt=8) or [Play Android](https://play.google.com/store/apps/details?id=com.yourcompany.adarkroom&hl=en)
@@ -61,7 +61,6 @@ The collection that follows are my favorite text-based games ever made. All of t
 ### Candy Box
 
 > 2013, puzzle-based [RPG](https://en.wikipedia.org/wiki/Role-playing_game)
-
 
 ```
 +--------------------------------------------------------------------------------------------------+
@@ -100,7 +99,7 @@ At first this will barely feel like a game; there is nothing to it. But the more
     You kill the sailor.
     You get the feeling that someone is watching you - as if this is all a game somehow.    
 
-The [Discworld MUD](https://en.wikipedia.org/wiki/Discworld_MUD) is a hilarious, old school MUD based on Terry Pratchett's wildly successful comedy fantasy book series. This open-world game has more content than any other game ever created. No joke, the community has been adding content for 25 years now and you will never, ever see it all. The game is generally pretty funny, and though some players have had the same character for years, there is serious permadeath in the game. This is my all-time favorite MUD, and I have spent so much time playing it I should probably be embarassed. (I'm not.) GNU Terry Pratchett.
+The [Discworld MUD](https://en.wikipedia.org/wiki/Discworld_MUD) is a hilarious, old school MUD based on Terry Pratchett's wildly successful comedy fantasy book series. This open-world game has more content than any other game ever created. No joke, the community has been adding content for 25 years now and you will never, ever see it all. The game is pretty funny, and though some players have had the same character for years, there is serious permadeath in the game. This is my all-time favorite MUD, and I have spent so much time playing it I should probably be embarassed. (I'm not.) GNU Terry Pratchett.
 
 * [Play Oline](http://discworld.atuin.net/lpc/)
 * [Newbie Cheat Sheet](http://discworld.starturtle.net/lpc/playing/documentation.c?path=/newbie/essentials)
@@ -108,9 +107,9 @@ The [Discworld MUD](https://en.wikipedia.org/wiki/Discworld_MUD) is a hilarious,
 
 ### Dwarf Fortress
 
-> 2002-Present, [tile-based](https://en.wikipedia.org/wiki/Tile-based_video_game), world simulator, dwarf-mine simulator
+> 2002-Present, [tile-based](https://en.wikipedia.org/wiki/Tile-based_video_game) world simulator, dwarf-mine simulator
 
-[Dwarf Fortress](https://en.wikipedia.org/wiki/Dwarf_Fortress) is a phenomenon. It is, by a wide margin, the most complicated game in the world. You control a dirty band of dwarves, trying to build a new mine to call home. But the world is brutal and hard and it takes a lot to build a society that will stand the tests of time. Anything is possible in this game, and the amount of detail is amazing. But you will also have to learn more than you ever have to play the game, and you will have to micromanage every detail of the lives of all your dwarves to succeed. There is also a less popular, optional play style in this game where you are just one dwarf roaming the world as an adventurer. Though this doesn't appear to be nearly as popular as the fortress-building mode. If you meet someone who plays this game, they will have hilarious stories to tell you. But *never* disparage their game; they might go berzerk and attack you with a chair.
+[Dwarf Fortress](https://en.wikipedia.org/wiki/Dwarf_Fortress) is a phenomenon. It is, by a wide margin, the most complicated game in the world. You control a dirty band of dwarves, trying to build a new mine to call home. But the world is brutal and hard and it takes a lot to build a society that will stand the tests of time. Anything is possible in this game, and the amount of detail is amazing. But this game also has a steeper learning curve than any other game ever created. You will have to micromanage every detail of the lives of all your dwarves to succeed. There is also a less popular, optional play style in this game where you are just one dwarf roaming the world as an adventurer. I love talking to people who play this game, they have the wierdest stories to tell. But *never* disparage their game; they might go berzerk and attack you with a chair.
 
 * [Download Game](http://www.bay12games.com/dwarves/)
 * [Fan Wiki](http://dwarffortresswiki.org/)
@@ -126,7 +125,7 @@ The [Discworld MUD](https://en.wikipedia.org/wiki/Discworld_MUD) is a hilarious,
     > escape
     You are so keen to escape that you literally leap through the fabric of the space-time continuum. You wake up in a shack in tenth-century Earth. A dressing gown, a toothbrush, and a flathead axe lie by your bed. Before you have a chance to move, Mongol hordes sweep magnificently across the plains of central Asia. They knock down your shack and burn the remains with you inside. You lost interest in the rest of the game.
 
-[The Hitchhiker's Guide](https://en.wikipedia.org/wiki/The_Hitchhiker's_Guide_to_the_Galaxy_%28video_game%29) is interactive fiction game based on the sci-fi comedy [novel](https://en.wikipedia.org/wiki/The_Hitchhiker's_Guide_to_the_Galaxy) by Douglas Adams. Adams had a real gift for humor and loved technology. The writing in the game is great; relaxed and hilarious. It follows the story of Arthur Dent as he is forced to hitchhike around the galaxy looking for a girl and a cup of tea. The game *might* be easier if you've read the book, but honestly I doubt it. This game will kill you - a lot. If that sounds frustrating, this probably isn't the game for you.
+[The Hitchhiker's Guide](https://en.wikipedia.org/wiki/The_Hitchhiker's_Guide_to_the_Galaxy_%28video_game%29) is interactive fiction game based on the sci-fi comedy [novel](https://en.wikipedia.org/wiki/The_Hitchhiker's_Guide_to_the_Galaxy) by Douglas Adams. Adams had a real gift for humor and loved technology. The writing in the game is great; relaxed and hilarious. It follows the story of Arthur Dent as he is forced to hitchhike around the galaxy looking for a girl and a cup of tea. The game *might* be easier if you've read the book, but I doubt it. This game will kill you - a lot. If that sounds frustrating, this probably isn't the game for you.
 
 **Pro Tip:** If your version of the game allows you to save your progress, do that as often as you can.
 
@@ -165,7 +164,7 @@ Sprocket the Evoker        St:12 Dx:12 Co:12 In:18 Wi:11 Ch:10  Neutral
 Dlvl:2  $:94 HP:17(17) Pw:23(23) AC:9  Xp:2/25 T:707
 ```
 
-[NetHack](https://en.wikipedia.org/wiki/NetHack) is possibly the most popular roguelike out there. It's classic. Fight to the bottom level of a dungeon, find a thing, and fight your way back up again. The online community is big and active. Live-streaming serves allow players to watch each other to learn to do better. 
+[NetHack](https://en.wikipedia.org/wiki/NetHack) is possibly the most popular roguelike out there. It is a classic. Fight to the bottom level of a dungeon, find a thing, and fight your way back up again. The online community is big and active. Live-streaming servers allow players to watch each other play to learn to do better. The controls are pretty-old school: while you are learning to play the game you will have to keep looking up various commands to do things. But people who make it past the learning curve in roguelikes tend to get totally obsessed and play the game over and over again for years.
 
 * [Download Game](http://www.nethack.org/v360/downloads.html)
 * [Download Code](https://github.com/NetHack/NetHack)
@@ -173,9 +172,9 @@ Dlvl:2  $:94 HP:17(17) Pw:23(23) AC:9  Xp:2/25 T:707
 * [Guidebook](http://www.nethack.org/v360/Guidebook.html)
 * [iNetHack2 on iOS](https://itunes.apple.com/us/app/inethack2/id962114968?mt=8) - I've tried dozens of versions of NetHack for my phone, but the game was originally designed for a keyboard. So it is hard to adapt. This is my favorite iOS adaptation.
 
-Also, I haven't played either [ADOM](https://en.wikipedia.org/wiki/Ancient_Domains_of_Mystery) or [Angband](http://www.roguebasin.com/index.php?title=Angband), but they are probably the other two most popular roguelikes out there. Angband is supposed to be a bit more beginner friendly and a lot more customizable than NetHack. And ADOM is decended from the same place, but has more plot and content.
+NetHack is not the only roguelike. It is just the one I like. Two other popular options are [ADOM](https://en.wikipedia.org/wiki/Ancient_Domains_of_Mystery) and [Angband](http://www.roguebasin.com/index.php?title=Angband). Angband is supposed to be a bit more beginner friendly and a lot more customizable than NetHack. And ADOM has a lot more unique plot and content.
 
-* [Download ADOM Game](http://www.adom.de/home/index.html) - 1994-Present, roguelike, moderate plot
+* [Download ADOM](http://www.adom.de/home/index.html) - 1994-Present, roguelike, moderate plot
 * [Download Angband Game](http://trac.rephial.org/) - 1990-Present, roguelike, little plot (open-source)
 * [Download Angband Code](https://github.com/angband/angband)
 
@@ -204,12 +203,12 @@ Also, I haven't played either [ADOM](https://en.wikipedia.org/wiki/Ancient_Domai
 ----------
 ```
 
-[Rogue](https://en.wikipedia.org/wiki/Rogue_%28video_game%29) is a tile-based, text-only, procedurally-generated, adventure game where you delve dungeons, fight evil monsters, and collect treasure. Rogue is pretty light on plot; the goal was to fight your way to the bottom of a dungeon to get a thing. In the decades since this game was first released it has spawned an entire genre of games that still has a really [active community](http://www.roguebasin.com/index.php?title=Main_Page) today. [NetHack](http://www.nethack.org/) is the most popular, followed closely by [Angband](http://trac.rephial.org/), with [ADOM](http://www.adom.de/home/index.html) making a huge comeback today.
+[Rogue](https://en.wikipedia.org/wiki/Rogue_%28video_game%29) is a tile-based, text-only, procedurally-generated, adventure game where you delve dungeons, fight monsters, and collect treasure. Rogue is pretty light on plot; the goal was to fight your way to the bottom of a dungeon to get a thing. In the decades since this game was first released it has spawned an entire genre of games that still has a really [active community](http://www.roguebasin.com/index.php?title=Main_Page) today. [NetHack](http://www.nethack.org/) is the most popular, followed closely by [Angband](http://trac.rephial.org/), with [ADOM](http://www.adom.de/home/index.html) making a big comeback lately.
 
-These days you can play Rogue and all the other roguelikes on your phone, but I find the original game was defined for a full keyboard and so it plays best that way.
+These days you can play Rogue and all the other roguelikes on your phone, but I find the original game was designed for a full keyboard and so it is still best to play that way.
 
 * [Play Online](https://archive.org/details/msdos_Rogue_1983)
-* [Rogue Commands](http://www.nongnu.org/gmoria/moria.html#Commands) - Which button is what
+* [Rogue Commands](http://www.nongnu.org/gmoria/moria.html#Commands) - A handy guide to what all the game controls.
 
 ### Zork
 
@@ -227,7 +226,7 @@ Oh, no! You have walked into the slavering fangs of a luring grue!
    **** You have died ****
 ```
 
-[Zork](https://en.wikipedia.org/wiki/Zork#Zork_III:_The_Dungeon_Master) is interactive fiction from the dawn of Unix Time. You are dropped into a world and given no introduction as to why you are there. You have to figure everything out for yourself. There will be puzzles to solve, but no one is going to tell you that. It helps if you are the type of person to remember little details they saw ten minutes ago. A modern player might think Zork is just too hard, but computer games just used to be harder. If you are not scared by that, Zork is probably for you.
+[Zork](https://en.wikipedia.org/wiki/Zork#Zork_III:_The_Dungeon_Master) is interactive fiction from the dawn of Unix Time. You are dropped into a world and given no introduction as to why you are there. You have to figure everything out for yourself. There will be puzzles to solve, but no one is going to tell you that. It helps if you are the type of person to remember little details they saw ten minutes ago. A modern player might think Zork is just too hard, but you just have to remember that computer games used to be harder. If you are not scared by that, Zork is probably for you.
 
 * [Play Online - Zork 1](https://archive.org/details/a2_Zork_I_The_Great_Underground_Empire_1980_Infocom)
 * [Play Online - Zork 2](https://archive.org/details/a2_Zork_II_The_Wizard_of_Frobozz_1981_Infocom_a)
