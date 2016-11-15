@@ -1,5 +1,6 @@
 ---
 layout: post
+category: climbing
 title: "Rock Climbing Knots"
 tags: [Rock Climbing, Outdoors]
 summary: A minimal set of knots that I absolutely must know to go rock climbing.
