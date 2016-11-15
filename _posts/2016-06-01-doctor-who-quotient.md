@@ -46,5 +46,5 @@ If you started watching Doctor Who today and got totally obsessed, you could wat
 Q = (263 - 26) / 263 = 0.9  (wildly insane)
 {% endhighlight %}
 
-#### [Find  your Q.](/aps/q.html)
+#### [Find  your Q.](/apps/q.html)
 <br/>
