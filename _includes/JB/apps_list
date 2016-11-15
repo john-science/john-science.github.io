@@ -1,0 +1,14 @@
+{% if site.JB.apps_list.provider == "custom" %}
+  {% include custom/apps_list %}
+{% else %}
+  {% if apps_list.first[0] == null %}
+    {% for app in apps_list %} 
+    	<li><a href="{{ BASE_PATH }}{{ site.JB.apps_path }}#{{ app }}-ref">{{ app }} <span>{{ site.apps[app].size }}</span></a></li>
+    {% endfor %}
+  {% else %}
+    {% for app in apps_list %} 
+    	<li><a href="{{ BASE_PATH }}{{ site.JB.apps_path }}#{{ app[0] }}-ref">{{ app[0] }} <span>{{ app[1].size }}</span></a></li>
+    {% endfor %}
+  {% endif %}
+{% endif %}
+{% assign apps_list = nil %}
