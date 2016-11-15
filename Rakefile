@@ -79,6 +79,8 @@ end # task :post
 desc "Create a new page."
 task :page do
   name = ENV["name"] || "new-page.md"
+  category = ENV["category"] || ""
+  category = "\"#{category.gsub(/-/,' ')}\"" if !category.empty?
   filename = File.join(SOURCE, "#{name}")
   filename = File.join(filename, "index.html") if File.extname(filename) == ""
   title = File.basename(filename, File.extname(filename)).gsub(/[\W\_]/, " ").gsub(/\b\w/){$&.upcase}
@@ -93,6 +95,7 @@ task :page do
     post.puts "layout: page"
     post.puts "title: \"#{title}\""
     post.puts 'description: ""'
+    post.puts "category: #{category}"
     post.puts "---"
     post.puts "{% include JB/setup %}"
   end
