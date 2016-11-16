@@ -92,7 +92,7 @@
 			}
 
 			// assign updateGroupTotal function to onclick for group checkbox
-			for (var j = 1; j <= numStories; j++) {
+			for (var j = 1; j <= totalpanels; j++) {
 				groupBox = document.getElementById('group' + j.toString());
 				groupBox.onclick = updateGroupTotal;
 			}
