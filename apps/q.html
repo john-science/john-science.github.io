@@ -6,32 +6,31 @@ group: apps
 ---
 {% include JB/setup %}
 
-<link rel="stylesheet" type="text/css" href="/assets/q/q_style.css">
+<link rel="stylesheet" type="text/css" href="/assets/q_style.css">
 
 <h2>Doctor Who Quotient</h2>
 <form action="#" method="post" class="demoForm" id="demoForm">
   <fieldset>
 	<table class="eqn-table">
-	  <tr>
-	    <td>
-	      <div style="float:left;">Q = </div>
-	    </td>
-	    <td>
-	      <div style="float:left">
-	        <div class="eqn-numerator">(# of complete stories you've seen) / (# total)</div>
-	        <div style="text-align:center;">
-	          <input type="text" name="total" id="total" class="q-total-input" size="3" value="0" readonly="readonly" /> / 263</div>
-	      </div>
-	    </td>
-	  </tr>
+		<tr>
+			<td>
+				<div style="float:left;">Q = </div>
+			</td>
+			<td>
+				<div style="float:left">
+				<div class="eqn-numerator">(# of complete stories you've seen) / (# total)</div>
+				<div style="text-align:center;">
+				<input type="text" name="total" id="total" class="q-total-input" size="3" value="0" readonly="readonly" /> / 263</div>
+				</div>
+			</td>
+		</tr>
 	</table>
 	<p>
-	  <label class="q-input-label">Q =
-	    <input type="text" name="q" id="q" class="q-input" size="3" value="0.00" readonly="readonly" />
-	  </label>
+		<label class="q-input-label">Q =
+			<input type="text" name="q" id="q" class="q-input" size="3" value="0.00" readonly="readonly" />
+		</label>
 	</p>
     <br/>
-
 
     <div id="container">
       <div class="expandable-panel" id="cp-1">
@@ -4138,7 +4137,7 @@ group: apps
           <div>&nbsp;</div>
         </div>
       </div>
-      
+
       <!--
       <div class="expandable-panel" id="cp-38">
         <div class="expandable-panel-heading">
@@ -4322,6 +4321,7 @@ group: apps
       -->
     </div>
   </fieldset>
+<input type="hidden" id="number_of_panels" value="37" />
 </form>
 
 <br></br>
@@ -4330,16 +4330,17 @@ group: apps
 	<div class="social">
 		<div id="disqus_thread"></div>
 		<script type="text/javascript">
-		    var disqus_shortname = 'antineutrino';
-		    var disqus_identifier = '/apps/q.html';
-		    (function() {
-		        var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
-		        dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
-		        (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
-		    })();
+			var disqus_shortname = 'antineutrino';
+			var disqus_identifier = '/apps/q.html';
+			(function() {
+				var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+				dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+				(document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+			})();
 		</script>
 	</div><!-- social -->
 </div><!-- misc-content -->
 
-<script src="/assets/q/jquery-2.2.4.min.js"></script>
+<script src="/assets/js/jquery-2.2.4.min.js"></script>
+<script src="/assets/js/expandable_panels.js"></script>
 <script src="/assets/q/q.js"></script>
