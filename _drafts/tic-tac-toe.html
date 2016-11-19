@@ -6,11 +6,17 @@ group: apps
 ---
 {% include JB/setup %}
 
-<h2>Tick Tack Toe</h2>
+<p>You are <span id="you">X</span>.</p>
 
 <form name="tictactoe" id="tictactoe">
 </form>
 
-<p id="ppp">Your turn X.</p>
+<h4>Scoreboard:</h4>
+<table width="75%">
+<tr style="align: right;">
+<td align="left">You: <span id="score_you">0</span></td>
+<td align="right">Computer: <span id="score_comp">0</span></td>
+</tr>
+</table>
 
 <script src="/assets/apps/tictactoe.js"></script>
