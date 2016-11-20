@@ -6,17 +6,17 @@ group: apps
 ---
 {% include JB/setup %}
 
-<p>You are <span id="you">X</span>.</p>
+<p style="text-align:center;"><span id="marquee">You are X.</span></p>
 
 <form name="tictactoe" id="tictactoe">
 </form>
 
 <h4>Scoreboard:</h4>
 <table width="75%">
-<tr style="align: right;">
-<td align="left">You: <span id="score_you">0</span></td>
-<td align="right">Computer: <span id="score_comp">0</span></td>
-</tr>
+  <tr style="align: right;">
+    <td align="left">You: <span id="score_you">0</span></td>
+    <td align="right">Computer: <span id="score_comp">0</span></td>
+  </tr>
 </table>
 
 <script src="/assets/apps/tictactoe.js"></script>
