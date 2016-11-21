@@ -11,15 +11,14 @@ group: navigation
 {% assign pages_list = site.pages %}
 {% include JB/apps_list %}
 </ul>
--->
 
 <ul class="tag_box inline">
   {% assign categories_list = site.pages %}
   {% include JB/categories_list %}
 </ul>
+-->
 
-
-{% for cat in site.categories_list %}
+{% for cat in site.pages %}
   <h3 id="{{ cat[0] }}-ref">{{ cat[0] }}</h3>
   <ul>
     {% assign categories_list = cat[1] %}
