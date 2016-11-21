@@ -1,0 +1,15 @@
+---
+layout: page
+title: Articles by Topic
+header: Articles By Topic
+group: navigation
+---
+{% include JB/setup %}
+
+{% for tag in site.pages %}
+  <h3 id="{{ tag[0] }}-ref">{{ tag[0] }}</h3>
+  <ul>
+    {% assign pages_list = tag[1] %}
+    {% include JB/apps_list %}
+  </ul>
+{% endfor %}
