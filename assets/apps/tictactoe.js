@@ -60,7 +60,9 @@ function mark_square(nn) {
         ai_move();
       }
     } else {
-      ai_move();
+      if (!game_restart) {
+        ai_move();
+      }
     }
   }
 }
