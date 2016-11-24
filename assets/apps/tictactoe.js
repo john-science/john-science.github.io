@@ -20,7 +20,7 @@ function init_board() {
 
   // building HTML for board
   for (i = 0; i < 9; i++) {
-    board += '<input type="button" style="font-size: ' + parseInt(2 * size / 3).toString() + 'px; width: ' + size.toString() + 'px; height: ' + size.toString() + 'px" id="cell-' + i.toString() + '" />';
+    board += '<input type="button" style="padding:0px; margin:0px; font-size: ' + parseInt(2 * size / 3).toString() + 'px; width: ' + size.toString() + 'px; height: ' + size.toString() + 'px" id="cell-' + i.toString() + '" />';
     if (i % 3 == 2) board += '<br />';
   }
   board += '</div>';
