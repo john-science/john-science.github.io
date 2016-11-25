@@ -16,14 +16,15 @@ function init_board() {
   // draw 3x3 board of buttons
   ttt = document.getElementById("tictactoe");
   size = parseInt(ttt.offsetWidth / 6);
-  board = '<div style="-webkit-appearance: none; text-align:center; height:' + (3 * size).toString() + 'px;">'
+  board = '<table style="border:0px; margin: auto; padding: 0px; text-align:center; -webkit-appearance: none; height:' + (3 * size).toString() + 'px;">'
 
   // building HTML for board
   for (i = 0; i < 9; i++) {
-    board += '<input type="button" style="padding:0px; margin:0px; -webkit-appearance: none; font-size: ' + parseInt(2 * size / 3).toString() + 'px; width: ' + size.toString() + 'px; height: ' + size.toString() + 'px" id="cell-' + i.toString() + '" />';
-    if (i % 3 == 2) board += '<br />';
+    if (i % 3 == 0) board += '<tr>';
+    board += '<td><input type="button" style="-webkit-appearance: none; font-size: ' + parseInt(2 * size / 3).toString() + 'px; width: ' + size.toString() + 'px; height: ' + size.toString() + 'px" id="cell-' + i.toString() + '" /></td>';
+    if (i % 3 == 2) board += '</tr>';
   }
-  board += '</div>';
+  board += '</table>';
   ttt.innerHTML = board;
 
   // attach event listeners to buttons
