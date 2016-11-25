@@ -16,7 +16,7 @@ function init_board() {
   // draw 3x3 board of buttons
   ttt = document.getElementById("tictactoe");
   size = parseInt(ttt.offsetWidth / 6);
-  board = '<div style="text-align:center; height:' + (3 * size).toString() + 'px;">'
+  board = '<div style="-webkit-appearance: none; text-align:center; height:' + (3 * size).toString() + 'px;">'
 
   // building HTML for board
   for (i = 0; i < 9; i++) {
