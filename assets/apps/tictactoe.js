@@ -16,11 +16,11 @@ function init_board() {
   // draw 3x3 board of buttons
   ttt = document.getElementById("tictactoe");
   size = parseInt(ttt.offsetWidth / 6);
-  board = '<table style="border:0px; margin: auto; padding: 0px; text-align:center; -webkit-appearance: none; height:' + (3 * size).toString() + 'px;">'
+  board = '<table style="border:0px; margin: auto; padding: 0px; text-align:center; -webkit-appearance: none; height:' + (3 * size).toString() + 'px; width:' + (3 * size).toString() + 'px;">'
 
   // building HTML for board
   for (i = 0; i < 9; i++) {
-    if (i % 3 == 0) board += '<tr>';
+    if (i % 3 == 0) board += '<tr style="background-color: #FFFFFF">';
     board += '<td><input type="button" style="-webkit-appearance: none; font-size: ' + parseInt(2 * size / 3).toString() + 'px; width: ' + size.toString() + 'px; height: ' + size.toString() + 'px" id="cell-' + i.toString() + '" /></td>';
     if (i % 3 == 2) board += '</tr>';
   }
