@@ -21,7 +21,7 @@ function init_board() {
   // building HTML for board
   for (i = 0; i < 9; i++) {
     if (i % 3 == 0) board += '<tr style="background-color: #FFFFFF">';
-    board += '<td><input type="button" style="-webkit-appearance: none; font-size: ' + parseInt(2 * size / 3).toString() + 'px; width: ' + size.toString() + 'px; height: ' + size.toString() + 'px" id="cell-' + i.toString() + '" /></td>';
+    board += '<td><input type="button" style="-webkit-appearance: none; font-size: ' + parseInt(2 * size / 3).toString() + 'px; width: ' + size.toString() + 'px; height: ' + size.toString() + 'px;" id="cell-' + i.toString() + '" /></td>';
     if (i % 3 == 2) board += '</tr>';
   }
   board += '</table>';
