@@ -1,0 +1,41 @@
+---
+layout: page
+title: BMI Calculator
+tagline: Body Mass Index Calculator
+group: apps
+category: calculator
+---
+{% include JB/setup %}
+
+
+
+<form id="bmi_calc" name="bmi_calc" style="-webkit-appearance: none;">
+  <table style="-webkit-appearance: none; border:0px; margin: auto; padding: 0px; text-align: left;">
+
+  <tr style="background-color: #FFFFFF;"><td>Units</td></tr>
+  <tr style="background-color: #FFFFFF;"><td>
+      <input type="radio" id="units_metric" name="units" value="3">Metric &nbsp; 
+      <input type="radio" id="units_us" name="units" value="5" checked>Imperial
+  </td></tr>
+  <tr style="background-color: #FFFFFF;"><td>&nbsp;</td></tr>
+  <tr style="background-color: #FFFFFF;"><td>Height</td></tr>
+  <tr style="background-color: #FFFFFF;"><td>
+      <input type="text" id="height_major" name="height_major" value="5" size="3" style="padding: 5px; text-align: center;" /> (<span id="height_major_units">ft</span>) &nbsp; 
+      <input type="text" id="height_minor" name="height_minor" value="9" size="3" style="padding: 5px; text-align: center;" /> (<span id="height_minor_units">in</span>)
+  </td></tr>
+  <tr style="background-color: #FFFFFF;"><td>&nbsp;</td></tr>
+  <tr style="background-color: #FFFFFF;"><td>Weight</td></tr>
+  <tr style="background-color: #FFFFFF;"><td>
+      <input type="text" id="weight" name="weight" value="150" size="4" style="padding: 5px; text-align: center;" /> (<span id="weight_units">lbs</span>)
+  </td></tr>
+  <tr style="background-color: #FFFFFF;"><td>&nbsp;</td></tr>
+  <tr style="background-color: #FFFFFF;"><td><h4>BMI</h4></td></tr>
+  <tr style="background-color: #FFFFFF;"><td>
+    <input type="text" id="bmi" name="bmi" value="22.1" size="5" readonly="readonly" style="padding: 5px; text-align: center;" />
+  </td></tr>
+  <tr style="background-color: #FFFFFF;"></tr>
+
+  </table>
+</form>
+
+<script src="/assets/apps/bmi_calc.js"></script>
