@@ -1,4 +1,4 @@
-// https://en.wikipedia.org/wiki/Body_mass_index
+// reference: https://en.wikipedia.org/wiki/Body_mass_index
 var adult = {limits: [15, 16, 18.5, 25, 30, 35, 40],
              desc: ["Very severely underweight","Severely underweight","Underweight","Normal (healthy weight)","Overweight","Obese Class I (Moderately obese)","Obese Class II (Severely obese)","Obese Class III (Very severely obese)"]};
 var hk = {limits: [18.5, 23, 25, 30],
@@ -33,8 +33,13 @@ document.getElementById('weight').addEventListener("keypress", function(e) {
 document.getElementById('height_major').onblur = calc_bmi;
 document.getElementById('height_minor').onblur = calc_bmi;
 document.getElementById('weight').onblur = calc_bmi;
-document.getElementById('heritage').onchange = calc_bmi;
-document.getElementById('heritage').onchange = handle_yr_selector;
+document.getElementById('heritage').onchange = herigate_helper;
+
+// allow heriage selector to have two onchange functions
+function herigate_helper () {
+  handle_yr_selector();
+  calc_bmi();
+}
 
 // We need an age selector, but only for children
 function handle_yr_selector() {
