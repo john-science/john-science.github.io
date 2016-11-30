@@ -2,7 +2,7 @@
 layout: post
 title: "JavaScript vs ECMAScript"
 tags: [JavaScript, ECMAScript, Software]
-summary: JavaScript, ECMAScript, and the rise and fall of Netscape Navigator.
+summary: JavaScript, ECMAScript, and the Browser Wars
 ---
 {% include JB/setup %}
 
