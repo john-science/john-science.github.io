@@ -30,7 +30,7 @@ The following are my favorite text-based games. All of these games have legions 
     > say "Help! I'm being chased!" to a fisherman
     No one answers you, or even looks your way.
 
-[Anchorhead](https://en.wikipedia.org/wiki/Anchorhead) is based on the works of HP Lovecraft, especially the stories involving Cthulu. You are a young woman who just moved to a small, coastal town with your husband. But things start out strange and get stranger. The story is well-written and haunting with the a lot of great atmospheric detail. To move the story forward you have to solve puzzles, but you can also explore the big, open world and no one will stop you. The puzzles themselves are really natural and flow well with the story of the game. I went into the game hoping for quiet dread, and I got it.
+[Anchorhead](https://en.wikipedia.org/wiki/Anchorhead) is based on the works of HP Lovecraft, especially the stories involving Cthulu. You are a young woman who just moved to a small, coastal town with your husband. But things start out strange and get stranger. The story is well-written and haunting with the a lot of great atmospheric detail. To move the story forward you have to solve puzzles, or you can explore the open world. It is your call. The puzzles themselves are really natural and flow well with the story of the game. I went into the game hoping for quiet dread, and I got it.
 
 * [Play Online](http://pr-if.org/play/anchorhead/)
 * [Solution Guide](http://ifarchive.giga.or.at/if-archive/solutions/AnchorSolve.txt) - Full Spoilers, obvs
@@ -51,7 +51,7 @@ The following are my favorite text-based games. All of these games have legions 
       V,,   ..
 ```
 
-[A Dark Room](https://en.wikipedia.org/wiki/A_Dark_Room) was [reviewed by the New Yorker](http://www.newyorker.com/tech/elements/a-dark-room-the-best-selling-game-that-no-one-can-explain) as a game no one can explain. And while you might have a hard time figuring out which genre to file this game under, the game itself is easy to understand once you start playing. In fact, the game starts so simply you might not think it is a game at all. You are alone in the dark and you are cold. So start a fire. And the longer your fire burns, the more people will come to warm themselves by it. Soon you have a village of people that need your help. You can defend them against the terrors of the world, or go off exploring. There are some really fun mechanics in this game.
+[A Dark Room](https://en.wikipedia.org/wiki/A_Dark_Room) was [reviewed by the New Yorker](http://www.newyorker.com/tech/elements/a-dark-room-the-best-selling-game-that-no-one-can-explain) as a game no one can explain. And while you might have a hard time figuring out which genre this game fits under, it is easy to understand once you start playing. In fact, the game starts so simply you might not think it is a game at all. You are alone in the dark and you are cold. So start a fire. If the fire burns long enough, someone else might come to warm themselves by it. Soon you have a village of people that need your help. You can defend them against the terrors of the world, or go off exploring. There are some really fun mechanics in this game.
 
 * [Play Online](http://adarkroom.doublespeakgames.com/)
 * [Play iOS](https://itunes.apple.com/us/app/a-dark-room/id736683061?mt=8) or [Play Android](https://play.google.com/store/apps/details?id=com.yourcompany.adarkroom&hl=en)
