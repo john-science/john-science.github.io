@@ -6,9 +6,11 @@ summary: The best text-based computer games of all time.
 ---
 {% include JB/setup %}
 
-I love text-based games. They are frequently a lot more unique and interesting than your average video/computer game. Maybe it is because they can focus on the actual content of the game, rather than just making the 3D graphics awesome. Or maybe games just turn out better when they can be built by one person alone, rather than created by a committee in some giant corporation. Who knows.
+I love text-based games. They are usually a lot more unique and interesting than the average video/computer game. Maybe it is because the creators can spend all of their time focused on the content and the story. Modern, big budget games take a huge amount of work: they have a 3D art department, the music team, the story board team, the accounting team, you name it. All that stuff gets between the creator and the idea.
 
-Maybe I just love the idea that one day even I could write a great text-based game. Without all the fuss of a huge 3D art team, sound engineers, and corporate stooges, it is just possible that I could create a little game that a few people would love. Maybe one day. A boy can dream.
+> I also think movies where the writer and director are the same person tend to be much better.
+
+But, to be honest, I also love the idea that one day I could write a great text-based game. With corporate backing, just me alone dreaming on a laptop. It is theoretically possible that I could create some little game that a few people would love. Maybe. One day. A boy can dream.
 
 The following are my favorite text-based games. All of these games have legions of fans. They all did something new, or creative, or fun, and people love them.
 
@@ -30,7 +32,7 @@ The following are my favorite text-based games. All of these games have legions 
     > say "Help! I'm being chased!" to a fisherman
     No one answers you, or even looks your way.
 
-[Anchorhead](https://en.wikipedia.org/wiki/Anchorhead) is based on the works of HP Lovecraft, especially the stories involving Cthulu. You are a young woman who just moved to a small, coastal town with your husband. But things start out strange and get stranger. The story is well-written and haunting with the a lot of great atmospheric detail. To move the story forward you have to solve puzzles, or you can explore the open world. It is your call. The puzzles themselves are really natural and flow well with the story of the game. I went into the game hoping for quiet dread, and I got it.
+[Anchorhead](https://en.wikipedia.org/wiki/Anchorhead) is based on the works of HP Lovecraft, especially the stories involving Cthulu. You are a young woman who just moved to a small, coastal town with her husband. But something is off. The story is well-written and haunting, and the world is filled with great atmospheric details. You can just explore the world, but to move the story forward you have to solve puzzles. The puzzles themselves fit well into the story, which is better than I can say for most puzzle games. I went into the game hoping for a good book, filling with terrible nightmares and quiet dread. I was not disappointed.
 
 * [Play Online](http://pr-if.org/play/anchorhead/)
 * [Solution Guide](http://ifarchive.giga.or.at/if-archive/solutions/AnchorSolve.txt) - Full Spoilers, obvs
@@ -51,7 +53,7 @@ The following are my favorite text-based games. All of these games have legions 
       V,,   ..
 ```
 
-[A Dark Room](https://en.wikipedia.org/wiki/A_Dark_Room) was [reviewed by the New Yorker](http://www.newyorker.com/tech/elements/a-dark-room-the-best-selling-game-that-no-one-can-explain) as a game no one can explain. And while you might have a hard time figuring out which genre this game fits under, it is easy to understand once you start playing. In fact, the game starts so simply you might not think it is a game at all. You are alone in the dark and you are cold. So start a fire. If the fire burns long enough, someone else might come to warm themselves by it. Soon you have a village of people that need your help. You can defend them against the terrors of the world, or go off exploring. There are some really fun mechanics in this game.
+[A Dark Room](https://en.wikipedia.org/wiki/A_Dark_Room) was [reviewed by the New Yorker](http://www.newyorker.com/tech/elements/a-dark-room-the-best-selling-game-that-no-one-can-explain) as a game no one can explain. The game either has no genre, or it is the combination of several others. It is a game designed for people who like exploring and playing around with things, not for someone who wants an exact copy of last year's greatest hit with updated graphics. The game starts so simply, you might not even think it is a real game at first. You are alone in the dark and you are cold. So you build a fire. As time rolls on you have an entire village to defend. Or you can abandon them and explore the wilds alone. There are a lot of really fun, unique mechanics in this game I have never seen anywhere else.
 
 * [Play Online](http://adarkroom.doublespeakgames.com/)
 * [Play iOS](https://itunes.apple.com/us/app/a-dark-room/id736683061?mt=8) or [Play Android](https://play.google.com/store/apps/details?id=com.yourcompany.adarkroom&hl=en)
@@ -78,7 +80,7 @@ You have eaten 7 546 968 candies
 Throw 10 candies on the ground
 ```
 
-At first this will barely feel like a game; there is nothing to it. But the more you play the more it grows. This makes it hard to talk about the game without spoilering it, or at least spoilering the opening. But I *can* say the game is puzzle-based. It is a light-hearted, low-key game you can walk away from at any moment and come back days later. Hell, that might even help you. By the end, you will feel like you have a relationship with the game developer.
+At first this will barely feel like a game; there is nothing to it. But the more you play the more it grows. This makes it hard to talk about the game without spoilering it, or at least spoilering the opening. The most I *can* say is that it is a puzzle-based role-playing game. It is a light-hearted, casual game. I have met several non-gamers who played this one all the way to the end. But if you have ever called yourself "a serious gamer" this problem isn't for you. You can drop this game at any moment, walk away, and come back days later. Hell, that might even help.
 
 * [Play Online - Candy Box 2](http://candybox2.net/) - This is the one you want to play.
 * [Play Online - Candy Box](http://candies.aniwey.net/)
