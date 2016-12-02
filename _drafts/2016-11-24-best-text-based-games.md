@@ -183,21 +183,19 @@ Sprocket the Evoker        St:12 Dx:12 Co:12 In:18 Wi:11 Ch:10  Neutral
 Dlvl:2  $:94 HP:17(17) Pw:23(23) AC:9  Xp:2/25 T:707
 ```
 
-[NetHack](https://en.wikipedia.org/wiki/NetHack) is possibly the most popular roguelike<sup>1</sup>. It is a classic. Fight to the bottom level of a dungeon, find a thing, and fight your way back up again. The "graphics" are what you see above: people are `@`, hallways are `#`, stairs leading up are `<` and stairs leading down are `>`, and so on. And the commands you use to play are just as esoteric: `d` to drop something, but `q` to drink (quaff) something. All this together means the game has a learning curve. 
+[NetHack](https://en.wikipedia.org/wiki/NetHack) is my favorite<sup>1</sup> roguelike (see Rogue below). Of course, there are many other modern roguelikes out there. But for me NetHack hits that happy medium between a game complex enough to be interesting but not too complicated to be fun. To be honest, NetHack is one of the meaner roguelikes. You die a lot, particularly as a newbie. At first, that was pretty discouraging to me, but it seems like almost every time I die I learn something.
 
-But since the game is old school it is kind of permanently paused; it only moves forward when you do something. This means if you want to look something up, you have all the time in the world. There is no rush. And the online community is big and active, which helps. A lot of people play on live-streaming servers, so they can watch each other and get better. Roguelikes have gotten really popular the last few years.
+One of the reasons I tend to play NetHack over Rogue is that it is a *lot* less random than the orignal. Also, a lot of people live-stream NetHack when they play it, which is a great way to learn to do better. Also, it makes a great screensaver.
+
+The other reason I tend to play NetHack over other roguelikes is I want to be able to game on my phone. But since roguelikes were all designed for a full keyboard, they are hard to adapt. There are dozens of free apps out there, but the only one I found I like is NetHack, so that is what I play.
 
 * [Download Game](http://www.nethack.org/v360/downloads.html)
 * [Download Code](https://github.com/NetHack/NetHack)
 * [Official Site](http://www.nethack.org/)
 * [Guidebook](http://www.nethack.org/v360/Guidebook.html)
-* [iNetHack2 on iOS](https://itunes.apple.com/us/app/inethack2/id962114968?mt=8) - I've tried dozens of versions of NetHack for my phone, but the game was originally designed for a keyboard. So it is hard to adapt. This is my favorite iOS adaptation.
+* [iNetHack2 on iOS](https://itunes.apple.com/us/app/inethack2/id962114968?mt=8) - My favorite roguelike for iOS.
 
-<sup>1</sup>NetHack is not the only roguelike. It is just the one I like. Two other popular options are [ADOM](https://en.wikipedia.org/wiki/Ancient_Domains_of_Mystery) and [Angband](http://www.roguebasin.com/index.php?title=Angband). Angband is supposed to be a bit more beginner-friendly and a lot more customizable. ADOM has more unique content and a stronger story.
-
-* [Download ADOM](http://www.adom.de/home/index.html) - 1994-Present, roguelike, moderate plot
-* [Download Angband Game](http://trac.rephial.org/) - 1990-Present, roguelike, little plot (open-source)
-* [Download Angband Code](https://github.com/angband/angband)
+<sup>1</sup>What roguelike do you like best? Convince me to try your favorite in the comments below.
 
 ### Rogue
 
@@ -224,14 +222,17 @@ But since the game is old school it is kind of permanently paused; it only moves
 ----------
 ```
 
-[Rogue](https://en.wikipedia.org/wiki/Rogue_%28video_game%29) is a tile-based, text-only, procedurally-generated, adventure game where you delve dungeons, fight monsters, and collect treasure. Rogue is pretty light on plot; the goal was to fight your way to the bottom of a dungeon to get a thing. The thing is, people *love* this game. Lots of people. This game has spawned an entire genre of games with a really [active community](http://www.roguebasin.com/index.php?title=Main_Page). The genre has sub-genres with legions of adoring fans, not just online, but having conventions and everything.
+[Rogue](https://en.wikipedia.org/wiki/Rogue_%28video_game%29) is a tile-based, text-only, procedurally-generated, adventure game where you delve dungeons, fight monsters, and collect treasure. Any plot is incidental. The "graphics" are what you see above: people are `@`, hallways are `#`, doors are `+`, and so on. And the commands you use to play are just as esoteric: `d` to drop something, but `q` to drink (quaff) something.
 
-[NetHack](http://www.nethack.org/) is the most popular, followed closely by [Angband](http://trac.rephial.org/), with [ADOM](http://www.adom.de/home/index.html) making a big comeback lately.
+This means the game has a learning curve. But since the game is old school it is kind of permanently paused; the game only advances when you press a button, if you want to look something up, you have all the time in the world. No rush.
 
-These days you can play Rogue and all the other roguelikes on your phone, but I find the original game was designed for a full keyboard and so it is still best to play that way.
+The thing is, people *love* this game. Lots of people. It has spawned an entire gaming genre, roguelikes, with really [active communities](http://www.roguebasin.com/index.php?title=Main_Page) online. Rogue is the original, but some of the more popular modern descendents are: [NetHack](http://www.nethack.org/) (see above), [Angband](http://trac.rephial.org/), and [ADOM](http://www.adom.de/home/index.html).
 
-* [Play Online](https://archive.org/details/msdos_Rogue_1983)
+* [Play Rogue Online](https://archive.org/details/msdos_Rogue_1983)
 * [Rogue Commands](http://www.nongnu.org/gmoria/moria.html#Commands) - A handy guide to what all the game controls.
+* [Download ADOM](http://www.adom.de/home/index.html) - 1994-Present, roguelike, moderate plot
+* [Download Angband Game](http://trac.rephial.org/) - 1990-Present, roguelike, little plot (open-source)
+* [Download Angband Code](https://github.com/angband/angband)
 
 ### Zork
 
@@ -249,7 +250,7 @@ Oh, no! You have walked into the slavering fangs of a luring grue!
    **** You have died ****
 ```
 
-[Zork](https://en.wikipedia.org/wiki/Zork#Zork_III:_The_Dungeon_Master) is interactive fiction from the dawn of Unix Time. You are dropped into a world and given no introduction as to why you are there. You have to figure everything out for yourself. There will be puzzles to solve, but no one is going to tell you that. It helps if you are the type of person to remember little details they saw ten minutes ago. A modern player might think Zork is just too hard, but you just have to remember that computer games used to be harder. If you are not scared by that, Zork is probably for you.
+[Zork](https://en.wikipedia.org/wiki/Zork#Zork_III:_The_Dungeon_Master) is interactive fiction from the dawn of Unix Time. You are dropped into a world and given no introduction as to why you are there. You have to figure everything out for yourself. There will be puzzles to solve, but no one is going to tell you that. It helps if you are the type of person to remember little details they saw ten minutes ago. Modern games complain that Zork is just too hard. But computer games used to be harder. If you want a game that holds your delicate little hand, this game is not for you. If losing hurts your fragile ego, this game is not for you. If none of the above scares you, Zork is probably for you.
 
 * [Play Online - Zork 1](https://archive.org/details/a2_Zork_I_The_Great_Underground_Empire_1980_Infocom)
 * [Play Online - Zork 2](https://archive.org/details/a2_Zork_II_The_Wizard_of_Frobozz_1981_Infocom_a)
