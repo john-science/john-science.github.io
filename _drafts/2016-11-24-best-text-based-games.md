@@ -144,7 +144,7 @@ I love talking to people who play this game, they all have the wierdest stories 
     > escape
     You are so keen to escape that you literally leap through the fabric of the space-time continuum. You wake up in a shack in tenth-century Earth. A dressing gown, a toothbrush, and a flathead axe lie by your bed. Before you have a chance to move, Mongol hordes sweep magnificently across the plains of central Asia. They knock down your shack and burn the remains with you inside. You lost interest in the rest of the game.
 
-[The Hitchhiker's Guide](https://en.wikipedia.org/wiki/The_Hitchhiker's_Guide_to_the_Galaxy_%28video_game%29) is interactive fiction game based on the sci-fi comedy [novel](https://en.wikipedia.org/wiki/The_Hitchhiker's_Guide_to_the_Galaxy) by Douglas Adams. Adams had a real gift for humor and loved technology. The writing in the game is great; relaxed and hilarious. It follows the story of Arthur Dent as he is forced to hitchhike around the galaxy looking for a girl and a cup of tea. The game *might* be easier if you've read the book, but I doubt it. This game will kill you - a lot. If that sounds frustrating, this probably isn't the game for you.
+[The Hitchhiker's Guide](https://en.wikipedia.org/wiki/The_Hitchhiker's_Guide_to_the_Galaxy_%28video_game%29) follows the story of Aurthur Dent as he is forced to hitchhike around the galaxy looking for a girl and a cup of tea. The game was actually written by Douglas Adams, who wrote the [novel](https://en.wikipedia.org/wiki/The_Hitchhiker's_Guide_to_the_Galaxy) and rabidly loved technology. The first thing to know about this game is that it will kill you - a lot. It is a bit mean like that. While I enjoy the game, I consider it something to do on a long, lazy day when I have nothing but time to kill. If you are in a hurry to get to the end of the game, you are going to have to cheat or be disappointed. Because if dying a lot sounds frustrating, this is not the game for you.
 
 **Pro Tip:** If your version of the game allows you to save your progress, do that as often as you can.
 
@@ -183,7 +183,9 @@ Sprocket the Evoker        St:12 Dx:12 Co:12 In:18 Wi:11 Ch:10  Neutral
 Dlvl:2  $:94 HP:17(17) Pw:23(23) AC:9  Xp:2/25 T:707
 ```
 
-[NetHack](https://en.wikipedia.org/wiki/NetHack) is possibly the most popular roguelike out there. It is a classic. Fight to the bottom level of a dungeon, find a thing, and fight your way back up again. The online community is big and active. Live-streaming servers allow players to watch each other play to learn to do better. The controls are pretty-old school: while you are learning to play the game you will have to keep looking up various commands to do things. But people who make it past the learning curve in roguelikes tend to get totally obsessed and play the game over and over again for years.
+[NetHack](https://en.wikipedia.org/wiki/NetHack) is possibly the most popular roguelike<sup>1</sup>. It is a classic. Fight to the bottom level of a dungeon, find a thing, and fight your way back up again. The "graphics" are what you see above: people are `@`, hallways are `#`, stairs leading up are `<` and stairs leading down are `>`, and so on. And the commands you use to play are just as esoteric: `d` to drop something, but `q` to drink (quaff) something. All this together means the game has a learning curve. 
+
+But since the game is old school it is kind of permanently paused; it only moves forward when you do something. This means if you want to look something up, you have all the time in the world. There is no rush. And the online community is big and active, which helps. A lot of people play on live-streaming servers, so they can watch each other and get better. Roguelikes have gotten really popular the last few years.
 
 * [Download Game](http://www.nethack.org/v360/downloads.html)
 * [Download Code](https://github.com/NetHack/NetHack)
@@ -191,7 +193,7 @@ Dlvl:2  $:94 HP:17(17) Pw:23(23) AC:9  Xp:2/25 T:707
 * [Guidebook](http://www.nethack.org/v360/Guidebook.html)
 * [iNetHack2 on iOS](https://itunes.apple.com/us/app/inethack2/id962114968?mt=8) - I've tried dozens of versions of NetHack for my phone, but the game was originally designed for a keyboard. So it is hard to adapt. This is my favorite iOS adaptation.
 
-NetHack is not the only roguelike. It is just the one I like. Two other popular options are [ADOM](https://en.wikipedia.org/wiki/Ancient_Domains_of_Mystery) and [Angband](http://www.roguebasin.com/index.php?title=Angband). Angband is supposed to be a bit more beginner friendly and a lot more customizable than NetHack. And ADOM has a lot more unique plot and content.
+<sup>1</sup>NetHack is not the only roguelike. It is just the one I like. Two other popular options are [ADOM](https://en.wikipedia.org/wiki/Ancient_Domains_of_Mystery) and [Angband](http://www.roguebasin.com/index.php?title=Angband). Angband is supposed to be a bit more beginner-friendly and a lot more customizable. ADOM has more unique content and a stronger story.
 
 * [Download ADOM](http://www.adom.de/home/index.html) - 1994-Present, roguelike, moderate plot
 * [Download Angband Game](http://trac.rephial.org/) - 1990-Present, roguelike, little plot (open-source)
@@ -222,7 +224,9 @@ NetHack is not the only roguelike. It is just the one I like. Two other popular 
 ----------
 ```
 
-[Rogue](https://en.wikipedia.org/wiki/Rogue_%28video_game%29) is a tile-based, text-only, procedurally-generated, adventure game where you delve dungeons, fight monsters, and collect treasure. Rogue is pretty light on plot; the goal was to fight your way to the bottom of a dungeon to get a thing. In the decades since this game was first released it has spawned an entire genre of games that still has a really [active community](http://www.roguebasin.com/index.php?title=Main_Page) today. [NetHack](http://www.nethack.org/) is the most popular, followed closely by [Angband](http://trac.rephial.org/), with [ADOM](http://www.adom.de/home/index.html) making a big comeback lately.
+[Rogue](https://en.wikipedia.org/wiki/Rogue_%28video_game%29) is a tile-based, text-only, procedurally-generated, adventure game where you delve dungeons, fight monsters, and collect treasure. Rogue is pretty light on plot; the goal was to fight your way to the bottom of a dungeon to get a thing. The thing is, people *love* this game. Lots of people. This game has spawned an entire genre of games with a really [active community](http://www.roguebasin.com/index.php?title=Main_Page). The genre has sub-genres with legions of adoring fans, not just online, but having conventions and everything.
+
+[NetHack](http://www.nethack.org/) is the most popular, followed closely by [Angband](http://trac.rephial.org/), with [ADOM](http://www.adom.de/home/index.html) making a big comeback lately.
 
 These days you can play Rogue and all the other roguelikes on your phone, but I find the original game was designed for a full keyboard and so it is still best to play that way.
 
