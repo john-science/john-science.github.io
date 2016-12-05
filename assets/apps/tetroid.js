@@ -1,7 +1,7 @@
 // master object for the TETROID board
 var board = (function() {
   // layout board space
-  var rows = 16;
+  var rows = 20;
   var cols = 10;
   // grab window size, calculate number of pixels per block (TODO: could be more flexible onresize)
   var maxH = window.innerHeight || document.documentElement.clientHeight || document.body.clientHeight;
@@ -54,7 +54,7 @@ var board = (function() {
       this.reset();
     },
     reset: function() {
-    // tile array for game area
+      // tile array for game area
       board = [];
       for (var r = 0; r < rows; r++) {
         board[r] = [];
@@ -65,7 +65,7 @@ var board = (function() {
     },
     drawBackground: function() {
       // fill in background for entire board
-      context.beginPath ();
+      context.beginPath();
       context.rect(scale, scale, scale * cols, scale * rows);
       context.fillStyle = WHITE;
       context.fill();
@@ -80,10 +80,10 @@ var board = (function() {
     drawBoxMedium: function(xmin, ymin, color) {
       // draw medium boxes (< 50px but > 20px) (WARNING: Breaks if < 11px!)
       context.beginPath();
-      context.rect(xmin + 5, ymin + 5, scale - 10, scale - 10);
+      context.rect(xmin + 3, ymin + 3, scale - 6, scale - 6);
       context.fillStyle = shades[color];
       context.fill();
-      context.lineWidth = 10;
+      context.lineWidth = 6;
       context.lineJoin = "round";
       context.strokeStyle = color;
       context.stroke();
@@ -135,7 +135,9 @@ var board = (function() {
       // draw a single game piece as it is falling
       for (var i = 0; i < posiArray.length; i++) {
         posi = posiArray[i];
-        this.drawBox((posi[0] + plusX) * scale + scale, (posi[1] + plusY) * scale + scale, color);
+        if ((posi[1] + plusY) >= 0) {
+          this.drawBox((posi[0] + plusX) * scale + scale, (posi[1] + plusY) * scale + scale, color);
+        }
       }
     },
     getRandomColor: function() {
@@ -220,11 +222,10 @@ var tetroid = (function() {
 
   // Gameplay area
   var board = null;
-  var sizeX = 10; // at runtime value should come from board
-  var sizeY = 16; // at runtime value should come from board
-  var score;
+  var sizeX = 10; // should come from board at runtime
+  var sizeY = 20; // should come from board at runtime
+  var progress;
   var gameState = false;
-  var startMessage = 'TETROID\n\n\nPress any key\n\nto start new game.';
 
   // Current piece: array of points and position
   var current;
@@ -235,11 +236,17 @@ var tetroid = (function() {
 
   return {
     gamePlayStart: function() {
-      score = 0;
+      progress = 0;
+      this.printLines();
       this.createRandomPiece();
-      board.drawWalls();
       this.render();
+      this.flipSwitch();
       gameState = true;
+    },
+    flipSwitch: function() {
+      var now = document.getElementById("startPause").innerHTML;
+      now = now === "Pause" ? "Start" : "Pause";
+      document.getElementById("startPause").innerHTML = now;
     },
     moveIfFree: function(vectorX, vectorY) {
       // Check if the place for moved piece's position is free
@@ -256,12 +263,6 @@ var tetroid = (function() {
       }
 
       return isAreaFree;
-    },
-    print: function(view) {
-      document.getElementById('g').innerHTML = view;
-    },
-    printStart: function() {
-      this.print(startMessage);
     },
     createRandomPiece: function() {
       currentId = Math.floor(Math.random() * pieces.length);
@@ -283,9 +284,9 @@ var tetroid = (function() {
         if (current.some(function(point) {
             return point[1] + currentY < 1;
           })) {
-          this.print('GAME OVER.\n\n\nSCORE: ' + score + '\n\n\n' + startMessage);
           gameState = false;
           board.reset();
+          this.flipSwitch();
         } else { // the piece is at the bottom and should stay there
           // Attach current object to the game area
           current.forEach(function(point) {
@@ -307,7 +308,8 @@ var tetroid = (function() {
 
           // Remove horizontal lines if there are any
           if (lines.length) {
-            score += lines.length;
+            progress += lines.length;
+            this.printLines();
 
             // Iterate through all lines and shift by "levels" units
             var levels = 1;
@@ -332,16 +334,13 @@ var tetroid = (function() {
         this.render();
       }
     },
+    printLines: function() {
+      document.getElementById('lines').innerHTML = progress;
+    },
     render: function() {
-      // TODO: I need a more efficient method to "re-draw".
-      // TODO: I need something so I don't have redraw the whole board every round.
+      // master graphical UI rendered
       board.drawBoard();
       board.drawPiece(current, currentX, currentY, currentColor);
-
-      // Add score to the view
-      var view = 'SCORE: ' + '0'.repeat(sizeX - (score + "").length - 5) + score + '\n';
-
-      this.print(view);
     },
     rotate: function() {
       // If current piece is a square
@@ -388,22 +387,16 @@ var tetroid = (function() {
       board = b;
       sizeX = board.getCols();
       sizeY = board.getRows();
+      board.drawWalls();
     }
   };
 }());
 
 
-// helper function to help with scope
-function looper() {
-  tetroid.loop();
-}
-
-
-// Print a welcome message and start the game loop
+// load the board controller into the game
 tetroid.loadBoard(board);
-//document.onkeydown = keyDownHelper;
 
-
+// handle keyboard events (TODO: Touching)
 document.onkeydown = function(e) {
   var keyMap = {
     ArrowLeft: tetroid.moveIfFree.bind(null, -1, 0), // Move left
@@ -419,10 +412,15 @@ document.onkeydown = function(e) {
       keyMap[e.key]();
       tetroid.render();
     }
-  } else {
+  } else if (e.key === "Enter") {
     tetroid.gamePlayStart();
   }
 };
 
-tetroid.printStart();
+// game loop meta function, to deal with scope
+function looper() {
+  tetroid.loop();
+}
+
+// start the game
 setInterval(looper, 400);
