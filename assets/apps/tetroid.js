@@ -173,6 +173,13 @@ var board = (function() {
     },
     getCols: function() {
       return cols;
+    },
+    write: function(words) {
+      // write words on the canvas: START, PAUSED, GAME OVER
+      context.fillStyle = "black";
+      context.font = "bold " + scale.toString() + "px Arial";
+      context.textAlign = 'center';
+  		context.fillText(words, canvas.width / 2, canvas.height / 2);
     }
   };
 }());
@@ -226,6 +233,7 @@ var tetroid = (function() {
   var sizeY = 20; // should come from board at runtime
   var progress;
   var gameState = false;
+  var paused = false;
 
   // Current piece: array of points and position
   var current;
@@ -242,6 +250,19 @@ var tetroid = (function() {
       this.render();
       this.flipSwitch();
       gameState = true;
+    },
+    unpause: function() {
+      this.render();
+      this.flipSwitch();
+      paused = false;
+    },
+    pause: function() {
+      this.flipSwitch();
+      paused = true;
+      board.write("PAUSED");
+    },
+    isPaused: function() {
+      return paused;
     },
     flipSwitch: function() {
       var now = document.getElementById("startPause").innerHTML;
@@ -287,6 +308,7 @@ var tetroid = (function() {
           gameState = false;
           board.reset();
           this.flipSwitch();
+          board.write("GAME OVER");
         } else { // the piece is at the bottom and should stay there
           // Attach current object to the game area
           current.forEach(function(point) {
@@ -375,7 +397,7 @@ var tetroid = (function() {
     },
     loop: function() {
       // If gameState === 1 then step()
-      gameState && this.step();
+      gameState && (!paused && this.step());
     },
     getGameState: function() {
       return gameState;
@@ -412,10 +434,19 @@ document.onkeydown = function(e) {
       keyMap[e.key]();
       tetroid.render();
     }
-  } else if (e.key === "Enter") {
-    tetroid.gamePlayStart();
   }
 };
+
+// activate Start/Pause button
+document.getElementById("startPause").addEventListener("click", function(e) {
+  if (!tetroid.getGameState()) {
+    tetroid.gamePlayStart();
+  } else if (tetroid.isPaused()) {
+    tetroid.unpause();
+  } else {
+    tetroid.pause();
+  }
+});
 
 // game loop meta function, to deal with scope
 function looper() {
