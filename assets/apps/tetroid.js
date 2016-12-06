@@ -15,6 +15,12 @@ var board = (function() {
   canvas.width = scale * (cols + 2);
   // get context for working with the canvas later
   var context = canvas.getContext('2d');
+  // find preview canvas
+  var scalePreview = 20;
+  var canPreview = document.getElementById('preview');
+  canPreview.height = scalePreview * 2;
+  canPreview.width = scalePreview * 4;
+  var conPreview = canPreview.getContext('2d');
   // define color palette
   var WHITE = "#FFFFFF";
   var GRAY = "#777777";
@@ -62,6 +68,13 @@ var board = (function() {
           board[r][c] = false;
         }
       }
+    },
+    wipePreview: function() {
+      // draw over preview pane
+      conPreview.beginPath();
+      conPreview.rect(0, 0, scalePreview * 4, scalePreview * 2);
+      conPreview.fillStyle = shades[GRAY];
+      conPreview.fill();
     },
     drawBackground: function() {
       // fill in background for entire board
@@ -177,9 +190,9 @@ var board = (function() {
     write: function(words) {
       // write words on the canvas: START, PAUSED, GAME OVER
       context.fillStyle = "black";
-      context.font = "bold " + scale.toString() + "px Arial";
+      context.font = "bold " + parseInt(1.5 * scale).toString() + "px Arial";
       context.textAlign = 'center';
-  		context.fillText(words, canvas.width / 2, canvas.height / 2);
+      context.fillText(words, canvas.width / 2, canvas.height / 2);
     }
   };
 }());
@@ -243,6 +256,27 @@ var tetroid = (function() {
   var currentColor;
 
   return {
+    shuffle: function(array) {
+      var currentIndex = array.length,
+        temporaryValue, randomIndex;
+
+      // While there remain elements to shuffle...
+      while (0 !== currentIndex) {
+        // Pick a remaining element...
+        randomIndex = Math.floor(Math.random() * currentIndex);
+        currentIndex -= 1;
+
+        // And swap it with the current element.
+        temporaryValue = array[currentIndex];
+        array[currentIndex] = array[randomIndex];
+        array[randomIndex] = temporaryValue;
+      }
+
+      return array;
+    },
+    bagDrawOrder: function() {
+      return this.shuffle([0, 1, 2, 3, 4, 5, 6]);
+    },
     gamePlayStart: function() {
       progress = 0;
       this.printLines();
