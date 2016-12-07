@@ -73,8 +73,20 @@ var board = (function() {
       // draw over preview pane
       conPreview.beginPath();
       conPreview.rect(0, 0, scalePreview * 4, scalePreview * 2);
-      conPreview.fillStyle = shades[GRAY];
+      conPreview.fillStyle = WHITE;
       conPreview.fill();
+    },
+    drawPreview: function(posiArray) {
+      // draw the next game piece
+      this.wipePreview();
+      var clr = this.getRandomColor();
+      for (var i = 0; i < posiArray.length; i++) {
+        var posi = posiArray[i];
+        conPreview.beginPath();
+        conPreview.rect(posi[0] * scalePreview, posi[1] * scalePreview, scalePreview, scalePreview);
+        conPreview.fillStyle = clr;
+        conPreview.fill();
+      }
     },
     drawBackground: function() {
       // fill in background for entire board
@@ -254,15 +266,16 @@ var tetroid = (function() {
   var currentX;
   var currentY;
   var currentColor;
+  var nextPieces = [];
 
   return {
     shuffle: function(array) {
       var currentIndex = array.length,
         temporaryValue, randomIndex;
 
-      // While there remain elements to shuffle...
+      // While there remain elements to shuffle
       while (0 !== currentIndex) {
-        // Pick a remaining element...
+        // Pick a remaining element
         randomIndex = Math.floor(Math.random() * currentIndex);
         currentIndex -= 1;
 
@@ -280,7 +293,8 @@ var tetroid = (function() {
     gamePlayStart: function() {
       progress = 0;
       this.printLines();
-      this.createRandomPiece();
+      this.getNextPiece();
+      this.previewNext();
       this.render();
       this.flipSwitch();
       gameState = true;
@@ -319,18 +333,33 @@ var tetroid = (function() {
 
       return isAreaFree;
     },
-    createRandomPiece: function() {
-      currentId = Math.floor(Math.random() * pieces.length);
+    getNextPiece: function() {
+      // mock up a quick queue of pieces
+      if (nextPieces.length == 0) {
+        nextPieces = this.bagDrawOrder();
+      }
+      currentId = nextPieces.shift();
+      if (nextPieces.length == 0) {
+        nextPieces = this.bagDrawOrder();
+      }
+
+      // identify piece
       current = pieces[currentId];
       currentColor = board.getRandomColor();
-
       currentX = Math.floor(Math.random() * (sizeX - 3));
       currentY = -2;
-
+      // rotate piece
       var rot = Math.floor(Math.random() * 3);
       for (var i = 0; i < rot; i++) {
         this.rotate();
       }
+    },
+    peakNextPiece: function() {
+      return nextPieces[0];
+    },
+    previewNext: function() {
+      var next = pieces[this.peakNextPiece()];
+      board.drawPreview(next);
     },
     step: function() {
       // If piece can't move unit down
@@ -350,7 +379,8 @@ var tetroid = (function() {
           });
 
           // Create new piece
-          this.createRandomPiece();
+          this.getNextPiece();
+          this.previewNext();
 
           // Check for full horizontal lines in game area
           var lines = [];
