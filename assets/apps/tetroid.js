@@ -296,7 +296,9 @@ var tetroid = (function() {
   var board = null;
   var sizeX = 10; // should come from board at runtime
   var sizeY = 20; // should come from board at runtime
-  var progress;
+  var progress = 0;
+  var score = 0;
+  var winScore = 999999;
   var gameState = false;
   var paused = false;
 
@@ -332,7 +334,8 @@ var tetroid = (function() {
     },
     gamePlayStart: function() {
       progress = 0;
-      this.printLines();
+      score = 0;
+      this.printScore();
       this.getNextPiece();
       this.previewNext();
       this.render();
@@ -408,10 +411,7 @@ var tetroid = (function() {
         if (current.some(function(point) {
             return point[1] + currentY < 1;
           })) {
-          gameState = false;
-          board.reset();
-          this.flipSwitch();
-          board.write("GAME OVER");
+          this.endGame("GAME OVER");
         } else { // the piece is at the bottom and should stay there
           // Attach current object to the game area
           current.forEach(function(point) {
@@ -435,7 +435,13 @@ var tetroid = (function() {
           // Remove horizontal lines if there are any
           if (lines.length) {
             progress += lines.length;
-            this.printLines();
+            score += board.getCols() * Math.pow(lines.length, 2);
+            if (score >= winScore) {
+              score = winScore;
+              this.printScore();
+              this.endGame("You Win!");
+            }
+            this.printScore();
 
             // Iterate through all lines and shift by "levels" units
             var levels = 1;
@@ -460,8 +466,15 @@ var tetroid = (function() {
         this.render();
       }
     },
-    printLines: function() {
+    endGame: function(txt) {
+      gameState = false;
+      board.reset();
+      this.flipSwitch();
+      board.write(txt);
+    },
+    printScore: function() {
       document.getElementById('lines').innerHTML = progress;
+      document.getElementById('score').innerHTML = score;
     },
     render: function() {
       // master graphical UI rendered
