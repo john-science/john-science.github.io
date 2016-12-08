@@ -37,6 +37,7 @@ var board = (function() {
     "#AB6400": "#FF9500",
     "#777777": "#A3A3A3"
   };
+  var BACKGROUND = WHITE;
   // tile array for game area
   var board = [];
   for (var r = 0; r < rows; r++) {
@@ -73,7 +74,7 @@ var board = (function() {
       // draw over preview pane
       conPreview.beginPath();
       conPreview.rect(0, 0, scalePreview * 4, scalePreview * 2);
-      conPreview.fillStyle = WHITE;
+      conPreview.fillStyle = BACKGROUND;
       conPreview.fill();
     },
     drawPreview: function(posiArray) {
@@ -92,7 +93,7 @@ var board = (function() {
       // fill in background for entire board
       context.beginPath();
       context.rect(scale, scale, scale * cols, scale * rows);
-      context.fillStyle = WHITE;
+      context.fillStyle = BACKGROUND;
       context.fill();
     },
     drawBoxSmall: function(xmin, ymin, color) {
@@ -158,11 +159,50 @@ var board = (function() {
     },
     drawPiece: function(posiArray, plusX, plusY, color) {
       // draw a single game piece as it is falling
+      this.drawGhostPiece(posiArray, plusX, plusY);
+
       for (var i = 0; i < posiArray.length; i++) {
         posi = posiArray[i];
         if ((posi[1] + plusY) >= 0) {
           this.drawBox((posi[0] + plusX) * scale + scale, (posi[1] + plusY) * scale + scale, color);
         }
+      }
+    },
+    drawGhostPiece: function(posiArray, plusX, plusY) {
+      // draw a ghost piece, to prviews
+      // determine how far down the ghost piece will be
+      var yShift = 0;
+      var hitBottom = false;
+      var y = 0;
+      for (var j = 0; j < (rows - plusY); j++) {
+        yShift += 1;
+        for (var i = 0; i < posiArray.length; i++) {
+          posi = posiArray[i];
+          y = posi[1] + plusY + yShift;
+          if (y >= rows) {
+            hitBottom = true;
+            break;
+          } else if (y > -1 && board[y][posi[0] + plusX]) {
+            hitBottom = true;
+            break;
+          }
+        }
+
+        if (hitBottom) {
+          break;
+        }
+      }
+
+      // do we even need a ghost piece?
+      yShift -= 1;
+      if (yShift <= 0) {
+        return;
+      }
+
+      // draw the ghost piece
+      for (var i = 0; i < posiArray.length; i++) {
+        posi = posiArray[i];
+        this.drawBoxSmall((posi[0] + plusX) * scale + scale, (posi[1] + plusY + yShift) * scale + scale, shades[GRAY]);
       }
     },
     getRandomColor: function() {
