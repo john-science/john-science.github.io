@@ -3,7 +3,7 @@ var board = (function() {
   // layout board space
   var rows = 20;
   var cols = 10;
-  // grab window size, calculate number of pixels per block (TODO: could be more flexible onresize)
+  // grab window size, calculate number of pixels per block
   var maxH = window.innerHeight || document.documentElement.clientHeight || document.body.clientHeight;
   var maxW = window.innerWidth || document.documentElement.clientWidth || document.body.clientWidth;
   // leave a small border, for safety
@@ -24,6 +24,7 @@ var board = (function() {
   // define color palette
   var WHITE = "#FFFFFF";
   var GRAY = "#777777";
+  var GHOST = '#E3E3E3';
   var PURPLE = "#6C0089"; // Temporary: Explosive block color
   var BLUE = "#003B6F";
   var RED = "#AB1400";
@@ -205,7 +206,7 @@ var board = (function() {
       // draw the ghost piece
       for (var i = 0; i < posiArray.length; i++) {
         posi = posiArray[i];
-        this.drawBoxSmall((posi[0] + plusX) * scale + scale, (posi[1] + plusY + yShift) * scale + scale, shades[GRAY]);
+        this.drawBoxSmall((posi[0] + plusX) * scale + scale, (posi[1] + plusY + yShift) * scale + scale, GHOST);
       }
     },
     getRandomColor: function() {
@@ -304,9 +305,9 @@ var tetroid = (function() {
   var sizeY = 20; // should come from board at runtime
   var progress = 0;
   var score = 0;
-  var linesPerLevel = 3; // TODO: disputable value
+  var linesPerLevel = 3;
   var levelProgress = 0;
-  var winScore = 999999;
+  var winScore = 99999;
   var gameState = false;
   var paused = false;
 
@@ -321,8 +322,8 @@ var tetroid = (function() {
   var nextPieces = [];
 
   return {
-    shuffle: function(array) {
-      var currentIndex = array.length,
+    shuffle: function(arr) {
+      var currentIndex = arr.length,
         temporaryValue, randomIndex;
 
       // While there remain elements to shuffle
@@ -332,12 +333,12 @@ var tetroid = (function() {
         currentIndex -= 1;
 
         // And swap it with the current element.
-        temporaryValue = array[currentIndex];
-        array[currentIndex] = array[randomIndex];
-        array[randomIndex] = temporaryValue;
+        temporaryValue = arr[currentIndex];
+        arr[currentIndex] = arr[randomIndex];
+        arr[randomIndex] = temporaryValue;
       }
 
-      return array;
+      return arr;
     },
     bagDrawOrder: function() {
       return this.shuffle([0, 1, 2, 3, 4, 5, 6]);
@@ -401,11 +402,7 @@ var tetroid = (function() {
 
       // identify piece
       current = pieces[currentId];
-      if (nextExplodes) {
-        currentColor = board.getBoomColor();
-      } else {
-        currentColor = board.getRandomColor();
-      }
+      currentColor = board.getRandomColor();
       currentX = Math.floor(Math.random() * (sizeX - 3));
       currentY = -2;
       // rotate piece
@@ -424,7 +421,7 @@ var tetroid = (function() {
     step: function() {
       // If piece can't move unit down
       if (!this.moveIfFree(0, 1)) {
-        // If piece is stuck at the top, the game is lost  // TODO: Add the BOOM! Day saved!
+        // If piece is stuck at the top, the game is lost
         if (current.some(function(point) {
             return point[1] + currentY < 1;
           })) {
@@ -436,6 +433,11 @@ var tetroid = (function() {
           });
 
           // Create new piece
+          if (currentExplodes) {
+            var lastPiece = current.slice();
+            var lastX = parseInt(currentX);
+            var lastY = parseInt(currentY);
+          }
           this.getNextPiece();
           this.previewNext();
 
@@ -450,53 +452,78 @@ var tetroid = (function() {
           }
 
           if (currentExplodes) {
-            console.log('Boom!');  // TODO: Remove relevant blocks.
-            currentExplodes = false;
+            this.handleExplosion(lastPiece, lastX, lastY);
           }
 
-          // Remove horizontal lines if there are any
           if (lines.length) {
-            // update score and check for end game
-            progress += lines.length;
-            score += board.getCols() * Math.pow(lines.length, 2);
-            if (score >= winScore) {
-              score = winScore;
-              this.printScore();
-              this.endGame("You Win!");
-            }
-            // level progress
-            progress += lines.length;
-            levelProgress += lines.length;
-            if (levelProgress >= linesPerLevel) {
-              levelProgress %= linesPerLevel;
-              nextExplodes = true;
-              this.getNextPiece();
-              this.previewNext();
-              nextExplodes = false;
-              currentExplodes = true;
-            }
-            this.printScore();
-
-            // Iterate through all lines and shift by "levels" units
-            var levels = 1;
-            for (i = lines.shift() - 1; i >= 0; i--) {
-              if (lines.length) {
-                if (lines[0] === i) {
-                  lines.shift();
-                  levels++;
-                  continue;
-                }
-              }
-
-              // Move line down by "levels" unit
-              for (j = 0; j < sizeX; j++) {
-                board.setB(j, i + levels, board.getB(j, i));
-              }
-            }
+            this.removeLines(lines);
           }
         }
       } else {
         this.render();
+      }
+    },
+    removeLines: function(lines) { // Remove horizontal lines, if there are any
+      // update score and check for end game
+      progress += lines.length;
+      score += sizeX * Math.pow(lines.length, 2);
+      this.testEndGame("You Win!");
+      // level progress
+      levelProgress += lines.length;
+      if (levelProgress >= linesPerLevel) {
+        levelProgress %= linesPerLevel;
+        nextExplodes = true;
+        if (nextExplodes) {
+          currentColor = board.getBoomColor();
+        }
+        this.previewNext();
+        nextExplodes = false;
+        currentExplodes = true;
+      }
+      this.printScore();
+
+      // Iterate through all lines and shift by "levels" units
+      var levels = 1;
+      for (i = lines.shift() - 1; i >= 0; i--) {
+        if (lines.length) {
+          if (lines[0] === i) {
+            lines.shift();
+            levels++;
+            continue;
+          }
+        }
+
+        // Move line down by "levels" unit
+        for (j = 0; j < sizeX; j++) {
+          board.setB(j, i + levels, board.getB(j, i));
+        }
+      }
+    },
+    handleExplosion: function(lastPiece, lastX, lastY) {
+      // Handle block explosions
+      lastPiece.forEach(function(point) {
+        [-1, 0, 1].forEach(function(offsetX) {
+          var xx = point[0] + lastX + offsetX;
+          [-3, -2, -1, 0, 1].forEach(function(offsetY) {
+            var yy = point[1] + lastY + offsetY;
+            if (yy < sizeY && yy > -1 && xx > -1 && xx < sizeX) {
+              if (board.getB(xx, yy)) {
+                score += 8;
+                board.setB(xx, yy, false);
+              }
+            }
+          });
+        });
+      });
+      currentExplodes = false;
+      board.write("Boom!");
+      this.testEndGame("You Win!");
+    },
+    testEndGame: function(txt) {
+      if (score >= winScore) {
+        score = winScore;
+        this.printScore();
+        this.endGame("You Win!");
       }
     },
     endGame: function(txt) {
@@ -568,7 +595,7 @@ var tetroid = (function() {
 // load the board controller into the game
 tetroid.loadBoard(board);
 
-// handle keyboard events (TODO: Touching)
+// handle keyboard events
 document.onkeydown = function(e) {
   var keyMap = {
     ArrowLeft: tetroid.moveIfFree.bind(null, -1, 0), // Move left
