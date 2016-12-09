@@ -24,6 +24,7 @@ var board = (function() {
   // define color palette
   var WHITE = "#FFFFFF";
   var GRAY = "#777777";
+  var PURPLE = "#6C0089"; // Temporary: Explosive block color
   var BLUE = "#003B6F";
   var RED = "#AB1400";
   var GREEN = "#008022";
@@ -35,9 +36,11 @@ var board = (function() {
     "#AB1400": "#FF1E00",
     "#008022": "#00F841",
     "#AB6400": "#FF9500",
-    "#777777": "#A3A3A3"
+    "#777777": "#A3A3A3",
+    "#6C0089": "#BB33DF"
   };
   var BACKGROUND = WHITE;
+  var BOOM = PURPLE;
   // tile array for game area
   var board = [];
   for (var r = 0; r < rows; r++) {
@@ -208,6 +211,9 @@ var board = (function() {
     getRandomColor: function() {
       return colors[Math.floor(Math.random() * colors.length)];
     },
+    getBoomColor: function() {
+      return BOOM;
+    },
     setB: function(x, y, c) {
       // set a tile on the board
       // c can be a color string or false
@@ -298,6 +304,8 @@ var tetroid = (function() {
   var sizeY = 20; // should come from board at runtime
   var progress = 0;
   var score = 0;
+  var linesPerLevel = 3; // TODO: disputable value
+  var levelProgress = 0;
   var winScore = 999999;
   var gameState = false;
   var paused = false;
@@ -308,6 +316,8 @@ var tetroid = (function() {
   var currentX;
   var currentY;
   var currentColor;
+  var nextExplodes = false;
+  var currentExplodes = false;
   var nextPieces = [];
 
   return {
@@ -335,6 +345,9 @@ var tetroid = (function() {
     gamePlayStart: function() {
       progress = 0;
       score = 0;
+      levelProgress = 0;
+      nextExplodes = false;
+      currentExplodes = false;
       this.printScore();
       this.getNextPiece();
       this.previewNext();
@@ -388,7 +401,11 @@ var tetroid = (function() {
 
       // identify piece
       current = pieces[currentId];
-      currentColor = board.getRandomColor();
+      if (nextExplodes) {
+        currentColor = board.getBoomColor();
+      } else {
+        currentColor = board.getRandomColor();
+      }
       currentX = Math.floor(Math.random() * (sizeX - 3));
       currentY = -2;
       // rotate piece
@@ -407,7 +424,7 @@ var tetroid = (function() {
     step: function() {
       // If piece can't move unit down
       if (!this.moveIfFree(0, 1)) {
-        // If piece is stuck at the top, the game is lost
+        // If piece is stuck at the top, the game is lost  // TODO: Add the BOOM! Day saved!
         if (current.some(function(point) {
             return point[1] + currentY < 1;
           })) {
@@ -432,14 +449,31 @@ var tetroid = (function() {
             }
           }
 
+          if (currentExplodes) {
+            console.log('Boom!');  // TODO: Remove relevant blocks.
+            currentExplodes = false;
+          }
+
           // Remove horizontal lines if there are any
           if (lines.length) {
+            // update score and check for end game
             progress += lines.length;
             score += board.getCols() * Math.pow(lines.length, 2);
             if (score >= winScore) {
               score = winScore;
               this.printScore();
               this.endGame("You Win!");
+            }
+            // level progress
+            progress += lines.length;
+            levelProgress += lines.length;
+            if (levelProgress >= linesPerLevel) {
+              levelProgress %= linesPerLevel;
+              nextExplodes = true;
+              this.getNextPiece();
+              this.previewNext();
+              nextExplodes = false;
+              currentExplodes = true;
             }
             this.printScore();
 
@@ -460,7 +494,6 @@ var tetroid = (function() {
               }
             }
           }
-
         }
       } else {
         this.render();
