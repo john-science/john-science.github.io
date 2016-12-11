@@ -256,6 +256,9 @@ var board = (function() {
   };
 }());
 
+
+
+
 // TETROID game logic
 var tetroid = (function() {
   var pieces = [
@@ -303,9 +306,10 @@ var tetroid = (function() {
   var board = null;
   var sizeX = 10; // should come from board at runtime
   var sizeY = 20; // should come from board at runtime
+  var boomValue = parseInt(sizeX / 2);
   var progress = 0;
   var score = 0;
-  var linesPerLevel = 3;
+  var linesPerLevel = 12;
   var levelProgress = 0;
   var winScore = 99999;
   var gameState = false;
@@ -508,16 +512,79 @@ var tetroid = (function() {
             var yy = point[1] + lastY + offsetY;
             if (yy < sizeY && yy > -1 && xx > -1 && xx < sizeX) {
               if (board.getB(xx, yy)) {
-                score += 8;
                 board.setB(xx, yy, false);
+                score += boomValue;
               }
             }
           });
         });
       });
+      this.handleHanging(boomValue);
       currentExplodes = false;
       board.write("Boom!");
       this.testEndGame("You Win!");
+    },
+    handleHanging: function(val) {
+      // post-explosion, remove any magical floating tiles
+      var r = 0;
+      var c = 0;
+      var stable = this.stabilityArray();
+      for (r = 0; r < sizeY; r++) {
+        for (c = 0; c < sizeX; c++) {
+          if (!stable[r][c] && board.getB(c, r)) {
+            board.setB(c, r, false);
+            score += val;
+          }
+        }
+      }
+    },
+    stabilityArray: function() {
+      // determine which pieces are gravitationally stable
+      var r = 0;
+      var c = 0;
+      // fill stability array
+      var stable = [];
+      for (r = 0; r < sizeY; r++) {
+        stable[r] = [];
+        for (c = 0; c < sizeX; c++) {
+          stable[r][c] = false;
+        }
+      }
+      // loop through grid and find unstable elements
+      for (r = sizeY - 1; r > -1; r--) {
+        for (c = 0; c < sizeX; c++) {
+          // if no piece on the board, unstable
+          if (!board.getB(c, r)) {
+            continue;
+          }
+          // if on bottom row, stable. or if adj to stable
+          if (r == (sizeY - 1)) {
+            stable[r][c] = true;
+          } else if (r < (sizeY - 1) && stable[r + 1][c]) {
+            stable[r][c] = true;
+          } else if (c > 0 && stable[r][c - 1]) {
+            stable[r][c] = true;
+          } else if (c < (sizeX - 1) && stable[r][c + 1]) {
+            stable[r][c] = true;
+          } else if (r > 0 && stable[r - 1][c]) {
+            stable[r][c] = true;
+          }
+          // if now stable, set adj to stable
+          if (!stable[r][c]) {
+            continue;
+          }
+          if (r < (sizeY - 1) && board.getB(c, r + 1)) {
+            stable[r + 1][c] = true;
+          } else if (r > 0 && board.getB(c, r - 1)) {
+            stable[r - 1][c] = true;
+          } else if (c < (sizeX - 1) && board.getB(c + 1, r)) {
+            stable[r][c + 1] = true;
+          } else if (c > 0 && board.getB(c - 1, r)) {
+            stable[r][c - 1] = true;
+          }
+        }
+      }
+      return stable;
     },
     testEndGame: function(txt) {
       if (score >= winScore) {
@@ -590,6 +657,8 @@ var tetroid = (function() {
     }
   };
 }());
+
+
 
 
 // load the board controller into the game
