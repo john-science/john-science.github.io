@@ -84,12 +84,11 @@ var board = (function() {
     drawPreview: function(posiArray) {
       // draw the next game piece
       this.wipePreview();
-      var clr = this.getRandomColor();
       for (var i = 0; i < posiArray.length; i++) {
         var posi = posiArray[i];
         conPreview.beginPath();
         conPreview.rect(posi[0] * scalePreview, posi[1] * scalePreview, scalePreview, scalePreview);
-        conPreview.fillStyle = clr;
+        conPreview.fillStyle = "#A3A3A3";
         conPreview.fill();
       }
     },
@@ -306,9 +305,9 @@ var tetroid = (function() {
   var board = null;
   var sizeX = 10; // should come from board at runtime
   var sizeY = 20; // should come from board at runtime
-  var boomValue = parseInt(sizeX / 2);
   var progress = 0;
   var score = 0;
+  var boomValue = 8;
   var linesPerLevel = 12;
   var levelProgress = 0;
   var winScore = 99999;
@@ -327,6 +326,7 @@ var tetroid = (function() {
 
   return {
     shuffle: function(arr) {
+      // randomly re-order an array
       var currentIndex = arr.length,
         temporaryValue, randomIndex;
 
@@ -345,9 +345,11 @@ var tetroid = (function() {
       return arr;
     },
     bagDrawOrder: function() {
+      // return a random shuffle of 7 elements
       return this.shuffle([0, 1, 2, 3, 4, 5, 6]);
     },
     gamePlayStart: function() {
+      // start or re-start each game
       progress = 0;
       score = 0;
       levelProgress = 0;
@@ -374,6 +376,7 @@ var tetroid = (function() {
       return paused;
     },
     flipSwitch: function() {
+      // pause or unpause
       var now = document.getElementById("startPause").innerHTML;
       now = now === "Pause" ? "Start" : "Pause";
       document.getElementById("startPause").innerHTML = now;
@@ -459,8 +462,10 @@ var tetroid = (function() {
             this.handleExplosion(lastPiece, lastX, lastY);
           }
 
+          var num = lines.length;
           if (lines.length) {
             this.removeLines(lines);
+            this.handleHanging(num);
           }
         }
       } else {
@@ -540,8 +545,7 @@ var tetroid = (function() {
     },
     stabilityArray: function() {
       // determine which pieces are gravitationally stable
-      var r = 0;
-      var c = 0;
+      var r, c, cc;
       // fill stability array
       var stable = [];
       for (r = 0; r < sizeY; r++) {
@@ -552,7 +556,12 @@ var tetroid = (function() {
       }
       // loop through grid and find unstable elements
       for (r = sizeY - 1; r > -1; r--) {
-        for (c = 0; c < sizeX; c++) {
+        for (cc = 0; cc < (2 * sizeX - 1); cc++) {
+          if (cc < sizeX) {
+            c = cc;
+          } else {
+            c = 2 * sizeX - cc - 2;
+          }
           // if no piece on the board, unstable
           if (!board.getB(c, r)) {
             continue;
