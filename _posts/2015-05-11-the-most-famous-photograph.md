@@ -26,7 +26,7 @@ https://c2.staticflickr.com/6/5546/12732868423_07086b58e3_z.jpg 640w"
 sizes="(max-width: 38em) 100vw, 50vw"
 alt="Winter Bliss">
 
-I was crushed. After all, I was standing on the same spot, looking at the same hill, why shouldn't I be able to at least make a decent picture? As a beginner I could only see the most basic elements of the professionals work, and therefore reasoned I should be able to reproduce that work. I could see a hill in the photo, but I couldn't see all the other hills that got passed up that day. I couldn't see the choice of film. I couldn't see the subtle framing decisions. The world seems so much simpler if you don't know anything about it.
+I was crushed. After all, I was standing on the same spot, looking at the same hill, why shouldn't I be able to at least make a decent picture? As a beginner I could only see the most basic elements of the professional's work, and therefore reasoned I should be able to reproduce it. I could see a hill in the photo, but not all of the other hills he drove past that day. I couldn't see the choice of film. I couldn't see the subtle framing decisions. The world seems so much simpler if you don't know anything about it.
 
 It turns out the original photograph was made by [Charles O'Rear](https://en.wikipedia.org/wiki/Charles_O%27Rear), who used to work for National Geographic; which might just be the hardest job to get in photography. He is so [successful](http://www.cnet.com/au/news/its-bliss-behind-the-iconic-windows-xp-photo/) that he now spends his life traveling the world, [photographing wine regions](http://framework.latimes.com/2014/05/30/charles-orears-road-to-bliss/#/0). That's actually what he was doing when he made Bliss.
 
