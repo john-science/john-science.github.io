@@ -144,9 +144,7 @@ I love talking to people who play this game, they all have the wierdest stories 
     > escape
     You are so keen to escape that you literally leap through the fabric of the space-time continuum. You wake up in a shack in tenth-century Earth. A dressing gown, a toothbrush, and a flathead axe lie by your bed. Before you have a chance to move, Mongol hordes sweep magnificently across the plains of central Asia. They knock down your shack and burn the remains with you inside. You lost interest in the rest of the game.
 
-[The Hitchhiker's Guide](https://en.wikipedia.org/wiki/The_Hitchhiker's_Guide_to_the_Galaxy_%28video_game%29) follows the story of Aurthur Dent as he is forced to hitchhike around the galaxy looking for a girl and a cup of tea. The game was actually written by Douglas Adams, who wrote the [novel](https://en.wikipedia.org/wiki/The_Hitchhiker's_Guide_to_the_Galaxy) and rabidly loved technology. The first thing to know about this game is that it will kill you - a lot. It is a bit mean like that. While I enjoy the game, I consider it something to do on a long, lazy day when I have nothing but time to kill. If you are in a hurry to get to the end of the game, you are going to have to cheat or be disappointed. Because if dying a lot sounds frustrating, this is not the game for you.
-
-**Pro Tip:** If your version of the game allows you to save your progress, do that as often as you can.
+[The Hitchhiker's Guide](https://en.wikipedia.org/wiki/The_Hitchhiker's_Guide_to_the_Galaxy_%28video_game%29) follows the story of Aurthur Dent as he is forced to hitchhike around the galaxy looking for a girl and a cup of tea. The game was actually written by Douglas Adams, who wrote the eponymous [novel](https://en.wikipedia.org/wiki/The_Hitchhiker's_Guide_to_the_Galaxy) and rabidly loved technology. The first thing to know about this game is that it will kill you - a lot. It is a bit mean like that. I love the game, but it is not something I play when I am in a hurry. If you want to *get somewhere* and *do something*, this game will probably just frustrate you. But if you have time to kill and are happy to just play around and explore without real goal in mind, the game is a lot of fun.
 
 * [Play Online - 20th Anniversary Edition](http://www.bbc.co.uk/programmes/articles/1g84m0sXpnNCv84GpN2PLZG/the-hitchhikers-guide-to-the-galaxy-game-30th-anniversary-edition) - This is the one I like best.
 * [Play Online - Original](http://www.douglasadams.com/creations/infocomjava.html)
@@ -185,9 +183,9 @@ Dlvl:2  $:94 HP:17(17) Pw:23(23) AC:9  Xp:2/25 T:707
 
 [NetHack](https://en.wikipedia.org/wiki/NetHack) is my favorite<sup>1</sup> roguelike (see Rogue below). Of course, there are many other modern roguelikes out there. But for me NetHack hits that happy medium between a game complex enough to be interesting but not too complicated to be fun. To be honest, NetHack is one of the meaner roguelikes. You die a lot, particularly as a newbie. At first, that was pretty discouraging to me, but it seems like almost every time I die I learn something.
 
-One of the reasons I tend to play NetHack over Rogue is that it is a *lot* less random than the orignal. Also, a lot of people live-stream NetHack when they play it, which is a great way to learn to do better. Also, it makes a great screensaver.
+One of the reasons I tend to play NetHack over Rogue is that it is a *lot* less random than the orignal. Also, a lot of people live-stream NetHack when they play it, which is a great way to learn to do better. And that also makes a pretty fun great screensaver.
 
-The other reason I tend to play NetHack over other roguelikes is I want to be able to game on my phone. But since roguelikes were all designed for a full keyboard, they are hard to adapt. There are dozens of free apps out there, but the only one I found I like is NetHack, so that is what I play.
+The other reason major I tend to play NetHack over other roguelikes is I want to be able to game on my phone. But since roguelikes were all designed for a full keyboard, they are notoriously hard to adapt. There are dozens of free apps out there, but the only one I found I like is NetHack, so that is what I play.
 
 * [Download Game](http://www.nethack.org/v360/downloads.html)
 * [Download Code](https://github.com/NetHack/NetHack)
