@@ -101,9 +101,9 @@ At first this will barely feel like a game; there is nothing to it. But the more
     You kill the sailor.
     You get the feeling that someone is watching you - as if this is all a game somehow.    
 
-The [Discworld MUD](https://en.wikipedia.org/wiki/Discworld_MUD) is a hilarious, old school MUD based on Terry Pratchett's wildly successful Discworld comedy fantasy book series. The game has been developing for 25 years, and you will *never* see all the content it has to offer. The game has survived because the world is huge and it has a nearly infinite amount of play time. But also because it has a great sensor of humor and a really supportive player base. If you have a question, ask your guild. The servers are filled with a pretty international crowd, though all English-speaking, and I seemed to be one of the few Americans I met.
+The [Discworld MUD](https://en.wikipedia.org/wiki/Discworld_MUD) is a hilarious, old school MUD based on Terry Pratchett's comedy fantasy book series. The game has been developing for 25 years, and you will *never* see all the content it has to offer. You will never play another game with anywhere near as much raw content. But I think the game has survived as long as it has because it has a great sense of humor and a really supportive player base. If you have a question, ask your guild. The servers are filled with a pretty international crowd, though all English-speaking, and I seemed to be one of the few Americans online.
 
-Since it has its roots back in the days before games were stupidly easy, this game can get hard if you want it to. It even has **permadeath**. Still, I know players who have had the same character for years. This is my all-time favorite MUD, and I have spent so much time playing it I should probably be embarassed. (I'm not.) GNU Terry Pratchett.
+Since it has its roots back in the days before games were stupidly easy, this game can get hard if you want it to. It even has the dreaded **permadeath**. Still, I know players who have had the same character for years. This is my all-time favorite MUD, and I have spent so much time playing it I should probably be embarassed. (I'm not.) GNU Terry Pratchett.
 
 * [Play Oline](http://discworld.atuin.net/lpc/)
 * [Newbie Cheat Sheet](http://discworld.starturtle.net/lpc/playing/documentation.c?path=/newbie/essentials)
@@ -126,9 +126,9 @@ The prisoner loses hold of the copper spear.
 
 [Dwarf Fortress](https://en.wikipedia.org/wiki/Dwarf_Fortress) is a phenomenon. It is, by a wide margin, the most complicated game in the world. You control a dirty band of dwarves, trying to build a new mine to call home. But the world is harsh and brutal and it takes a lot to build a society that will stand the tests of time.
 
-Anything is possible in this game, and the amount of detail is amazing. But this game also has a steeper learning curve than any other game ever created. You will have to micromanage every detail of the lives of all your dwarves to succeed. It is an intensely complicated game to learn, but with every step you take you will be rewarded with a richer, more intersting game. Your charcters will have rich inner lives. They will have lovers and hobbies and pets. Their lives will be filled with work-a-day labor, battles, and tragedies. Actually, there will be a lot of tragedy. You suck at this game. Losing is fun.
+Anything is possible in this game, and the amount of detail is amazing. But this game also has a steeper learning curve than any other computer game ever created. You will have to micromanage every detail of the lives of all your dwarves to succeed. It is an intensely complicated game to learn, but with every step you take you will be rewarded with a richer, more intersting game. Your charcters will have rich inner lives. They will have lovers and hobbies and pets. Their lives will be filled with work-a-day labor, battles, and tragedies. Actually, there will be a lot of tragedy. You suck at this game. Losing is fun.
 
-I love talking to people who play this game, they all have the wierdest stories to tell. But *never* disparage their game; they might go berzerk and attack you with a chair.
+I love talking to people who play this game, they have the wierdest stories to tell. But *never* disparage their game; they might go berzerk and attack you with a chair.
 
 * [Download Game](http://www.bay12games.com/dwarves/)
 * [Fan Wiki](http://dwarffortresswiki.org/)
