@@ -53,7 +53,9 @@ The following are my favorite text-based games. All of these games have legions 
       V,,   ..
 ```
 
-[A Dark Room](https://en.wikipedia.org/wiki/A_Dark_Room) was [reviewed by the New Yorker](http://www.newyorker.com/tech/elements/a-dark-room-the-best-selling-game-that-no-one-can-explain) as a game no one can explain. The game either has no genre, or it is the combination of several others. It is a game designed for people who like exploring and playing around with things, not for someone who wants an exact copy of last year's greatest hit with updated graphics. The game starts so simply, you might not even think it is a real game at first. You are alone in the dark and you are cold. So you build a fire. As time rolls on you have an entire village to defend. Or you can abandon them and explore the wilds alone. There are a lot of really fun, unique mechanics in this game I have never seen anywhere else.
+[A Dark Room](https://en.wikipedia.org/wiki/A_Dark_Room) was [reviewed by the New Yorker](http://www.newyorker.com/tech/elements/a-dark-room-the-best-selling-game-that-no-one-can-explain) as a game no one can explain. But what does the New Yorker know about gaming. (Really. I'm asking.)  I will admit, it would be hard to place the game under a single genre. But this game wasn't written to fit well into old gaming tropes. It is one of the most original games to come out lately. There are a lot of really fun, unique mechanics in this game.
+
+The game starts so simply, you might not even think it is a real game at first. You are cold and alone in the dark. So you build a fire. As time rolls on you have an entire village to defend. Or you can abandon them and explore the wilds alone.
 
 * [Play Online](http://adarkroom.doublespeakgames.com/)
 * [Play iOS](https://itunes.apple.com/us/app/a-dark-room/id736683061?mt=8) or [Play Android](https://play.google.com/store/apps/details?id=com.yourcompany.adarkroom&hl=en)
