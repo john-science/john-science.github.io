@@ -8,23 +8,23 @@ category: calculator
 {% include JB/setup %}
 
 <form id="bmi_calc" name="bmi_calc" style="-webkit-appearance: none; max-width: 25em;">
-  <table style="-webkit-appearance: none; border:0px; margin: auto; padding: 0px; text-align: left;">
-  <tr style="background-color: #FFFFFF;"><td><h4>Units</h4></td></tr>
-  <tr style="background-color: #FFFFFF;"><td>
+  <table style="-webkit-appearance: none; border:0px; margin: auto; padding: 10px; text-align: left; background-color: #a6b8c7; box-shadow: 10px 10px 0pt #c9d4dd; border-radius: 10px;">
+  <tr style="background-color: #a6b8c7;"><td><h4>Units</h4></td></tr>
+  <tr style="background-color: #a6b8c7;"><td>
       <input type="radio" id="units_metric" name="units" value="3">Metric &nbsp; 
       <input type="radio" id="units_us" name="units" value="5" checked><span title="American units">Imperial</span>
   </td></tr>
-  <tr style="background-color: #FFFFFF;"><td><h4>Height</h4></td></tr>
-  <tr style="background-color: #FFFFFF;"><td>
+  <tr style="background-color: #a6b8c7;"><td><h4>Height</h4></td></tr>
+  <tr style="background-color: #a6b8c7;"><td>
       <input type="text" id="height_major" name="height_major" value="5" size="3" style="padding: 5px; text-align: center;" /> (<span id="height_major_units">ft</span>) &nbsp; 
       <input type="text" id="height_minor" name="height_minor" value="9" size="3" style="padding: 5px; text-align: center;" /> (<span id="height_minor_units">in</span>)
   </td></tr>
-  <tr style="background-color: #FFFFFF;"><td><h4>Weight</h4></td></tr>
-  <tr style="background-color: #FFFFFF;"><td>
+  <tr style="background-color: #a6b8c7;"><td><h4>Weight</h4></td></tr>
+  <tr style="background-color: #a6b8c7;"><td>
       <input type="text" id="weight" name="weight" value="150" size="4" style="padding: 5px; text-align: center;" /> (<span id="weight_units">lbs</span>)
   </td></tr>
-  <tr style="background-color: #FFFFFF;"><td><h4 title="">Heritage and Age</h4></td></tr>
-  <tr style="background-color: #FFFFFF;"><td>
+  <tr style="background-color: #a6b8c7;"><td><h4 title="">Heritage and Age</h4></td></tr>
+  <tr style="background-color: #a6b8c7;"><td>
     <select id="heritage">
       <option value="adult" selected="selected">Default Adult</option>
       <option value="hk">Hong Kong Adult</option>
@@ -35,11 +35,11 @@ category: calculator
     </select>
     <span id="age_selector"></span>
   </td></tr>
-  <tr style="background-color: #FFFFFF;"><td><h3>BMI</h3></td></tr>
-  <tr style="background-color: #FFFFFF;"><td>
+  <tr style="background-color: #a6b8c7;"><td><h3>BMI</h3></td></tr>
+  <tr style="background-color: #a6b8c7;"><td>
     <input type="text" id="bmi" name="bmi" value="22.1" size="5" readonly="readonly" style="padding: 5px; text-align: center;" />
   </td></tr>
-  <tr style="background-color: #FFFFFF;"><td id="desc_words">Normal (healthy weight)</td></tr>
+  <tr style="background-color: #a6b8c7;"><td id="desc_words">Normal (healthy weight)</td></tr>
   </table>
 </form>
 
