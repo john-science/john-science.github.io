@@ -12,10 +12,14 @@ tr {
   background-color: #a6b8c7;
 }
 
+tr:nth-child(2n) {
+    background-color: #a6b8c7;
+}
 
 .bmi_form {
   -webkit-appearance: none;
   max-width: 25em;
+  margin: 0 auto;
 }
 
 .bmi_table {
