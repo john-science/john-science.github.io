@@ -1,4 +1,4 @@
-// reference: https://en.wikipedia.org/wiki/Body_mass_index
+// CONSTANTS from reference: https://en.wikipedia.org/wiki/Body_mass_index
 var adult = {
   limits: [15, 16, 18.5, 25, 30, 35, 40],
   desc: ["Very severely underweight", "Severely underweight", "Underweight", "Normal (healthy weight)", "Overweight", "Obese Class I (Moderately obese)", "Obese Class II (Severely obese)", "Obese Class III (Very severely obese)"]
@@ -26,52 +26,66 @@ var girls = {
   top: [19.2, 18.4, 18, 18.2, 18.9, 19.7, 20.7, 21.8, 23, 24, 25.1, 26.2, 27.1, 28.1, 31.1, 39.8, 30.3, 31, 31.9]
 };
 
-// attach JS to buttons
-document.getElementById('units_metric').addEventListener("click", change_labels);
-document.getElementById('units_us').addEventListener("click", change_labels);
-document.getElementById('height_major').addEventListener("keypress", calc_bmi_on_enter);
-document.getElementById('height_minor').addEventListener("keypress", calc_bmi_on_enter);
-document.getElementById('weight').addEventListener("keypress", calc_bmi_on_enter);
-document.getElementById('height_major').onblur = calc_bmi;
-document.getElementById('height_minor').onblur = calc_bmi;
-document.getElementById('weight').onblur = calc_bmi;
-document.getElementById('heritage').onchange = herigate_helper;
-document.getElementById('bmi').addEventListener('transitionend', deBloop);
+// Check browser support
+var hasStorage = false;
+if (typeof(Storage) !== "undefined") {
+  hasStorage = true;
+}
+
+// grab form elements
+form_units_metric = document.getElementById('units_metric');
+form_units_us = document.getElementById('units_us');
+form_height_major = document.getElementById('height_major');
+form_height_minor = document.getElementById('height_minor');
+form_weight = document.getElementById('weight');
+form_heritage = document.getElementById('heritage');
+form_bmi = document.getElementById('bmi');
 
 // remove quick bloop CSS from output calc
-function deBloop(e) {
+var deBloop = function(e) {
   if (e.propertyName === 'transform') {
     this.classList.remove('playing');
   }
-}
+};
 
 // allow heriage selector to have two onchange functions
-function herigate_helper() {
+var herigate_helper = function() {
   handle_yr_selector();
   calc_bmi();
-}
+};
 
 // We need an age selector, but only for children
-function handle_yr_selector() {
-  var e = document.getElementById("heritage");
-  var selected = e.options[e.selectedIndex].value;
+var handle_yr_selector = function() {
+  var selected = form_heritage.options[form_heritage.selectedIndex].value;
+  var age = document.getElementById("age_selector");
+  var i = 2;
+  var yr = "2";
+  var options = "";
 
-  var ee = document.getElementById("age_selector");
   if (selected === "girl" || selected === "boy") {
-    ee.innerHTML = ' &nbsp;<select id="age" onchange="calc_bmi();"><option value="2" selected="selected">2</option><option value="3">3</option><option value="4">4</option><option value="5">5</option><option value="6">6</option><option value="7">7</option><option value="8">8</option><option value="9">9</option><option value="10">10</option><option value="11">11</option><option value="12">12</option><option value="13">13</option><option value="14">14</option><option value="15">15</option><option value="16">16</option><option value="17">17</option><option value="18">18</option><option value="19">19</option><option value="20">20</option></select> yrs';
+    // build the options selector
+    options = ' &nbsp;<select id="age" onchange="calc_bmi();">';
+    for (i = 2; i < 21; i += 1) {
+      yr = i.toString();
+      options += '<option value="' + yr + '" selected="selected">' + yr + '</option>';
+    }
+    options += ' yrs';
+    age.innerHTML = options;
   } else {
-    ee.innerHTML = "";
+    age.innerHTML = "";
   }
-}
+};
 
 // do that actual BMI calculating
-function calc_bmi() {
-  var is_metric = document.getElementById('units_metric').checked;
-  var h_major = parseFloat(document.getElementById('height_major').value);
-  var h = parseFloat(document.getElementById('height_minor').value);
-  var w = parseFloat(document.getElementById('weight').value);
+var calc_bmi = function() {
+  // grab major form fields
+  var is_metric = form_units_metric.checked;
+  var h_major = parseFloat(form_height_major.value);
+  var h = parseFloat(form_height_minor.value);
+  var w = parseFloat(form_weight.value);
   var bmi = 0.0;
 
+  // calc & update BMT
   if (is_metric) {
     h = h_major + h / 100.0;
     bmi = w / (h * h);
@@ -79,42 +93,51 @@ function calc_bmi() {
     h += 12.0 * h_major;
     bmi = 703 * w / (h * h);
   }
-  document.getElementById('bmi').value = (bmi).toFixed(1);
-
-  document.getElementById('bmi').classList.add('playing');
+  form_bmi.value = (bmi).toFixed(1);
+  form_bmi.classList.add('playing');
   update_bmi_label(bmi);
-}
+
+  // throw form fields into storage
+  if (hasStorage) {
+    localStorage.setItem("is_metric", is_metric);
+    localStorage.setItem("h_major", h_major);
+    localStorage.setItem("h_minor", parseFloat(form_height_minor.value));
+    localStorage.setItem("w", w);
+    localStorage.setItem("bmi", bmi);
+  }
+};
 
 // helper function to catch enter key
-function calc_bmi_on_enter(e) {
+var calc_bmi_on_enter = function(e) {
   if (e.keyCode === 13) {
     calc_bmi();
     return false;
   }
-}
+};
 
 // update the bmi label, based on "official" breakdowns
-function update_bmi_label(bmi) {
-  var e = document.getElementById("heritage");
-  var selected = e.options[e.selectedIndex].value;
-  if (selected === "adult") {
-    var limits = adult.limits;
-    var descs = adult.desc;
-  } else if (selected === "hk") {
-    var limits = hk.limits;
-    var descs = hk.desc;
+var update_bmi_label = function(bmi) {
+  var selected = form_heritage.options[form_heritage.selectedIndex].value;
+  var limits = adult.limits;
+  var descs = adult.desc;
+  var i = 0;
+
+  // if heritage selector isn't default adults
+  if (selected === "hk") {
+    limits = hk.limits;
+    descs = hk.desc;
   } else if (selected === "japan") {
-    var limits = japan.limits;
-    var descs = japan.desc;
+    limits = japan.limits;
+    descs = japan.desc;
   } else if (selected === "singapore") {
-    var limits = singapore.limits;
-    var descs = singapore.desc;
+    limits = singapore.limits;
+    descs = singapore.desc;
   } else if (selected === "girl" || selected === "boy") {
     update_bmi_label_child(bmi, selected);
     return;
   }
 
-  var i = 0;
+  //i = 0;  // above
   while (i < limits.length) {
     if (limits[i] > bmi) {
       document.getElementById("desc_words").innerHTML = descs[i];
@@ -126,10 +149,10 @@ function update_bmi_label(bmi) {
   if (i === limits.length) {
     document.getElementById("desc_words").innerHTML = descs[i];
   }
-}
+};
 
 // the bottom 5% of children are underweight, the top 5% are overweight
-function update_bmi_label_child(bmi, sex) {
+var update_bmi_label_child = function(bmi, sex) {
   var e = document.getElementById("age");
   var age = parseInt(e.options[e.selectedIndex].value);
   var desc = document.getElementById("desc_words");
@@ -151,32 +174,80 @@ function update_bmi_label_child(bmi, sex) {
       desc.innerHTML = "Normal";
     }
   }
-}
+};
 
 // reset the labels, if the units change
-function change_labels() {
-  var is_metric = document.getElementById('units_metric').checked;
+var change_labels = function() {
+  var is_metric = form_units_metric.checked;
+  var inches, feet, cm, m;
   if (is_metric) {
     document.getElementById('height_major_units').innerHTML = 'm';
     document.getElementById('height_minor_units').innerHTML = 'cm';
     document.getElementById('weight_units').innerHTML = 'kg';
-    document.getElementById('weight').value = Math.round(document.getElementById('weight').value * 4.53592) / 10;
-    var inches = 12.0 * document.getElementById('height_major').value + Number(document.getElementById('height_minor').value);
-    var cm = inches * 2.54;
-    var m = parseInt(cm / 100);
+    form_weight.value = Math.round(form_weight.value * 4.53592) / 10;
+    inches = 12.0 * form_height_major.value + Number(form_height_minor.value);
+    cm = inches * 2.54;
+    m = parseInt(cm / 100);
     cm -= 100 * m;
-    document.getElementById('height_major').value = m;
-    document.getElementById('height_minor').value = Math.round(10 * cm) / 10;
+    form_height_major.value = m;
+    form_height_minor.value = Math.round(10 * cm) / 10;
   } else {
     document.getElementById('height_major_units').innerHTML = 'ft';
     document.getElementById('height_minor_units').innerHTML = 'in';
     document.getElementById('weight_units').innerHTML = 'lbs';
-    document.getElementById('weight').value = Math.round(document.getElementById('weight').value / 0.0453592) / 10;
-    var cm = 100.0 * document.getElementById('height_major').value + Number(document.getElementById('height_minor').value);
-    var inches = cm / 2.54;
-    var feet = parseInt(inches / 12);
+    form_weight.value = Math.round(document.getElementById('weight').value / 0.0453592) / 10;
+    cm = 100.0 * form_height_major.value + Number(form_height_minor.value);
+    inches = cm / 2.54;
+    feet = parseInt(inches / 12);
     inches -= feet * 12;
-    document.getElementById('height_major').value = feet;
-    document.getElementById('height_minor').value = Math.round(10 * inches) / 10;
+    form_height_major.value = feet;
+    form_height_minor.value = Math.round(10 * inches) / 10;
   }
-}
+};
+
+var useStorage = function() {
+  // validate storage
+  if (!hasStorage) {
+    return;
+  }
+  var hasAll = ['h_major', 'h_minor', 'w', 'bmi', 'is_metric'].reduce(function(result, key) {
+    return result && (localStorage.getItem(key) !== null)
+  }, true);
+  if (!hasAll) {
+    return;
+  }
+
+  // deal with units
+  is_met = localStorage.getItem("is_metric") === 'true';
+  if (is_met) {
+    form_units_metric.checked = true;
+    form_units_us.checked = false;
+    document.getElementById('height_major_units').innerHTML = 'm';
+    document.getElementById('height_minor_units').innerHTML = 'cm';
+    document.getElementById('weight_units').innerHTML = 'kg';
+  } else {
+    form_units_metric.checked = false;
+    form_units_us.checked = true;
+    document.getElementById('height_major_units').innerHTML = 'ft';
+    document.getElementById('height_minor_units').innerHTML = 'in';
+    document.getElementById('weight_units').innerHTML = 'lbs';
+  }
+  // load the rest of the major form elements
+  form_height_major.value = parseFloat(localStorage.getItem("h_major"));
+  form_height_minor.value = parseFloat(localStorage.getItem("h_minor"));
+  form_weight.value = parseFloat(localStorage.getItem("w"));
+  form_bmi.value = parseFloat(localStorage.getItem("bmi")).toFixed(1);
+};
+useStorage();
+
+// attach JS to buttons
+form_units_metric.addEventListener("click", change_labels);
+form_units_us.addEventListener("click", change_labels);
+form_height_major.addEventListener("keypress", calc_bmi_on_enter);
+form_height_minor.addEventListener("keypress", calc_bmi_on_enter);
+form_weight.addEventListener("keypress", calc_bmi_on_enter);
+form_height_major.onblur = calc_bmi;
+form_height_minor.onblur = calc_bmi;
+form_weight.onblur = calc_bmi;
+form_heritage.onchange = herigate_helper;
+form_bmi.addEventListener('transitionend', deBloop);
