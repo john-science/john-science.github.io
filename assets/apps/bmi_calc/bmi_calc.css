@@ -42,3 +42,8 @@ tr:nth-child(2n) {
 .quick {
   transition: all .07s;
 }
+
+.footnote {
+  font-size: smaller;
+  text-align: center;
+}
