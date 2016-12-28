@@ -1,7 +1,7 @@
 (function($) {
 	$(document).ready(function() {
 		// Init variables
-		var totalpanels = document.getElementById("number_of_panels").value;
+		var totalpanels = document.getElementsByClassName('expandable-panel').length;
 		var panelCounts = [8, 9, 10, 9, 7, 7, 4, 5, 5, 5,
 			5, 5, 6, 6, 6, 6, 5, 7, 7, 7,
 			7, 6, 1, 4, 4, 4, 1, 10, 11, 10,
