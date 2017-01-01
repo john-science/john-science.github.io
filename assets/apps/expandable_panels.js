@@ -1,5 +1,5 @@
 
-var exPanels = (function() {
+var ExPanels = (function() {
   // Init variables
   var totalPanels = document.getElementsByClassName('expandable-panel').length;
   var defaultOpenPanel = 0; //leave 0 for no panel open
@@ -34,15 +34,15 @@ var exPanels = (function() {
 
       // init user count value for each panel
       for (var k = 1; k <= totalPanels; k += 1) {
-        document.getElementById("cp-" + k.toString() + "-panel-userCount").value = 0;
-        document.getElementById("cp-" + k +  "-expandable-panel-heading").addEventListener("click", exPanels.panelClick);
+        document.getElementById("cp-" + k.toString() + "-panel-count").value = 0;
+        document.getElementById("cp-" + k +  "-expandable-panel-heading").addEventListener("click", ExPanels.panelClick);
       }
     },
     panelClick: function() {
       var objid = this.id.split('-')[1];
       currentPanel = objid;
       if (accordian) {
-        exPanels.resetPanels();
+        ExPanels.resetPanels();
       }
 
       var contentPanel = document.getElementById('cp-' + objid + '-expandable-panel-content');
@@ -66,5 +66,5 @@ var exPanels = (function() {
 }());
 
 
-window.onresize = exPanels.init;
-window.onload = exPanels.init;
+window.onresize = ExPanels.init;
+window.onload = ExPanels.init;

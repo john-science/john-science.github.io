@@ -10,7 +10,7 @@ category: tool
 <link rel="stylesheet" type="text/css" href="/assets/apps/q/q_style.css">
 
 <h2>Doctor Who Quotient</h2>
-<form action="#" method="post" class="demoForm" id="demoForm">
+<form action="#" method="post" class="qForm" id="qForm">
   <fieldset>
 	<table class="eqn-table">
 		<tr>
@@ -21,7 +21,7 @@ category: tool
 				<div style="float:left">
 				<div class="eqn-numerator">(# of complete stories you've seen) / (# total)</div>
 				<div style="text-align:center;">
-				<input type="text" name="total" id="total" class="q-total-input" size="3" value="0" readonly="readonly" /> / 263</div>
+				<input type="text" name="total" id="total" class="q-total-input" size="3" value="0" readonly="readonly" /> / <span id="displayTotal">264</span></div>
 				</div>
 			</td>
 		</tr>
@@ -36,7 +36,7 @@ category: tool
 	<div id="container">
 	  <div class="expandable-panel" id="cp-1">
 		<div id="cp-1-expandable-panel-heading" class="expandable-panel-heading">
-			<input type=hidden id="cp-1-panel-userCount" value=0 />
+			<input type=hidden id="cp-1-panel-count" value=0 />
 		  <h2>Season 1 (1963–64)<span id="cp-1-icon" class="icon-close-open"></span><span id="cp-1-panelLabel" class="expandable-panel-count"></span></h2>
 		</div>
 		<div id="cp-1-expandable-panel-content" class="expandable-panel-content">
@@ -158,7 +158,7 @@ category: tool
 
 	  <div class="expandable-panel" id="cp-2">
 		<div id="cp-2-expandable-panel-heading" class="expandable-panel-heading">
-			<input type=hidden id="cp-2-panel-userCount" value=0 />
+			<input type=hidden id="cp-2-panel-count" value=0 />
 		  <h2>Season 2 (1964–65)<span id="cp-2-icon" class="icon-close-open"></span><span id="cp-2-panelLabel" class="expandable-panel-count"></span></h2>
 		</div>
 		<div id="cp-2-expandable-panel-content" class="expandable-panel-content">
@@ -291,7 +291,7 @@ category: tool
 
 	  <div class="expandable-panel" id="cp-3">
 		<div id="cp-3-expandable-panel-heading" class="expandable-panel-heading">
-			<input type=hidden id="cp-3-panel-userCount" value=0 />
+			<input type=hidden id="cp-3-panel-count" value=0 />
 		  <h2>Season 3 (1965–66)<span id="cp-3-icon" class="icon-close-open"></span><span id="cp-3-panelLabel" class="expandable-panel-count"></span></h2>
 		</div>
 		<div id="cp-3-expandable-panel-content" class="expandable-panel-content">
@@ -443,7 +443,7 @@ category: tool
 
 	  <div class="expandable-panel" id="cp-4">
 		<div id="cp-4-expandable-panel-heading" class="expandable-panel-heading">
-			<input type=hidden id="cp-4-panel-userCount" value=0 />
+			<input type=hidden id="cp-4-panel-count" value=0 />
 		  <h2>Season 4 (1966–67) <span id="cp-4-icon" class="icon-close-open"></span><span id="cp-4-panelLabel" class="expandable-panel-count"></span></h2>
 		</div>
 		<div id="cp-4-expandable-panel-content" class="expandable-panel-content">
@@ -585,7 +585,7 @@ category: tool
 
 	  <div class="expandable-panel" id="cp-5">
 		<div  id="cp-5-expandable-panel-heading" class="expandable-panel-heading">
-			<input type=hidden id="cp-5-panel-userCount" value=0 />
+			<input type=hidden id="cp-5-panel-count" value=0 />
 		  <h2>Season 5 (1967–68) <span id="cp-5-icon" class="icon-close-open"></span><span id="cp-5-panelLabel" class="expandable-panel-count"></span></h2>
 		</div>
 		<div id="cp-5-expandable-panel-content" class="expandable-panel-content">
@@ -699,7 +699,7 @@ category: tool
 
 	  <div class="expandable-panel" id="cp-6">
 		<div  id="cp-6-expandable-panel-heading" class="expandable-panel-heading">
-			<input type=hidden id="cp-6-panel-userCount" value=0 />
+			<input type=hidden id="cp-6-panel-count" value=0 />
 		  <h2>Season 6 (1968–69) <span id="cp-6-icon" class="icon-close-open"></span><span id="cp-6-panelLabel" class="expandable-panel-count"></span></h2>
 		</div>
 		<div id="cp-6-expandable-panel-content" class="expandable-panel-content">
@@ -810,7 +810,7 @@ category: tool
 
 	  <div class="expandable-panel" id="cp-7">
 		<div id="cp-7-expandable-panel-heading" class="expandable-panel-heading">
-			<input type=hidden id="cp-7-panel-userCount" value=0 />
+			<input type=hidden id="cp-7-panel-count" value=0 />
 		  <h2>Season 7 (1970)<span id="cp-7-icon" class="icon-close-open"></span><span id="cp-7-panelLabel" class="expandable-panel-count"></span></h2>
 		</div>
 		<div id="cp-7-expandable-panel-content" class="expandable-panel-content">
@@ -883,7 +883,7 @@ category: tool
 
 	  <div class="expandable-panel" id="cp-8">
 		<div id="cp-8-expandable-panel-heading" class="expandable-panel-heading">
-			<input type=hidden id="cp-8-panel-userCount" value=0 />
+			<input type=hidden id="cp-8-panel-count" value=0 />
 		  <h2>Season 8 (1971)<span id="cp-8-icon" class="icon-close-open"></span><span id="cp-8-panelLabel" class="expandable-panel-count"></span></h2>
 		</div>
 		<div id="cp-8-expandable-panel-content" class="expandable-panel-content">
@@ -968,7 +968,7 @@ category: tool
 
 	  <div class="expandable-panel" id="cp-9">
 		<div id="cp-9-expandable-panel-heading" class="expandable-panel-heading">
-			<input type=hidden id="cp-9-panel-userCount" value=0 />
+			<input type=hidden id="cp-9-panel-count" value=0 />
 		  <h2>Season 9 (1972)<span id="cp-9-icon" class="icon-close-open"></span><span id="cp-9-panelLabel" class="expandable-panel-count"></span></h2>
 		</div>
 		<div id="cp-9-expandable-panel-content" class="expandable-panel-content">
@@ -1053,7 +1053,7 @@ category: tool
 
 	  <div class="expandable-panel" id="cp-10">
 		<div id="cp-10-expandable-panel-heading" class="expandable-panel-heading">
-			<input type=hidden id="cp-10-panel-userCount" value=0 />
+			<input type=hidden id="cp-10-panel-count" value=0 />
 		  <h2>Season 10 (1972–73)<span id="cp-10-icon" class="icon-close-open"></span><span id="cp-10-panelLabel" class="expandable-panel-count"></span></h2>
 		</div>
 		<div id="cp-10-expandable-panel-content" class="expandable-panel-content">
@@ -1138,7 +1138,7 @@ category: tool
 
 	  <div class="expandable-panel" id="cp-11">
 		<div id="cp-11-expandable-panel-heading" class="expandable-panel-heading">
-			<input type=hidden id="cp-11-panel-userCount" value=0 />
+			<input type=hidden id="cp-11-panel-count" value=0 />
 		  <h2>Season 11 (1973–74)<span id="cp-11-icon" class="icon-close-open"></span><span id="cp-11-panelLabel" class="expandable-panel-count"></span></h2>
 		</div>
 		<div id="cp-11-expandable-panel-content" class="expandable-panel-content">
@@ -1223,7 +1223,7 @@ category: tool
 
 	  <div class="expandable-panel" id="cp-12">
 		<div id="cp-12-expandable-panel-heading" class="expandable-panel-heading">
-			<input type=hidden id="cp-12-panel-userCount" value=0 />
+			<input type=hidden id="cp-12-panel-count" value=0 />
 		  <h2>Season 12 (1974–75)<span id="cp-12-icon" class="icon-close-open"></span><span id="cp-12-panelLabel" class="expandable-panel-count"></span></h2>
 		</div>
 		<div id="cp-12-expandable-panel-content" class="expandable-panel-content">
@@ -1308,7 +1308,7 @@ category: tool
 
 	  <div class="expandable-panel" id="cp-13">
 		<div id="cp-13-expandable-panel-heading" class="expandable-panel-heading">
-			<input type=hidden id="cp-13-panel-userCount" value=0 />
+			<input type=hidden id="cp-13-panel-count" value=0 />
 		  <h2>Season 13 (1975–76) <span id="cp-13-icon" class="icon-close-open"></span><span id="cp-13-panelLabel" class="expandable-panel-count"></span></h2>
 		</div>
 		<div id="cp-13-expandable-panel-content" class="expandable-panel-content">
@@ -1405,7 +1405,7 @@ category: tool
 
 	  <div class="expandable-panel" id="cp-14">
 		<div id="cp-14-expandable-panel-heading" class="expandable-panel-heading">
-			<input type=hidden id="cp-14-panel-userCount" value=0 />
+			<input type=hidden id="cp-14-panel-count" value=0 />
 		  <h2>Season 14 (1976–77) <span id="cp-14-icon" class="icon-close-open"></span><span id="cp-14-panelLabel" class="expandable-panel-count"></span></h2>
 		</div>
 		<div id="cp-14-expandable-panel-content" class="expandable-panel-content">
@@ -1502,7 +1502,7 @@ category: tool
 
 	  <div class="expandable-panel" id="cp-15">
 		<div id="cp-15-expandable-panel-heading" class="expandable-panel-heading">
-			<input type=hidden id="cp-15-panel-userCount" value=0 />
+			<input type=hidden id="cp-15-panel-count" value=0 />
 		  <h2>Season 15 (1977–78) <span id="cp-15-icon" class="icon-close-open"></span><span id="cp-15-panelLabel" class="expandable-panel-count"></span></h2>
 		</div>
 		<div id="cp-15-expandable-panel-content" class="expandable-panel-content">
@@ -1599,7 +1599,7 @@ category: tool
 
 	  <div class="expandable-panel" id="cp-16">
 		<div id="cp-16-expandable-panel-heading" class="expandable-panel-heading">
-			<input type=hidden id="cp-16-panel-userCount" value=0 />
+			<input type=hidden id="cp-16-panel-count" value=0 />
 		  <h2>Season 16 (1978–79) <span id="cp-16-icon" class="icon-close-open"></span><span id="cp-16-panelLabel" class="expandable-panel-count"></span></h2>
 		</div>
 		<div id="cp-16-expandable-panel-content" class="expandable-panel-content">
@@ -1696,7 +1696,7 @@ category: tool
 
 	  <div class="expandable-panel" id="cp-17">
 		<div id="cp-17-expandable-panel-heading" class="expandable-panel-heading">
-			<input type=hidden id="cp-17-panel-userCount" value=0 />
+			<input type=hidden id="cp-17-panel-count" value=0 />
 		  <h2>Season 17 (1979–80) <span id="cp-17-icon" class="icon-close-open"></span><span id="cp-17-panelLabel" class="expandable-panel-count"></span></h2>
 		</div>
 		<div id="cp-17-expandable-panel-content" class="expandable-panel-content">
@@ -1781,7 +1781,7 @@ category: tool
 
 	  <div class="expandable-panel" id="cp-18">
 		<div id="cp-18-expandable-panel-heading" class="expandable-panel-heading">
-			<input type=hidden id="cp-18-panel-userCount" value=0 />
+			<input type=hidden id="cp-18-panel-count" value=0 />
 		  <h2>Season 18 (1980–81) <span id="cp-18-icon" class="icon-close-open"></span><span id="cp-18-panelLabel" class="expandable-panel-count"></span></h2>
 		</div>
 		<div id="cp-18-expandable-panel-content" class="expandable-panel-content">
@@ -1890,7 +1890,7 @@ category: tool
 
 	  <div class="expandable-panel" id="cp-19">
 		<div id="cp-19-expandable-panel-heading" class="expandable-panel-heading">
-			<input type=hidden id="cp-19-panel-userCount" value=0 />
+			<input type=hidden id="cp-19-panel-count" value=0 />
 		  <h2>Season 19 (1982) <span id="cp-19-icon" class="icon-close-open"></span><span id="cp-19-panelLabel" class="expandable-panel-count"></span></h2>
 		</div>
 		<div id="cp-19-expandable-panel-content" class="expandable-panel-content">
@@ -1999,7 +1999,7 @@ category: tool
 
 	  <div class="expandable-panel" id="cp-20">
 		<div id="cp-20-expandable-panel-heading" class="expandable-panel-heading">
-			<input type=hidden id="cp-20-panel-userCount" value=0 />
+			<input type=hidden id="cp-20-panel-count" value=0 />
 		  <h2>Season 20 (1983)<span id="cp-20-icon" class="icon-close-open"></span><span id="cp-20-panelLabel" class="expandable-panel-count"></span></h2>
 		</div>
 		<div id="cp-20-expandable-panel-content" class="expandable-panel-content">
@@ -2108,7 +2108,7 @@ category: tool
 
 	  <div class="expandable-panel" id="cp-21">
 		<div id="cp-21-expandable-panel-heading" class="expandable-panel-heading">
-			<input type=hidden id="cp-21-panel-userCount" value=0 />
+			<input type=hidden id="cp-21-panel-count" value=0 />
 		  <h2>Season 21 (1984)<span id="cp-21-icon" class="icon-close-open"></span><span id="cp-21-panelLabel" class="expandable-panel-count"></span></h2>
 		</div>
 		<div id="cp-21-expandable-panel-content" class="expandable-panel-content">
@@ -2217,7 +2217,7 @@ category: tool
 
 	  <div class="expandable-panel" id="cp-22">
 		<div id="cp-22-expandable-panel-heading" class="expandable-panel-heading">
-			<input type=hidden id="cp-22-panel-userCount" value=0 />
+			<input type=hidden id="cp-22-panel-count" value=0 />
 		  <h2>Season 22 (1985)<span id="cp-22-icon" class="icon-close-open"></span><span id="cp-22-panelLabel" class="expandable-panel-count"></span></h2>
 		</div>
 		<div id="cp-22-expandable-panel-content" class="expandable-panel-content">
@@ -2314,7 +2314,7 @@ category: tool
 
 	  <div class="expandable-panel" id="cp-23">
 		<div id="cp-23-expandable-panel-heading" class="expandable-panel-heading">
-			<input type=hidden id="cp-23-panel-userCount" value=0 />
+			<input type=hidden id="cp-23-panel-count" value=0 />
 		  <h2>Season 23 (1986)<span id="cp-23-icon" class="icon-close-open"></span><span id="cp-23-panelLabel" class="expandable-panel-count"></span></h2>
 		</div>
 		<div id="cp-23-expandable-panel-content" class="expandable-panel-content">
@@ -2351,7 +2351,7 @@ category: tool
 
 	  <div class="expandable-panel" id="cp-24">
 		<div id="cp-24-expandable-panel-heading" class="expandable-panel-heading">
-			<input type=hidden id="cp-24-panel-userCount" value=0 />
+			<input type=hidden id="cp-24-panel-count" value=0 />
 		  <h2>Season 24 (1987)<span id="cp-24-icon" class="icon-close-open"></span><span id="cp-24-panelLabel" class="expandable-panel-count"></span></h2>
 		</div>
 		<div id="cp-24-expandable-panel-content" class="expandable-panel-content">
@@ -2424,7 +2424,7 @@ category: tool
 
 	  <div class="expandable-panel" id="cp-25">
 		<div id="cp-25-expandable-panel-heading" class="expandable-panel-heading">
-			<input type=hidden id="cp-25-panel-userCount" value=0 />
+			<input type=hidden id="cp-25-panel-count" value=0 />
 		  <h2>Season 25 (1988–89)<span id="cp-25-icon" class="icon-close-open"></span><span id="cp-25-panelLabel" class="expandable-panel-count"></span></h2>
 		</div>
 		<div id="cp-25-expandable-panel-content" class="expandable-panel-content">
@@ -2497,7 +2497,7 @@ category: tool
 
 	  <div class="expandable-panel" id="cp-26">
 		<div id="cp-26-expandable-panel-heading" class="expandable-panel-heading">
-			<input type=hidden id="cp-26-panel-userCount" value=0 />
+			<input type=hidden id="cp-26-panel-count" value=0 />
 		  <h2>Season 26 (1989)<span id="cp-26-icon" class="icon-close-open"></span><span id="cp-26-panelLabel" class="expandable-panel-count"></span></h2>
 		</div>
 		<div id="cp-26-expandable-panel-content" class="expandable-panel-content">
@@ -2571,7 +2571,7 @@ category: tool
 
 	  <div class="expandable-panel" id="cp-27">
 		<div id="cp-27-expandable-panel-heading" class="expandable-panel-heading">
-			<input type=hidden id="cp-27-panel-userCount" value=0 />
+			<input type=hidden id="cp-27-panel-count" value=0 />
 		  <h2>Television movie (1996)<span id="cp-27-icon" class="icon-close-open"></span><span id="cp-27-panelLabel" class="expandable-panel-count"></span></h2>
 		</div>
 		<div id="cp-27-expandable-panel-content" class="expandable-panel-content">
@@ -2608,7 +2608,7 @@ category: tool
 
 	  <div class="expandable-panel" id="cp-28">
 		<div id="cp-28-expandable-panel-heading" class="expandable-panel-heading">
-			<input type=hidden id="cp-28-panel-userCount" value=0 />
+			<input type=hidden id="cp-28-panel-count" value=0 />
 		  <h2>Series 1 (2005)<span id="cp-28-icon" class="icon-close-open"></span><span id="cp-28-panelLabel" class="expandable-panel-count"></span></h2>
 		</div>
 		<div id="cp-28-expandable-panel-content" class="expandable-panel-content">
@@ -2753,7 +2753,7 @@ category: tool
 
 	  <div class="expandable-panel" id="cp-29">
 		<div id="cp-29-expandable-panel-heading" class="expandable-panel-heading">
-			<input type=hidden id="cp-29-panel-userCount" value=0 />
+			<input type=hidden id="cp-29-panel-count" value=0 />
 		  <h2>Series 2 (2006)<span id="cp-29-icon" class="icon-close-open"></span><span id="cp-29-panelLabel" class="expandable-panel-count"></span></h2>
 		</div>
 		<div id="cp-29-expandable-panel-content" class="expandable-panel-content">
@@ -2910,7 +2910,7 @@ category: tool
 
 	  <div class="expandable-panel" id="cp-30">
 		<div id="cp-30-expandable-panel-heading" class="expandable-panel-heading">
-			<input type=hidden id="cp-30-panel-userCount" value=0 />
+			<input type=hidden id="cp-30-panel-count" value=0 />
 		  <h2>Series 3 (2007)<span id="cp-30-icon" class="icon-close-open"></span><span id="cp-30-panelLabel" class="expandable-panel-count"></span></h2>
 		</div>
 		<div id="cp-30-expandable-panel-content" class="expandable-panel-content">
@@ -3055,7 +3055,7 @@ category: tool
 
 	  <div class="expandable-panel" id="cp-31">
 		<div id="cp-31-expandable-panel-heading" class="expandable-panel-heading">
-			<input type=hidden id="cp-31-panel-userCount" value=0 />
+			<input type=hidden id="cp-31-panel-count" value=0 />
 		  <h2>Series 4 (2008)<span id="cp-31-icon" class="icon-close-open"></span><span id="cp-31-panelLabel" class="expandable-panel-count"></span></h2>
 		</div>
 		<div id="cp-31-expandable-panel-content" class="expandable-panel-content">
@@ -3212,7 +3212,7 @@ category: tool
 
 	  <div class="expandable-panel" id="cp-32">
 		<div id="cp-32-expandable-panel-heading" class="expandable-panel-heading">
-			<input type=hidden id="cp-32-panel-userCount" value=0 />
+			<input type=hidden id="cp-32-panel-count" value=0 />
 		  <h2>Specials (2008–10)<span id="cp-32-icon" class="icon-close-open"></span><span id="cp-32-panelLabel" class="expandable-panel-count"></span></h2>
 		</div>
 		<div id="cp-32-expandable-panel-content" class="expandable-panel-content">
@@ -3285,7 +3285,7 @@ category: tool
 
 	  <div class="expandable-panel" id="cp-33">
 		<div id="cp-33-expandable-panel-heading" class="expandable-panel-heading">
-			<input type=hidden id="cp-33-panel-userCount" value=0 />
+			<input type=hidden id="cp-33-panel-count" value=0 />
 		  <h2>Series 5 (2010)<span id="cp-33-icon" class="icon-close-open"></span><span id="cp-33-panelLabel" class="expandable-panel-count"></span></h2>
 		</div>
 		<div id="cp-33-expandable-panel-content" class="expandable-panel-content">
@@ -3430,7 +3430,7 @@ category: tool
 
 	  <div class="expandable-panel" id="cp-34">
 		<div id="cp-34-expandable-panel-heading" class="expandable-panel-heading">
-			<input type=hidden id="cp-34-panel-userCount" value=0 />
+			<input type=hidden id="cp-34-panel-count" value=0 />
 		  <h2>Series 6 (2011)<span id="cp-34-icon" class="icon-close-open"></span><span id="cp-34-panelLabel" class="expandable-panel-count"></span></h2>
 		</div>
 		<div id="cp-34-expandable-panel-content" class="expandable-panel-content">
@@ -3599,7 +3599,7 @@ category: tool
 
 	  <div class="expandable-panel" id="cp-35">
 		<div id="cp-35-expandable-panel-heading" class="expandable-panel-heading">
-			<input type=hidden id="cp-35-panel-userCount" value=0 />
+			<input type=hidden id="cp-35-panel-count" value=0 />
 		  <h2>Series 7 (2012–13)<span id="cp-35-icon" class="icon-close-open"></span><span id="cp-35-panelLabel" class="expandable-panel-count"></span></h2>
 		</div>
 		<div id="cp-35-expandable-panel-content" class="expandable-panel-content">
@@ -3828,7 +3828,7 @@ category: tool
 
 	  <div class="expandable-panel" id="cp-36">
 		<div id="cp-36-expandable-panel-heading" class="expandable-panel-heading">
-			<input type=hidden id="cp-36-panel-userCount" value=0 />
+			<input type=hidden id="cp-36-panel-count" value=0 />
 		  <h2>Series 8 (2014)<span id="cp-36-icon" class="icon-close-open"></span><span id="cp-36-panelLabel" class="expandable-panel-count"></span></h2>
 		</div>
 		<div id="cp-36-expandable-panel-content" class="expandable-panel-content">
@@ -3985,7 +3985,7 @@ category: tool
 
 	  <div class="expandable-panel" id="cp-37">
 		<div id="cp-37-expandable-panel-heading" class="expandable-panel-heading">
-			<input type=hidden id="cp-37-panel-userCount" value=0 />
+			<input type=hidden id="cp-37-panel-count" value=0 />
 		  <h2>Series 9 (2015)<span id="cp-37-icon" class="icon-close-open"></span><span id="cp-37-panelLabel" class="expandable-panel-count"></span></h2>
 		</div>
 		<div id="cp-37-expandable-panel-content" class="expandable-panel-content">
@@ -4139,10 +4139,9 @@ category: tool
 		</div>
 	  </div>
 
-	  <!--
 	  <div class="expandable-panel" id="cp-38">
 		<div id="cp-38-expandable-panel-heading" class="expandable-panel-heading">
-			<input type=hidden id="cp-38-panel-userCount" value=0 />
+			<input type=hidden id="cp-38-panel-count" value=0 />
 		  <h2>Series 10 (2016-2017)<span id="cp-38-icon" class="icon-close-open"></span><span id="cp-38-panelLabel" class="expandable-panel-count"></span></h2>
 		</div>
 		<div id="cp-38-expandable-panel-content" class="expandable-panel-content">
@@ -4162,7 +4161,7 @@ category: tool
 			<tr>
 			  <td align="left">264</td>
 			  <td align="left">
-				<a href="https://en.wikipedia.org/wiki/XXX" title="XXX">The Return of Doctor Mysterio</a>
+				<a href="https://en.wikipedia.org/wiki/The_Return_of_Doctor_Mysterio" title="Nardole and a superhero called The Ghost combat brain-swapping aliens.">The Return of Doctor Mysterio</a>
 			  </td>
 			  <td style="text-align: center">
 				<div class="checkTheBox">
@@ -4171,6 +4170,8 @@ category: tool
 				</div>
 			  </td>
 			</tr>
+
+	  		<!--
 			<tr>
 			  <td align="left">265</td>
 			  <td align="left">
@@ -4315,14 +4316,13 @@ category: tool
 				</div>
 			  </td>
 			</tr>
+	  		-->
 		  </table>
 		  <div>&nbsp;</div>
 		</div>
 	  </div>
-	  -->
 	</div>
   </fieldset>
-<input type="hidden" id="number_of_panels" value="37" />
 </form>
 
 <br></br>
@@ -4342,6 +4342,5 @@ category: tool
 	</div><!-- social -->
 </div><!-- misc-content -->
 
-<script src="/assets/apps/jquery-2.2.4.min.js"></script>
 <script src="/assets/apps/expandable_panels.js"></script>
 <script src="/assets/apps/q/q.js"></script>
