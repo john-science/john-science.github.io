@@ -39,6 +39,7 @@ var CalcQ = (function() {
   var hashLen = Math.ceil(numStories / 5);
   var hasStorage = false;
   var hash = "0".repeat(hashLen);
+  var load = document.getElementById('load');
 
   // helper method, to determine if localStorage is active in browser
   var hasLocalStorage = function() {
@@ -67,6 +68,7 @@ var CalcQ = (function() {
   hasStorage = hasLocalStorage();
   if (hasStorage && localStorage.getItem('hash')) {
     hash = localStorage.getItem('hash');
+    load.value = hash;
   }
 
   // set the N-th character in a string (strings are zero-indexed)
@@ -107,8 +109,25 @@ var CalcQ = (function() {
     }
   };
 
+  // set a new hash value, given by user input
+  var setHash = function(hIn) {
+    // a little hash validation
+    h = JSON.parse(JSON.stringify(hIn)).toLowerCase().replace(/[^a-v0-9]+/g, '');
+    if (h.length < hashLen) {
+      h += "0".repeat(hashLen - h.length);
+    }
+    h = h.substring(0, hashLen);
+
+    // use the new hash
+    hash = h;
+    load.value = h;
+    if (hasStorage) {
+      localStorage.setItem('hash', h);
+    }
+  };
+
   return {
-    attachCheckboxHandlers: function() {
+    attachHandlers: function() {
       // assign updateTotal function to onclick property of each checkbox
       for (var i = 1, len = numStories; i <= len; i += 1) {
         document.getElementById('story' + i).onclick = CalcQ.updateTotal;
@@ -118,8 +137,15 @@ var CalcQ = (function() {
       for (var j = 1; j <= totalPanels; j += 1) {
         document.getElementById('group' + j).onclick = updateGroupTotal;
       }
+
+      // attach handler to load input
+      document.getElementById('load').addEventListener('blur', function(){
+        var newHash = this.value;
+        setHash(newHash);
+        CalcQ.init();
+      });
     },
-    checkboxInit: function() {
+    init: function() {
       var hashChar = '';
       var hashBin = '';
       var hashBit = '';
@@ -212,6 +238,7 @@ var CalcQ = (function() {
       if (hasStorage) {
         localStorage.setItem('hash', hash);
       }
+      load.value = hash;
 
       // Update panel Count
       var panelName = this.className
@@ -240,8 +267,8 @@ var CalcQ = (function() {
 
 // helper function, to aid onload
 var qInit = function() {
-  CalcQ.attachCheckboxHandlers();
-  CalcQ.checkboxInit();
+  CalcQ.attachHandlers();
+  CalcQ.init();
 };
 
 // onload hack: https://ckon.wordpress.com/2008/07/25/stop-using-windowonload-in-javascript/
