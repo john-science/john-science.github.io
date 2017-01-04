@@ -2,7 +2,7 @@
 layout: post
 title: "EWW JavaScript - Part 1"
 tags: [JavaScript, Software]
-summary: Everything Wrong With JavaScript - Part 1 - Minor Annoyances
+summary: Everything Wrong With JavaScript - Part 1 - Major Problems
 ---
 {% include JB/setup %}
 
@@ -18,19 +18,51 @@ As we walked on, I found out that JavaScript was no longer a static language. Th
 
 This is not the point where I go on an angry triade against JavaScript.  To my surprise, it was an enjoyable (albeit highly flawed) language to learn.  I started by picking up the only good book available: [JavaScript: The Good Parts](http://a.co/goIDRYe) which is a small, high-level guide to a small, high-level language.
 
+### Major Problems
 
-### Minor Annoyances
+For the fastudious, this series is going to address ECMAScript 3. This is the heart of the JavaScript language, and I do not believe ECMAScript 5 has added any real problems to the language.
 
-What follows will be the least technical part of the EWW JavaScript series. These are just the petty, little things that bother people, but not the serious structural flaws we will meet later in the series.
+#### Global Variables
 
-#### The Name
+Global variables are evil. But it seems as if JavaScript is designed such that everyone's code should be centered around global variables. This leads to ugly, hard to debug, buggy code. And I feel like anyone who had written enough code to design a language would know that. Ah well, you can't fight history.
 
-JavaScript is a terrible name.  Basically everyone who encounters the language the first time is forced to ask the question:
+Luckily, JavaScript closures offer a way for us to variables that would otherwise be global.
 
-> Hey, wait, is JavaScript related to Java?
+    TODO: example code
 
-The answer, of course, is no.  But why create the confusion in the first place?  It turns out this was a ploy made by the handsomest guys in marketing at Netscape in 1995. And we're stuck with it. 
+#### Inner Function Namespaces
+
+If you have a function inside another function, you would expect the inner function to have access to the private variables in the outer function. And they do. However, sadly, the inner function does not have access to outer function namespace (`this`).  This seems clearly a mistake on the part of the language design. But it has been around so long no, the ECMAScript team just can not remove it.
+
+    TODO: example code
+
+#### Arrays
+
+TODO
+
+#### include
+
+TODO
+
+#### Weak Typing / Lack of Static Typing
+
+I won't spend too much time on this. Vanilla JavaScript is designed around a very weak typing system, with a complete lack of static typing as an option. Myself, I prefer static typing, and this is a pretty common complaint about JavaScript. But, in the end, it was a purposeful design choice for the language. I just can't muster any nerd rage about this one.
+
+TODO
 
 #### etc
 
 TODO
+
+#### etc
+
+TODO
+
+#### etc
+
+TODO
+
+
+### To Be Continued
+
+Have I missed something? What is it about JavaScript that drives you insane? Tell us in the comments below.
