@@ -1,0 +1,65 @@
+.ttt-marquee {
+  text-align: center;
+}
+
+.ttt-scoreboard {
+  width: 75%;
+  margin-left: 12.5%;
+}
+
+.ttt-score-you {
+  text-align: left;
+  transition: all .2s;
+}
+
+.ttt-score-comp {
+  text-align: right;
+  transition: all .2s;
+}
+
+.ttt-board {
+  -webkit-appearance: none;
+  border: 0px;
+  margin: auto;
+  padding: 0px;
+  text-align: center;
+}
+
+.ttt-tr-row {
+  background-color: #FFF;
+}
+
+.ttt-tile {
+  -webkit-appearance: none;
+  margin: 0px;
+  padding: 0px;
+  transition: all .2s;
+}
+
+.bounce-red {
+  transform: scale(1.1);
+  color: #AB1400;
+  border-color: #800F00;
+  box-shadow: 0 0 25px #FF1E00;
+}
+
+.bounce-green {
+  transform: scale(1.1);
+  color: #008022;
+  border-color: #005F19;
+  box-shadow: 0 0 25px #00C835;
+}
+
+.bounce-yellow {
+  transform: scale(1.1);
+  color: #AB6400;
+  border-color: #804B00;
+  box-shadow: 0 0 25px #FF9500;
+}
+
+.bounce-blue {
+  transform: scale(1.1);
+  color: #003B6F;
+  border-color: #002C53;
+  box-shadow: 0 0 25px #015EB2;
+}
