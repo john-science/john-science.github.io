@@ -7,21 +7,16 @@ summary: Everything Wrong With JavaScript - Part 1 - Design Problems
 
 {% include JB/setup %}
 
-Recently, I was wandering through some park in San Francisco with a friend who works at YouTube. As he started talking about his work, I joked:
-    
-> I've never learned JavaScript, but I've written a lot of it.
+This will not be an angry tirade against JavaScript. It is an enjoyable language to learn. It is a high-level langauge with a small standard library, and a quirky selection of programming paradigms. But the original version of JavaScript was notoriously written in just two weeks, and there are all kinds of problems. Some of them are design flaws, some are issues in the standard libary, some are serious, some hardly matter at all.
 
-Like a lot of people, particularly back-end people, I had nothing but disdain for JavaScript. So I never sat down and learned the language like I did C++. I just hacked together enough JavaScript to get the rare page working and moved on with my life.
-
-As we walked on, I found out that JavaScript was no longer a static language. There was a decade of inactivity while Internet Explorer dominated the browser world, sure. But new versions of ECMAScript have been coming out since 2009. 
-    
-> Okay, okay. Thom. I get it. I will go back and learn JavaScript for real. Finally.
-
-This is not the point where I go on an angry triade against JavaScript.  To my surprise, it was an enjoyable (albeit highly flawed) language to learn.  I started by picking up the only good book available: [JavaScript: The Good Parts](http://a.co/goIDRYe) which is a small, high-level guide to a small, high-level language.
-
-### Major Problems
+In this series I will try to catalogue all the problems in JavaScript without resorting to personal preference; only problems that generally affect most if not all developers.
 
 This series will only discuss problems with Vanilla JavaScript (ECMAScript 3). This is the heart of the JavaScript language, and I do not believe ECMAScript 5 has added any real problems to the language.
+
+
+### Design Problems
+
+In part 1 of this series I will only describe major problems and design flaws in JavaScript.
 
 
 #### Global Variables
@@ -74,16 +69,14 @@ But in situations where you want a moderate number of iterations you overflow th
 
 #### Array
 
-JavaScript does not have arrays. Arrays are contiguous blocks of memory that contain a linear sequence of elements of the same type. They are a staple in many languages. JavaScript has a built-in type called `Array` with that look vaguely like arrays, but are not.
+JavaScript does not have arrays. Arrays are contiguous blocks of memory that contain a sequence of elements of the same type. They are a staple in many languages. JavaScript has a built-in type called `Array` that looks vaguely like arrays, but they are not.
 
-Perhaps the problem is just one of symmantics. Historically, the name `Array` was meant to make JavaScript seem more like Java. It was meant to make the language more accessible to an audience that were new to the language. However, the end effect is the opposite, since everyone new to JavaScript has to stumble on the nomenclature. The problem could have been easily fixed by changing the name `Array` to `Sequence`, or any almost anything else.
-
-The JavaScript `Array` can be quickly used to mock a Queue, Stack, Linked List, or Dynamic Vector. It is a versital tool, with a terrible name.
+Perhaps the problem is just one of symmantics. Historically, the name `Array` was used to make JavaScript seem more like Java. It was meant to make the language more accessible to an audience that were new to the language. However, the end effect is the opposite, since everyone new to JavaScript has to stumble on the nomenclature. The problem could have been easily fixed by changing the name `Array` to `Sequence`, or some such.
 
 
 #### Block Scope
 
-JavaScript has the same curly bracket syntax `{}` as C and Java, but the brackets denote lexical scoping, not block scoping. Most of us grealy prefer block scope, as it helps compartmentalize the code. It was a brave choice to use lexical scoping, but not one I will argue against. However, in the end it feels more awkward than creative when it uses stolen syntax.
+JavaScript has the same curly bracket syntax `{}` as C and Java, but the brackets denote lexical scoping, not block scoping. Most of us grealy prefer block scope, as it helps compartmentalize the code. It was a brave choice to use lexical scoping, but not one I will argue against. However, it feels more awkward than creative when it uses stolen syntax.
 
 
 #### Variable Declaration Order
@@ -105,7 +98,7 @@ I am imagining sitting down to design a language and thinking, "No, I don't want
 
 #### Weak Typing / Lack of Static Typing
 
-Vanilla JavaScript is designed around a very weak typing system, with a complete lack of even optionally static typing. Myself, I prefer static typing, and this is a pretty common complaint about JavaScript. But, in the end, it was a purposeful design choice for the language. I just can't muster any nerd rage about this one.
+Vanilla JavaScript is designed around a very weak typing system, without even optionally static typing. Myself, I prefer static typing, and this is a pretty common complaint about JavaScript. But, in the end, it was a purposeful design choice for the language. I just can't muster any nerd rage about this one.
 
 
 ### To Be Continued
