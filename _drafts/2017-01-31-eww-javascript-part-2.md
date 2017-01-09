@@ -1,18 +1,20 @@
 ---
 layout: post
-title: "EWW JavaScript - Part 2"
+title: "Everything Wrong With JavaScript - Part 2"
 tags: [JavaScript, Software]
-summary: Everything Wrong With JavaScript - Part 2 - Minor Problems
+summary: Everything Wrong With JavaScript - Part 2 - Minor Atrocities
 ---
 {% include JB/setup %}
 
-In part 1 of this series, we covered the major problems with JavaScript. But not all of the problems with JavaScript are large-scale systemic problems. Some of the problems are just niggling little details which demand that you constantly work around them. Those petty annoyances are what we are covering today.
+Part 1 of this series covered the major design problems with JavaScript. But not all of the problems are so grand in scale. Some of the worst problems in life are small things that prick us, day in and day out. And JavaScript has these in spades.
 
-Again, I want to make it clear that I like the language. It has a friendly, homemade LISP feel, and I appreciate it for its minimalist structure. Most major languages bloat up hugely as they age, but JavaScript has not.
+Again, I want to make it clear that I like the language. It has a friendly, homemade LISP feel, and I appreciate it for its minimalist size. Most major languages bloat up hugely as they age, but JavaScript has not.
 
-### Minor Problems
 
-What follows will be the least technical part of the EWW JavaScript series. These are just the petty, little things that bother people, but not the serious structural flaws we will meet later in the series.
+### Minor Atrocities
+
+JavaScript was designed and built in a couple weeks and the standard library is filled with idiocracies and just plain mistakes.
+
 
 #### The Name
 
@@ -86,7 +88,8 @@ My bias is to know ahead of time the exact state of the objects I am working wit
     // initialize an array of 1000 zeros
     var arr = Array.init(1000, 0);
 
-### Array.sort
+
+#### Array.sort
 
 JavaScript does not come with extensive standard libraries the way that some modern languages do (like Python). So you would expect the standard libraries that do come with JavaScript to be well-designed and dependable. You would be totally wrong, but you can expect anything you want, I guess.
 
@@ -102,13 +105,14 @@ Seriously, it would have take like an hour to do a type check on the default `so
          return a - b;
        });
 
-### String.substring
+#### String.substring
 
 The `.substring()` method does the exact same as the `.slice()` method, expect that it does not accept negative values.
 
 It was redundant and useless 20 years ago, and it still is.
 
-### Auto-Magic Semicolons
+
+#### Auto-Magic Semicolons
 
 Another feature that undoubtedly came from a desire to help beginners with JavaScript is automatic inject of semicolons. This has caused me problems in the past, but has never saved me any work. Particularly because of outlying cases that different browsers try and treat differently. The classic bad example is this code:
 
@@ -134,7 +138,7 @@ Notice that this version, with the automatically inserted semicolon, has unreach
 
 The real problem here is that this leaves ambiguity in the language: JavaScript is only "mostly" whitespace independent.
 
-### Reserved Words
+#### Reserved Words
 
 For reasons lost to time (or I'm too lazy to look up) JavaScript has a ton of reserved words that are not actually used in the language. Which is the kind of thing tends to make one simultaneously angry and tired. The reserved words which make sense are:
 
@@ -148,7 +152,7 @@ And here is the offending list of keywords that have never been used in the lang
 
 I should mention here that ECMAScript 5 and 6 actually removes all of the above unused reserved words. Sadly, a lot of people still use Internet Explorer, so we are not in an ECMAScript 5 world yet.
 
-### typeof
+#### typeof
 
 The `typeof` operator is supposed to return a string that describes the type of an object.
 
@@ -168,7 +172,8 @@ But there are many examples of complete counter-intuitive behaivor:
     >> typeof NaN
     "number"
 
-### parseInt
+
+#### parseInt
 
 The `parseInt` function is supposed to take in a string, and if possible, convert it to an integer:
 
@@ -184,7 +189,7 @@ The problem is that if you pass it a string that starts with some numbers, it wi
     >> parseInt("1600 Pennsylvania Avenue")
     1600
 
-### NaN
+#### NaN
 
 The type of `NaN`, which remember is literally an abbreviation for "Not a Number" is... `"number"`:
 
@@ -198,7 +203,7 @@ And it doesn't stop there. The way JavaScript evaluates `NaN` in predicate state
     >> NaN !== NaN
     true
 
-### ==
+#### ==
 
 The usual boolean operators (`==` and `!=`) do not act like you would expect in JavaScript. The first thing they do is convert the things on either side of the operator to the same type, and *then* they compare them. This is obviously radically slower than the typical boolean operators in, like, every single other programming language.
 
@@ -218,15 +223,15 @@ The list goes on and on.
 
 The only solution is to use `===` and `!==`, which are the usual boolean operators from other languages. They do not do any type conversion at all. To variables of different types are not equal. If JavaScript did not include these operators, most of use would write them ourselves as functions.
 
-### Bitwise Operators
+#### Bitwise Operators
 
 Many, perhaps most, languages include bitwise operators. They are meant to be extremely low-level, fast commands that allow you to actually shift around the bits of a binary integer. Of course, JavaScript does not have integers, only decimals. This means that JavaScript has to convert your float to an integer before applying the bitwise operators. This involves a lot of error-handling and special cases. And the end result is so slow there is no reason left to have them in the language. Avoid them.
 
-### void
+#### void
 
 In JavaScript, for some reason, `void` is an operator that takes in a value and returns undefined. Which, yes, is exactly as useless as it sounds. Find me a good use case for this operator and I will buy you a coffee/beer.
 
 
-### To Be Continued?
+#### To Be Continued?
 
 Have I missed something? What is it about JavaScript that drives you insane? Tell us in the comments below.
