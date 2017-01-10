@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Everything Wrong With JavaScript - Part 1"
+title: "Everything Wrong with JavaScript: vol 1"
 tags: [JavaScript, Software]
-summary: Design Flaws and Major Problems with JavaScript
+summary: Design Flaws and Major Problems in JavaScript
 ---
 
 {% include JB/setup %}
@@ -104,5 +104,7 @@ Vanilla JavaScript is designed around a very weak typing system, without even op
 
 
 ### To Be Continued
+
+In [volume 2](/2017/01/10/eww-javascript-part-2) of this series, we will cover the smaller more obvious mistakes in JavaScript.
 
 What is it about JavaScript that drives you insane? Leave your thoughts in the comments below.
