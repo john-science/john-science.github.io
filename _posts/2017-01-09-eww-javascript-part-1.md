@@ -62,13 +62,17 @@ It is not hard to create a tail recursive function in JavaScript that explodes t
 
 For small numbers, there is no problem:
 
+{% highlight javascript %}
     >> Factorial(4, 1);
        24
+{% endhighlight %}
 
 But in situations where you want a moderate number of iterations you overflow the call stack:
 
+{% highlight javascript %}
     >> Factorial(5199, 1);
        InternalError: too much recursion
+{% endhighlight %}
 
 
 #### Array
