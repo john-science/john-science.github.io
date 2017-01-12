@@ -23,14 +23,17 @@ JavaScript is built around global variables. All top-level variables are tossed 
 
 JavaScript gives us three ways to define a global variable:
 
+{% highlight javascript %}
     var x = value;     // in global scope
     window.x = value;  // anywhere
     x = value;         // anywhere
+{% endhighlight %}
 
 The first option seems fair. Most languages force variables defined in the global scope to be global. Fine. And the second option is just a DOM-specific variation on the first. Again, fine. The third option is evil though. If you forget to declare a variable, it will automatically get upgraded to global. This *must* have been a feature added to help beginners, but it definitely causing more problems than it solves.
 
 People have designed all kinds of patterns and frameworks to help each other get around JavaScript's global-centric design. I usually rely on closure:
 
+{% highlight javascript %}
     var f = {function() {
       var hidden = 1;  // not global
 
@@ -38,6 +41,7 @@ People have designed all kinds of patterns and frameworks to help each other get
         // export your interface here
       };
     }());
+{% endhighlight %}
 
 
 #### No Tail Recursion Optimization
@@ -46,6 +50,7 @@ In some languages, if a function returns the result of calling itself recursivel
 
 It is not hard to create a tail recursive function in JavaScript that explodes the return stack. Here is a tail recursive Factorial function:
 
+{% highlight javascript %}
     function Factorial(current, result) {
       if (current === 1) {
         return result;
@@ -53,6 +58,7 @@ It is not hard to create a tail recursive function in JavaScript that explodes t
 
       return Factorial(current - 1, result * current);
     }
+{% endhighlight %}
 
 For small numbers, there is no problem:
 
