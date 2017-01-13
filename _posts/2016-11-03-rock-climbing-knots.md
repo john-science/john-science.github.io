@@ -2,7 +2,7 @@
 layout: post
 title: "Rock Climbing Knots"
 tags: [Rock Climbing, Outdoors]
-summary: A minimal set of knots that I absolutely must know to go rock climbing.
+summary: The minimal set of knots that I absolutely must know to go rock climbing.
 ---
 {% include JB/setup %}
 
@@ -10,12 +10,12 @@ Standard safety warning:
 
 > I do not know what kind of climbing you are doing, or what kind of trouble you might get yourself in. You, and you alone, are responsible for your own safety. Blah, blah, blah.
 
-This is the minimal set of knots that I think I need to know to go rock climbing. This is not meant to be an exhaustive list of all the climbing knots in the world, there are already plenty of [those](https://en.wikipedia.org/wiki/List_of_climbing_knots) out [there](http://www.animatedknots.com/indexclimbing.php#ScrollPoint). I have not found such lists useful.
+This is the minimal set of knots that I think I need to know to go <span title="TR and multi-pitch Trad, no haul bags">rock climbing</span>. This is not meant to be an exhaustive list of all the climbing knots in the world, there are already plenty of [those](https://en.wikipedia.org/wiki/List_of_climbing_knots) out [there](http://www.animatedknots.com/indexclimbing.php#ScrollPoint). I have not found such lists useful.
 
-My theory is it is more important to know a small set of knots extremely well than to memorize a huge galaxy of knots. When climbing, you might find yourself having to tie a knot one-handed while extremely tired and distracted. In that situation, the only thing that matters is that you know one knot for the job, and you have practiced enough to tie it without thinking. To that end, I have found these are the knots I need to know. I have practiced them: one-handed, with my right and left hand, in the dark, without looking. And I will practice them some more.
+My theory is it is more important to know a small set of knots extremely well than to memorize a whole galaxy of knots. When climbing, you might find yourself having to tie a knot while extremely tired and distracted. In that situation, the only thing that matters is that you know one knot for the job, and you have practiced enough to tie it without thinking. To that end, I have found these are the knots I need to know. I have practiced them: one-handed, with my right and left hand, in the dark, and without looking. And I will practice them some more.
 
 
-### Table of Contents
+### Knot Shortcuts
 
  * [Figure 8 Follow Through](#figure-8-follow-through)
  * [Overhand](#overhand)
@@ -55,9 +55,9 @@ alt="Figure 8 knot-tying video">
 
 > Uses: back-up knot, and stopper knot
 
-This knot is so basic you probably grew up being able to tie it. And you just called it "a knot".
+This knot is so basic you probably grew up being able to tie it, and you just called it "a knot".
 
-This knot has two major uses. First, a lot of people use it as a backup for their harness tie-in. This has the added adavantage of ensuring the free piece of the rope does not hit you in the eye. Second, it is smart to tie this at the end of your rope before rappelling, so you do not rappel off your rope. (Which happens.)
+This knot has two major uses. First, a lot of people use it as a back-up for their harness tie-in. This has the added adavantage of ensuring the free piece of the rope does not hit you in the eye. Second, it is smart to tie this at the end of your rope before rappelling, so you do not rappel off your rope. (Which happens.)
 
 <a href="https://youtu.be/I0ShGbIR0ZI?t=7" target="_blank">
 <img src="/assets/images/knots/overhand_638px.png"
@@ -196,9 +196,9 @@ alt="Munter Mule Hitch knot-tying video">
 
 ### <a name="bonus-knots"></a>Bonus Knots
 
-* [Monkey's Fist](https://youtu.be/gp9w-T2d_NY?t=7) - Great fun. If your friends look bored, toss them a Monkey's Fist. To be honest, you won't use it much while climbing. But it is helpful if you ever need to throw a rope: up to a climber, or over a tree branch.
-* [One-Handed Figure 8](https://youtu.be/-iE8WG33xJY?t=1) - Look like a cowboy when you tie in. This is more for style points than anything else.
+* [Monkey's Fist](https://youtu.be/gp9w-T2d_NY?t=7) - Great fun. If your friends look bored, toss them a Monkey's Fist. To be honest, you won't use it much while climbing. But it is helpful if you ever need to throw a rope up: to a climber, or over a tree branch.
+* [One-Handed Figure 8](https://youtu.be/-iE8WG33xJY?t=1) - Look like a cowboy when you tie in. This is only for style points.
 
  &nbsp;
 
-Am I missing your favorite knot? Or have I forgotten to mention something important about one of the knots above? Leave a comment below.
+Am I missing your favorite knot? Or have I forgotten to mention something important about one of the knots above? Leave your thoughts in the comments below.
