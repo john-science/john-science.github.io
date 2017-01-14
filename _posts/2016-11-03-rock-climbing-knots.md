@@ -196,6 +196,7 @@ alt="Munter Mule Hitch knot-tying video">
 
 ### <a name="bonus-knots"></a>Bonus Knots
 
+* [Rope Backpack](https://youtu.be/ppYanQ5DDPM) - If you've got a long hike to or from a climb, it's super handy to know how to tie a rope backpack.
 * [Monkey's Fist](https://youtu.be/gp9w-T2d_NY?t=7) - Great fun. If your friends look bored, toss them a Monkey's Fist. To be honest, you won't use it much while climbing. But it is helpful if you ever need to throw a rope up: to a climber, or over a tree branch.
 * [One-Handed Figure 8](https://youtu.be/-iE8WG33xJY?t=1) - Look like a cowboy when you tie in. This is only for style points.
 
