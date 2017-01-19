@@ -195,7 +195,7 @@ The other reason major I tend to play NetHack over other roguelikes is I want to
 * [Guidebook](http://www.nethack.org/v360/Guidebook.html)
 * [iNetHack2 on iOS](https://itunes.apple.com/us/app/inethack2/id962114968?mt=8) - My favorite roguelike for iOS.
 
-<sup>1</sup>What roguelike do you like best? Convince me to try your favorite in the comments below.
+<sup>1</sup>What is your favorite roguelike? Convince me to try it in the comments below.
 
 ### Rogue
 
@@ -250,7 +250,7 @@ Oh, no! You have walked into the slavering fangs of a luring grue!
    **** You have died ****
 ```
 
-[Zork](https://en.wikipedia.org/wiki/Zork#Zork_III:_The_Dungeon_Master) is interactive fiction from the dawn of Unix Time. You are dropped into a world and given no introduction as to why you are there. You have to figure everything out for yourself. There will be puzzles to solve, but no one is going to tell you when or where. It helps if you are the type of person to remember little details you saw ten minutes ago. Modern gamers complain that Zork is too hard. But computer games used to be harder. If you want a game that holds your delicate little hand, this game is not for you. If losing hurts your fragile ego, this game is not for you. If none of the above scares you, Zork is probably for you.
+[Zork](https://en.wikipedia.org/wiki/Zork#Zork_III:_The_Dungeon_Master) is interactive fiction from the dawn of Unix Time. You are dropped into a world and given no introduction as to why you are there. You have to figure everything out for yourself. There will be puzzles to solve, but no one is going to tell you when or where. Little details that you come across might be desperately important later. Modern gamers complain that Zork is too hard. But computer games used to be harder, that's just a fact. If you are not willing to use your brain, Zork is not for you. If you want a game that holds your delicate little hand, Zork is not for you. If losing hurts your fragile ego, Zork is not for you.
 
 * [Play Online - Zork 1](https://archive.org/details/a2_Zork_I_The_Great_Underground_Empire_1980_Infocom)
 * [Play Online - Zork 2](https://archive.org/details/a2_Zork_II_The_Wizard_of_Frobozz_1981_Infocom_a)
