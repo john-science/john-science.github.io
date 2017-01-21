@@ -6,7 +6,7 @@ summary: Watching all of the Doctor Who episodes with River Song, but from her t
 ---
 {% include JB/setup %}
 
-I wanted to re-watch all of the Doctor Who episodes with River Song, but from her timeline. Deciphering the order took a bit of research, so I thought I'd share my results.
+I wanted to re-watch all of the Doctor Who episodes with River Song, but from her timeline. Deciphering the order took a bit of research, so I thought I'd share the results.
 
 ### River Song's Timeline - by Episode
 
@@ -48,4 +48,4 @@ The River Song stories were built around Matt Smith's Doctor, so the first three
 
 After watching them all again, I don't think the last episode really needs to be on the list. The second-to-last episode is really the conclusion of the River story arc. And the last episode only *kind of* has her in it anyway. So I marked it as optional.
 
-In the end, I really enjoyed watching the episodes in this order. It added an extra dimension to the them. Just a little bit of thought was required to figure out where each character was in their own timeline. And thinking more about the characters perspective gave the characters more depth. This was a marvelous experiment. I'm glad I did it. And I'm glad I did it with my best friend.
+In the end, I really enjoyed watching the episodes in this order. It added an extra dimension to the them. Just a little bit of thought was required to figure out where each character was in their own timeline. And thinking more about the characters perspective gave them more depth. This was a marvelous experiment. I'm glad I did it. And I'm glad I did it with my best friend.
