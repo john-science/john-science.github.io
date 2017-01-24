@@ -29,7 +29,7 @@ window.x = value;  // anywhere
 x = value;         // anywhere
 {% endhighlight %}
 
-The first option seems fair. Most languages force variables defined in the global scope to be global. Fine. And the second option is just a DOM-specific variation on the first. Again, fine. The third option is evil though. If you forget to declare a variable, it will automatically get upgraded to global. This *must* have been a feature added to help beginners, but it definitely causing more problems than it solves.
+The first option seems fair. Most languages force variables defined in the global scope to be global. Fine. And the second option is just a DOM-specific variation on the first. Again, fine. The third option is evil though. If you forget to declare a variable, it will automatically get upgraded to global. This *must* have been a feature added to help beginners, but it definitely causes more problems than it solves.
 
 People have designed all kinds of patterns and frameworks to help each other get around JavaScript's global-centric design. I usually rely on closure:
 
@@ -79,7 +79,7 @@ But in situations where you want a moderate number of iterations you overflow th
 
 JavaScript does not have arrays. Arrays are contiguous blocks of memory that contain a sequence of elements of the same type. They are a staple in many languages. JavaScript has a built-in type called `Array` that looks vaguely like an array on the surface.
 
-The name "Array" appears to be chosen to help people who started with Java, C, Fortan or the like, where Arrays are key. In the end, the name just makes these people stumble in the beginning. There are several types of common functionality for real arrays (see part 2 of this series) that are missing or just impossible with a JavaScript "Array". At the very least, the `Array` object in JavaScript should have been given a different name.
+The name "Array" appears to be chosen to help people who started with Java, C, Fortan or the like, where Arrays are central. In the end, the name just makes these people stumble in the beginning. There are several types of common functionality for real arrays (see part 2 of this series) that are missing or just impossible with a JavaScript "Array". At the very least, the `Array` object in JavaScript should have been given a different name.
 
 
 #### Block Scope
@@ -96,7 +96,7 @@ The standard approach to dealing with this is to declare all your variables at t
 
 #### Unicode
 
-JavaScript only supports 16-bit unicode. Because, well, it's old. But this is the internet we're talking about; it spans the world. It would be nice if JavaScript supported 32-bit unicode.
+JavaScript only supports 16-bit unicode. Because, well, it's old. But this is the internet we're talking about; it spans the world. It would be better if JavaScript supported 32-bit unicode.
 
 
 #### include
