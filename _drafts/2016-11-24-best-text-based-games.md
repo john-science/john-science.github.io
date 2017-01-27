@@ -6,15 +6,15 @@ summary: The best text-based computer games of all time.
 ---
 {% include JB/setup %}
 
-I love text-based games. They are usually a lot more unique and interesting than the average video/computer game. Maybe it is because the creators can spend all of their time focused on the content and the mechanics. Modern, big budget games take a huge amount of work: they have a 3D art department, a music team, a story board team, an accounting team, an HR team... you name it. All that stuff gets between the creator and the idea.
+I love text-based games. They can be so much more unique and interesting than the average video or computer game. My theory is that the creators have more freedom to focus on content and mechanics. Modern, big budget games take huge teams: the 3D art department, the music team, the story board team, acounting, HR, you name it. All that stuff gets between the creator and the idea.
 
-> I also think movies where the writer and director are the same person tend to be a lot more interesting.
+> Similarly, I have noticed movies tend to be more creative if the writer and director are the same person.
 
-To be honest, I also love the idea that one day I could write a great text-based game. Without corporate backing, just me and a laptop. It is theoretically possible that I could create some little game that a few people would love. Maybe. One day. A boy can dream.
+And, if I am being totally honest, I love the idea that one day I could write a great text-based game. No corporate back, just me and a laptop. It is theoretically possible that I could create some little game that a few people would love. You know, maybe. One day. A boy can dream.
 
-The title of this post is a lie, these are simply favorite text-based games. All of these games have legions of fans. They all did something new, or creative, or fun, and people love them.
+The title of this post is a lie. Really, these are just my favorite text-based games. But all of these games have legions of fans. They all did something new, or creative, or fun, and people love them.
 
-**All these games are free to play, right now!**
+**And all these games are free to play, right now!**
 
 
 ### Anchorhead
