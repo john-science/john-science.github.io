@@ -58,7 +58,7 @@ The title of this post is a lie. Really, these are just my favorite text-based g
 The game starts so simply, you might not even think it is a real game. You are cold and alone in the dark. So you build a fire. As time rolls on you have an entire village to defend. Or you can abandon them and explore the wilds alone.
 
 * [Play Online](http://adarkroom.doublespeakgames.com/)
-* [Play iOS](https://itunes.apple.com/us/app/a-dark-room/id736683061?mt=8) or [Play Android](https://play.google.com/store/apps/details?id=com.yourcompany.adarkroom&hl=en)
+* Play [iOS](https://itunes.apple.com/us/app/a-dark-room/id736683061?mt=8) or [Android](https://play.google.com/store/apps/details?id=com.yourcompany.adarkroom&hl=en)
 * [Download Code](https://github.com/doublespeakgames/adarkroom)
 
 
@@ -153,48 +153,6 @@ I love talking to people who play this game; they always have the wierdest stori
 * [IGN Walk Through](http://www.ign.com/faqs/2008/the-hitchhikers-guide-to-the-galaxy-walkthrough-429003) - WARNING: Massive Spoilers (full cheat guide)
 
 
-### NetHack
-
-> 1987-2015, [roguelike](https://en.wikipedia.org/wiki/Roguelike), little plot (open source)
-
-```
-You see here a ruby ring.
-
-                                                  ------------
-                                                  +..........|     --------
-       -------------                            # |..........|     |.+*]@!|
-       |............#             ################...........|    #-.%[?f!|
-       |...........|#             #---------  #   ------|-----    #|.@[%))|
-       |>..........|#             #|.......|###         ########  #--------
-       -----.-----.-#             #|.[.....|#                  #  ####
-           ##       #             #|.......|#                  ###   #
-           #        #            ##-.....).|#                    #   #
-           #        #         #####|......)-#                    ##  #
-           #        ###  ------### ---------         -------------+--#
-           #          # #|....|#                     |              |#
- ----------.--        ###|....-#                     |              +#
- |............###########.....|                      |              |
- |...........|          #|....|                      ----------------
- |....<......+           |....|
- |...........|           ------
- -------------
-
-Sprocket the Evoker        St:12 Dx:12 Co:12 In:18 Wi:11 Ch:10  Neutral
-Dlvl:2  $:94 HP:17(17) Pw:23(23) AC:9  Xp:2/25 T:707
-```
-
-[NetHack](https://en.wikipedia.org/wiki/NetHack) is my favorite<sup>1</sup> roguelike (see Rogue below). Of course, there are many other modern roguelikes out there. But for me NetHack hits that happy medium between a game complex enough to be interesting but not too complicated to be fun. To be honest, NetHack is one of the meaner roguelikes. You die a lot, particularly as a newbie. At first, I found that pretty discouraging, but usually when I die I learn something.
-
-The other reason major I tend to play NetHack over other roguelikes is I want to game on my phone. But since roguelikes were designed for a full keyboard, they are notoriously hard to adapt. I have tried dozens of different roguelike apps, but the only one I found thta I actually enjoy playing is POWDER.
-
-* [Download Game](http://www.nethack.org/v360/downloads.html)
-* [Download Code](https://github.com/NetHack/NetHack)
-* [Official Site](http://www.nethack.org/)
-* [Guidebook](http://www.nethack.org/v360/Guidebook.html)
-* [POWDER on iOS](https://itunes.apple.com/us/app/powder/id347454871?mt=8) - My favorite roguelike for iOS.
-
-<sup>1</sup>What is your favorite roguelike? Convince me to try it in the comments below.
-
 ### Rogue
 
 > 1980, [roguelike](https://en.wikipedia.org/wiki/Roguelike), little plot
@@ -222,15 +180,21 @@ The other reason major I tend to play NetHack over other roguelikes is I want to
 
 [Rogue](https://en.wikipedia.org/wiki/Rogue_%28video_game%29) is a tile-based, text-only, procedurally-generated, adventure game where you delve dungeons, fight monsters, and collect treasure. Any plot is incidental. The "graphics" are what you see above: people are `@`, hallways are `#`, doors are `+`, and so on. And the commands you use to play are just as esoteric: `d` to drop something, but `q` to drink (quaff) something.
 
-This means the game has a learning curve. But since the game is old school it is kind of permanently paused; the game only advances when you press a button, if you want to look something up, you have all the time in the world. No rush.
+This means the game has a learning curve. But since the game is old school it is kind of permanently paused; it only advances when you press a button. If you want to look something up, you have all the time in the world. No rush.
 
-The thing is, people *love* this game. Lots of people. It has spawned an entire gaming genre, roguelikes, with really [active communities](http://www.roguebasin.com/index.php?title=Main_Page) online. Rogue is the original, but some of the more popular modern descendents are: [NetHack](http://www.nethack.org/) (see above), [Angband](http://trac.rephial.org/), and [ADOM](http://www.adom.de/home/index.html).
+The thing is, people *love* this game. Lots of people. It has spawned an entire gaming genre, roguelikes, with really [active communities](http://www.roguebasin.com/index.php?title=Main_Page). Rogue is the original:
 
 * [Play Rogue Online](https://archive.org/details/msdos_Rogue_1983)
-* [Rogue Commands](http://www.nongnu.org/gmoria/moria.html#Commands) - A handy guide to what all the game controls.
-* [Download ADOM](http://www.adom.de/home/index.html) - 1994-Present, roguelike, moderate plot
-* [Download Angband Game](http://trac.rephial.org/) - 1990-Present, roguelike, little plot (open-source)
-* [Download Angband Code](https://github.com/angband/angband)
+* [Rogue Commands](http://www.nongnu.org/gmoria/moria.html#Commands) - A handy guide to all the game controls.
+
+But there are far more popular modern descendents that are still being actively developed:
+
+* [ADOM](http://www.adom.de/home/index.html) - 1994-Present, commercial, with some plot
+* [Angband](http://trac.rephial.org/) - 1990-Present, more directly inspired by Tolkien
+* [Dungeon Crawl Stone Soup](http://crawl.develz.org/trunk/) (CRAWL) - 2006-Present, better tutorials and in-game explanations
+* [NetHack](http://www.nethack.org/) - 1980-2015, persistent level maps, and a more complicated world
+* [ToME](http://www.roguebasin.com/index.php?title=ToME) - 1998-Present, freeform questing and an option to turn off permadeath
+
 
 ### Zork
 
