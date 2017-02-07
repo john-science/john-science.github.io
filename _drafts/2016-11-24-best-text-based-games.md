@@ -6,9 +6,9 @@ summary: The best text-based computer games of all time.
 ---
 {% include JB/setup %}
 
-I love text-based games. They can be so much more unique and interesting than the average video or computer game. My theory is that the creators have more freedom to focus on content and mechanics. Modern, big budget games take huge teams: the 3D art department, the music team, the story board team, acounting, HR, you name it. All that stuff gets between the creator and the idea.
+I love text-based games. They can be so much more unique and interesting than the average computer game. My theory is that the creators have more freedom to focus on content and mechanics. Modern, big budget games take huge teams: the 3D art department, the music team, the story board team, acounting, HR, you name it. All that stuff gets between the creator and the idea.
 
-And, if I am being totally honest, I love the idea that one day I could write a great text-based game. No corporate backing; just me and a laptop. It is theoretically possible that I could create some little game that a few people would love. You know, maybe. One day. A boy can dream.
+And, if I am being totally honest, I covet the idea that one day I could write a decent text-based game. No corporate backing; just me and a laptop. It is theoretically possible that I could create some little game that a few people would love. You know, maybe. One day. A boy can dream.
 
 The title of this post is a lie. Really, these are just my favorite text-based games. But all of these games have legions of fans. They all did something new, or creative, or fun, and people love them.
 
@@ -17,7 +17,7 @@ The title of this post is a lie. Really, these are just my favorite text-based g
 
 ### Anchorhead
 
-> 1998, [interactive fiction](https://en.wikipedia.org/wiki/Interactive_fiction)
+> 1998, puzzle-based [interactive fiction](https://en.wikipedia.org/wiki/Interactive_fiction)
 
     > n
     You close your umbrella, as is your habit after coming indoors.
@@ -30,7 +30,7 @@ The title of this post is a lie. Really, these are just my favorite text-based g
     > say "Help! I'm being chased!" to a fisherman
     No one answers you, or even looks your way.
 
-[Anchorhead](https://en.wikipedia.org/wiki/Anchorhead) is based on the works of HP Lovecraft, especially the stories involving Cthulu. You are a young woman who just moved to a small, coastal town with her husband. But something is off. The story is well-written and haunting, and the world is filled with great atmospheric details. You can just explore the world, but to move the story forward you have to solve puzzles. The puzzles themselves fit well into the story, which is better than I can say for most puzzle games.  I went into the game hoping for a good book, filling with terrible nightmares and quiet dread. I was not disappointed.
+[Anchorhead](https://en.wikipedia.org/wiki/Anchorhead) is based on the works of HP Lovecraft, especially the stories involving Cthulu. You are a young woman who just moved to a small, coastal town with her husband. But something is off. The story is well-written and haunting, and the world is filled with great atmospheric details. You can just explore the world, but to move the story forward you have to solve puzzles. The puzzles themselves fit well into the story, which is better than I can say for most puzzle games.  I went into the game looking for terrible nightmares and quiet dread. I was not disappointed.
 
 * [Play Online](http://pr-if.org/play/anchorhead/)
 * [Solution Guide](http://ifarchive.giga.or.at/if-archive/solutions/AnchorSolve.txt) - Full Spoilers, obvs
