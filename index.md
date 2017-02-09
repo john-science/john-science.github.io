@@ -14,12 +14,12 @@ Life is filled with things that I find totally engrossing for a short time. If o
   {% if post.type == 'link' %}
     <div class="post other link">
       <a class="icon" href="{{ post.url }}" title="This is an external link.">★</a>
-      <h3><a href="{{ post.link }}">{{ post.title }}</a></h3>
+      <h4><a href="{{ post.link }}">{{ post.title }}</a></h4>
       <p>{{ post.content }}</p>
     </div>
   {% else %}
     <div class="post">
-      <h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
+      <h4><a href="{{ post.url }}">{{ post.title }}</a></h4>
       <p class="post-summary">{{ post.summary }}</p>
     </div>
   {% endif %}
