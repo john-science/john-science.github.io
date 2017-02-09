@@ -227,6 +227,8 @@ pre {
   color: #e5ebf0;
   margin-top: 0;
   margin-bottom: 0;
+  font-size: 24px;
+  line-height: 24px;
 }
 .unit-article .entry-content h2,
 .unit-article .entry-content h3,
@@ -614,8 +616,8 @@ pre {
     width: 26.25em;
   }
   .the-header .logo a {
-    font-size: 42px;
-    line-height: 52px;
+    font-size: 24px;
+    line-height: 24px;
     letter-spacing: -1px;
   }
   .the-header .nav-global {
@@ -699,13 +701,13 @@ pre {
     width: 43.125em;
   }
   .the-header .logo {
-    width: 26.25em;
+    width: 15em;
     float: left;
   }
   .the-header .nav-global {
-    margin-top: 21px;
+    margin-top: 0px;
     text-align: right;
-    width: 26.25em;
+    width: 25em;
     float: right;
   }
   .unit-article .unit-head-inner,
@@ -742,10 +744,10 @@ pre {
     width: 43.125em;
   }
   .the-header .logo {
-    width: 43.125em;
+    width: 15em;
   }
   .the-header .nav-global {
-    width: 43.125em;
+    width: 25em;
   }
   .unit-article .unit-head-inner, .unit-article .entry-content, .unit-article .misc-content {
     width: 43.125em;
