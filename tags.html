@@ -25,7 +25,7 @@ group: navigation
 {% for i in (1..tags_max) reversed %}
     {% for tag in site.tags %}
         {% if tag[1].size == i %}
-            <h3 id="{{ tag[0] }}-ref">{{ tag[0] }}</h3>
+            <h4 id="{{ tag[0] }}-ref">{{ tag[0] }}</h4>
             <ul>
               {% assign pages_list = tag[1] %}
               {% include JB/pages_list %}
