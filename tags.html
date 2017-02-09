@@ -6,7 +6,7 @@ group: navigation
 ---
 {% include JB/setup %}
 
-<h3>Topics</h3>
+<h2>Topics</h2>
 
 <ul class="tag_box inline">
   {% assign tags_list = site.tags %}
@@ -25,7 +25,7 @@ group: navigation
 {% for i in (1..tags_max) reversed %}
     {% for tag in site.tags %}
         {% if tag[1].size == i %}
-            <h4 id="{{ tag[0] }}-ref">{{ tag[0] }}</h4>
+            <h3 id="{{ tag[0] }}-ref">{{ tag[0] }}</h3>
             <ul>
               {% assign pages_list = tag[1] %}
               {% include JB/pages_list %}
@@ -36,7 +36,7 @@ group: navigation
 
 &nbsp;
 
-<h3>Articles by Date</h3>
+<h2>Articles by Date</h2>
 <ul>
   <li><a href="/archive.html">Article Timeline</a></li>
 </ul>
