@@ -627,7 +627,7 @@ pre {
     letter-spacing: -1px;
   }
   .the-header .nav-global {
-    margin-top: 1.625em;
+    margin-top: 0;
     letter-spacing: -0.31em;
     *letter-spacing: normal;
     word-spacing: -0.43em;
