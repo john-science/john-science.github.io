@@ -739,7 +739,7 @@ pre {
 */
 @media only screen and (min-width: 1410px) {
   .the-header .unit-inner {
-    width: 88.125em;
+    width: 43.125em;
   }
   .the-header .logo {
     width: 43.125em;
@@ -751,7 +751,7 @@ pre {
     width: 43.125em;
   }
   .unit-article .unit-foot-inner {
-    width: 88.125em;
+    width: 43.125em;
   }
   .unit-article .unit-foot .pagination {
     width: 54.375em;
