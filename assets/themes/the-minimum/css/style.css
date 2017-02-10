@@ -207,6 +207,7 @@ pre {
 .the-header .logo {
   font-family: "proxima-nova-1", "proxima-nova-2", sans-serif, Arial, Univers, Calibri, "Gill Sans", "Gill Sans MT", "Myriad Pro", Myriad, "DejaVu Sans Condensed", "Liberation Sans", "Nimbus Sans L", Tahoma, Geneva, "Helvetica Neue", Helvetica;
   margin: 0;
+  float: left;
 }
 .the-header .logo a:visited {
   color: #2d2d2d;
@@ -625,6 +626,7 @@ pre {
     font-size: 24px;
     line-height: 24px;
     letter-spacing: -1px;
+    float: left;
   }
   .the-header .nav-global {
     margin-top: 0;
@@ -633,6 +635,7 @@ pre {
     word-spacing: -0.43em;
     list-style: none;
     padding-left: 0;
+    float: right;
   }
   .the-header .nav-global .home:after {
     margin-left: 16px;
@@ -713,7 +716,7 @@ pre {
   .the-header .nav-global {
     margin-top: 0px;
     text-align: right;
-    width: 25em;
+    width: 15em;
     float: right;
   }
   .unit-article .unit-head-inner,
@@ -751,9 +754,11 @@ pre {
   }
   .the-header .logo {
     width: 15em;
+    float: left;
   }
   .the-header .nav-global {
-    width: 25em;
+    width: 15em;
+    float: right;
   }
   .unit-article .unit-head-inner, .unit-article .entry-content, .unit-article .misc-content {
     width: 43.125em;
