@@ -206,7 +206,10 @@ pre {
 --------------------------------------------------------------------------------- */
 .the-header .logo {
   font-family: "proxima-nova-1", "proxima-nova-2", sans-serif, Arial, Univers, Calibri, "Gill Sans", "Gill Sans MT", "Myriad Pro", Myriad, "DejaVu Sans Condensed", "Liberation Sans", "Nimbus Sans L", Tahoma, Geneva, "Helvetica Neue", Helvetica;
-  margin: 0;
+  margin-top: 0;
+  margin-bottom: 0;
+  margin-left: 0;
+  margin-right: 10px;
   float: left;
 }
 .the-header .logo a:visited {
