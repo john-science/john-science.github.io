@@ -219,6 +219,12 @@ pre {
   position: relative;
   top: 2px;
 }
+.hidden-table {
+  border:0;
+  margin: 0;
+  padding: 0;
+  border-spacing: 0;
+}
 /* MAIN
 --------------------------------------------------------------------------------- */
 .unit-article header {
@@ -632,7 +638,6 @@ pre {
     margin-top: 0;
     letter-spacing: -0.31em;
     *letter-spacing: normal;
-    word-spacing: -0.43em;
     list-style: none;
     padding-left: 0;
     float: right;
