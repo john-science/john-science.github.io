@@ -6,13 +6,13 @@ var ExPanels = (function() {
   var accordian = true; //set panels to behave like an accordian, with one panel only ever open at once
   var panelHeight = [];
   var currentPanel = defaultOpenPanel;
-  var iconHeight = parseInt(window.getComputedStyle(document.getElementsByClassName('icon-close-open')[0]).getPropertyValue('height'));
+  var iconHeight = parseInt(window.getComputedStyle(document.getElementsByClassName('icon-close-open')[0]).getPropertyValue('height'), 10);
   var highlightOpen = true;
 
   return {
     resetPanels: function() {
       for (var i = 1; i <= totalPanels; i += 1) {
-        if (currentPanel !== i.toString()) {
+        if (currentPanel != i.toString()) {
           document.getElementById('cp-' + i + '-icon').setAttribute("style", "background-position: 0px 0px;");
           document.getElementById('cp-' + i + '-expandable-panel-content').setAttribute("style", "margin-top: -" + panelHeight[i] + "px;")
           if (highlightOpen) {
@@ -24,7 +24,7 @@ var ExPanels = (function() {
     init: function() {
       for (var i = 1; i <= totalPanels; i += 1) {
         var thisPanel = document.getElementById("cp-" + i + "-expandable-panel-content");
-        panelHeight[i] = parseInt(window.getComputedStyle(thisPanel).height);
+        panelHeight[i] = parseInt(window.getComputedStyle(thisPanel).height, 10);
         thisPanel.setAttribute("style", "margin-top: " + -panelHeight[i] + ";");
         if (defaultOpenPanel === i) {
           document.getElementById('cp-' + i + '-icon').setAttribute("style", "background-position: 0px -" + iconHeight + "px;");
@@ -46,7 +46,7 @@ var ExPanels = (function() {
       }
 
       var contentPanel = document.getElementById('cp-' + objid + '-expandable-panel-content');
-      if (parseInt(window.getComputedStyle(contentPanel).getPropertyValue('margin-top')) <= -panelHeight[objid]) {
+      if (parseInt(window.getComputedStyle(contentPanel).getPropertyValue('margin-top'), 10) <= -panelHeight[objid]) {
         // open panel
         document.getElementById('cp-' + objid + '-icon').setAttribute("style", "background-position: 0px -" + iconHeight + "px;");
         contentPanel.setAttribute("style", "margin-top: 0px;")
