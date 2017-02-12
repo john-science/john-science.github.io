@@ -1,7 +1,5 @@
 @import "base.css";
 
-@import "module.css";
-
 @import "syntaxhighlighter.css";
 
 /*
@@ -217,10 +215,6 @@ pre {
 .the-header .nav-global {
   text-transform: uppercase;
 }
-.the-header .nav-global .forkme {
-  position: relative;
-  top: 2px;
-}
 .hidden-table {
   border:0;
   margin: 0;
@@ -230,6 +224,13 @@ pre {
 }
 /* MAIN
 --------------------------------------------------------------------------------- */
+.post-summary {
+  font-size: 1em;
+  line-height: 1.25em;
+  margin-top: 0;
+  margin-bottom: 1.625em;
+  color: #333;
+}
 .unit-article header {
   background-repeat: repeat;
   background-position: 0 0;
