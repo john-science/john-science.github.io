@@ -6,23 +6,44 @@ summary: Running a program that is self-aware means becoming a parent.
 ---
 {% include JB/setup %}
 
-outline
+## The Current State of AI
 
-#### the currents state of "AI"
+In recent years, enormous progress has been made in <a href="https://en.wikipedia.org/wiki/Machine_learning" targe="_blank" title="ML: an Extremely Broad Field in Computer Science, including AI">Machine Learning</a>, but thankfully little progress has been made on creating human-level <a href="https://en.wikipedia.org/wiki/Artificial_intelligence" targe="_blank" title="AI: a tiny, subfield of ML, still in its infancy">Artificial Intelligence</a> in software.  I say "thankfully" because the the ethics of creating true AI are rarely discussed, particularly among the private organizations that spend the most money on ML.
 
-machine learning vs AI, but whatever
+NOTE: This next paragraphs sucks, re-write it.
 
-#### look to evolution
+Science Fiction writers love to warn us about the future of AI: dramatic battles between humans and robotic war machines. And while it is possible that fully-autonomous, human-level AI competing for the same natural resources as humans, that is a far distant concern compared to the ethical dilemmas and tragedies that will occur for many years before that point.
+
+The first serious ethical dilemmas of machine learning are just now starting to be felt. Human beings are being replaced in vast numbers by software routines that can crudely learn to do basic tasks. Billions of dollars are being spent in America alone to see which company can develop the first full autonomous vehicles to replace truck drivers: which is currently the highest-paying profession for the non-college-educated population. As this makes up one to two percent of the work force it seems that Google, Uber, and Ford are spending a lot more time trying to *win* this next big-cash race than they are the effect this will have on society.
+
+If self-driving cars are as promised, they will irrevocably change the economy of the world. That is a real, economic shift that we are told you will see in your lifetime. But that is just machine learning. Artificial Intelligence (AI) won't just put people out of work (though presumably it would), it will 
+
+
+## look to evolution
 
 What will AI look like?   It will take a long time to get there. Bugs, lizards, mammal-level, then human-level AI
 
 Mental handicaps will happen
 
-#### the real problem
+
+## the real problem
 
 You are now a parent. Do not turn of the machine or change the program. You will be murdering your child
 
-#### will human-level AI help?
+Corporations as parents?
+
+
+## Will Human-Level AI by Self-Aware
+
+No one knows, yet.  But it seems like we will find out soon.  And this is the crux of the matter.
+
+Let's talk about a limited definition of "sentience".  ...Do so...
+
+If you can create an intelligence as clever as a human, you would expect that it would be able to reason about its own existence.
+
+After all, how intelligent can you be if you're not even smart enough to understand that *yo
+
+## will human-level AI help?
 
 The gift of humanity that has made us so successful is not our broad intelligence. After all, we already have machine learning that can identify handwriting and pictures of cats better than we can.  It is our self-awareness and sentience that propelled us to dominating the world as a species.
 
