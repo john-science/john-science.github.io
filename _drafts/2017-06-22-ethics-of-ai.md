@@ -21,6 +21,10 @@ If self-driving cars are as promised, they will irrevocably change the economy o
 
 ## look to evolution
 
+Artificial Intelligence will not suddenly become human-level one day, with Hal 9000 talking to his programmers. A good first step would be to create an AI that was as truly independent and clever as a fruit fly [fact check], which has just 260 neurons in its semi-brain. Then one day humans will create AI as clever as a lizard, then a house cat, a dog, a monkey, and after such progress continues, one day, human-level intelligence.
+
+Remember that it took nearly 500 million years [fact check] from the birth of the first life on Earth for evolution to create human-level intelligence. Evolution is an extremely competitive and dynamic process, so it must take ...
+
 What will AI look like?   It will take a long time to get there. Bugs, lizards, mammal-level, then human-level AI
 
 Mental handicaps will happen
