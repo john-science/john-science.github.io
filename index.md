@@ -20,7 +20,7 @@ Life is filled with things that I find totally engrossing for a short time. If o
   {% else %}
     <div class="post">
       <h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
-      <p class="post-summary">{{ post.summary }}</p>
+      <p>{{ post.summary }}</p>
     </div>
   {% endif %}
 {% endfor %}
