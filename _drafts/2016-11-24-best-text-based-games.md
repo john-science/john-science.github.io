@@ -6,11 +6,11 @@ summary: The best text-based computer games of all time.
 ---
 {% include JB/setup %}
 
-I love text-based games. They can be so much more unique and interesting than the average computer game. My theory is that the creators have more freedom to focus on content and mechanics. Modern, big budget games take huge teams: the 3D art department, the music team, the story board team, acounting, HR, you name it. All that stuff gets between the creator and the idea.
+I love text-based games. They can be so much more unique and interesting than the average computer game. Their creators have more freedom to focus on content and mechanics. Modern, big budget games take huge teams: the 3D art department, the music team, the story board team, acounting, HR, you name it. All that stuff gets between the creator and the idea.
 
 And, if I am being totally honest, I covet the idea that one day I could write a decent text-based game. No corporate backing; just me and a laptop. It is theoretically possible that I could create some little game that a few people would love. You know, maybe. One day. A boy can dream.
 
-The title of this post is a lie. Really, these are just my favorite text-based games. But all of these games have legions of fans. They all did something new, or creative, or fun, and people love them.
+The title of this post is a lie; these are just my favorite text-based games. But all of these games have legions of fans. They all did something new, or creative, or fun, and people love them.
 
 **And all these games are free to play, right now!**
 
