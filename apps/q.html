@@ -13,18 +13,33 @@ category: tool
 <form action="#" method="post" class="qForm" id="qForm">
   <fieldset>
 	<table class="eqn-table">
-		<tr>
-			<td>
-				<div style="float:left;">Q = </div>
-			</td>
-			<td>
-				<div style="float:left">
-				<div class="eqn-numerator">(# of complete stories you've seen) / (# total)</div>
-				<div style="text-align:center;">
-				<input type="text" name="total" id="total" class="q-total-input" size="3" value="0" readonly="readonly" /> / <span id="displayTotal">264</span></div>
-				</div>
-			</td>
-		</tr>
+	  <tbody>
+	    <tr>
+	      <td>
+		<div style="float:left;">Q = </div>
+	      </td>
+	      <td>
+		<div style="float:left">
+		  <div class="eqn-numerator">(# of complete stories you've seen)</div>
+		  <div style="text-align:center;">
+		    (# total)
+		  </div>
+		</div>
+	      </td>
+	      <td>
+		<div style="float:left;"> = </div>
+	      </td>
+	      <td>
+		<div style="float:left">
+		  <div class="eqn-numerator">
+		    <input name="total" id="total" class="q-total-input" size="3" value="0" readonly="readonly" type="text">
+		  </div>
+		  <div style="text-align:center;">
+		    <span id="displayTotal">264</span></div>
+		</div>
+	      </td>
+	    </tr>
+	  </tbody>
 	</table>
 	<p>
 		<label class="q-input-label">Q =
