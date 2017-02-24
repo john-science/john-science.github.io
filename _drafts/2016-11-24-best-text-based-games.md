@@ -6,9 +6,7 @@ summary: The best text-based computer games of all time.
 ---
 {% include JB/setup %}
 
-I love text-based games. They can be so much more unique and interesting than the average computer game. Their creators have more freedom to focus on content and mechanics. Modern, big budget games take huge teams: the 3D art department, the music team, the story board team, acounting, HR, you name it. All that stuff gets between the creator and the idea.
-
-And, if I am being totally honest, I covet the idea that one day I could write a decent text-based game. No corporate backing; just me and a laptop. It is theoretically possible that I could create some little game that a few people would love. You know, maybe. One day. A boy can dream.
+I love text-based games. They can be so much more unique and interesting than the average computer game. Modern, big budget games take huge teams: the 3D art department, the music team, the story board team, acounting, HR, you name it. All that stuff gets between the creator and the idea.
 
 The title of this post is a lie; these are just my favorite text-based games. But all of these games have legions of fans. They all did something new, or creative, or fun, and people love them.
 
@@ -215,3 +213,7 @@ Oh, no! You have walked into the slavering fangs of a luring grue!
 * [Play Online - Zork 1](https://archive.org/details/a2_Zork_I_The_Great_Underground_Empire_1980_Infocom)
 * [Play Online - Zork 2](https://archive.org/details/a2_Zork_II_The_Wizard_of_Frobozz_1981_Infocom_a)
 * [Play Online - Zork 3](https://archive.org/details/a2_Zork_III_The_Dungeon_Master_1982_Infocom)
+
+## Honestly
+
+If I am being totally honest, I covet the idea that one day I could write a decent text-based game. No corporate backing; just me and a laptop. It is theoretically possible that I could create some little game that a few people would love. You know, maybe. One day. A boy can dream.
