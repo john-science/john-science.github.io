@@ -6,7 +6,7 @@ summary: The best text-based computer games of all time.
 ---
 {% include JB/setup %}
 
-I love text-based games. They can be so much more unique and interesting than the average computer game. Modern, big budget games take huge teams: the 3D art department, the music team, the story board team, acounting, HR, you name it. All that stuff gets between the creator and the idea.
+I love text-based games. They can be so much more unique and interesting than the average computer game. Modern, big budget games take huge teams: the 3D art department, the music team, acounting, HR, you name it. All that stuff gets between the creator and the idea.
 
 The title of this post is a lie; these are just my favorite text-based games. But all of these games have legions of fans. They all did something new, or creative, or fun, and people love them.
 
@@ -49,7 +49,7 @@ The title of this post is a lie; these are just my favorite text-based games. Bu
       V,,   ..
 ```
 
-[A Dark Room](https://en.wikipedia.org/wiki/A_Dark_Room) was [reviewed by the New Yorker](http://www.newyorker.com/tech/elements/a-dark-room-the-best-selling-game-that-no-one-can-explain) as a game no one can explain. But what does the New Yorker know about gaming? (Really. I'm asking.) The truth is that the game wasn't designed to fit well into your old gaming troupes and genres. It is original and fun, with a lot of unique mechanics.
+[A Dark Room](https://en.wikipedia.org/wiki/A_Dark_Room) was [reviewed by the New Yorker](http://www.newyorker.com/tech/elements/a-dark-room-the-best-selling-game-that-no-one-can-explain) as a game no one can explain. But what does the New Yorker know about gaming? (Really. I'm asking.) The truth is that the game wasn't designed to fit into your old gaming troupes and genres. It is original and fun, with a lot of unique mechanics.
 
 The game starts so simply, you might not even think it is a real game. You are cold and alone in the dark. So you build a fire. As time rolls on you have an entire village to defend. Or you can abandon them and explore the wilds alone.
 
