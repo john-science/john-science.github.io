@@ -49,7 +49,7 @@ The title of this post is a lie; these are just my favorite text-based games. Bu
       V,,   ..
 ```
 
-[A Dark Room](https://en.wikipedia.org/wiki/A_Dark_Room) was [reviewed by the New Yorker](http://www.newyorker.com/tech/elements/a-dark-room-the-best-selling-game-that-no-one-can-explain) as a game no one can explain. But what does the New Yorker know about gaming? (Really. I'm asking.) The truth is that the game wasn't designed to fit into your old gaming troupes and genres. It is original and fun, with a lot of unique mechanics.
+[A Dark Room](https://en.wikipedia.org/wiki/A_Dark_Room) was [reviewed by the New Yorker](http://www.newyorker.com/tech/elements/a-dark-room-the-best-selling-game-that-no-one-can-explain) as a game no one can explain. But what does the New Yorker know about gaming? (Really. I'm asking.) The truth is that the game wasn't designed to fit into your old gaming genres. It is original and fun, with a lot of unique mechanics.
 
 The game starts so simply, you might not even think it is a real game. You are cold and alone in the dark. So you build a fire. As time rolls on you have an entire village to defend. Or you can abandon them and explore the wilds alone.
 
@@ -78,7 +78,7 @@ You have eaten 7 546 968 candies
 Throw 10 candies on the ground
 ```
 
-At first this will barely feel like a game; there is nothing to it. But the more you play the more it grows. This makes it hard to talk about the game without spoilering it, or at least spoilering the opening. The most I *can* say is that it is a puzzle-based role-playing game. It is light-hearted and casual. I have met several non-gamers who played this one all the way to the end. But if you have ever called yourself "a serious gamer" this probably isn't for you. You can drop this game at any moment, walk away, and come back days later. Hell, I think that helps.
+At first this will barely feel like a game; there is nothing to it. But the more you play the more it grows. This makes it hard to talk about the game without spoilering it, or at least spoilering the opening. The most I *can* say is that it is a puzzle-based role-playing game. It is light-hearted and casual. I have met several non-gamers who played this one all the way to the end. But if you are "a serious gamer" this probably isn't for you. You can drop this game at any moment, walk away, and come back days later. Hell, I think that actually helps.
 
 * [Play Online - Candy Box 2](http://candybox2.net/) - This is the one you want to play.
 * [Play Online - Candy Box](http://candies.aniwey.net/)
