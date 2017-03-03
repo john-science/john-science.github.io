@@ -524,9 +524,8 @@ http://cs231n.github.io/neural-networks-2/
 <li>
 <a href="javascript:hideshow(document.getElementById('ten'))">Tensor</a>
 <div id="ten" style="display: none">
-<p>
-
-</p>
+<p><a href="https://en.wikipedia.org/wiki/Tensor" target="_blank">Tensors</a> are important in mathematics, physics, and machine learning. In mathematics and physics, a tensor is an object that performs a transformation on a vector. That vector can be in any dimension and that transformation can be almost anything: shrinking, stretching, rotating or flipping a vector in an arbitrary number of dimensions.</p>
+<p>A careful student should be wary, as the term "tensor" is [frequently mis-applied](http://stats.stackexchange.com/a/198395) in machine learning to mean "any multi-dimensional array". This is incorrect, but so prevalent that even Google has titled their most popular machine learning library "TensorFlow".</p>
 </div>
 </li>
 
@@ -534,9 +533,7 @@ http://cs231n.github.io/neural-networks-2/
 <li>
 <a href="javascript:hideshow(document.getElementById('tf'))">Tensorflow</a>
 <div id="tf" style="display: none">
-<p>
-
-</p>
+<p><a href="https://www.tensorflow.org/" target="_blank">TensorFlow</a> is an open-source machine learning library that is currently (2017) wildly popular. Originally developed by Google's Brain Team, it is now hosted on <a href="https://github.com/tensorflow" target="_blank">GitHub</a>. The software was originally designed for neural networks, but has since been use more generally in the machine learnig community.  The code base itself is writen in C++, and the two most popular APIs are currently in C++ and Python.</p>
 </div>
 </li>
 
@@ -559,7 +556,7 @@ http://cs231n.github.io/neural-networks-2/
 <a href="javascript:hideshow(document.getElementById('xgb'))">XGBoost</a>
 <div id="xgb" style="display: none">
 <p>
-
+http://xgboost.readthedocs.io/en/latest/model.html
 </p>
 </div>
 </li>
