@@ -10,6 +10,10 @@ summary: The idea of cataloging all of the terminology in this field is laughabl
 function hideshow(a){document.getElementById&&("block"==a.style.display?a.style.display="none":a.style.display="block")}
 </script>
 
+<p>One of the biggest road blocks to those new to neural networks is the sheer amount of jargon.  The idea that I could list out all the important terminology in machine learning or even just in neural networks is laughable.  Every day there are new software packages and training ideas that people are adding to the zeitgeist. Never-the-less, a begginer needs somewhere to start, so I will try to catalog all of the important jargon here.</p>
+
+<p>If I missed something important, feel free to leave a comment below and I will add it to the list when I get a chance.</p>
+
 <ul>
 
 <li>
@@ -531,7 +535,7 @@ http://cs231n.github.io/neural-networks-2/
 
 
 <li>
-<a href="javascript:hideshow(document.getElementById('tf'))">Tensorflow</a>
+<a href="javascript:hideshow(document.getElementById('tf'))">TensorFlow</a>
 <div id="tf" style="display: none">
 <p><a href="https://www.tensorflow.org/" target="_blank">TensorFlow</a> is an open-source machine learning library that is currently (2017) wildly popular. Originally developed by Google's Brain Team, it is now hosted on <a href="https://github.com/tensorflow" target="_blank">GitHub</a>. The software was originally designed for neural networks, but has since been use more generally in the machine learnig community.  The code base itself is writen in C++, and the two most popular APIs are currently in C++ and Python.</p>
 </div>
