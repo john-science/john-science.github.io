@@ -528,8 +528,8 @@ http://cs231n.github.io/neural-networks-2/
 <li>
 <a href="javascript:hideshow(document.getElementById('ten'))">Tensor</a>
 <div id="ten" style="display: none">
-<p><a href="https://en.wikipedia.org/wiki/Tensor" target="_blank">Tensors</a> are important in mathematics, physics, and machine learning. In mathematics and physics, a tensor is an object that performs a transformation on a vector. That vector can be in any dimension and that transformation can be almost anything: shrinking, stretching, rotating or flipping a vector in an arbitrary number of dimensions.</p>
-<p>A careful student should be wary, as the term "tensor" is <a href="http://stats.stackexchange.com/a/198395" target="_blank">frequently mis-applied</a> in machine learning to mean "any multi-dimensional array". This is incorrect, but so prevalent that even Google has titled their most popular machine learning library "TensorFlow".</p>
+<p>In mathematics and physics a <a href="https://en.wikipedia.org/wiki/Tensor" target="_blank">tensor</a> is an object that performs a transformation on a vector. That vector can be in any number of dimensions and that transformation can be almost anything: shrinking, stretching, rotating or flipping a vector in an arbitrary way.</p>
+<p>Be wary, as the term "tensor" is <a href="http://stats.stackexchange.com/a/198395" target="_blank">frequently mis-applied</a> in machine learning to mean "any multi-dimensional array". This is incorrect, but so prevalent that even Google has titled their most popular machine learning library "TensorFlow".</p>
 </div>
 </li>
 
