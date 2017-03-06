@@ -21,6 +21,7 @@ function hideshow(a){document.getElementById&&("block"==a.style.display?a.style.
 <div id="acc" style="display: none">
 <p>
 (vs Loss)
+(NOT vs precision)
 </p>
 </div>
 </li>
@@ -101,7 +102,7 @@ https://www.coursera.org/learn/machine-learning/lecture/9zJUs/mini-batch-gradien
 <a href="javascript:hideshow(document.getElementById('bias'))">Bias</a>
 <div id="bias" style="display: none">
 <p>
-
+(bias on a neuron)
 </p>
 </div>
 </li>
@@ -110,8 +111,7 @@ https://www.coursera.org/learn/machine-learning/lecture/9zJUs/mini-batch-gradien
 <li>
 <a href="javascript:hideshow(document.getElementById('cla'))">Classification</a>
 <div id="cla" style="display: none">
-<p>
-
+<p><a href="https://en.wikipedia.org/wiki/Statistical_classification" target="_blank">Classification</a> problems are those where a particular input needs to be mapped to one of a set of possible outputs. For instance, the problem of determine which numeral a hand-written digit represents. Classification is a problem general to machine learning, not just neural networks.
 </p>
 </div>
 </li>
@@ -120,8 +120,7 @@ https://www.coursera.org/learn/machine-learning/lecture/9zJUs/mini-batch-gradien
 <li>
 <a href="javascript:hideshow(document.getElementById('comv'))">Computer Vision</a>
 <div id="comv" style="display: none">
-<p>
-
+<p><a href="https://en.wikipedia.org/wiki/Computer_vision" target="_blank">Computer Visions</a> is a broadly interdisciplinary field, that deals with the software necessary to allow computers to interpret the content of images and videos. <a href="https://en.wikipedia.org/wiki/Facial_recognition_system" target="_blank">Facial Recognition</a> is a common computer vision task. But other computer vision tasks include: identifying what objects are in an image, <a href="https://en.wikipedia.org/wiki/Optical_character_recognition" target="_blank">Optical Character Recognition (OCR)</a>, and 3D-object ,<a href="https://en.wikipedia.org/wiki/Video_tracking" target="_blank">tracking analysis</a>.
 </p>
 </div>
 </li>
@@ -388,6 +387,16 @@ https://www.coursera.org/learn/machine-learning/lecture/9zJUs/mini-batch-gradien
 <div id="norm" style="display: none">
 <p>
 http://cs231n.github.io/neural-networks-2/
+</p>
+</div>
+</li>
+
+
+<li>
+<a href="javascript:hideshow(document.getElementById('ocr'))">Optical Character Recognition (OCR)</a>
+<div id="ocr" style="display: none">
+<p>
+https://en.wikipedia.org/wiki/Optical_character_recognition
 </p>
 </div>
 </li>
