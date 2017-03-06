@@ -427,7 +427,7 @@ https://en.wikipedia.org/wiki/Optical_character_recognition
 <a href="javascript:hideshow(document.getElementById('overf'))">Overfitting</a>
 <div id="overf" style="display: none">
 <p>
-
+https://en.wikipedia.org/wiki/Overfitting
 </p>
 </div>
 </li>
@@ -438,6 +438,8 @@ https://en.wikipedia.org/wiki/Optical_character_recognition
 <div id="pool" style="display: none">
 <p>
 (also max-pooling and L2-pooling)
+http://ufldl.stanford.edu/tutorial/supervised/Pooling/
+https://en.wikipedia.org/wiki/Convolutional_neural_network#Pooling_layer
 </p>
 </div>
 </li>
@@ -459,7 +461,7 @@ http://cs231n.github.io/neural-networks-2/
 <a href="javascript:hideshow(document.getElementById('rnn'))">Recurrent Neural Network (RNN)</a>
 <div id="rnn" style="display: none">
 <p>
-
+https://en.wikipedia.org/wiki/Recurrent_neural_network
 </p>
 </div>
 </li>
@@ -519,7 +521,7 @@ http://cs231n.github.io/neural-networks-2/
 <a href="javascript:hideshow(document.getElementById('sm'))">Softmax</a>
 <div id="sm" style="display: none">
 <p>
-
+https://en.wikipedia.org/wiki/Softmax_function
 </p>
 </div>
 </li>
@@ -529,7 +531,7 @@ http://cs231n.github.io/neural-networks-2/
 <a href="javascript:hideshow(document.getElementById('sr'))">Speech Recognition</a>
 <div id="sr" style="display: none">
 <p>
-
+https://en.wikipedia.org/wiki/Speech_recognition
 </p>
 </div>
 </li>
