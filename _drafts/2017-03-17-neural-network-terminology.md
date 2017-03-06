@@ -69,6 +69,18 @@ function hideshow(a){document.getElementById&&("block"==a.style.display?a.style.
 
 
 <li>
+<a href="javascript:hideshow(document.getElementById('artn'))">Artificial Neuron</a>
+<div id="artn" style="display: none">
+<p>
+(neuron)
+(see NN)
+https://en.wikipedia.org/wiki/Artificial_neuron
+</p>
+</div>
+</li>
+
+
+<li>
 <a href="javascript:hideshow(document.getElementById('backp'))">Back Propogation</a>
 <div id="backp" style="display: none">
 <p>
@@ -109,6 +121,15 @@ https://www.coursera.org/learn/machine-learning/lecture/9zJUs/mini-batch-gradien
 
 
 <li>
+<a href="javascript:hideshow(document.getElementById('caf'))">Caffe</a>
+<div id="caf" style="display: none">
+<p><a href="http://caffe.berkeleyvision.org/" target="_blank">Caffe</a> is a popular deep learning modeling framework.  Designed with deep neural networks in mind, Caffe is open source and BSD licensed, and is quite popular. Caffe is written in C/C++ and has APIs available in C++, Python, and Matlab.</p>
+<p>Theano features an option to allow GPU acceleration of the basic neuron calculations, for a large set of common GPUs.</p>
+</div>
+</li>
+
+
+<li>
 <a href="javascript:hideshow(document.getElementById('cla'))">Classification</a>
 <div id="cla" style="display: none">
 <p><a href="https://en.wikipedia.org/wiki/Statistical_classification" target="_blank">Classification</a> problems are those where a particular input needs to be mapped to one of a set of possible outputs. For instance, the problem of determine which numeral a hand-written digit represents. Classification is a problem general to machine learning, not just neural networks.
@@ -130,7 +151,7 @@ https://www.coursera.org/learn/machine-learning/lecture/9zJUs/mini-batch-gradien
 <a href="javascript:hideshow(document.getElementById('cnn'))">Convolutional Neural Network (CNN)</a>
 <div id="cnn" style="display: none">
 <p>
-
+https://en.wikipedia.org/wiki/Convolutional_neural_network
 </p>
 </div>
 </li>
@@ -140,7 +161,7 @@ https://www.coursera.org/learn/machine-learning/lecture/9zJUs/mini-batch-gradien
 <a href="javascript:hideshow(document.getElementById('cent'))">Cross Entropy</a>
 <div id="cent" style="display: none">
 <p>
-
+https://en.wikipedia.org/wiki/Cross_entropy
 </p>
 </div>
 </li>
@@ -172,7 +193,7 @@ https://en.wikipedia.org/wiki/Decorrelation
 <a href="javascript:hideshow(document.getElementById('dl'))">Deep Learning (DL)</a>
 <div id="dl" style="display: none">
 <p>
-
+https://en.wikipedia.org/wiki/Deep_learning
 </p>
 </div>
 </li>
@@ -204,17 +225,17 @@ http://stackoverflow.com/questions/4752626/epoch-vs-iteration-when-training-neur
 <a href="javascript:hideshow(document.getElementById('feam'))">Feature Map</a>
 <div id="feam" style="display: none">
 <p>
-
+https://en.wikipedia.org/wiki/Feature_%28machine_learning%29
 </p>
 </div>
 </li>
 
 
 <li>
-<a href="javascript:hideshow(document.getElementById('feed'))">Feed Forward Neural Network</a>
+<a href="javascript:hideshow(document.getElementById('feed'))">Feedforward Neural Network</a>
 <div id="feed" style="display: none">
 <p>
-
+https://en.wikipedia.org/wiki/Feedforward_neural_network
 </p>
 </div>
 </li>
@@ -233,9 +254,8 @@ http://stackoverflow.com/questions/4752626/epoch-vs-iteration-when-training-neur
 <li>
 <a href="javascript:hideshow(document.getElementById('gpu'))">GPU</a>
 <div id="gpu" style="display: none">
-<p>
-
-</p>
+<p>A <a href="https://en.wikipedia.org/wiki/Graphics_processing_unit" target="_blank">GPU</a> is a specialized electronic circuit (microchip) designed to greatly increase the performance of the kinds of calculations computers need to do to display visual graphics. At its most base level, these circuits are designed to perform a narrow range of basic mathematical operations. But the trade off is they are designed to do many, perhaps hundreds, of such operations in parallel.</p>
+<p>GPUs have gained popularity in neural networks, as neural network algorithms involve many neurons doing simple calculations in parallel. As such, most neural network libraries these days come with GPU acceleration as a configurable option.</p>
 </div>
 </li>
 
@@ -264,7 +284,7 @@ http://stackoverflow.com/questions/4752626/epoch-vs-iteration-when-training-neur
 <a href="javascript:hideshow(document.getElementById('ir'))">Image Recognition</a>
 <div id="ir" style="display: none">
 <p>
-
+https://en.wikipedia.org/wiki/Computer_vision#Recognition
 </p>
 </div>
 </li>
@@ -284,7 +304,7 @@ http://stackoverflow.com/questions/4752626/epoch-vs-iteration-when-training-neur
 <a href="javascript:hideshow(document.getElementById('l1'))">L1</a>
 <div id="l1" style="display: none">
 <p>
-
+http://www.ai4trade.com/GeneticAlgorithmsInForex/l1-regularization-neural-networks
 </p>
 </div>
 </li>
@@ -353,10 +373,11 @@ https://www.coursera.org/learn/machine-learning/lecture/9zJUs/mini-batch-gradien
 
 
 <li>
-<a href="javascript:hideshow(document.getElementById('mnist'))">MNIST</a>
+<a href="javascript:hideshow(document.getElementById('mnist'))">MNIST Database</a>
 <div id="mnist" style="display: none">
 <p>
-
+https://en.wikipedia.org/wiki/MNIST_database
+http://yann.lecun.com/exdb/mnist/
 </p>
 </div>
 </li>
@@ -366,7 +387,7 @@ https://www.coursera.org/learn/machine-learning/lecture/9zJUs/mini-batch-gradien
 <a href="javascript:hideshow(document.getElementById('nlp'))">Natural Language Processing (NLP)</a>
 <div id="nlp" style="display: none">
 <p>
-
+https://en.wikipedia.org/wiki/Natural_language_processing
 </p>
 </div>
 </li>
@@ -375,8 +396,8 @@ https://www.coursera.org/learn/machine-learning/lecture/9zJUs/mini-batch-gradien
 <li>
 <a href="javascript:hideshow(document.getElementById('neur'))">Neuron</a>
 <div id="neur" style="display: none">
-<p>
-
+<p>(see Artificial Neuron)
+https://en.wikipedia.org/wiki/Artificial_neuron
 </p>
 </div>
 </li>
@@ -546,7 +567,17 @@ http://cs231n.github.io/neural-networks-2/
 <li>
 <a href="javascript:hideshow(document.getElementById('tf'))">TensorFlow</a>
 <div id="tf" style="display: none">
-<p><a href="https://www.tensorflow.org/" target="_blank">TensorFlow</a> is an open-source machine learning library that is currently (2017) wildly popular. Originally developed by Google's Brain Team, it is now hosted on <a href="https://github.com/tensorflow" target="_blank">GitHub</a>. The software was originally designed for neural networks, but has since been use more generally in the machine learnig community.  The code base itself is writen in C++, and the two most popular APIs are currently in C++ and Python.</p>
+<p><a href="https://www.tensorflow.org/" target="_blank">TensorFlow</a> is a popular, open-source machine learning library. Originally developed by Google's Brain Team, it is now hosted on <a href="https://github.com/tensorflow" target="_blank">GitHub</a>. The software was originally designed for neural networks, but has since been use more generally in the machine learnig community.  The code base itself is writen in C++, and the two most popular APIs are currently in C++ and Python.</p>
+<p>TensorFlow features an option to allow GPU acceleration of the basic neuron calculations, for a large set of common GPUs.</p>
+</div>
+</li>
+
+
+<li>
+<a href="javascript:hideshow(document.getElementById('the'))">Theano</a>
+<div id="the" style="display: none">
+<p>Theano is a popular, open-source machine learning library.</p>
+<p>Theano features an option to allow GPU acceleration of the basic neuron calculations, for a large set of common GPUs.</p>
 </div>
 </li>
 
