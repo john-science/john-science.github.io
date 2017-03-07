@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Neural Network Terminology"
+title: "Neural Network Jagon"
 tags: [Software, Neural Networks, Machine Learning]
-summary: The idea of cataloging all of the terminology in this field is laughable
+summary: A beginner's dictionary of important neural network terminology.
 ---
 {% include JB/setup %}
 
@@ -10,7 +10,7 @@ summary: The idea of cataloging all of the terminology in this field is laughabl
 function hideshow(a){document.getElementById&&("block"==a.style.display?a.style.display="none":a.style.display="block")}
 </script>
 
-<p>One of the biggest road blocks to those new to neural networks is the sheer amount of jargon.  The idea that I could list out all the important terminology in machine learning or even just in neural networks is laughable.  Every day there are new software packages and training ideas that people are adding to the zeitgeist. Never-the-less, a begginer needs somewhere to start, so I will try to catalog all of the important jargon here.</p>
+<p>Jargon is always a huge stopping block for anyone new to a field.  And the study of neural networks is no different.  In fact, for such a young field, there is already quite a lot of jargon. What follows is a short list of important terminology designed to aid beginners wading through their first extercises studies of neural networks.</p>
 
 <p>If I missed something important, feel free to leave a comment below and I will add it to the list when I get a chance.</p>
 
@@ -19,11 +19,9 @@ function hideshow(a){document.getElementById&&("block"==a.style.display?a.style.
 <li>
 <a href="javascript:hideshow(document.getElementById('acc'))">Accuracy</a>
 <div id="acc" style="display: none">
-<p>
-https://en.wikipedia.org/wiki/Accuracy_and_precision
-(vs Loss)
-(vs precision)
-</p>
+<p>In science and engineering, the <a href="https://en.wikipedia.org/wiki/Accuracy_and_precision" target="_blank">accuracy</a> of a measurement is a description of how close that measurement is to some "true" value. By contrast, the "precision" of a measurement describes how reproducible that measurement is.</p>
+<p>The accuracy of a neural network is a representation of how many inputs to the neural network result in the correct output. The accuracy of a neural network should only be trusted if it was measured against proper test data.</p>
+<p>(see Loss Function, Test Data)</p>
 </div>
 </li>
 
@@ -540,7 +538,8 @@ http://cs231n.github.io/neural-networks-2/#reg
 <li>
 <a href="javascript:hideshow(document.getElementById('shal'))">Shallow</a>
 <div id="shal" style="display: none">
-<p>The term "shallow" is a derogitory term used to describe a neural network that is not sufficiently "deep".  As increasingly deep neural networks become more and more popular, some people employ a "my network is deeper than yours" egotism. It is best for adults not to use the term "shallow" in this context too often.</p>
+<p>In machine learning, "shallow" is a derogitory term used to describe a neural network that is not sufficiently "deep".  This is due to a particularly droll sort of egotism around the idea that "my network is deeper than yours". Yawn.</p>
+<p>(see Deep)</p>
 </div>
 </li>
 
@@ -550,8 +549,8 @@ http://cs231n.github.io/neural-networks-2/#reg
 <div id="shw" style="display: none">
 <p>
 http://neuralnetworksanddeeplearning.com/chap6.html
-(see CNN)
 </p>
+<p>(see CNN)</p>
 </div>
 </li>
 
@@ -560,7 +559,7 @@ http://neuralnetworksanddeeplearning.com/chap6.html
 <a href="javascript:hideshow(document.getElementById('sig'))">Sigmoid</a>
 <div id="sig" style="display: none">
 <p>
-https://en.wikipedia.org/wiki/Logistic_function
+<a href="https://en.wikipedia.org/wiki/Logistic_function" target="_blank">Logistic function</a>
 
 https://en.wikipedia.org/wiki/Logistic_function#/media/File:Logistic-curve.svg
 </p>
@@ -629,10 +628,37 @@ cs231n.github.io/convolutional-networks/
 
 
 <li>
+<a href="javascript:hideshow(document.getElementById('test'))">Test Data</a>
+<div id="test" style="display: none">
+<p><a href="http://users.cecs.anu.edu.au/~jinyu/JinYu_files/preproj/ANN.pdf" target="_blank">Testing data</a> is used after a neural network has been fully trained to determine how accurate the neural network is.  In order for the results of the test data runs to be trusted, the test data cannot be used in any way to train the network.</p>
+<p>(see Accuracy, Training Data, Validation Data)</p>
+</div>
+</li>
+
+
+<li>
 <a href="javascript:hideshow(document.getElementById('the'))">Theano</a>
 <div id="the" style="display: none">
-<p>Theano is a popular, open-source machine learning library.</p>
+<p><a href="http://deeplearning.net/software/theano/introduction.html" target="_blank">Theano</a> is a popular, open-source machine learning library.</p>
 <p>Theano features an option to allow GPU acceleration of the basic neuron calculations, for a large set of common GPUs.</p>
+</div>
+</li>
+
+
+<li>
+<a href="javascript:hideshow(document.getElementById('train'))">Training Data</a>
+<div id="train" style="display: none">
+<p><a href="http://users.cecs.anu.edu.au/~jinyu/JinYu_files/preproj/ANN.pdf" target="_blank">Training data</a> is the set of data used to train a neural network. This data must be kept completely independent from the Validation and Testing data in order to reliably determine the accuracy of the final neural network.</p>
+<p>(see Accuracy, Testing Data, Validation Data)</p>
+</div>
+</li>
+
+
+<li>
+<a href="javascript:hideshow(document.getElementById('valid'))">Validation Data</a>
+<div id="valid" style="display: none">
+<p><a href="http://users.cecs.anu.edu.au/~jinyu/JinYu_files/preproj/ANN.pdf" target="_blank">Validation data</a> is an independent data set used to test a neural network for overfitting. Occassionally, during the training of a neural network, using the training data, the accuracy of the neural network is tested against the validation data set. A well-designed neural network will very slowly get more accurate over a long time, and at some point start to become less accurate. At that point, it is desirable to stop training your network.  This point can only be identified if there is a validation data set completely independent of the training data set.</p>
+<p>(see Accuracy, Overfitting, Training Data)</p>
 </div>
 </li>
 
