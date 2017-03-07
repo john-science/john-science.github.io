@@ -20,18 +20,9 @@ function hideshow(a){document.getElementById&&("block"==a.style.display?a.style.
 <a href="javascript:hideshow(document.getElementById('acc'))">Accuracy</a>
 <div id="acc" style="display: none">
 <p>
+https://en.wikipedia.org/wiki/Accuracy_and_precision
 (vs Loss)
-(NOT vs precision)
-</p>
-</div>
-</li>
-
-
-<li>
-<a href="javascript:hideshow(document.getElementById('act'))">Activation</a>
-<div id="act" style="display: none">
-<p>
-
+(vs precision)
 </p>
 </div>
 </li>
@@ -41,6 +32,7 @@ function hideshow(a){document.getElementById&&("block"==a.style.display?a.style.
 <a href="javascript:hideshow(document.getElementById('act_fun'))">Activation Function</a>
 <div id="act_fun" style="display: none">
 <p>
+https://en.wikipedia.org/wiki/Activation_function
 (see Activation)
 </p>
 </div>
@@ -62,7 +54,7 @@ function hideshow(a){document.getElementById&&("block"==a.style.display?a.style.
 <a href="javascript:hideshow(document.getElementById('ann'))">Artificial Neural Network</a>
 <div id="ann" style="display: none">
 <p>
-(see NN)
+https://en.wikipedia.org/wiki/Artificial_neural_network
 </p>
 </div>
 </li>
@@ -84,7 +76,7 @@ https://en.wikipedia.org/wiki/Artificial_neuron
 <a href="javascript:hideshow(document.getElementById('backp'))">Back Propogation</a>
 <div id="backp" style="display: none">
 <p>
-
+https://en.wikipedia.org/wiki/Backpropagation
 </p>
 </div>
 </li>
@@ -104,6 +96,8 @@ https://www.coursera.org/learn/machine-learning/lecture/9zJUs/mini-batch-gradien
 <a href="javascript:hideshow(document.getElementById('batch_norm'))">Batch Normalization</a>
 <div id="batch_norm" style="display: none">
 <p>
+https://arxiv.org/abs/1502.03167
+https://kratzert.github.io/2016/02/12/understanding-the-gradient-flow-through-the-batch-normalization-layer.html
 (see Batch) (no bias)
 </p>
 </div>
@@ -114,6 +108,7 @@ https://www.coursera.org/learn/machine-learning/lecture/9zJUs/mini-batch-gradien
 <a href="javascript:hideshow(document.getElementById('bias'))">Bias</a>
 <div id="bias" style="display: none">
 <p>
+http://ufldl.stanford.edu/wiki/index.php/Neural_Networks#Neural_Network_model
 (bias on a neuron)
 </p>
 </div>
@@ -203,7 +198,8 @@ https://en.wikipedia.org/wiki/Deep_learning
 <a href="javascript:hideshow(document.getElementById('drop'))">Dropout</a>
 <div id="drop" style="display: none">
 <p>
-https://www.youtube.com/watch?v=UcKPdAM8cnI
+maybe original paper: https://arxiv.org/abs/1207.0580
+handy paper: http://jmlr.org/papers/volume15/srivastava14a/srivastava14a.pdf
 </p>
 </div>
 </li>
@@ -244,8 +240,8 @@ https://en.wikipedia.org/wiki/Feedforward_neural_network
 <li>
 <a href="javascript:hideshow(document.getElementById('filter'))">Filter</a>
 <div id="filter" style="display: none">
-<p>
-
+<p>???
+http://scholarpedia.org/article/Neural_Filtering
 </p>
 </div>
 </li>
@@ -264,7 +260,7 @@ https://en.wikipedia.org/wiki/Feedforward_neural_network
 <a href="javascript:hideshow(document.getElementById('grad'))">Gradient</a>
 <div id="grad" style="display: none">
 <p>
-
+https://en.wikipedia.org/wiki/Gradient
 </p>
 </div>
 </li>
@@ -274,7 +270,19 @@ https://en.wikipedia.org/wiki/Feedforward_neural_network
 <a href="javascript:hideshow(document.getElementById('gd'))">Gradient Descent</a>
 <div id="gd" style="display: none">
 <p>
+https://en.wikipedia.org/wiki/Gradient_descent
+(see Back Propogation https://en.wikipedia.org/wiki/Backpropagation)
+</p>
+</div>
+</li>
 
+
+<li>
+<a href="javascript:hideshow(document.getElementById('hyp'))">Hyper Parameter</a>
+<div id="hyp" style="display: none">
+<p>
+http://cs231n.github.io/neural-networks-3/#hyper
+(Hyper Parameter Optimization)
 </p>
 </div>
 </li>
@@ -291,9 +299,9 @@ https://en.wikipedia.org/wiki/Computer_vision#Recognition
 
 
 <li>
-<a href="javascript:hideshow(document.getElementById('ker'))">Kernel</a>
+<a href="javascript:hideshow(document.getElementById('ker'))">Kernel Perceptron</a>
 <div id="ker" style="display: none">
-<p>
+<p>https://en.wikipedia.org/wiki/Kernel_perceptron
 
 </p>
 </div>
@@ -305,6 +313,8 @@ https://en.wikipedia.org/wiki/Computer_vision#Recognition
 <div id="l1" style="display: none">
 <p>
 http://www.ai4trade.com/GeneticAlgorithmsInForex/l1-regularization-neural-networks
+L1 vs L2
+https://jamesmccaffrey.wordpress.com/2015/02/07/l1-and-l2-regularization-for-machine-learning/
 </p>
 </div>
 </li>
@@ -314,7 +324,8 @@ http://www.ai4trade.com/GeneticAlgorithmsInForex/l1-regularization-neural-networ
 <a href="javascript:hideshow(document.getElementById('l2'))">L2</a>
 <div id="l2" style="display: none">
 <p>
-
+L1 vs L2
+https://jamesmccaffrey.wordpress.com/2015/02/07/l1-and-l2-regularization-for-machine-learning/
 </p>
 </div>
 </li>
@@ -324,7 +335,8 @@ http://www.ai4trade.com/GeneticAlgorithmsInForex/l1-regularization-neural-networ
 <a href="javascript:hideshow(document.getElementById('lr'))">Learning Rate</a>
 <div id="lr" style="display: none">
 <p>
-
+http://cs231n.github.io/neural-networks-3/
+(vs Loss Function)
 </p>
 </div>
 </li>
@@ -334,7 +346,8 @@ http://www.ai4trade.com/GeneticAlgorithmsInForex/l1-regularization-neural-networ
 <a href="javascript:hideshow(document.getElementById('lrf'))">Local Receptive Fields</a>
 <div id="lrf" style="display: none">
 <p>
-
+http://neuralnetworksanddeeplearning.com/chap6.html
+(see CNN)
 </p>
 </div>
 </li>
@@ -353,8 +366,22 @@ http://www.ai4trade.com/GeneticAlgorithmsInForex/l1-regularization-neural-networ
 <li>
 <a href="javascript:hideshow(document.getElementById('logit'))">Logit</a>
 <div id="logit" style="display: none">
+<p>The Logit function is the inverse of the Logistic function.
+https://en.wikipedia.org/wiki/Logit
+
+https://en.wikipedia.org/wiki/Logit#/media/File:Logit.svg
+</p>
+</div>
+</li>
+
+
+<li>
+<a href="javascript:hideshow(document.getElementById('loss'))">Loss Function</a>
+<div id="loss" style="display: none">
 <p>
 
+http://cs231n.github.io/neural-networks-3/
+(vs Learning Rate)
 </p>
 </div>
 </li>
@@ -388,6 +415,16 @@ http://yann.lecun.com/exdb/mnist/
 <div id="nlp" style="display: none">
 <p>
 https://en.wikipedia.org/wiki/Natural_language_processing
+</p>
+</div>
+</li>
+
+
+<li>
+<a href="javascript:hideshow(document.getElementById('nn'))">Neural Network</a>
+<div id="nn" style="display: none">
+<p>(see Artificial Neuron)
+https://en.wikipedia.org/wiki/Artificial_neuron
 </p>
 </div>
 </li>
@@ -434,12 +471,24 @@ https://en.wikipedia.org/wiki/Overfitting
 
 
 <li>
+<a href="javascript:hideshow(document.getElementById('per'))">Perceptron</a>
+<div id="per" style="display: none">
+<p>
+https://en.wikipedia.org/wiki/Perceptron
+</p>
+</div>
+</li>
+
+
+<li>
 <a href="javascript:hideshow(document.getElementById('pool'))">Pooling</a>
 <div id="pool" style="display: none">
 <p>
+(see CNN)
 (also max-pooling and L2-pooling)
 http://ufldl.stanford.edu/tutorial/supervised/Pooling/
 https://en.wikipedia.org/wiki/Convolutional_neural_network#Pooling_layer
+http://neuralnetworksanddeeplearning.com/chap6.html
 </p>
 </div>
 </li>
@@ -470,8 +519,9 @@ https://en.wikipedia.org/wiki/Recurrent_neural_network
 <li>
 <a href="javascript:hideshow(document.getElementById('reg'))">Regularization</a>
 <div id="reg" style="display: none">
-<p>
+<p>Regularization of a neural network refers to those techniques used to fight overfitting. The most common regularization techniques are: L1, L2, and Dropout.
 
+http://cs231n.github.io/neural-networks-2/#reg
 </p>
 </div>
 </li>
@@ -490,9 +540,7 @@ https://en.wikipedia.org/wiki/Recurrent_neural_network
 <li>
 <a href="javascript:hideshow(document.getElementById('shal'))">Shallow</a>
 <div id="shal" style="display: none">
-<p>
-(vs Deep)
-</p>
+<p>The term "shallow" is a derogitory term used to describe a neural network that is not sufficiently "deep".  As increasingly deep neural networks become more and more popular, some people employ a "my network is deeper than yours" egotism. It is best for adults not to use the term "shallow" in this context too often.</p>
 </div>
 </li>
 
@@ -501,7 +549,8 @@ https://en.wikipedia.org/wiki/Recurrent_neural_network
 <a href="javascript:hideshow(document.getElementById('shw'))">Shared Weights</a>
 <div id="shw" style="display: none">
 <p>
-
+http://neuralnetworksanddeeplearning.com/chap6.html
+(see CNN)
 </p>
 </div>
 </li>
@@ -511,7 +560,9 @@ https://en.wikipedia.org/wiki/Recurrent_neural_network
 <a href="javascript:hideshow(document.getElementById('sig'))">Sigmoid</a>
 <div id="sig" style="display: none">
 <p>
+https://en.wikipedia.org/wiki/Logistic_function
 
+https://en.wikipedia.org/wiki/Logistic_function#/media/File:Logistic-curve.svg
 </p>
 </div>
 </li>
@@ -538,20 +589,22 @@ https://en.wikipedia.org/wiki/Speech_recognition
 
 
 <li>
-<a href="javascript:hideshow(document.getElementById('st'))">Stride</a>
-<div id="st" style="display: none">
+<a href="javascript:hideshow(document.getElementById('sgd'))">Stochiastic Gradient Descent</a>
+<div id="sgd" style="display: none">
 <p>
-
+http://cs231n.github.io/neural-networks-3/#sgd
+(see Gradient Descent)
 </p>
 </div>
 </li>
 
 
 <li>
-<a href="javascript:hideshow(document.getElementById('stl'))">Stride Length</a>
-<div id="stl" style="display: none">
+<a href="javascript:hideshow(document.getElementById('st'))">Stride</a>
+<div id="st" style="display: none">
 <p>
-(see Stride)
+cs231n.github.io/convolutional-networks/
+(see CNN)
 </p>
 </div>
 </li>
