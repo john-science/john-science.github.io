@@ -10,8 +10,6 @@ summary: A beginner's dictionary of important neural network terminology.
 function hideshow(a){document.getElementById&&("block"==a.style.display?a.style.display="none":a.style.display="block")}
 </script>
 
-<style>.sml {font-size:small}</style>
-
 <p>Jargon is always a huge stopping block for anyone new to a field.  And the study of neural networks is no different.  In fact, for such a young field, there is already quite a lot of jargon. What follows is a short list of important terminology designed to aid beginners wading through their first extercises studies of neural networks.</p>
 
 <p>If I missed something important, feel free to leave a comment below and I will add it to the list when I get a chance.</p>
@@ -23,7 +21,7 @@ function hideshow(a){document.getElementById&&("block"==a.style.display?a.style.
 <div id="acc" style="display: none">
 <p>In science and engineering, the "<a href="https://en.wikipedia.org/wiki/Accuracy_and_precision" target="_blank">accuracy</a>" of a measurement is a description of how close that measurement is to some "true" value. By contrast, the "precision" of a measurement describes how reproducible that measurement is.</p>
 <p>The accuracy of a neural network is a representation of how many inputs to the neural network result in the correct output. The accuracy of a neural network should only be trusted if it was measured against proper test data.</p>
-<p class="sml">(see Loss Function, Test Data)</p>
+<p style="font-size:small">(see Loss Function, Test Data)</p>
 </div>
 </li>
 
@@ -33,7 +31,7 @@ function hideshow(a){document.getElementById&&("block"==a.style.display?a.style.
 <div id="act_fun" style="display: none">
 <p>Each neuron in an artificial neural network takes in an arbitrary number of numerical inputs and outputs (usually) a single value. There are, obviously, many different mathematical functions and algorithms possible to do this computation, and they are collectively known as <a href="https://en.wikipedia.org/wiki/Activation_function" target="_blank">Activation Functions</a>.</p>
 <p>There are a <a href="https://en.wikibooks.org/wiki/Artificial_Neural_Networks/Activation_Functions" target="_blank">huge</a> <a href="https://en.wikipedia.org/wiki/Activation_function#Comparison_of_activation_functions" target="_blank">variety</a> of activation functions in use in neural networks. Some of the more common include: the Step Function, variations on the Sigmoid Function, Softmax, and ReLU.</p>
-<p class="sml">(see Artificial Neural Network, Neuron, ReLU, Step Function, Sigmoid, Softmax)</p>
+<p style="font-size:small">(see Artificial Neural Network, Neuron, ReLU, Step Function, Sigmoid, Softmax)</p>
 </div>
 </li>
 
@@ -53,7 +51,7 @@ function hideshow(a){document.getElementById&&("block"==a.style.display?a.style.
 <p>
 https://en.wikipedia.org/wiki/Artificial_neural_network
 </p>
-<p class="sml">(see Artificial Neural)</p>
+<p style="font-size:small">(see Artificial Neural)</p>
 </div>
 </li>
 
@@ -66,7 +64,7 @@ https://en.wikipedia.org/wiki/Artificial_neural_network
 (see NN)
 https://en.wikipedia.org/wiki/Artificial_neuron
 </p>
-<p class="sml">(see Artificial Neural Network)</p>
+<p style="font-size:small">(see Artificial Neural Network)</p>
 </div>
 </li>
 
@@ -98,7 +96,7 @@ https://www.coursera.org/learn/machine-learning/lecture/9zJUs/mini-batch-gradien
 https://arxiv.org/abs/1502.03167
 https://kratzert.github.io/2016/02/12/understanding-the-gradient-flow-through-the-batch-normalization-layer.html
 </p>
-<p class="sml">(see Batch, Bias)</p>
+<p style="font-size:small">(see Batch, Bias)</p>
 </div>
 </li>
 
@@ -167,7 +165,7 @@ https://en.wikipedia.org/wiki/Cross_entropy
 <p>
 https://en.wikipedia.org/wiki/Decorrelation
 </p>
-<p class="sml">(see Whitening)</p>
+<p style="font-size:small">(see Whitening)</p>
 </div>
 </li>
 
@@ -178,7 +176,7 @@ https://en.wikipedia.org/wiki/Decorrelation
 <p>
 TODO
 </p>
-<p class="sml">(see Deep Learning, Shallow)</p>
+<p style="font-size:small">(see Deep Learning, Shallow)</p>
 </div>
 </li>
 
@@ -210,7 +208,7 @@ handy paper: http://jmlr.org/papers/volume15/srivastava14a/srivastava14a.pdf
 <p>
 http://stackoverflow.com/questions/4752626/epoch-vs-iteration-when-training-neural-networks
 </p>
-<p class="sml">(see Batch)</p>
+<p style="font-size:small">(see Batch)</p>
 </div>
 </li>
 
@@ -270,7 +268,7 @@ https://en.wikipedia.org/wiki/Gradient
 <p>
 https://en.wikipedia.org/wiki/Gradient_descent
 </p>
-<p class="sml">(see Back Propogation)</p>
+<p style="font-size:small">(see Back Propogation)</p>
 </div>
 </li>
 
@@ -335,7 +333,7 @@ https://jamesmccaffrey.wordpress.com/2015/02/07/l1-and-l2-regularization-for-mac
 <p>
 http://cs231n.github.io/neural-networks-3/
 </p>
-<p class="sml">(see Loss Function)</p>
+<p style="font-size:small">(see Loss Function)</p>
 </div>
 </li>
 
@@ -346,7 +344,7 @@ http://cs231n.github.io/neural-networks-3/
 <p>
 http://neuralnetworksanddeeplearning.com/chap6.html
 </p>
-<p class="sml">(see CNN)</p>
+<p style="font-size:small">(see CNN)</p>
 </div>
 </li>
 
@@ -354,7 +352,7 @@ http://neuralnetworksanddeeplearning.com/chap6.html
 <li>
 <a href="javascript:hideshow(document.getElementById('logf'))">Logistic Function</a>
 <div id="logf" style="display: none">
-<p class="sml">(see Sigmoid)</p>
+<p style="font-size:small">(see Sigmoid)</p>
 </div>
 </li>
 
@@ -389,7 +387,7 @@ http://cs231n.github.io/neural-networks-3/
 <p>
 https://www.coursera.org/learn/machine-learning/lecture/9zJUs/mini-batch-gradient-descent
 </p>
-<p class="sml">(see Batch)</p>
+<p style="font-size:small">(see Batch)</p>
 </div>
 </li>
 
@@ -418,7 +416,7 @@ https://en.wikipedia.org/wiki/Natural_language_processing
 <li>
 <a href="javascript:hideshow(document.getElementById('nn'))">Neural Network</a>
 <div id="nn" style="display: none">
-<p class="sml">(see Artificial Neural Network)</p>
+<p style="font-size:small">(see Artificial Neural Network)</p>
 </div>
 </li>
 
@@ -426,7 +424,7 @@ https://en.wikipedia.org/wiki/Natural_language_processing
 <li>
 <a href="javascript:hideshow(document.getElementById('neur'))">Neuron</a>
 <div id="neur" style="display: none">
-<p class="sml">(see Artificial Neuron)</p>
+<p style="font-size:small">(see Artificial Neuron)</p>
 </div>
 </li>
 
@@ -480,7 +478,7 @@ http://ufldl.stanford.edu/tutorial/supervised/Pooling/
 https://en.wikipedia.org/wiki/Convolutional_neural_network#Pooling_layer
 http://neuralnetworksanddeeplearning.com/chap6.html
 </p>
-<p class="sml">(see CNN)</p>
+<p style="font-size:small">(see CNN)</p>
 </div>
 </li>
 
@@ -491,7 +489,7 @@ http://neuralnetworksanddeeplearning.com/chap6.html
 <p>
 http://cs231n.github.io/neural-networks-2/
 </p>
-<p class="sml">(see Whitening)</p>
+<p style="font-size:small">(see Whitening)</p>
 </div>
 </li>
 
@@ -523,7 +521,7 @@ http://cs231n.github.io/neural-networks-2/#reg
 <p>
 <a href="https://en.wikipedia.org/wiki/Rectifier_%28neural_networks%29" target="_blank">(Wiki)</a>
 </p>
-<p class="sml">(see Activation Function)</p>
+<p style="font-size:small">(see Activation Function)</p>
 </div>
 </li>
 
@@ -532,7 +530,7 @@ http://cs231n.github.io/neural-networks-2/#reg
 <a href="javascript:hideshow(document.getElementById('shal'))">Shallow</a>
 <div id="shal" style="display: none">
 <p>In machine learning, "shallow" is a derogitory term used to describe a neural network that is not sufficiently "deep".  This is due to a particularly droll sort of egotism around the idea that "my network is deeper than yours". Yawn.</p>
-<p class="sml">(see Deep)</p>
+<p style="font-size:small">(see Deep)</p>
 </div>
 </li>
 
@@ -543,7 +541,7 @@ http://cs231n.github.io/neural-networks-2/#reg
 <p>
 http://neuralnetworksanddeeplearning.com/chap6.html
 </p>
-<p class="sml">(see CNN)</p>
+<p style="font-size:small">(see CNN)</p>
 </div>
 </li>
 
@@ -556,7 +554,7 @@ http://neuralnetworksanddeeplearning.com/chap6.html
 
 https://en.wikipedia.org/wiki/Logistic_function#/media/File:Logistic-curve.svg
 </p>
-<p class="sml">(see Activation Function)</p>
+<p style="font-size:small">(see Activation Function)</p>
 </div>
 </li>
 
@@ -567,7 +565,7 @@ https://en.wikipedia.org/wiki/Logistic_function#/media/File:Logistic-curve.svg
 <p>
 https://en.wikipedia.org/wiki/Softmax_function
 </p>
-<p class="sml">(see Activation Function)</p>
+<p style="font-size:small">(see Activation Function)</p>
 </div>
 </li>
 
@@ -588,7 +586,7 @@ https://en.wikipedia.org/wiki/Speech_recognition
 <p>
 https://en.wikipedia.org/wiki/Heaviside_step_function
 </p>
-<p class="sml">(see Activation Function)</p>
+<p style="font-size:small">(see Activation Function)</p>
 </div>
 </li>
 
@@ -599,7 +597,7 @@ https://en.wikipedia.org/wiki/Heaviside_step_function
 <p>
 http://cs231n.github.io/neural-networks-3/#sgd
 </p>
-<p class="sml">(see Gradient Descent)</p>
+<p style="font-size:small">(see Gradient Descent)</p>
 </div>
 </li>
 
@@ -610,7 +608,7 @@ http://cs231n.github.io/neural-networks-3/#sgd
 <p>
 cs231n.github.io/convolutional-networks/
 </p>
-<p class="sml">(see CNN)</p>
+<p style="font-size:small">(see CNN)</p>
 </div>
 </li>
 
@@ -637,7 +635,7 @@ cs231n.github.io/convolutional-networks/
 <a href="javascript:hideshow(document.getElementById('test'))">Test Data</a>
 <div id="test" style="display: none">
 <p><a href="http://users.cecs.anu.edu.au/~jinyu/JinYu_files/preproj/ANN.pdf" target="_blank">Testing data</a> is used after a neural network has been fully trained to determine how accurate the neural network is.  In order for the results of the test data runs to be trusted, the test data cannot be used in any way to train the network.</p>
-<p class="sml">(see Accuracy, Training Data, Validation Data)</p>
+<p style="font-size:small">(see Accuracy, Training Data, Validation Data)</p>
 </div>
 </li>
 
@@ -655,7 +653,7 @@ cs231n.github.io/convolutional-networks/
 <a href="javascript:hideshow(document.getElementById('train'))">Training Data</a>
 <div id="train" style="display: none">
 <p><a href="http://users.cecs.anu.edu.au/~jinyu/JinYu_files/preproj/ANN.pdf" target="_blank">Training data</a> is the set of data used to train a neural network. This data must be kept completely independent from the Validation and Testing data in order to reliably determine the accuracy of the final neural network.</p>
-<p class="sml">(see Accuracy, Testing Data, Validation Data)</p>
+<p style="font-size:small">(see Accuracy, Testing Data, Validation Data)</p>
 </div>
 </li>
 
@@ -664,7 +662,7 @@ cs231n.github.io/convolutional-networks/
 <a href="javascript:hideshow(document.getElementById('valid'))">Validation Data</a>
 <div id="valid" style="display: none">
 <p><a href="http://users.cecs.anu.edu.au/~jinyu/JinYu_files/preproj/ANN.pdf" target="_blank">Validation data</a> is an independent data set used to test a neural network for overfitting. Occassionally, during the training of a neural network, using the training data, the accuracy of the neural network is tested against the validation data set. A well-designed neural network will very slowly get more accurate over a long time, and at some point start to become less accurate. At that point, it is desirable to stop training your network.  This point can only be identified if there is a validation data set completely independent of the training data set.</p>
-<p class="sml">(see Accuracy, Overfitting, Training Data)</p>
+<p style="font-size:small">(see Accuracy, Overfitting, Training Data)</p>
 </div>
 </li>
 
