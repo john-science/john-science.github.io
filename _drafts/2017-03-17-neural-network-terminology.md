@@ -19,7 +19,7 @@ function hideshow(a){document.getElementById&&("block"==a.style.display?a.style.
 <li>
 <a href="javascript:hideshow(document.getElementById('acc'))">Accuracy</a>
 <div id="acc" style="display: none">
-<p>In science and engineering, the <a href="https://en.wikipedia.org/wiki/Accuracy_and_precision" target="_blank">accuracy</a> of a measurement is a description of how close that measurement is to some "true" value. By contrast, the "precision" of a measurement describes how reproducible that measurement is.</p>
+<p>In science and engineering, the "<a href="https://en.wikipedia.org/wiki/Accuracy_and_precision" target="_blank">accuracy</a>" of a measurement is a description of how close that measurement is to some "true" value. By contrast, the "precision" of a measurement describes how reproducible that measurement is.</p>
 <p>The accuracy of a neural network is a representation of how many inputs to the neural network result in the correct output. The accuracy of a neural network should only be trusted if it was measured against proper test data.</p>
 <p>(see Loss Function, Test Data)</p>
 </div>
@@ -29,10 +29,9 @@ function hideshow(a){document.getElementById&&("block"==a.style.display?a.style.
 <li>
 <a href="javascript:hideshow(document.getElementById('act_fun'))">Activation Function</a>
 <div id="act_fun" style="display: none">
-<p>
-https://en.wikipedia.org/wiki/Activation_function
-(see Activation)
-</p>
+<p>Each neuron in an artificial neural network takes in an arbitrary number of numerical inputs and outputs (usually) a single value. There are, obviously, many different mathematical functions and algorithms possible to do this computation, and they are collectively known as <a href="https://en.wikipedia.org/wiki/Activation_function" target="_blank">Activation Functions</a>.</p>
+<p>There are a <a href="https://en.wikibooks.org/wiki/Artificial_Neural_Networks/Activation_Functions" target="_blank">huge</a> <a href="https://en.wikipedia.org/wiki/Activation_function#Comparison_of_activation_functions" target="_blank">variety</a> of activation functions in use in neural networks. Some of the more common include: the Step Function, variations on the Sigmoid Function, Softmax, and ReLU.</p>
+<p>(see Artificial Neural Network, Neuron, ReLU, Step Function, Sigmoid, Softmax)</p>
 </div>
 </li>
 
@@ -531,6 +530,7 @@ http://cs231n.github.io/neural-networks-2/#reg
 <p>
 <a href="https://en.wikipedia.org/wiki/Rectifier_%28neural_networks%29" target="_blank">(Wiki)</a>
 </p>
+<p>(see Activation Function)</p>
 </div>
 </li>
 
@@ -563,6 +563,7 @@ http://neuralnetworksanddeeplearning.com/chap6.html
 
 https://en.wikipedia.org/wiki/Logistic_function#/media/File:Logistic-curve.svg
 </p>
+<p>(see Activation Function)</p>
 </div>
 </li>
 
@@ -573,6 +574,7 @@ https://en.wikipedia.org/wiki/Logistic_function#/media/File:Logistic-curve.svg
 <p>
 https://en.wikipedia.org/wiki/Softmax_function
 </p>
+<p>(see Activation Function)</p>
 </div>
 </li>
 
@@ -583,6 +585,17 @@ https://en.wikipedia.org/wiki/Softmax_function
 <p>
 https://en.wikipedia.org/wiki/Speech_recognition
 </p>
+</div>
+</li>
+
+
+<li>
+<a href="javascript:hideshow(document.getElementById('step'))">Step Function</a>
+<div id="step" style="display: none">
+<p>
+https://en.wikipedia.org/wiki/Heaviside_step_function
+</p>
+<p>(see Activation Function)</p>
 </div>
 </li>
 
