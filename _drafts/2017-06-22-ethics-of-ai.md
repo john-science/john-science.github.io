@@ -52,3 +52,8 @@ After all, how intelligent can you be if you're not even smart enough to underst
 The gift of humanity that has made us so successful is not our broad intelligence. After all, we already have machine learning that can identify handwriting and pictures of cats better than we can.  It is our self-awareness and sentience that propelled us to dominating the world as a species.
 
 But what good will a self-aware program be? It certainly won't be any faster at recognizing hand-written digits or solving whatever mundane problems we want machines to do for us.  A self-aware program will, like us, waste most of its compute cycles on thinking about itself and worry about its lot in life.  Building a machine that can worry and get depressed will not help us automate factories or make driving safer.  More importantly, it will not help the machine solve problems faster, the only benefit to self-awareness is self-preservation. And is that a goal we want to instill in our machines?
+
+
+## References
+
+* https://en.wikipedia.org/wiki/Ethics_of_artificial_intelligence
