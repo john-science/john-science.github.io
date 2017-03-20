@@ -133,9 +133,8 @@ https://kratzert.github.io/2016/02/12/understanding-the-gradient-flow-through-th
 <li>
 <a href="javascript:hideshow(document.getElementById('cnn'))">Convolutional Neural Network (CNN)</a>
 <div id="cnn" style="display: none">
-<p>
-https://en.wikipedia.org/wiki/Convolutional_neural_network
-</p>
+<p><a href="https://en.wikipedia.org/wiki/Convolutional_neural_network" target="_blank">Convolutional Neural Networks</a> are artificial neural networks laid out in a manner originally meant to simulate the visual recognition centers of the human brain.  Pooling layers are used to scan an image and relate each pixel to those around it. These pooling layers form part of one or more convolutional layers, which are followed by one or more fully connected layers.  CNNs are typically used in problems involving images or text.</p>
+<p class="sml">(see Pooling)</p>
 </div>
 </li>
 
@@ -391,6 +390,24 @@ https://en.wikipedia.org/wiki/Logit#/media/File:Logit.svg
 
 
 <li>
+<a href="javascript:hideshow(document.getElementById('maxp'))">Max Pooling</a>
+<div id="maxp" style="display: none">
+<p><a href="https://www.mathworks.com/help/nnet/ref/maxpooling2dlayer-class.html" target="_blank">Max Pooling</a> is a pooling method for CNNs where only the maximum value in a given pool is passed on as the input to a hidden neuron.</p>
+<p class="sml">(see CNN, Mean Pooling, Pooling)</p>
+</div>
+</li>
+
+
+<li>
+<a href="javascript:hideshow(document.getElementById('meanp'))">Mean Pooling</a>
+<div id="meanp" style="display: none">
+<p><a href="https://www.mathworks.com/help/nnet/ref/maxpooling2dlayer-class.html" target="_blank">Mean Pooling</a> is a pooling method for CNNs where only the average of the values in a pool is passed on as the input to a hidden neuron.</p>
+<p class="sml">(see CNN, Max Pooling, Pooling)</p>
+</div>
+</li>
+
+
+<li>
 <a href="javascript:hideshow(document.getElementById('minib'))">Mini-Batch</a>
 <div id="minib" style="display: none">
 <p>
@@ -480,13 +497,8 @@ https://en.wikipedia.org/wiki/Optical_character_recognition
 <li>
 <a href="javascript:hideshow(document.getElementById('pool'))">Pooling</a>
 <div id="pool" style="display: none">
-<p>
-(also max-pooling and L2-pooling)
-http://ufldl.stanford.edu/tutorial/supervised/Pooling/
-https://en.wikipedia.org/wiki/Convolutional_neural_network#Pooling_layer
-http://neuralnetworksanddeeplearning.com/chap6.html
-</p>
-<p class="sml">(see CNN)</p>
+<p><a href="http://ufldl.stanford.edu/tutorial/supervised/Pooling/" target="_blank">Pooling</a> is a method of connecting input pixels in images to hidden neurons in a neural network to better relate the pixels with their neighbors in 2D or 3D space.  Instead of every input pixel being connected to every neuron in a hidden layer, just a group of them are. For instance, a 5x5 grouping of pixels will be connected to a single hidden layer neuron, and the input image scanned in this fashion to cover the entire image with much redundancy.</p>
+<p class="sml">(see CNN, Max Pooling, Mean Pooling)</p>
 </div>
 </li>
 
