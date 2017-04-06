@@ -10,7 +10,7 @@ summary: We did not get to see the dinosaurs go extinct, but we are alive in the
 
 > TODO: This whole bit is far too opinionated.  
 
-There are perhaps 100,000 species of tree in the world<sup><a href="https://en.wikipedia.org/wiki/Tree#Overview" target="_blank" title="Wikipedia Reference">[1]</a></sup>, with about 16,000 of those in the Amazon rainforest<sup><a href="https://en.wikipedia.org/wiki/Amazon_rainforest#cite_note-eurekalert.org-2" target="_blank" title="Wikipedia Reference">[2]</a></sup>. A few years ago I read a wonderful book: <a href="http://a.co/6YqQoNG" target="_blank" title="Link to Book on Amazon">Trees & Woodland in the British Landscape</a>, by Oliver Rackman. I have never been terribly interested in history, but this was a book more about the history of forests than people. Suddenly I was interested in history. After all, trees make up 25 percent of all the species on Earth<sup><a href="https://en.wikipedia.org/wiki/Tree#Overview" target="_blank" title="Wikipedia Reference">[3]</a></sup>, so there is bound to be something exciting.
+There are about 60,000 species of tree in the world<sup><a href="http://www.bbc.com/news/science-environment-39492977" target="_blank" title="Wikipedia Reference">[1]</a></sup>, with about 16,000 of those in the Amazon rainforest<sup><a href="https://en.wikipedia.org/wiki/Amazon_rainforest#cite_note-eurekalert.org-2" target="_blank" title="Wikipedia Reference">[2]</a></sup>. A few years ago I read a wonderful book: <a href="http://a.co/6YqQoNG" target="_blank" title="Link to Book on Amazon">Trees & Woodland in the British Landscape</a>, by Oliver Rackman. I have never been terribly interested in history, but this was a book more about the history of forests than people. Suddenly I was interested in history. After all, trees make up 25 percent of all the species on Earth<sup><a href="https://en.wikipedia.org/wiki/Tree#Overview" target="_blank" title="Wikipedia Reference">[3]</a></sup>, so there is bound to be something exciting.
 
 It turns out forests are constantly at war.  One minute an entire continent is covered in Aspen and the next Oaks have taken over. Shifts in weather, an ice age here, a couple pine cones washing up on the right shore and suddenly the world looks totally different. It is all happening too slow for human eyes, to be sure. But an amazing amount is known about the last hundred thousand years or so of forests in England, and the picture painted is a lot more exciting than I thought it would be.
 
@@ -67,7 +67,6 @@ The history of the forests over a country reads like an epic battle. With huge t
 If there was some great plague destroying all of America's oil people would be more likely to care about the problem and come together to fix it. But a nation is only as rich as its resources and America is just sitting by while one of our greatest resources just disappears.
 
 > I do not currrenly have a good tie-together for the end of this post... More thought is needed.
-
 
 
 <sup><a href="" target="_blank" title="">[999]</a></sup>
