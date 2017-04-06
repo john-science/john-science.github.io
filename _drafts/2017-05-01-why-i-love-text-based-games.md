@@ -8,7 +8,11 @@ summary: Why text-based games are still popular in the age of 3D graphics
 
 I love text-based games. They can be so much more unique and interesting than the average computer game. Modern, big budget games take huge teams to create: the 3D art department, the music team, acounting, HR, you name it. All that stuff gets between the creator and the idea.
 
-**INSERT GRAPHIC**
+<img src="/assets/images/text_games/text_games_rock_640.png"
+srcset="/assets/images/text_games/text_games_rock_800.png 800w,
+/assets/images/text_games/text_games_rock_640.png 640w" 
+sizes="(max-width: 38em) 100vw, 50vw"
+alt="video game cost vs team size">
 
 And, if I am being totally honest, I covet the idea that one day I could write a decent text-based game. No corporate backing; just me and a laptop. It is <small>(theoretically)</small> possible that I could create some little game that a few people would love. You know, maybe. One day. A boy can dream.
 
