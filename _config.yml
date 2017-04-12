@@ -10,10 +10,7 @@ highlighter: rouge
 title : Antineutrino
 tagline : A blog of minor obsessions
 author :
-  name : John Stilley
-  flickr : john_sprocket
   github : theJollySin
-  googleplus : thejollysin
   stackoverflow : thejollysin
 
 production_url : http://thejollysin.github.io
@@ -43,9 +40,7 @@ JB :
   # Set 'provider' to the comment provider you want to use.
   # Set 'provider' to false to turn commenting off globally.
   comments :
-    provider : disqus
-    disqus :
-      short_name : thejollysin
+    provider : false
    
   # Settings for analytics helper
   # Set 'provider' to the analytics provider you want to use.
