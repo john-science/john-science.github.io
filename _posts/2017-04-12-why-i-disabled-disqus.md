@@ -10,7 +10,7 @@ This is a small, personal blog. It does not have a wide readership and it does n
 
 Originally, I thought the Disqus comments were a fun, free feature to add to my blog. But at what cost to my (admittedly few) readers?  Disqus offers a free service, and I have no comments about its quality. But the saying goes:
 
-> If the service is free *you* are the product.
+> If you're not paying for it, you are the product.
 
 Some how, some way, Disqus is using the traffic on my little website for marketing. That means at some point my reader's privacy will have monetary value.  In an increasingly tracked world, I do not want to be part of the problem.
 
