@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Why I Disabled Disqus Comments"
-tags: [Disqus, GitHub Pages, Privacy, Softwary]
+tags: [Disqus, GitHub Pages, Privacy, Software]
 summary: Why I removed the Disqus comments from my blog.
 ---
 {% include JB/setup %}
