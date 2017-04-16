@@ -11,11 +11,12 @@ summary: Experimenting with Web-Based, Client-Side Roguelikes in ROT.js
 I initially ran into ROT.js when playing [The Royal Wedding](http://ondras.github.io/trw/); the most beautiful roguelike I have ever played. When I found out the engine behind it was an open-source JS library, I just had to try it. I found [this](http://www.roguebasin.com/index.php?title=Rot.js_tutorial) short ROT.js tutorial on [RogueBasin](http://www.roguebasin.com/index.php?title=Main_Page), and built my own [mini game](http://jsfiddle.net/wqbb8udm/4/) on JSFiddle in about 10 minutes.
 
 
-### Ananus aus Caracas - A ROT.js Experiment
+### [Ananus aus Caracas](http://antineutrino.net/apps/ananus_aus_caracas.html) - A ROT.js Experiment
 
 I have to say, my first experiment using ROT.js was really enjoyable.  I didn't build a complete roguelike, but expanded upon the RogueBasin tutorial and built a fun little game where you sneak through deparment stores stealing Pineapples (Ananus).
 
 #### You can play the final game [here](http://antineutrino.net/apps/ananus_aus_caracas.html).
+<br>
 
 I expanded upon the tutorial game by:
 
