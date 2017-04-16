@@ -15,7 +15,7 @@ I initially ran into ROT.js when playing [The Royal Wedding](http://ondras.githu
 
 I have to say, my first experiment using ROT.js was really enjoyable.  I didn't build a complete roguelike, but expanded upon the RogueBasin tutorial and built a fun little game where you sneak through deparment stores stealing Pineapples (Ananus).
 
-You can play the final game [here](http://antineutrino.net/apps/ananus_aus_caracas.html).
+#### You can play the final game [here](http://antineutrino.net/apps/ananus_aus_caracas.html).
 
 I expanded upon the tutorial game by:
 
