@@ -1,5 +1,5 @@
 var tileSet = document.createElement("img");
-tileSet.src = "http://dwarffortresswiki.org/images/a/a5/Lemunde_16x16.png";
+tileSet.src = "/assets/apps/aac/Lemunde_16x16.png";
 
 var options = {
     layout: "tile",
