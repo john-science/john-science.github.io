@@ -13,10 +13,7 @@ I initially ran into ROT.js when playing [The Royal Wedding](http://ondras.githu
 
 ### [Ananus aus Caracas](http://antineutrino.net/apps/ananus_aus_caracas.html) - A ROT.js Experiment
 
-I have to say, my first experiment using ROT.js was really enjoyable.  I didn't build a complete roguelike, but expanded upon the RogueBasin tutorial and built a fun little game where you sneak through deparment stores stealing Pineapples (Ananus).
-
-#### You can play the final game [here](http://antineutrino.net/apps/ananus_aus_caracas.html).
-<br>
+I have to say, my first experiment (playable [here](http://antineutrino.net/apps/ananus_aus_caracas.html)) using ROT.js was really enjoyable.  I didn't build a complete roguelike, but expanded upon the RogueBasin tutorial and built a fun little game where you sneak through deparment stores stealing Pineapples (Ananus).
 
 I expanded upon the tutorial game by:
 
@@ -54,4 +51,6 @@ Maybe these aren't valid complaints, but I couldn't find what I wanted in the [m
 ### Conclusions
 
 There are a few things I would like to be able to do easier in ROT.js, but the pros far out-weigh the cons. My little experiment was enough to convince me that my next pet project will be in ROT.js. I think it does the one thing I want: it lets me focus on the game I want to build and not on the tools I am using to build it.
+
+**Play the experimental game [here](http://antineutrino.net/apps/ananus_aus_caracas.html).**
 
