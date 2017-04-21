@@ -69,4 +69,8 @@ If there was some great plague destroying all of America's oil people would be m
 > I do not currrenly have a good tie-together for the end of this post... More thought is needed.
 
 
+### And Another...
+
+http://www.latimes.com/local/california/la-me-dying-urban-trees-20170403-story.html
+
 <sup><a href="" target="_blank" title="">[999]</a></sup>
