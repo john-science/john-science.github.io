@@ -6,7 +6,7 @@ summary: Why text-based games are still popular in the age of 3D graphics
 ---
 {% include JB/setup %}
 
-I love text-based games. They frequently end up being so much more unique and interesting than the average computer/video game. My theory is that modern, big budget games take huge teams to create: the 3D art department, the music team, advertising, acounting, HR, you name it. All that stuff gets between the creator and the idea.
+I love text-based games. I frequently find they are a lot more unique and interesting than your typical computer/video game. My theory is that modern games have too many people between the creator(s) and the ideas: the 3D art department, the music team, advertising, acounting, HR, etcetera.
 
 <img src="/assets/images/text_games/text_games_rock_640.png"
 srcset="/assets/images/text_games/text_games_rock_800.png 800w,
@@ -14,9 +14,9 @@ srcset="/assets/images/text_games/text_games_rock_800.png 800w,
 sizes="(max-width: 38em) 100vw, 50vw"
 alt="video game cost vs team size">
 
-The selection of games in the chart above is arbitrary. These are simply the only games I could find good data on. But a trend is visible. Indie game makers (think Braid or Dwarf Fortress) can hang out in the middle of the chart. But most modern games need giant teams and multi-million dollar budgets. Which is fine, but how can a single person's creative vision survive such a process?
+The selection of games in the chart above is arbitrary. These are simply the only games I could find good data on. But a trend is visible. Indie game makers (think Braid or Dwarf Fortress) can hang out in the middle of the chart. But most modern games need giant teams and multi-million dollar budgets. Which is fine, but how can a creative vision survive such a process?
 
-I am not saying I do not appreciate big-budget 3D games. I sure wasted a lot of time playing Skyrim. But the games I have loved the most and become the most attached to have come from a very small team; one or a dozen people, working together on an idea they loved. I imagine there are games out there for my phone that are great for the same reason: they were built by a single developer with a dream. But I have not found too many of those so far.
+I am not saying I do not appreciate big-budget 3D games. But the games I have loved the most and have become the most attached to have come from a very small team; one or a dozen people.
 
 And, if I am being totally honest, I covet the idea that one day I could write a decent text-based game. No corporate backing; just me and a laptop. It is <small>(theoretically)</small> possible that I could create some little game that a few people would love. You know, maybe. One day. A boy can dream.
 
