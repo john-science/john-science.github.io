@@ -115,12 +115,12 @@ def read_seasons(file_path):
     return seas
 
 
-SEASON_START = """<div class="expandable-panel" id="cp-%(season)s">
-  <div id="cp-%(season)s-expandable-panel-heading" class="expandable-panel-heading">
-   <input type=hidden id="cp-%(season)s-panel-count" value=0 />
-   <h2>%(name)s<span id="cp-%(season)s-icon" class="icon-close-open"></span><span id="cp-%(season)s-panelLabel" class="expandable-panel-count"></span></h2>
+SEASON_START = """<div class="exPan" id="cp-%(season)s">
+  <div id="cp-%(season)s-exPanHead" class="exPanHead">
+   <input type=hidden id="cp-%(season)s-panCnt" value=0 />
+   <h2>%(name)s<span id="cp-%(season)s-icon" class="icon-close-open"></span><span id="cp-%(season)s-panLabel" class="exPanCnt"></span></h2>
   </div>
-  <div id="cp-%(season)s-expandable-panel-content" class="expandable-panel-content">
+  <div id="cp-%(season)s-exPanCont" class="exPanCont">
    <table style="border: 0px;">
 <thead>
  <tr>
@@ -128,7 +128,7 @@ SEASON_START = """<div class="expandable-panel" id="cp-%(season)s">
   <th style="text-align: left">Title</th>
   <th style="text-align: center">Seen It?
    <br/>
-   <div class="checkTheBox">
+   <div class="chk">
     <input type="checkbox" value="1" id="group%(season)s" name="check" />
     <label for="group%(season)s"></label>
    </div>
@@ -153,8 +153,8 @@ EPISODE_ROW = """
   <a target="_blank" href="%(link)s" title="%(desc)s">%(name)s</a>NOTE
  </td>
  <td style="text-align: center">
-  <div class="checkTheBox">
-   <input type="checkbox" value="1" id="story%(episode)s" name="check" class="cp-%(season)s-panel" />
+  <div class="chk">
+   <input type="checkbox" value="1" id="story%(episode)s" name="check" class="cp-%(season)s-pan" />
    <label for="story%(episode)s"></label>
   </div>
  </td>

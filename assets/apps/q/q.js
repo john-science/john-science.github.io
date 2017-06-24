@@ -13,12 +13,12 @@ String.prototype.repeat = function(count) {
 
 var CalcQ = (function() {
   // Count number of panels, stories, etc
-  var totalPanels = document.getElementsByClassName('expandable-panel').length;
+  var totalPanels = document.getElementsByClassName('exPan').length;
   var panelCounts = [];
   var storyLimits = [0];
   var numStories = 0;
   for (var p = 0; p < totalPanels; p += 1) {
-    panelCounts.push(document.getElementsByClassName('cp-' + (p + 1).toString() + '-panel').length);
+    panelCounts.push(document.getElementsByClassName('cp-' + (p + 1).toString() + '-pan').length);
     numStories += panelCounts[panelCounts.length - 1];
     storyLimits.push(numStories);
   }
@@ -151,13 +151,13 @@ var CalcQ = (function() {
       var hashBit = '';
       var storyIndex = 0;
       var totalInit = 0;
-      var count = 'cp-1-panel-count';
+      var count = 'cp-1-panCnt';
       var countInit = 0;
 
       // loop through each character in the hash string
       // check relevant story box
       for (var i = 0; i <= totalPanels; i += 1) {
-        form['cp-' + i + '-panel-count'] = 0;
+        form['cp-' + i + '-panCnt'] = 0;
       }
       for (var i = 0; i < hashLen; i += 1) {
         hashChar = hash[i];
@@ -171,7 +171,7 @@ var CalcQ = (function() {
           hashBit = hashBin[hashBin.length - j];
           if (hashBit === '1') {
             document.getElementById('story' + storyIndex).checked = true;
-            count = document.getElementById('story' + storyIndex).className + "-count";
+            count = document.getElementById('story' + storyIndex).className + "Cnt";
             countInit = document.getElementById(count);
             form[count] += 1;
             countInit.value = form[count];
@@ -193,9 +193,9 @@ var CalcQ = (function() {
       var panTotal = 1;
       var panLabel = '';
       for (var k = 1; k <= totalPanels; k += 1) {
-        panUseCount = form["cp-" + k.toString() + "-panel-count"];
+        panUseCount = form["cp-" + k.toString() + "-panCnt"];
         panTotal = parseInt(panelCounts[k - 1]);
-        panLabel = document.getElementById("cp-" + k.toString() + "-panelLabel");
+        panLabel = document.getElementById("cp-" + k.toString() + "-panLabel");
         if (panUseCount === 0) {
           panLabel.innerHTML = "";
         } else if (panUseCount === panTotal) {
@@ -243,7 +243,7 @@ var CalcQ = (function() {
       // Update panel Count
       var panelName = this.className
       var panelLabel = document.getElementById(panelName + "Label");
-      var panelCount = panelName + "-count";
+      var panelCount = panelName + "Cnt";
       var panelTotal = parseInt(panelCounts[panelName.split('-')[1] - 1]);
 
       if (document.getElementById(this.id).checked) {
