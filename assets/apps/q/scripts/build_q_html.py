@@ -12,7 +12,7 @@
 
 EPISODE_FILE = 'episodes.csv'
 SEASON_FILE = 'seasons.csv'
-OUT_FILE = 'q_new.html'
+OUT_FILE = 'q.html'
 
 
 def main():
@@ -121,12 +121,12 @@ SEASON_START = """<div class="exPan" id="cp-%(season)s">
    <h2>%(name)s<span id="cp-%(season)s-icon" class="icon-close-open"></span><span id="cp-%(season)s-panLabel" class="exPanCnt"></span></h2>
   </div>
   <div id="cp-%(season)s-exPanCont" class="exPanCont">
-   <table style="border: 0px;">
+   <table class="no-border">
 <thead>
  <tr>
-  <th style="text-align: left">Story</th>
-  <th style="text-align: left">Title</th>
-  <th style="text-align: center">Seen It?
+  <th>Story</th>
+  <th>Title</th>
+  <th>Seen It?
    <br/>
    <div class="chk">
     <input type="checkbox" value="1" id="group%(season)s" name="check" />
@@ -152,7 +152,7 @@ EPISODE_ROW = """
  <td align="left">
   <a target="_blank" href="%(link)s" title="%(desc)s">%(name)s</a>NOTE
  </td>
- <td style="text-align: center">
+ <td class="centered">
   <div class="chk">
    <input type="checkbox" value="1" id="story%(episode)s" name="check" class="cp-%(season)s-pan" />
    <label for="story%(episode)s"></label>
