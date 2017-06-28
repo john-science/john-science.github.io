@@ -64,52 +64,40 @@ var password_complexity = function(str) {
   return Math.pow(complexity, str.length);
 };
 
-var test_is_password = function(str) {
+var test_is_password = function(str, len) {
   if (str.toLowerCase().includes("password")) {
-    return {
-      'rank': 1,
-      'msg': 'TOO COMMON: Includes the word "password".'
-    };
+    return {'rank': len > 16 ? 2 : 1,
+            'msg': 'TOO COMMON: Includes the word "password".'};
   }
   return false;
 };
 
 var test_length = function(len) {
   if (len < 7) {
-    return {
-      'rank': 1,
-      'msg': 'TOO SHORT: Under 7 characters.'
-    };
+    return {'rank': 1,
+            'msg': 'TOO SHORT: Under 7 characters.'};
   } else if (len < 9) {
-    return {
-      'rank': 2,
-      'msg': 'TOO SHORT: Under 9 characters.'
-    };
+    return {'rank': 2,
+            'msg': 'TOO SHORT: Under 9 characters.'};
   } else if (len < 13) {
-    return {
-      'rank': 3,
-      'msg': 'TOO SHORT: Under 13 characters.'
-    };
+    return {'rank': 3,
+            'msg': 'TOO SHORT: Under 13 characters.'};
   };
   return false;
 };
 
 var test_in_array = function(arr, str, rank, msg) {
   if (arr.indexOf(str.toLowerCase()) > -1) {
-    return {
-      'rank': rank,
-      'msg': 'TOO COMMON: ' + msg
-    };
+    return {'rank': rank,
+            'msg': 'TOO COMMON: ' + msg};
   };
   return false;
 };
 
 var test_int = function(str) {
   if (/^\+?\d+$/.test(str)) {
-    return {
-      'rank': 1,
-      'msg': 'TOO SIMPLE: Just a number.'
-    };
+    return {'rank': 1,
+            'msg': 'TOO SIMPLE: Just a number.'};
   }
   return false;
 };
@@ -119,52 +107,46 @@ var test_date = function(str, len) {
     var yrs = [parseInt(str.slice(0, 4)), parseInt(str.slice(len - 4, len))];
     for (var y = 0; y < 2; y++) {
       if (yrs[y] > 1775 && yrs[y] < 2100) {
-        return {
-          'rank': 1,
-          'msg': 'TOO SIMPLE: Looks like a year or date.'
-        };
+        return {'rank': 1,
+                'msg': 'TOO SIMPLE: Looks like a year or date.'};
       };
     };
   };
   return false;
 };
 
-var test_repeat4 = function(str, len) {
+var test_repeat = function(str, len) {
   var last = '';
   var count = 0;
   for (var i = 0; i < len; i++) {
     if (str[i] == last) {
       count += 1;
       if (count >= 4) {
-        return {
-          'rank': 1,
-          'msg': 'TOO SIMPLE: Repeated a character more than 3 times.'
-        };
+        return {'rank': len > 16 ? 2 : 1,
+                'msg': 'TOO SIMPLE: Repeated a character more than 3 times.'};
       }
     } else {
       last = str[i];
       count = 1;
     }
   }
+  if (count === 3) {
+    return {'rank': len > 12 ? 3 : 2,
+            'msg': 'TOO SIMPLE: Repeated a character 3 times.'};
+  }
   return false;
 };
 
 var test_complexity = function(comp) {
   if (comp < COMPLEX_CUTS[0]) {
-    return {
-      'rank': 1,
-      'msg': 'TOO SIMPLE: Terrible complexity score.'
-    };
+    return {'rank': 1,
+            'msg': 'TOO SIMPLE: Terrible complexity score.'};
   } else if (comp < COMPLEX_CUTS[1]) {
-    return {
-      'rank': 2,
-      'msg': 'TOO SIMPLE: Bad complexity score.'
-    };
+    return {'rank': 2,
+            'msg': 'TOO SIMPLE: Bad complexity score.'};
   } else if (comp < COMPLEX_CUTS[2]) {
-    return {
-      'rank': 3,
-      'msg': 'TOO SIMPLE: Iffy complexity score.'
-    };
+    return {'rank': 3,
+            'msg': 'TOO SIMPLE: Iffy complexity score.'};
   }
   return false;
 }
@@ -195,7 +177,7 @@ var full_test = function() {
   stat_list.innerHTML += "<li>Length: " + len + "</li>";
 
   // run all tests and update any results as you find them
-  var results = [test_complexity(comp), test_is_password(str), test_length(len), test_int(str), test_date(str, len), test_repeat4(str, len), test_in_array(TOP1000, str, 2, "In the top 1000 most common passwords."), test_in_array(ENG1000, str, 2, "In the English dictionary."), test_in_array(PROFANITY, str, 1, "Profanity is too obvious."), test_in_array(KNOWN_DEFAULTS, str, 1, "This is a commonly known default password.")];
+  var results = [test_complexity(comp), test_is_password(str, len), test_length(len), test_int(str), test_date(str, len), test_repeat(str, len), test_in_array(TOP1000, str, 2, "In the top 1000 most common passwords."), test_in_array(ENG1000, str, 2, "In the English dictionary."), test_in_array(PROFANITY, str, 1, "Profanity is too obvious."), test_in_array(KNOWN_DEFAULTS, str, 1, "This is a commonly known default password.")];
   for (var i = 0; i < results.length; i++) {
     var res = results[i];
     if (res) {
