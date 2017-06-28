@@ -195,7 +195,7 @@ var full_test = function() {
   stat_list.innerHTML += "<li>Length: " + len + "</li>";
 
   // run all tests and update any results as you find them
-  var results = [test_complexity(comp), test_is_password(str), test_length(len), test_int(str), test_date(str, len), test_repeat4(str, len), test_in_array(TOP1000, str, 2, "In the top 1000 most common passwords."), test_in_array(ENGLISH_DICT, str, 2, "In the English dictionary."), test_in_array(PROFANITY, str, 2, "Profanity is too obvious."), test_in_array(KNOWN_DEFAULTS, str, 1, "This is a commonly known default password.")];
+  var results = [test_complexity(comp), test_is_password(str), test_length(len), test_int(str), test_date(str, len), test_repeat4(str, len), test_in_array(TOP1000, str, 2, "In the top 1000 most common passwords."), test_in_array(ENG1000, str, 2, "In the English dictionary."), test_in_array(PROFANITY, str, 1, "Profanity is too obvious."), test_in_array(KNOWN_DEFAULTS, str, 1, "This is a commonly known default password.")];
   for (var i = 0; i < results.length; i++) {
     var res = results[i];
     if (res) {
