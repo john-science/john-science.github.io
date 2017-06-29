@@ -5,15 +5,14 @@ var WARN_COLORS = {
   1: "#DF0101",
   2: "#DF7401",
   3: "#D7DF01",
-  4: "#003b6f"
+  4: "#003b6f",
+  5: "#003b6f",
+  6: "#003b6f",
+  7: "#003b6f"
 };
-var WARN_TITLE = {
-  1: "EXTREMELY bad.",
-  2: "Not good.",
-  3: "Okay. Could be better."
-};
-var COMPLEX_CUTS = [1e9, 1e15, 1e20];
-var STRENGTH_WORDS = ['TERRIBLE', 'BAD', 'OKAY', 'GOOD'];
+var WARN_TITLE = {1:"EXTREMELY bad.",2:"Not good.",3:"Okay. Could be better."};
+var COMPLEX_CUTS = [1e9,1e15,1e20];
+var STRENGTH_WORDS = ['TERRIBLE','BAD','OKAY','GOOD','GOOD','GOOD','GOOD'];
 
 var isLowercase = function(str) {
   return LOWERCASE.indexOf(str) > -1;
@@ -86,6 +85,20 @@ var test_in_array = function(arr, str, rank, msg) {
   /** abstract test for a string in an array */
   if (arr.indexOf(str.toLowerCase()) > -1) {
     return {'rank': rank, 'msg': 'TOO COMMON: ' + msg};
+  };
+  return test_almost_in_array(arr, str, rank + 1, msg);
+};
+
+var test_almost_in_array = function(arr, str, rank, msg) {
+  /** test of minor variation in endings */
+  var endings = ['?', '!', '1!', '1', '123'];
+  for (var i = 0; i < endings.length; i++) {
+    var ending = endings[i];
+    if (str.slice(-1 * ending.length) === ending) {
+      if (arr.indexOf(str.slice(0, str.length - ending.length).toLowerCase()) > -1) {
+        return {'rank': rank, 'msg': 'TOO COMMON: ' + msg};
+      }
+    }
   };
   return false;
 };
