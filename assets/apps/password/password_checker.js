@@ -148,9 +148,7 @@ var test_repeat = function(str, len) {
   if (max_count === len) {
     return {'rank': 1, 'msg': 'TOO SIMPLE: Password just repeated character.'};
   } else if (max_count >= 4) {
-    return {'rank': len > (4 * max_count) ? 2 : 1, 'msg': 'TOO SIMPLE: Repeated a character more than 3 times.'};
-  }else if (max_count === 3) {
-    return {'rank': len > (4 * max_count) ? 3 : 2, 'msg': 'TOO SIMPLE: Repeated a character 3 times.'};
+    return {'rank': len > (3 * max_count) ? 3 : 1, 'msg': 'TOO SIMPLE: Repeated a character more than 3 times.'};
   }
   return false;
 };
