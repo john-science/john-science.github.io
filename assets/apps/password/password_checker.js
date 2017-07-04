@@ -113,14 +113,12 @@ var test_int = function(str) {
 
 var test_date = function(str) {
   /** Test if the start or end of the password looks like a year. */
-  if (/^\+?\d+$/.test(str)) {
-    var yrs = [parseInt(str.slice(0, 4)), parseInt(str.slice(4))];
+    var yrs = [parseInt(str.slice(0, 4)), parseInt(str.slice(-4))];
     for (var y = 0; y < 2; y++) {
       if (yrs[y] > 1775 && yrs[y] < 2100) {
-        return {'rank': 1, 'msg': 'TOO SIMPLE: Looks like a year or date.'};
+        return {'rank': 2, 'msg': 'TOO SIMPLE: Looks like a year or date.'};
       };
     };
-  };
   return false;
 };
 
