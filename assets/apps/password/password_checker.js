@@ -111,12 +111,12 @@ var test_int = function(str) {
   return false;
 };
 
-var test_date = function(str) {
+var test_date = function(str, len) {
   /** Test if the start or end of the password looks like a year. */
     var yrs = [parseInt(str.slice(0, 4)), parseInt(str.slice(-4))];
     for (var y = 0; y < 2; y++) {
       if (yrs[y] > 1775 && yrs[y] < 2100) {
-        return {'rank': 2, 'msg': 'TOO SIMPLE: Looks like a year or date.'};
+        return {'rank': len > 12 ? 2 : 1, 'msg': 'TOO SIMPLE: Looks like a year or date.'};
       };
     };
   return false;
@@ -190,7 +190,7 @@ var full_test = function() {
   stat_list.innerHTML += "<li>Length: " + len + "</li>";
 
   // run all tests and update any results as you find them
-  var results = [test_complexity(comp), test_is_password(str, len), test_length(len), test_int(str), test_date(str), test_repeat(str, len), test_in_array(TOP10000, str, 1, "A common password."), test_in_array(ENG4000, str, 1, "In the English dictionary."), test_in_array(IMMATURE, str, 1, "Immature people are predictable."), test_in_array(KNOWN_DEFAULTS, str, 1, "This is a commonly known default password.")];
+  var results = [test_complexity(comp), test_is_password(str, len), test_length(len), test_int(str), test_date(str, len), test_repeat(str, len), test_in_array(TOP10000, str, 1, "A common password."), test_in_array(ENG4000, str, 1, "In the English dictionary."), test_in_array(IMMATURE, str, 1, "Immature people are predictable."), test_in_array(KNOWN_DEFAULTS, str, 1, "This is a commonly known default password.")];
   for (var i = 0; i < results.length; i++) {
     var res = results[i];
     if (res) {
