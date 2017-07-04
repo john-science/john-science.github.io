@@ -91,7 +91,7 @@ var test_in_array = function(arr, str, rank, msg) {
 
 var test_almost_in_array = function(arr, str, rank, msg) {
   /** test of minor variation in endings */
-  var endings = ['?', '!', '1!', '1', '123'];
+  var endings = ['?', '!', '1!', '1', '12', '123', 's', 'ing'];
   for (var i = 0; i < endings.length; i++) {
     var ending = endings[i];
     if (str.slice(-1 * ending.length) === ending) {
