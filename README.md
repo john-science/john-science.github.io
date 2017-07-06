@@ -6,9 +6,10 @@ Topics of Interest:
 
 * Software
 * The Environment
+* InfoSec
 * Physics
-* Math
 * Science Fiction
+* Math
 * anything else
 
 ## Licenses
