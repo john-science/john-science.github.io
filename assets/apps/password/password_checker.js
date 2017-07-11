@@ -116,7 +116,7 @@ var test_date = function(str, len) {
     var yrs = [parseInt(str.slice(0, 4)), parseInt(str.slice(-4))];
     for (var y = 0; y < 2; y++) {
       if (yrs[y] > 1775 && yrs[y] < 2100) {
-        return {'rank': len > 12 ? 2 : 1, 'msg': 'TOO SIMPLE: Looks like a year or date.'};
+        return {'rank': len > 8 ? 2 : 1, 'msg': 'TOO SIMPLE: Looks like a year or date.'};
       };
     };
   return false;
