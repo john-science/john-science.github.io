@@ -226,11 +226,8 @@ PAGE_END  = """  </div>
 <br>
 
 <div class="misc-content">
- <div class="social">
- </div>
- <!-- social -->
+ <div class="social"></div>
 </div>
-<!-- misc-content -->
 
 <script src="/assets/apps/expandable_panels.js"></script>
 <script src="/assets/apps/q/q.js"></script>
