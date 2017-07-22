@@ -107,7 +107,7 @@ Now that you have the OS correctly built on your Micro SD card, you will need RO
 
 Anyway. Wherever you get your ROMs, you will need to load them onto your SD card. The SD card now has a simple Linux distribution on it, so all you need to do is copy your ROMs to the directory:
 
-    /home/pi/ROMS/
+    /home/pi/RetroPie/roms/
 
 This directory will have sub-directories for each gaming system (Atari, NES, SNES, etc).
 
