@@ -25,7 +25,9 @@ summary: Chris Chibnall is about to take over Doctor Who, but he has already wri
 
 ### Non-Who Work.
 
-Most notably, Chibnall has already worked with the next Doctor (Jodie Whittaker) on the crime drama [Broadchurch](https://en.wikipedia.org/wiki/Broadchurch). If you haven't seen the show, it is pretty serious drama. The show has a lot of tension, suspense, and mystery. The acting and writing are both top-notch and Chibnall creates season-long story lines that carry over well from season to season.
+Chibnall has already worked with the next Doctor (Jodie Whittaker) on the crime drama [Broadchurch](https://en.wikipedia.org/wiki/Broadchurch). The show is a tense mystery with probably more adult themes and realistic reactions to violence than we've had on Doctor Who in the past. But the characters and stories were well-crafted, with season-long story arcs.
+
+Chibnall also wrote several episodes of the Doctor Who spin-off [Torchwood](http://www.imdb.com/title/tt0485301/?ref_=fn_tt_tt_1). Torchwood was notably darker than Doctor Who.
 
 
 ## Post Mortem
