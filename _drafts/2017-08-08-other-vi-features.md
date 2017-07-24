@@ -13,3 +13,9 @@ Combing through various manuals and cheatsheets, using "the other" features I ha
 * http://www.lagmonster.org/docs/vi2.html
 * https://engineering.purdue.edu/ECN/Support/KB/Docs/ViTextEditorTutorial/printerfriendly
 
+
+## Found it Useful
+
+Show line numbers (sometimes really helpful when using VI as root or on a strange system):
+
+    :set nu
