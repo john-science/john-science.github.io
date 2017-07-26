@@ -6,17 +6,20 @@ summary: Chris Chibnall is about to take over Doctor Who, but he has already wri
 ---
 {% include JB/setup %}
 
-[Chris Chibnall](https://en.wikipedia.org/wiki/Chris_Chibnall) is about to take over as show runner for Doctor Who.  Fans are wondering what this will mean for the show.  What kinds of changes he will make?  One source of clues is that Chibnall has already written four full Doctor Who stories (including a two-parter), and several webisodes. Because I just cannot wait two years so find out, I thought I would re-watch all of Chibnall's past Doctor Who work to see what kind of a writer he is likely to be.
+[Chris Chibnall](https://en.wikipedia.org/wiki/Chris_Chibnall) is about to take over as show runner for Doctor Who for five years.  Fans are wondering what that will mean for the show.  One source of clues we have is that Chibnall has already written for Doctor Who.  So I thought I would rewatch all of Chibnall's past work as a writer for Doctor Who to see.
 
 
 ## Re-Watching Chibnall's Work
 
+Chibnall wrote 4 Doctor Who Stories and several webisodes.
+
 ### Full-Episodes
 
-* [42](https://en.wikipedia.org/wiki/42_%28Doctor_Who%29) (2007) - One of the most suspensful episodes of the 10th Doctor's tenure. What we learn about Chibnall here is that he is comfortable with sci-fi themes and does not mind killing characters...
-* [The Hungry Earth / Cold Blood](https://en.wikipedia.org/wiki/The_Hungry_Earth) (2010) - This story brings back a classic Doctor Who monster (enemy, anyway), but with a very fresh take...
-* [Dinosaurs on a Spaceship](https://en.wikipedia.org/wiki/Dinosaurs_on_a_Spaceship) (2012) - A lot of people seem to dislike this episode, so keep that in mind. I actually thought it was a fun stand-alone episode when it first aired and quite liked it. On re-watching it I...
-* [The Power of Three](https://en.wikipedia.org/wiki/The_Power_of_Three_%28Doctor_Who%29) (2012) - I remember liking it at the time, but what do I think now?
+* [42](https://en.wikipedia.org/wiki/42_%28Doctor_Who%29) (2007) - One of the most suspensful episodes of the 10th Doctor's tenure.  There are some seriously sci-fi ideas in this episode, and they are well used.  Also, we see that Chibnall is okay with killing characters off and getting a little dark.
+* [The Hungry Earth / Cold Blood](https://en.wikipedia.org/wiki/The_Hungry_Earth) (2010) - This story brings back a classic Doctor Who monster / enemy, but with a somewhat more nuanced take.  The dark side of humanity takes center stage.  And is more important to the story than the lizard people and their laser guns.
+* [Dinosaurs on a Spaceship](https://en.wikipedia.org/wiki/Dinosaurs_on_a_Spaceship) (2012) - A lot of people seem to dislike this episode, so keep that in mind.  I actually thought it was a lot of fun.  It was campy humor of the very best Doctor Who variety.
+* [The Power of Three](https://en.wikipedia.org/wiki/The_Power_of_Three_%28Doctor_Who%29) (2012) - The slow invasion of planet Earth is a great idea for an episode. And I really liked the day-in-the-life-of vibe it had going on. The ending was very positive: the Doctor saved everyone with the magic of plot holes. But for all the silliness with the ending, the episode itself was a lot of fun.
+
 
 ### Webisodes
 
