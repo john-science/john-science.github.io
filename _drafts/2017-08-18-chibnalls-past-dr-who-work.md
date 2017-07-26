@@ -23,8 +23,9 @@ Chibnall wrote 4 Doctor Who Stories and several webisodes.
 
 ### Webisodes
 
-* [Pond Life](https://en.wikipedia.org/wiki/Pond_Life_%28Doctor_Who%29) (2012) - Beautiful little day-in-the-life-of snippets for what it is like to be Amy and Rory when the Doctor is constantly jumping into and out of your life.
-* [P.S.](https://en.wikipedia.org/wiki/P.S._%28Doctor_Who%29) (2012) - Not sure I've ever seen this...
+* [Pond Life](https://en.wikipedia.org/wiki/Pond_Life_%28Doctor_Who%29) (2012) - Beautiful little day-in-the-life-of snippets for what it is like to be Amy and Rory when the Doctor is constantly jumping into and out of your life. Small scale, the universe is not at stake. But funny.
+* [P.S.](https://en.wikipedia.org/wiki/P.S._%28Doctor_Who%29) (2012) - The quiet after-effects of an adventure, told from the family perspecective.
+
 
 ### Non-Who Work.
 
@@ -37,7 +38,7 @@ Chibnall also wrote several episodes of the Doctor Who spin-off [Torchwood](http
 
 > What did we learn?
 
-Well, Chibnall doesn't mind killing off characters in each episode, so be prepared for that. And he has a good eye for long story arcs and connecting disparate parts of the canon together.  Which is good, since he is likely to be the showrunner for five years.
+Chibnall seems to prefer a view of the Doctor's compaigns based in their real lives, not their wild adventures. He seems to be solid with Doctor Who-style comedy. But he is not at all concerned with killing of various humans, he is *not* a non-violent writer. In the end though, the Doctor seems to save the day; even if the result is mixed and a little sad. This actually seems pretty well rounded, for only having been a part-time writer for the show. So far the only thing he *hasn't* done is write a one-off monster-of-the-week that I really loved.
 
-...
+Chibnall seems to fall back less on "the universe is in danger" than Moffat and I like how grounded his companions are. Actually, after looking at what Chibnall has done so far for the show I am pretty excited.
 
