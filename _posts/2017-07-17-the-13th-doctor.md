@@ -10,12 +10,12 @@ The BBC has [announced](https://www.youtube.com/watch?v=q1IczjLYCIM) that [Jodie
 
 <img alt="Jodie Whittaker via BBC" src="/assets/images/whittaker.png" style="display: block;margin: 0 auto;"/>
 
-Fans and superfans can talk about little nothing else.
+Fans can talk about little nothing else.
 
 
 ## Who?
 
-If you are a Whovian who has never heard of Whittaker, it is because you have never watched [Broadchurch](http://www.imdb.com/title/tt2249364/). Whittaker is a main character in all three seasons of the incredibly successful British crime drama. The show is pretty somber, dealing with the fallout in families affected by child murder. Whittaker's performance in Broadchurch is top-notch, and there is no doubt she is good at her craft. In the show, she actually works alongside [David Tennant](https://en.wikipedia.org/wiki/David_Tennant), who played the 10th Doctor, and [David Bradley](http://www.imdb.com/name/nm0103195/?ref_=ttfc_fc_cl_t38), who has portrayed the first Doctor a couple of times.
+If you are a Whovian who has never heard of Whittaker, you have never watched [Broadchurch](http://www.imdb.com/title/tt2249364/). Whittaker is a main character in all three seasons of the incredibly successful British crime drama. The show is pretty somber, dealing with the fallout in families affected by child murder. Whittaker's performance in Broadchurch is top-notch, and there is no doubt she is good at her craft. In the show, she actually works alongside [David Tennant](https://en.wikipedia.org/wiki/David_Tennant), who played the 10th Doctor, and [David Bradley](http://www.imdb.com/name/nm0103195/?ref_=ttfc_fc_cl_t38), who has portrayed the first Doctor a couple of times.
 
 Whittaker has done a lot of other stuff too, but the nerd core knows her best for her part in [Attack the Block](http://www.imdb.com/title/tt1478964/). The 2011 indie sci-fi movie where aliens invade a South London neighborhood and end up in a war with the local gang. The movie is action and sci-fi with a fun, light tone that might be good practice for an aspiring Doctor Who actor.
 
