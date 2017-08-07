@@ -6,7 +6,7 @@ summary: What will Doctor Who be like under Chris Chibnall?
 ---
 {% include JB/setup %}
 
-[Chris Chibnall](https://en.wikipedia.org/wiki/Chris_Chibnall) is about to take over as show runner for Doctor Who for five years.  What will this mean for the show?  Well, it turns out Chibnall has already written for the show. So I re-watched all of Chibnall's past work on Doctor Who to see what he has done.
+[Chris Chibnall](https://en.wikipedia.org/wiki/Chris_Chibnall) is about to take over as show runner for Doctor Who, with a five-year contract.  What will this mean for the show?  Well, it turns out Chibnall has already written for the show. So I re-watched all of Chibnall's past work on Doctor Who to see what his work has been like.
 
 
 ## Re-Watching Chibnall's Work
@@ -17,13 +17,13 @@ Chibnall wrote 4 Doctor Who Stories and several webisodes.
 
 * [42](https://en.wikipedia.org/wiki/42_%28Doctor_Who%29) (2007) - One of the most suspensful episodes of the 10th Doctor's tenure.  There are some seriously out-there sci-fi ideas in this episode, and I like them.  Also, we see that Chibnall is okay with killing characters off and getting a little dark.
 * [The Hungry Earth / Cold Blood](https://en.wikipedia.org/wiki/The_Hungry_Earth) (2010) - This story brings back a classic Doctor Who monster / enemy, but with a somewhat more nuanced take.  The dark side of humanity takes center stage and is more central to the story than the lizard people and their laser guns.
-* [Dinosaurs on a Spaceship](https://en.wikipedia.org/wiki/Dinosaurs_on_a_Spaceship) (2012) - People seem to either love or hate this episode.  I thought it was a lot of fun.  It has the best kind of Doctor Who campy humor. Loved it.  Though pacing might have been a bit fast for my tastes.
-* [The Power of Three](https://en.wikipedia.org/wiki/The_Power_of_Three_%28Doctor_Who%29) (2012) - The slow invasion of planet Earth is a great idea for an episode. And I really liked the day-in-the-life-of vibe it had going on. The ending was very positive: the Doctor saved everyone with the magic of plot holes. But for all the silliness with the ending, the episode itself was a lot of fun.
+* [Dinosaurs on a Spaceship](https://en.wikipedia.org/wiki/Dinosaurs_on_a_Spaceship) (2012) - People seem to either love or hate this episode.  I thought it was a lot of fun.  It has the best kind of Doctor Who campy humor.  Loved it.  Though pacing might have been a bit fast for my tastes.
+* [The Power of Three](https://en.wikipedia.org/wiki/The_Power_of_Three_%28Doctor_Who%29) (2012) - The slow invasion of planet Earth is a great idea for an episode.  And I really liked the day-i\n-the-life-of vibe it had going on.  The ending was very positive: the Doctor saved everyone with the magic of plot holes.  But for all the silliness with the ending, the episode itself was a lot of fun.
 
 
 ### Webisodes
 
-* [Pond Life](https://en.wikipedia.org/wiki/Pond_Life_%28Doctor_Who%29) (2012) - Beautiful little day-in-the-life-of vignettes, from the perspective of Amy and Rory when the Doctor is constantly jumping into and out of their lives with no notice. The scale of these stories is small; the Earth is not in danger. But they are quiet and beautiful and funny. I really like them.
+* [Pond Life](https://en.wikipedia.org/wiki/Pond_Life_%28Doctor_Who%29) (2012) - Beautiful little day-in-the-life-of vignettes, from the perspective of Amy and Rory when the Doctor is constantly jumping into and out of their lives. The scale of these stories is small; the Earth is not in danger. But they are quiet and beautiful and funny. I really like them.
 * [P.S.](https://en.wikipedia.org/wiki/P.S._%28Doctor_Who%29) (2012) - The after-effects of an adventure, told from the family perspecective.
 
 
