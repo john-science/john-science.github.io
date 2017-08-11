@@ -19,8 +19,8 @@ This installation was done using Ubuntu 16.10. But the process will be extremely
 Before you can start, you will need some basic hardware.  Here is what I used:
 
 * **[Raspberry Pi 3](https://www.raspberrypi.org/products/raspberry-pi-3-model-b/)**
-  * **1.5 amp power adapater** - sold separately
-  * **Micro SD card** - I got a 32GB card, but 4 GB would be enough.
+* **1.5 amp power adapater** - sold separately
+* **Micro SD card** - I got a 32GB card, but 4 GB would be enough.
 * **USB game controller(s)**
 * **HDMI cable** - for TV connection
 * **USB keyboard** - only for initial setup
