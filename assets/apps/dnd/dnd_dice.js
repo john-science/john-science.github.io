@@ -1,63 +1,8 @@
 var DnD_Dice = (function() {
   var grid = [0, 0, 0, 0, 0, 0, 0, 0, 0];
-  var player = 1; // X=>1, O=>5
-  var player_moves_first = true;
-  var number_of_moves = 0;
-  var score_you = 0;
-  var score_comp = 0;
-  var game_restart = false;
   // HTML elements
   var buttons = [];
   var marquee = document.getElementById("marquee");
-  var ttt_score_you = document.getElementsByClassName("ttt-score-you")[0];
-  var ttt_score_comp = document.getElementsByClassName("ttt-score-comp")[0];
-
-
-  // reset player ID label
-  var set_player_label = function() {
-    marquee.textContent = player_moves_first ? 'You are X.' : 'You are O.';
-  };
-
-  // update scoreboard, given winner user
-  var update_scoreboard = function(pid) {
-    var update_you = false;
-    var update_comp = false;
-
-    if (pid <= 0) {
-      score_you += 5;
-      score_comp += 5;
-      update_you = true;
-      update_comp = true;
-    } else if ((player_moves_first && pid === 1) || (!player_moves_first && pid === 5)) {
-      update_you = true;
-      score_you += 10;
-    } else {
-      update_comp = true;
-      score_comp += 10;
-    }
-    // update values and do a little css bounce
-    if (update_you) {
-      document.getElementById("score_you").textContent = score_you.toString();
-      ttt_score_you.classList.add("bounce-green");
-    }
-    if (update_comp) {
-      document.getElementById("score_comp").textContent = score_comp.toString();
-      ttt_score_comp.classList.add("bounce-green");
-    }
-  };
-
-  // test if game is over
-  var has_won = function() {
-    var way = [0, 1, 2, 0, 3, 6, 0, 4, 8, 1, 4, 7, 2, 4, 6, 2, 5, 8, 3, 4, 5, 6, 7, 8];
-    for (var i = 0; i < 24; i += 1)
-      way[i] = grid[way[i]];
-    for (var i = 0; i < 24; i += 3) {
-      if (way[i] === 0) continue;
-      if (way[i] === way[i + 1] && way[i] === way[i + 2])
-        return way[i];
-    }
-    return -1;
-  };
 
   // CSS love when game is won
   var bounce_tiles = function(winner) {
@@ -74,102 +19,10 @@ var DnD_Dice = (function() {
       }
     }
   };
-
-  // report win/loss/draw in marquee
-  var handle_endgame = function(winner) {
-    var txt = 'Draw Game';
-    if (winner === 1 && player_moves_first) {
-      txt = 'You won!';
-    } else if (winner === 5 && !player_moves_first) {
-      txt = 'You won!';
-    } else if (winner > -1) txt = 'You lost.';
-    marquee.textContent = txt;
-
-    update_scoreboard(winner);
-    bounce_tiles(winner);
-    game_restart = true;
-  };
-
-  // test if the game is over, and handle that
-  var end_game_test = function(z) {
-    if (has_won() === player) {
-      handle_endgame(player);
-    } else if (number_of_moves === 8) {
-      handle_endgame(-1);
-    } else {
-      player = player === 1 ? 5 : 1;
-    }
-  };
-
-  // for resetting game, but no on initial load
-  var new_game = function() {
-    var i = 0;
-    grid = [0, 0, 0, 0, 0, 0, 0, 0, 0];
-    player = 1;
-    number_of_moves = 0;
-    for (i = 0; i < buttons.length; i += 1) {
-      buttons[i].value = ' ';
-    }
-    player_moves_first = !player_moves_first;
-    if (!player_moves_first) ai_move();
-  };
-
-  // Mostly Stupid AI
-  var ai_move = function() {
-    var center = 4;
-    var corners = [0, 2, 6, 8];
-    var edges = [1, 3, 5, 7];
-    var x = 0;
-    if (number_of_moves === 0) {
-      x = corners[Math.floor(Math.random() * 4)];
-    } else if (number_of_moves === 1) {
-      if (grid[center] === 0) {
-        x = center;
-      } else {
-        x = corners[Math.floor(Math.random() * 4)];
-      }
-    } else {
-      // check if we can win
-      x = find_win_posi(player);
-      if (x === -1) { // we can't win
-        // can the other player win?
-        x = find_win_posi(player === 1 ? 5 : 1);
-        if (x === -1) { // they can't
-          // move randomly
-          x = Math.floor(Math.random() * 9);
-          while (grid[x] != 0) {
-            x = Math.floor(Math.random() * 9);
-          }
-        }
-      }
-    }
-    grid[x] = player;
-    buttons[x].value = player === 1 ? 'X' : 'O';
-    number_of_moves += 1;
-    end_game_test(x);
-  };
-
-  /** find if a position on the board can be a win for the given player 'v'
-      Note, this can be used to find a place to move, or a place that
-      needs to be defended.
-  */
-  var find_win_posi = function(v) {
-    var posi = [0, 1, 2, 0, 3, 6, 0, 4, 8, 1, 4, 7, 2, 4, 6, 2, 5, 8, 3, 4, 5, 6, 7, 8];
-    var way = [0, 1, 2, 0, 3, 6, 0, 4, 8, 1, 4, 7, 2, 4, 6, 2, 5, 8, 3, 4, 5, 6, 7, 8];
-    for (var i = 0; i < 24; i += 1)
-      way[i] = grid[way[i]];
-    for (i = 0; i < 24; i += 3) {
-      if ((way[i] + way[i + 1] + way[i + 2]) === 2 * v) {
-        if (way[i] === 0) {
-          return posi[i];
-        } else if (way[i + 1] === 0) {
-          return posi[i + 1];
-        } else {
-          return posi[i + 2];
-        }
-      }
-    }
-    return -1;
+  
+  // random number tools
+  var randRoll = function(N) {
+    return parseInt(Math.random() * N) + 1;
   };
 
   // handle button clicking
@@ -217,29 +70,47 @@ var DnD_Dice = (function() {
   };
 
   var draw_board = function() {
+    var button_codes = [4,6,8,10,12,20];
     var ttt, size, board, i;
     // draw 3x3 board of buttons
     ttt = document.getElementById("dnd_dice");
-    size = parseInt(ttt.offsetWidth / 10);
+    size = parseInt(ttt.offsetWidth / 6);
     board = '<table class="ttt-board" ' +
-      'style="height:' + (3 * size) + 'px; width:' + (2 * size) + 'px;">';
+      'style="height:' + (4 * size) + 'px; width:' + (3 * size) + 'px;">';
 
-    // building HTML for board
+    // building HTML for 6 dice options
     for (i = 0; i < 6; i += 1) {
-      if (i % 2 === 0) {
+      if (i % 3 === 0) {
         board += '<tr class="ttt-tr-row">';
       }
-      board += '<td><input type="button" value=" " class="ttt-tile" ' +
-        'style="font-size: ' + size +
+      board += '<td><input type="button" value="D' + button_codes[i] + '" class="ttt-tile" ' +
+        'style="font-size: ' + parseInt(size / 3) +
         'px; width: ' + size + 'px; height: ' + size + 'px;" ' +
         'id="cell-' + i + '" /></td>';
-      if (i % 2 === 1) {
+      if (i % 3 === 2) {
         board += '</tr>';
       }
     }
-    board += '</table><br></br><div style="text-align:center;"><input type="button" value="Roll"></div>';
-    board += '<table class="ttt-board" style="width:' + (2 * size) + ';"><tr><td class="ttt-score-you">d1 <span id="score_you">0</span></td>';
-    board += '<td class="ttt-score-comp"> + <span id="score_comp">0</span></td><td>=0</td></tr></table>';
+    
+    // choose your roll type
+    board += '<tr class="ttt-tr-row">';
+    board += '<td><input type="button" value="d1" id="num" style="height:' + parseInt(size / 2) + 'px;"/></td>';
+    board += '<td>D20</td>';
+    board += '<td>+0</td>';
+    board += '</tr>';
+    
+    // roll!
+    board += '<tr class="ttt-tr-row"><td></td>';
+    board += '<td><input type="button" value="Roll!" id="roll" style="height:' + parseInt(size / 2) + 'px;"/></td>';
+    board += '<td></td></tr>';
+    
+    // result
+    board += '<tr class="ttt-tr-row"><td></td>';
+    board += '<td><input value="13" id="result" style="border:0;text-align:center;height:' + 
+    					size + 'px;font-size:' + parseInt(size / 3) + 'px;" size="2" readonly /></td>';
+    board += '<td></td></tr>';
+    
+    board += '</table>';
     ttt.innerHTML = board;
   };
 
