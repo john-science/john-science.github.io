@@ -27,34 +27,9 @@ var DnD_Dice = (function() {
 
   // handle button clicking
   var mark_square = function(nn) {
-    // special case: just restart the game
-    if (game_restart) {
-      game_restart = false;
-      new_game();
-      set_player_label();
-      return
-    }
 
     // player marks a button
     n = parseInt(nn.split('-')[1]);
-    if (grid[n] != 0) return;
-    buttons[n].value = player === 1 ? 'X' : 'O';
-    grid[n] = player;
-    number_of_moves += 1;
-    end_game_test(n);
-
-    // if valid, the AI moves
-    if (number_of_moves > 0 && number_of_moves < 8) {
-      if (number_of_moves === 1) {
-        if (player_moves_first) {
-          ai_move();
-        }
-      } else {
-        if (!game_restart) {
-          ai_move();
-        }
-      }
-    }
   };
 
   // after the transition, rever the CSS
@@ -70,7 +45,7 @@ var DnD_Dice = (function() {
   };
 
   var draw_board = function() {
-    var button_codes = [4,6,8,10,12,20];
+    var button_codes = [4, 6, 8, 10, 12, 20];
     var ttt, size, board, i;
     // draw 3x3 board of buttons
     ttt = document.getElementById("dnd_dice");
@@ -94,9 +69,17 @@ var DnD_Dice = (function() {
     
     // choose your roll type
     board += '<tr class="ttt-tr-row">';
-    board += '<td><input type="button" value="d1" id="num" style="height:' + parseInt(size / 2) + 'px;"/></td>';
+    board += '<td><select id="num_dice" style="height:' + parseInt(size / 2) + 'px;">';
+    for (i = 1; i < 20; i += 1) {
+      board += '<option value="' + i + '">' + i + 'd</option>';
+    }
+    board += '</select></td>';
     board += '<td>D20</td>';
-    board += '<td>+0</td>';
+    board += '<td><select id="add_value" style="height:' + parseInt(size / 2) + 'px;">';
+    for (i = 1; i < 20; i += 1) {
+      board += '<option value="' + i + '">+' + i + '</option>';
+    }
+    board += '</select></td>';
     board += '</tr>';
     
     // roll!
