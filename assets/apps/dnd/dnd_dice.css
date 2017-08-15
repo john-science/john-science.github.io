@@ -1,7 +1,3 @@
-.ttt-marquee{text-align:center}
-.ttt-scoreboard{text-align:center}
-.ttt-score-you{text-align:left;transition:all .2s}
-.ttt-score-comp{text-align:right;transition:all .2s}
 .ttt-board{-webkit-appearance:none;border:0px;margin:auto;padding:0px;text-align:center}
 .ttt-tr-row{background-color:#FFF;width:25%;}
 .ttt-tile{-webkit-appearance:none;margin:0px;padding:0px;transition:all .2s}
