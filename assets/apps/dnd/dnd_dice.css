@@ -1,4 +1,4 @@
-.dnd-board{-webkit-appearance:none;border:0px;margin:auto;padding:0px;text-align:center}
+.dnd-dice{-webkit-appearance:none;border:0px;margin:auto;padding:0px;text-align:center}
 .dnd-tr-row{background-color:#FFF;width:25%;}
 .dnd-tile{-webkit-appearance:none;margin:0px;padding:0px;transition:all .2s}
 .bounce-red{transform:scale(1.1);color:#AB1400;border-color:#800F00;box-shadow:0 0 25px #FF1E00}
