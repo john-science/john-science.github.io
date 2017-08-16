@@ -23,6 +23,19 @@ var DnD_Dice = (function() {
 
     // update the die label
     die_label.value = 'd' + n;
+    
+    // update the clicks
+    var button = null;
+    for (var j=0; j < button_codes.length; j++) {
+      button = document.getElementById('die-' + button_codes[j]);
+      if (button.classList.contains('die-clicked')) {
+        button.classList.remove('die-clicked');
+        button.classList.add('die');
+      }
+    }
+    button = document.getElementById('die-' + n);
+    button.classList.remove('die');
+    button.classList.add('die-clicked');
   };
   
   // anytime a new setting is made, clear the current result
@@ -63,9 +76,9 @@ var DnD_Dice = (function() {
     // building HTML for 6 dice options
     for (i = 0; i < 6; i += 1) {
       if (i % 3 === 0) {
-        board += '<tr class="dnd-tr-row" style="background-color:#FFF;">';
+        board += '<tr class="dice-tr-row" style="background-color:#FFF;">';
       }
-      board += '<td><input type="button" value="d' + button_codes[i] + '" class="dnd-tile" ' +
+      board += '<td><input type="button" value="d' + button_codes[i] + '" class="tile die" ' +
         'style="font-size: ' + parseInt(size / 3) +
         'px; width: ' + size + 'px; height: ' + size + 'px;" ' +
         'id="die-' + button_codes[i] + '" /></td>';
@@ -74,17 +87,19 @@ var DnD_Dice = (function() {
       }
     }
 
-    // choose your roll type
-    board += '<tr class="dnd-tr-row" style="background-color:#FFF;">';
-    board += '<td><select id="num_dice" style="height:' + parseInt(size / 2) + 'px;">';
+    // how many dice
+    board += '<tr class="dice-tr-row" style="background-color:#FFF;">';
+    board += '<td><select id="num_dice" class="dice-selector" style="height:' + parseInt(size / 2) + 'px;">';
     board += '<option value="1" selected="selected">1d</option>';
     for (i = 2; i < 20; i += 1) {
       board += '<option value="' + i + '">' + i + 'd</option>';
     }
     board += '</select></td>';
-    board += '<td><input type="text" value="d' + n + '" id="which_die" style="border:0;text-align:center;height:' +
+    // chosen dice label
+    board += '<td><input type="text" value="d' + n + '" id="which_die" class="dice-label" style="height:' +
       parseInt(size / 2) + 'px;font-size:' + parseInt(size / 4) + 'px;" size="2" readonly /></td>';
-    board += '<td><select id="add_value" style="height:' + parseInt(size / 2) + 'px;">';
+    // how much to add to roll 
+    board += '<td><select id="add_value" class="dice-selector" style="height:' + parseInt(size / 2) + 'px;">';
     board += '<option value="0" selected="selected">+0</option>';
     for (i = 1; i < 20; i += 1) {
       board += '<option value="' + i + '">+' + i + '</option>';
@@ -93,13 +108,13 @@ var DnD_Dice = (function() {
     board += '</tr>';
 
     // roll!
-    board += '<tr class="dnd-tr-row" style="background-color:#FFF;"><td></td>';
-    board += '<td><input type="button" class="dnd-tile" value="ROLL" id="roll" style="height:' + parseInt(size / 2) + 'px;font-weight: 800;"/></td>';
+    board += '<tr class="dice-tr-row" style="background-color:#FFF;"><td></td>';
+    board += '<td><input type="button" class="tile die" value="ROLL" id="roll" style="height:' + parseInt(size / 2) + 'px;font-weight: 800;"/></td>';
     board += '<td></td></tr>';
 
     // result
-    board += '<tr class="dnd-tr-row" style="background-color:#FFF;"><td></td>';
-    board += '<td><input type="text" value=" " id="result" style="border:0;text-align:center;height:' +
+    board += '<tr class="dice-tr-row" style="background-color:#FFF;"><td></td>';
+    board += '<td><input type="text" value=" " id="result" class="dice-label" style="height:' +
       size + 'px;width:' + size + 'px;font-size:' + parseInt(size / 2) + 'px;" size="2" readonly /></td>';
     board += '<td></td></tr>';
 
@@ -125,6 +140,9 @@ var DnD_Dice = (function() {
       });
       dice[i].addEventListener('transitionend', removeRed);
     }
+    var clicked = document.getElementById('die-' + n);
+    clicked.classList.remove('die');
+    clicked.classList.add('die-clicked');
     
     // attach event listeners to number of dice selector
     num_dice_selector.addEventListener("click", function(e) {
