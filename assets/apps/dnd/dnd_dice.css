@@ -1,6 +1,25 @@
 .dnd-dice{-webkit-appearance:none;border:0px;margin:auto;padding:0px;text-align:center}
 .dnd-tr-row{background-color:#FFF;width:25%;}
-.dnd-tile{-webkit-appearance:none;margin:0px;padding:0px;transition:all .2s}
+
+.dnd-tile {
+  background-color: #ffffff;
+  color: #003b6f;  /** #009ac9 */
+  border-color: #003b6f;
+  font-weight: 300;
+  border: 3px solid;
+  -webkit-border-radius: 1px;
+  border-radius: 1px;
+  -webkit-transition: all 0.3s ease-in-out;
+  -moz-transition: all 0.3s ease-in-out;
+  transition: all 0.3s ease-in-out;
+}
+
+.dnd-tile:hover {
+  background-color: #003b6f;
+  border: 3px solid transparent;
+  color: #ffffff;
+}
+
 .bounce-red{transform:scale(1.1);color:#AB1400;border-color:#800F00;box-shadow:0 0 25px #FF1E00}
 .bounce-green{transform:scale(1.1);color:#008022;border-color:#005F19;box-shadow:0 0 25px #00C835}
 .bounce-yellow{transform:scale(1.1);color:#AB6400;border-color:#804B00;box-shadow:0 0 25px #FF9500}
