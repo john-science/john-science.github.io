@@ -94,7 +94,7 @@ var DnD_Dice = (function() {
 
     // roll!
     board += '<tr class="dnd-tr-row" style="background-color:#FFF;"><td></td>';
-    board += '<td><input type="button" value="Roll!" id="roll" style="height:' + parseInt(size / 2) + 'px;"/></td>';
+    board += '<td><input type="button" class="dnd-tile" value="ROLL" id="roll" style="height:' + parseInt(size / 2) + 'px;font-weight: 800;"/></td>';
     board += '<td></td></tr>';
 
     // result
