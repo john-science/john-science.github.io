@@ -1,3 +1,4 @@
+/** TODO: Add "critical hit/miss" text? */
 var DnD_Dice = (function() {
   // dice options
   var button_codes = [4, 6, 8, 10, 12, 20];
@@ -51,18 +52,7 @@ var DnD_Dice = (function() {
     }
     result += parseInt(add_selector.value);
     result_label.value = result;
-  };
-
-  // after the transition, rever the CSS
-  var removeRed = function(e) {
-    if (e.propertyName === 'transform') {
-      this.classList.remove('bounce-red');
-    }
-  };
-  var removeGreen = function(e) {
-    if (e.propertyName === 'transform') {
-      this.classList.remove('bounce-green');
-    }
+    result_label.classList.add('bounce');
   };
 
   var draw_board = function() {
@@ -128,6 +118,13 @@ var DnD_Dice = (function() {
     roll_button = document.getElementById('roll');
     result_label = document.getElementById('result');
   };
+  
+  // css love, to clean-up after transitions
+  var debounce = function(e) {
+    if (e.propertyName === 'transform') {
+      this.classList.remove('bounce');
+    }
+  };
 
   var attach_listeners = function() {
     var i = 0;
@@ -138,7 +135,7 @@ var DnD_Dice = (function() {
         mark_die(this.id);
         clear_result();
       });
-      dice[i].addEventListener('transitionend', removeRed);
+      
     }
     var clicked = document.getElementById('die-' + n);
     clicked.classList.remove('die');
@@ -158,6 +155,9 @@ var DnD_Dice = (function() {
     roll_button.addEventListener("click", function(e) {
     	roll();
     });
+    
+    // add some CSS love to bounce and de-bounce the result label on roll
+    result_label.addEventListener('transitionend', debounce);
   };
 
   return {
