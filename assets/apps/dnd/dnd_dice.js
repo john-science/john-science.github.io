@@ -3,7 +3,7 @@ var DnD_Dice = (function() {
   // dice options
   var button_codes = [4, 6, 8, 10, 12, 20];
   // value of current die
-  var n = 12;
+  var n = 20;
   // HTML elements
   var num_dice_selector = null;
   var die_label = null;
@@ -51,6 +51,10 @@ var DnD_Dice = (function() {
     	result += rand_roll(n);
     }
     result += parseInt(add_selector.value);
+    if (result === 1) {
+      result_label.value = "CRIT";
+    result_label.classList.add('bounce');
+    }
     result_label.value = result;
     result_label.classList.add('bounce');
   };
@@ -60,6 +64,9 @@ var DnD_Dice = (function() {
     // draw 3x2 board of buttons
     dnd = document.getElementById("dnd_dice");
     size = parseInt(dnd.offsetWidth / 6);
+    if (size < 100) {
+      size = 100;
+    }
     board = '<table class="dnd-dice" ' +
       'style="height:' + (4 * size) + 'px; width:' + (3 * size) + 'px;">';
 
