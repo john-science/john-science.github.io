@@ -1,4 +1,3 @@
-/** TODO: Add "critical hit/miss" text? */
 var DnD_Dice = (function() {
   // dice options
   var button_codes = [4, 6, 8, 10, 12, 20];
@@ -24,10 +23,10 @@ var DnD_Dice = (function() {
 
     // update the die label
     die_label.value = 'd' + n;
-    
+
     // update the clicks
     var button = null;
-    for (var j=0; j < button_codes.length; j++) {
+    for (var j = 0; j < button_codes.length; j++) {
       button = document.getElementById('die-' + button_codes[j]);
       if (button.classList.contains('die-clicked')) {
         button.classList.remove('die-clicked');
@@ -38,23 +37,19 @@ var DnD_Dice = (function() {
     button.classList.remove('die');
     button.classList.add('die-clicked');
   };
-  
+
   // anytime a new setting is made, clear the current result
   var clear_result = function() {
     result_label.value = '';
   };
-  
+
   // master method to handle the roll
   var roll = function() {
     var result = 0;
-    for (var i=0; i < parseInt(num_dice_selector.value); i++){
-    	result += rand_roll(n);
+    for (var i = 0; i < parseInt(num_dice_selector.value); i++) {
+      result += rand_roll(n);
     }
     result += parseInt(add_selector.value);
-    if (result === 1) {
-      result_label.value = "CRIT";
-    result_label.classList.add('bounce');
-    }
     result_label.value = result;
     result_label.classList.add('bounce');
   };
@@ -117,7 +112,7 @@ var DnD_Dice = (function() {
 
     board += '</table>';
     dnd.innerHTML = board;
-    
+
     // find all elements
     num_dice_selector = document.getElementById('num_dice');
     die_label = document.getElementById('which_die');
@@ -125,7 +120,7 @@ var DnD_Dice = (function() {
     roll_button = document.getElementById('roll');
     result_label = document.getElementById('result');
   };
-  
+
   // css love, to clean-up after transitions
   var debounce = function(e) {
     if (e.propertyName === 'transform') {
@@ -142,27 +137,27 @@ var DnD_Dice = (function() {
         mark_die(this.id);
         clear_result();
       });
-      
+
     }
     var clicked = document.getElementById('die-' + n);
     clicked.classList.remove('die');
     clicked.classList.add('die-clicked');
-    
+
     // attach event listeners to number of dice selector
     num_dice_selector.addEventListener("click", function(e) {
-    	clear_result();
+      clear_result();
     });
-    
+
     // attach event listeners to adder selector
     add_selector.addEventListener("click", function(e) {
-    	clear_result();
+      clear_result();
     });
-    
+
     // attach event listeners to ROLL button
     roll_button.addEventListener("click", function(e) {
-    	roll();
+      roll();
     });
-    
+
     // add some CSS love to bounce and de-bounce the result label on roll
     result_label.addEventListener('transitionend', debounce);
   };
