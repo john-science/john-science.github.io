@@ -1,18 +1,88 @@
-
-{
-  /** https://github.com/soulwire/WTFEngine */
-
-  heading: [
-    "I'm going to roll the stats for a fucking",
-    "Check this shit out, I'm going to be a fucking",
-    "You think your character is cool? My character is a fucking",
+/** Credit for much of this content comes from:
+ *  https://github.com/soulwire/WTFEngine
+ */
+DND_DATA = {
+  versions: [{'0': 'Original'},
+             {'1': '1st'},
+             {'2': '2nd'},
+             {'3': '3rd'},
+             {'3.5': '3.5'},
+             {'4': '4th'},
+             {'5': '5th'},
   ],
+
+  species: {
+    "0": {
+      "Dwarf": ["Fighter"],
+      "Elf": ["Fighter", "Magic-User"],
+      "Halfling": ["Fighter"],
+      "Human": ["Cleric", "Fighter", "Magic-User", "Paladin", "Thief"]
+    },
+    "1": {
+      "Dwarf": ["Bard", "Cleric", "Monk", "Thief", "Fighter", "Magic-User"],
+      "Elf": ["Bard", "Cleric", "Monk", "Thief", "Fighter", "Magic-User"],
+      "Gnome": ["Bard", "Cleric", "Monk", "Thief", "Fighter", "Magic-User"],
+      "Half-elf": ["Bard", "Cleric", "Monk", "Thief", "Fighter", "Magic-User"],
+      "Half-orc": ["Bard", "Cleric", "Monk", "Thief", "Fighter", "Magic-User"],
+      "Halfling": ["Bard", "Cleric", "Monk", "Thief", "Fighter", "Magic-User"],
+      "Human": ["Bard", "Cleric", "Monk", "Thief", "Fighter", "Magic-User"]
+    },
+    "2": {
+      "Dwarf": ["Cleric", "Fighter", "Rogue", "Wizard"],
+      "Elf": ["Cleric", "Fighter", "Rogue", "Wizard"],
+      "Gnome": ["Cleric", "Fighter", "Rogue", "Wizard"],
+      "Half-elf": ["Cleric", "Fighter", "Rogue", "Wizard"],
+      "Halfling": ["Cleric", "Fighter", "Rogue", "Wizard"],
+      "Human": ["Cleric", "Fighter", "Rogue", "Wizard"]
+    },
+    "3": {
+      "Dwarf": ["Cleric", "Fighter", "Rogue", "Wizard"],
+      "Elf": ["Cleric", "Fighter", "Rogue", "Wizard"],
+      "Gnome": ["Cleric", "Fighter", "Rogue", "Wizard"],
+      "Half-elf": ["Cleric", "Fighter", "Rogue", "Wizard"],
+      "Half-orc": ["Cleric", "Fighter", "Rogue", "Wizard"],
+      "Halfling": ["Cleric", "Fighter", "Rogue", "Wizard"],
+      "Human": ["Cleric", "Fighter", "Rogue", "Wizard"]
+    },
+    "4": {
+      "Dragonborn": ["Cleric", "Fighter", "Rogue", "Wizard"],
+      "Dwarf": ["Cleric", "Fighter", "Rogue", "Wizard"],
+      "Eladrin": ["Cleric", "Fighter", "Rogue", "Wizard"],
+      "Elf": ["Cleric", "Fighter", "Rogue", "Wizard"],
+      "Half-elf": ["Cleric", "Fighter", "Rogue", "Wizard"],
+      "Halfling": ["Cleric", "Fighter", "Rogue", "Wizard"],
+      "Human": ["Cleric", "Fighter", "Rogue", "Wizard"],
+      "Tiefling": ["Cleric", "Fighter", "Rogue", "Wizard"]
+    },
+    "5": {
+      "Dragonborn": ["Cleric", "Fighter", "Rogue", "Wizard", "Barbarian", "Bard", "Druid", "Monk", "Paladin", "Ranger", "Sorcerer", "Warlock"],
+      "Dwarf": ["Cleric", "Fighter", "Rogue", "Wizard", "Barbarian", "Bard", "Druid", "Monk", "Paladin", "Ranger", "Sorcerer", "Warlock"],
+      "Elf": ["Cleric", "Fighter", "Rogue", "Wizard", "Barbarian", "Bard", "Druid", "Monk", "Paladin", "Ranger", "Sorcerer", "Warlock"],
+      "Gnome": ["Cleric", "Fighter", "Rogue", "Wizard", "Barbarian", "Bard", "Druid", "Monk", "Paladin", "Ranger", "Sorcerer", "Warlock"],
+      "Half-elf": ["Cleric", "Fighter", "Rogue", "Wizard", "Barbarian", "Bard", "Druid", "Monk", "Paladin", "Ranger", "Sorcerer", "Warlock"],
+      "Half-orc": ["Cleric", "Fighter", "Rogue", "Wizard", "Barbarian", "Bard", "Druid", "Monk", "Paladin", "Ranger", "Sorcerer", "Warlock"],
+      "Halfling": ["Cleric", "Fighter", "Rogue", "Wizard", "Barbarian", "Bard", "Druid", "Monk", "Paladin", "Ranger", "Sorcerer", "Warlock"],
+      "Human": ["Cleric", "Fighter", "Rogue", "Wizard", "Barbarian", "Bard", "Druid", "Monk", "Paladin", "Ranger", "Sorcerer", "Warlock"],
+      "Tiefling": ["Cleric", "Fighter", "Rogue", "Wizard", "Barbarian", "Bard", "Druid", "Monk", "Paladin", "Ranger", "Sorcerer", "Warlock"]
+    },
+    "3.5": {
+      "Dwarf": ["Cleric", "Fighter", "Rogue", "Wizard"],
+      "Elf": ["Cleric", "Fighter", "Rogue", "Wizard"],
+      "Gnome": ["Cleric", "Fighter", "Rogue", "Wizard"],
+      "Half-elf": ["Cleric", "Fighter", "Rogue", "Wizard"],
+      "Half-orc": ["Cleric", "Fighter", "Rogue", "Wizard"],
+      "Halfling": ["Cleric", "Fighter", "Rogue", "Wizard"],
+      "Human": ["Cleric", "Fighter", "Rogue", "Wizard"]
+    }
+  },
+
   response: [
-    "That sounds fucking terrible",
-    "Give me a-fucking-nother one",
-    "I don't really give a fuck about that guy",
-    "I've already fucking roleplayed that one",
-    "That doesn't make any fucking sense",
+    "Nope. Try again.",
+    "Give me Another One",
+    "Another One",
+    "Again",
+    "Try Again",
+    "Generate Another One",
   ],
 
   template: [
