@@ -374,3 +374,5 @@ var DND_DATA = {
     "won't stop talking about their kids",
   ]
 };
+
+RPG_Char.init(DND_DATA);
