@@ -180,18 +180,6 @@ var DND_DATA = {
     "Well-intentioned",
   ],
 
-  race: [
-    "Dragonborn",
-    "Dwarf",
-    "Elf",
-    "Gnome",
-    "Half-elf",
-    "Half-orc",
-    "Halfling",
-    "Human",
-    "Tiefling",
-  ],
-
   dclass: [
     "Barbarian",
     "Bard",
@@ -313,6 +301,7 @@ var DND_DATA = {
     "always looks relaxed",
     "always looks tired",
     "always looks their best",
+    "always lies when asked what they are doing this weekend",
     "always shows up late",
     "always skips out early",
     "always speaks very formally",
@@ -323,6 +312,7 @@ var DND_DATA = {
     "always wanted to be an artist",
     "always wants to talk about their weekend",
     "argues with their spouse on the phone every day",
+    "became a grandparent at 36",
     "believes in an eye for an eye",
     'clearly partied hard when they were young and still thinks of themself as "cool" now',
     "clears their throat all day long",
@@ -387,6 +377,7 @@ var DND_DATA = {
     "somehow married someone WAY more attractive than them",
     "should have retired years ago",
     "stills plays beer pong on the weekends",
+    "thinks they are really smart",
     "thinks their child is a genius",
     "thinks their great at office politics, but really aren't",
     "used to be a body builder but has settled down and had kids",
