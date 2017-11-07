@@ -13,14 +13,14 @@ I am learning a new language and wanted a list of the words I, personally, use t
 
 The lists below are the result of analyzing my own informal writing, after doing some basic data clean-up:
 
-* Make everything lowercase
-* Replace contractions with multiple words - "can't" became "can" and "not"
 * Remove numbers and web addresses
+* Make everything lowercase
 * Remove (most) punctuation and syntax
-* Remove words that only appear once
+* Replace contractions with multiple words - "can't" became "can" and "not"
 * Remove pronouns, conjunctions, prepositions, and articles
 * Remove proper nouns
-* Tried to reduce all verb forms to a single case - "falling" and "fell" became "fall"
+* Try to reduce all verb forms to a single case - "falling" and "fell" became "fall"
+* Remove words that only appear once
 
 Having a complete dataset for your own language usage is really fascinating. There is a lot to learn about yourself and your language. I highly recommend trying it.
 
@@ -48,11 +48,11 @@ I did not find the above "top 100" list very helpful. I found it more useful to 
 
 #### Nouns
 
-    time thing day people year job way week weekend sound fun back today month couple bit idea game data interview problem man hour night photo home dog phone house world question school place plan position life science language money news person software field part end movie guy project book water minute list lunch reason computer bus family food information head stuff doctor weight course code morning city email figure hand luck friend episode system option card file country laptop area hate class town honey beer hello top past badger route company resume library account process number rust office case god outdoors scientist car video goal finger model gym residency valley level wedding mind sense keyboard kid text desk camera website vacation spot deal tool dream air body key mountain crap rock camp version apartment graduate park chance name student script word feet
+    time thing day people year job way week weekend sound fun back today month couple bit idea game data interview problem man hour night photo home dog phone house world question school place plan position life science language money news person software field part end movie guy project book water minute list lunch reason computer bus family food information head stuff doctor weight course code morning city email figure hand luck friend episode system option card file country laptop area hate class town honey beer hello top past badger route company resume library account process number rust office case god outdoors scientist car video goal finger model gym residency valley level wedding mind sense keyboard kid text desk camera website vacation spot deal tool dream air body key mountain crap rock camp version apartment graduate park chance name student script word feet building
 
 #### Verbs
 
-    have to-be will get can doing know think work mean see want going say make should guess need might take love try use look find hear thank keep start talk hope feel move heard tell help wait come point talking watch happen seem trip put read learn shit bet remember run give call climb live ask drive bring build turn let care change buy sleep show open stay worry camping set backpacking wonder understand suppose miss leave spend write pick hike bought play save lose stop fit test meeting forget moving hoping imagine sent lead spent research expect pack building crossed
+    have to-be will get can doing know think work mean see want going say make should guess need might take love try use look find hear thank keep start talk hope feel move heard tell help wait come point watch happen seem trip put read learn shit bet remember run give call climb live ask drive bring build turn let care change buy sleep show open stay worry camping set backpacking wonder understand suppose miss leave spend write pick hike bought play save lose stop fit test meet forget imagine sent lead spent research expect pack crossed
 
 #### Adverbs
 
