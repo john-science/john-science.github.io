@@ -60,4 +60,4 @@ I did not find the above "top 100" list very helpful. I found it more useful to 
 
 #### Adjectives
 
-    just all good more a lot sure right cool much hard only first little which any awesome new sorry long big last next nice great better kind most other enough least real old easy bad whole many super own able every easier different happy fine best important either both interesting less free glad busy “true” another lost amazing second interested stupid online crazy current high ready fast favorite each serious short late full black under small modern medical expensive fair entire wrong
+    just all good more a-lot sure right cool much hard only first little which any awesome new sorry long big last next nice great better kind most other enough least real old easy bad whole many super own able every easier different happy fine best important either both interesting less free glad busy “true” another lost amazing second interested stupid online crazy current high ready fast favorite each serious short late full black under small modern medical expensive fair entire wrong
