@@ -1,35 +1,31 @@
 ---
 layout: post
-title: "Analyzing My Own Word Corpus"
-tags: [Software, Data Analysis, Language]
-summary: I analyzed the last 12 months of my own vocabulary.
+title: "What words do I use most often?"
+tags: [Language, Data Analysis, Software]
+summary: Analyzing my English word corpus to help me learn a new language.
 ---
 
 {% include JB/setup %}
 
-I am learning a new language and wanted a list of the words I, personally, use the most. Baring differences between languages, I figured this would be a good place to start learning. As a data source, I found all the text messages and emails I have written in the past year (about 20,000 lines of text).
+I am learning a new language and wanted a list of the words I, personally, use the most. Baring differences between languages, I figured this would be a good place to start learning vocabulary. As a data source, I scraped all the chat messages and personal emails I have written in the past year (about 20,000 lines of text).
 
-## Top 100
+## Method Overview
 
-The 100 most common words I use (apparently) are:
-
-    have not to-be will just get would can yes doing know all about good there think really what time work more thing day lot mean people sure very see want could how going okay now year maybe say make job also right should guess cool way much need hard only first probably little week might love take weekend try any which too sound fun awesome use new sorry long off big last back then something who next today month look nice around great never find these actually better kind before anyway bit couple idea those most game data interview other
-
-The above list is the result of analyzing my own informal writing, after doing some basic data clean-up:
+The lists below are the result of analyzing my own informal writing, after doing some basic data clean-up:
 
 * Make everything lowercase
-* Replace Contractions with Complete Words - "Can't" became "can" and "not"
-* Remove Numbers and Web Addresses
+* Replace contractions with multiple words - "can't" became "can" and "not"
+* Remove numbers and web addresses
 * Remove (most) punctuation and syntax
 * Remove words that only appear once
 * Remove pronouns, conjunctions, prepositions, and articles
 * Remove proper nouns
-* Tried to reduce all verb forms to a single case - "Falling" and "Fell" became "Fall"
+* Tried to reduce all verb forms to a single case - "falling" and "fell" became "fall"
 
-Having a complete dataset for your own language usage is really fascinating.  There is a lot to learn about yourself and your language.  I highly recommend trying this process yourself.
+Having a complete dataset for your own language usage is really fascinating. There is a lot to learn about yourself and your language. I highly recommend trying it.
 
 
-## Final Results
+## Initial Results - Top 100
 
 Here I take it for granted that certain things are obviously necessary to learn in any language:
 
@@ -41,7 +37,14 @@ Here I take it for granted that certain things are obviously necessary to learn 
 * the alphabet
 * proper nouns
 
-Below is my core vocabulary by part-of-speech.
+Apparently, the 100 most common words I use are:
+
+    have not to-be will just get would can yes doing know all about good there think really what time work more thing day lot mean people sure very see want could how going okay now year maybe say make job also right should guess cool way much need hard only first probably little week might love take weekend try any which too sound fun awesome use new sorry long off big last back then something who next today month look nice around great never find these actually better kind before anyway bit couple idea those most game data interview other
+
+
+## Final Results - Top 400
+
+I did not find the above "top 100" list very helpful. I found it more useful to split the vocabulary by part-of-speech. Below are the 400 most common words in my vocabulary, organized by their programmatically detected part-of-speech.
 
 #### Nouns
 
