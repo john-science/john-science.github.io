@@ -22,20 +22,10 @@ The lists below are the result of analyzing my own informal writing, after doing
 * Try to reduce all verb forms to a single case - "falling" and "fell" became "fall"
 * Remove words that only appear once
 
-Having a complete dataset for your own language usage is really fascinating. There is a lot to learn about yourself and your language. I highly recommend trying it.
+Note that here I removed pronouns, conjunctions, prepositions, and articles because it is obvious that I will have to learn these in any language. Having a complete dataset for your own language usage is really fascinating. There is a lot to learn about yourself and your language. I highly recommend trying it.
 
 
 ## Initial Results - Top 100
-
-Here I take it for granted that certain things are obviously necessary to learn in any language:
-
-* pronouns
-* articles
-* conjuctions
-* prepositions
-* numbers
-* the alphabet
-* proper nouns
 
 Apparently, the 100 most common words I use are:
 
