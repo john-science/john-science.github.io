@@ -37,7 +37,7 @@ This is the knot used to [tie the rope into the harness](https://youtu.be/H1cEWP
 
 I should note that people used to tie into their harness with a bowline, but hat has fallen out of favor, due to safety concerns. <sub>[1](http://www.rockandice.com/lates-news/rethinking-the-double-loop-bowline) [2](https://en.wikipedia.org/wiki/Bowline_on_a_bight#Dangers)</sub> It is important that you learn to tie this knot neatly, so that your climbing partner can quickly and easily tell if you are safe and ready to climb. 
 
-<a href="https://youtu.be/aLopeVBb7yU?t=7" target="_blank">
+<a href="https://youtu.be/aLopeVBb7yU?t=7" target="_blank" rel="noopener noreferrer">
 <img src="/assets/images/knots/figure_8_639px.png"
 srcset="/assets/images/knots/figure_8_962px.png 962w,
 /assets/images/knots/figure_8_639px.png 639w,
@@ -59,7 +59,7 @@ This knot is so basic you probably grew up being able to tie it, and you just ca
 
 This knot has two major uses. First, a lot of people use it as a back-up for their harness tie-in. This has the added adavantage of ensuring the free piece of the rope does not hit you in the eye. Second, it is smart to tie this at the end of your rope before rappelling, so you do not rappel off your rope. (Which happens.)
 
-<a href="https://youtu.be/I0ShGbIR0ZI?t=7" target="_blank">
+<a href="https://youtu.be/I0ShGbIR0ZI?t=7" target="_blank" rel="noopener noreferrer">
 <img src="/assets/images/knots/overhand_638px.png"
 srcset="/assets/images/knots/overhand_960px.png 960w,
 /assets/images/knots/overhand_638px.png 638w,
@@ -79,7 +79,7 @@ alt="Overhand knot-tying video">
 
 Most generally, the double fisherman is used to connect two ends of cord or rope. Most commonly, people use this knot to create a loop of cord for anchor building.
 
-<a href="https://youtu.be/O6oJwedcb18?t=7" target="_blank">
+<a href="https://youtu.be/O6oJwedcb18?t=7" target="_blank" rel="noopener noreferrer">
 <img src="/assets/images/knots/double_fisherman_640px.png"
 srcset="/assets/images/knots/double_fisherman_850px.png 850w,
 /assets/images/knots/double_fisherman_640px.png 640w,
@@ -95,7 +95,7 @@ alt="Double Fisherman knot-tying video">
 
 When leading a climb, you can use the clove hitch to quickly tie into an anchor. Or you can use it to help equalize an anchor. Definitely learn to tie the clove hitch with one hand.
 
-<a href="https://youtu.be/pO9ksZ3fGDY?t=8" target="_blank">
+<a href="https://youtu.be/pO9ksZ3fGDY?t=8" target="_blank" rel="noopener noreferrer">
 <img src="/assets/images/knots/clove_hitch_640px.png"
 srcset="/assets/images/knots/clove_hitch_1280px.png 1280w,
 /assets/images/knots/clove_hitch_850px.png 850w,
@@ -112,7 +112,7 @@ alt="Clove Hitch knot-tying video">
 
 When you get lucky, you can use a tree as part of your anchor. Trees make bomber anchors, and they are faster than building one from gear. Just toss some webbing around the trunk, and finish off with a girth hitch. Done. On rare occassion, people also use this knot to connect a sling to their rope.
 
-<a href="https://youtu.be/blP6BL05Q34?t=7" target="_blank">
+<a href="https://youtu.be/blP6BL05Q34?t=7" target="_blank" rel="noopener noreferrer">
 <img src="/assets/images/knots/girth_hitch_638px.png"
 srcset="/assets/images/knots/girth_hitch_1279px.png 1279w,
 /assets/images/knots/girth_hitch_960px.png 960w,
@@ -129,7 +129,7 @@ alt="Girth Hitch knot-tying video">
 
 You will need to know how to tie a Prusik if you ever want to rappel from a climb. Rappelling is the absolute most basic self-rescue technique for rock climbers, and often the only way down from a multi-pitch climb. One Prusik can serve as an [auto-block while rappelling](https://youtu.be/PNbKJKYBGik?t=66), two can help you [ascend rope](https://youtu.be/GWH3lnnl0ro?t=4) in a pinch.
 
-<a href="https://youtu.be/CP7iAF_YU7A?t=7" target="_blank">
+<a href="https://youtu.be/CP7iAF_YU7A?t=7" target="_blank" rel="noopener noreferrer">
 <img src="/assets/images/knots/prusik_639px.png"
 srcset="/assets/images/knots/prusik_1281px.png 1281w,
 /assets/images/knots/prusik_959px.png 959w,
@@ -145,7 +145,7 @@ alt="Prusik Hitch knot-tying video">
 
 If you drop your belay device, you can [use the munter hitch to belay](https://youtu.be/TOf1Yzu_OS0?t=12) your partner. This is an extremely valuable skill to have in your toolbox. Learn to tie it with one hand.
 
-<a href="https://youtu.be/pO9ksZ3fGDY?t=49" target="_blank">
+<a href="https://youtu.be/pO9ksZ3fGDY?t=49" target="_blank" rel="noopener noreferrer">
 <img src="/assets/images/knots/munter_638px.png"
 srcset="/assets/images/knots/munter_1279px.png 1279w,
 /assets/images/knots/munter_960px.png 960w,
@@ -165,7 +165,7 @@ alt="Munter Hitch knot-tying video">
 
 The Alpine Butterfly loop is a great way to create a little loop in your rope. And the loop will not come undone if you pull on the rope in either direction. If your rope gets worn or has a [core break](http://www.rollglobal.org/2010/11/ropereplacement/), you can use this knot to isolate the offending section of rope. This also takes less rope than a figure-8-on-a-bight.
 
-<a href="https://youtu.be/gX1dWKg6Ttc?t=7" target="_blank">
+<a href="https://youtu.be/gX1dWKg6Ttc?t=7" target="_blank" rel="noopener noreferrer">
 <img src="/assets/images/knots/butterfly_639px.png"
 srcset="/assets/images/knots/butterfly_1280px.png 1280w,
 /assets/images/knots/butterfly_853px.png 853w,
@@ -185,7 +185,7 @@ The real benefit of the munter-mule is that it allows for a smooth transition ba
 
 As an added bonus, you can use the munter-mule to pass a knot on rappel. For instance, if your rope has a core break, and you protect that with a butterfly knot, you can still rappel.
 
-<a href="https://youtu.be/IslYcjJ-htI?t=7" target="_blank">
+<a href="https://youtu.be/IslYcjJ-htI?t=7" target="_blank" rel="noopener noreferrer">
 <img src="/assets/images/knots/munter_mule_638px.png"
 srcset="/assets/images/knots/munter_mule_1280px.png 1280w,
 /assets/images/knots/munter_mule_959px.png 959w,

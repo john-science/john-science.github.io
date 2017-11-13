@@ -8,7 +8,7 @@ summary: The BBC announces the Next Doctor.
 
 The BBC has [announced](https://www.youtube.com/watch?v=q1IczjLYCIM) that [Jodie Whittaker](http://www.imdb.com/name/nm2092886/) will be the actor to play the next Doctor on [Doctor Who](http://antineutrino.net/tags.html#Doctor%20Who-ref).
 
-<a href="https://twitter.com/bbcdoctorwho/status/928608189586788352" target="_blank"><img alt="Jodie Whittaker via BBC" src="/assets/images/whittaker.png" style="display: block;margin: 0 auto;"/></a>
+<a href="https://twitter.com/bbcdoctorwho/status/928608189586788352" target="_blank" rel="noopener noreferrer"><img alt="Jodie Whittaker via BBC" src="/assets/images/whittaker.png" style="display: block;margin: 0 auto;"/></a>
 
 Fans can talk about little else.
 
