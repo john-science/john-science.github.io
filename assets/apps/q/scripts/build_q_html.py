@@ -150,7 +150,7 @@ EPISODE_ROW = """
 <tr>
  <td align="left">%(episode)s</td>
  <td align="left">
-  <a href="%(link)s" title="%(desc)s">%(name)s</a>NOTE
+  <a target="_blank" rel="noopener noreferrer" href="%(link)s" title="%(desc)s">%(name)s</a>NOTE
  </td>
  <td class="centered">
   <div class="chk">
