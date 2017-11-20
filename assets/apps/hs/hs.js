@@ -22,11 +22,11 @@ var shallowCopy = function(oldObj) {
 
 /** GAME-SPECIFIC CODE */
 var StoryDiv = (function() {
-  /** init internal variables */
+  /** internal variables */
   var divId = "storydiv";
   var thisEl = document.getElementById(divId);
 
-  /** internal functions */
+  /** internal methods */
   var scrollDown = function() {
     window.scrollTo(0, thisEl.scrollHeight);
   };
@@ -61,14 +61,14 @@ var CONTENT = {
   "kills": ["Boom! Head shot!", "You slit the Nazi bastard's throat while he sleeps."],
 };
 
-/** FIRST DRAFT GAME ENGINE */
+/** ZERO-DRAFT GAME ENGINE */
 var HeavySnow = (function() {
-  /** Init Internal Variables */
+  /** internal variables */
   var hero = "";
-  var numBad = 20 + randint(12);
+  var numBad = 0;
   var opts = [];
 
-  /** Private Methods */
+  /** internal methods */
   var attackOpts = {
     1: CONTENT["attackPistol"],
     2: CONTENT["attackKnife"]
@@ -143,18 +143,19 @@ var HeavySnow = (function() {
     });
   };
 
-  /** Interface */
+  /** external interface */
   return {
-    init: function() {
+    init: function(div) {
       /** Init Content */
       hero = nameGen();
+      numBad = 20 + randint(12);
 
       /** Init Intro */
       StoryDiv.addContentStr(CONTENT["intro"]);
       document.getElementById('hero1').innerText = hero;
 
       /** Init Game Engine */
-      window.onload = StoryDiv.init("storydiv");
+      window.onload = StoryDiv.init(div);
       opts = shallowCopy(attackOpts);
       addButtons();
       window.scrollTo(0, 0); // TODO: Ugly
@@ -163,4 +164,4 @@ var HeavySnow = (function() {
   };
 }());
 
-HeavySnow.init();
+HeavySnow.init("storydiv");
