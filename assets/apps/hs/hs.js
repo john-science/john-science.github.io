@@ -67,6 +67,7 @@ var HeavySnow = (function() {
   var hero = "";
   var numBad = 0;
   var opts = [];
+  var action = null;
 
   /** internal methods */
   var attackOpts = {
@@ -105,11 +106,17 @@ var HeavySnow = (function() {
     clickAttackAll();
   };
 
-  var attack = function(val) {
-    /** TEMPORARY... all attacks are 100% successful */
+  /** TODO: add methods to generate options for different levels of actions */
+
+  var userIn = function(val) {
+    /** generic user input parser */
     opts = [];
     removeAllButtons();
+    action(val);
+  };
 
+  var attackAction = function(val) {
+    /** TEMPORARY... all attacks are 100% successful */
     var opt = parseInt(val.split(")")[0]);
     numBad -= 1;
     StoryDiv.addContentStr('<p> -> ' + val + '</p>');
@@ -129,7 +136,7 @@ var HeavySnow = (function() {
     /** TEMPORARY... all buttons are attack buttons */
     var butz = document.getElementsByClassName('but');
     for (var j = 0; j < butz.length; j++) {
-      click(butz[j], attack);
+      click(butz[j], userIn);
     }
   };
 
@@ -138,7 +145,7 @@ var HeavySnow = (function() {
     document.addEventListener("keydown", function(press) {
       var key = parseInt(press.key);
       if (key in opts) {
-        attack(key + ') ' + opts[key]); // TODO: attack only
+        userIn(key + ') ' + opts[key]); // TODO: attack only
       }
     });
   };
@@ -149,6 +156,7 @@ var HeavySnow = (function() {
       /** Init Content */
       hero = nameGen();
       numBad = 20 + randint(12);
+      action = attackAction;
 
       /** Init Intro */
       StoryDiv.addContentStr(CONTENT["intro"]);
