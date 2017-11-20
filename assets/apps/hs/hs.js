@@ -51,7 +51,7 @@ var StoryDiv = (function() {
 }());
 
 /** CONTENT */
-var content = {
+var CONTENT = {
   "intro": "<p>You have one night to kill as many Nazis as possible.</p><p>You are <span id='hero1'>HERO</span>, a Jewish-American spy, slowly working your way through the winter mountains and into Germany. Raised in Alaska, you are no stranger to the cold weather or roughing it outdoors.</p><p>You started watching the Nazi caravan from far away. You had your dinner as they slowly wound their way through the mountain roads as the snow storm set in. You watched their vehicles get stuck in snow drifts and slow off the road.</p><p>You watch as they spread into the forest, looking for shelter. They are building little camps; trying to find shelter from the blizzard. They curl up to stay warm and to sleep.</p><p>They think they are safe; they are well inside Germany and it is 1942. They think the the nearest enemy army is a thousand miles away. They can't imagine anyone finding them in this Hellish blizzard.</p><p>Night will fall soon.</p><p>You've decided to go hunting.</p>",
   "firstNames": ["Abby", "Carley", "Carolyn", "Emmy"],
   "lastNames": ["Blazkowicz", "Einstein", "Feynman", "Gadot", "Noether"],
@@ -63,19 +63,20 @@ var content = {
 
 /** FIRST DRAFT GAME ENGINE */
 var HeavySnow = (function() {
-  /** Init World */
+  /** Init Internal Variables */
   var hero = "";
-  var numBad = "";
+  var numBad = 20 + randint(12);
   var opts = [];
 
+  /** Private Methods */
   var attackOpts = {
-    1: content["attackPistol"],
-    2: content["attackKnife"]
+    1: CONTENT["attackPistol"],
+    2: CONTENT["attackKnife"]
   };
 
   var nameGen = function() {
     /** generate a random hero name */
-    return choice(content["firstNames"]) + " " + choice(content["lastNames"]);
+    return choice(CONTENT["firstNames"]) + " " + choice(CONTENT["lastNames"]);
   };
 
   var removeAllButtons = function() {
@@ -115,12 +116,12 @@ var HeavySnow = (function() {
 
     if (numBad > 0) {
       opts = shallowCopy(attackOpts);
-      var str = '<p>' + content["kills"][opt - 1] + '</p>';
+      var str = '<p>' + CONTENT["kills"][opt - 1] + '</p>';
       StoryDiv.addContentStr(str);
       addButtons();
       clickAttackAll();
     } else {
-      StoryDiv.addContentStr(content["winScreen"]);
+      StoryDiv.addContentStr(CONTENT["winScreen"]);
     }
   };
 
@@ -142,14 +143,14 @@ var HeavySnow = (function() {
     });
   };
 
+  /** Interface */
   return {
     init: function() {
       /** Init Content */
       hero = nameGen();
-      numBad = 20 + randint(12);
 
       /** Init Intro */
-      StoryDiv.addContentStr(content["intro"]);
+      StoryDiv.addContentStr(CONTENT["intro"]);
       document.getElementById('hero1').innerText = hero;
 
       /** Init Game Engine */
