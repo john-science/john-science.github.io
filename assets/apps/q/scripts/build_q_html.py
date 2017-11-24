@@ -64,8 +64,8 @@ def build_episode_row(episode):
 
 def read_episodes(file_path):
     """ read the episodes file into a dictionary
-        s_num|e_num|name|link|desc|notes
-        38|266|Smile|https://en.wikipedia.org/wiki/Smile_(Doctor_Who)|Smiling Killer Robots|
+        s_num|e_num|name|minutes|link|desc|notes
+        38|266|Smile|50|https://en.wikipedia.org/wiki/Smile_(Doctor_Who)|Smiling Killer Robots|
     """
     eps = {}
 
@@ -77,9 +77,10 @@ def read_episodes(file_path):
         season = int(ln[0])
         episode = int(ln[1])
         nomen = ln[2]
-        link = ln[3]
-        desc = ln[4]
-        note = ln[5]
+        #minutes = int(ln[3])
+        link = ln[4]
+        desc = ln[5]
+        note = ln[6]
 
         # QA on episode description length
         if len(desc) > 80:
