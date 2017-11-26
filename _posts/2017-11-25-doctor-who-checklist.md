@@ -2,13 +2,13 @@
 layout: post
 title: "Doctor Who Checklist"
 tags: [Doctor Who, Sci-Fi]
-summary: Keep track of which episodes you have (and more importantly) haven't seen, with this easy checklist.
+summary: Keep track of the episodes you have and (more importantly) haven't seen, with this easy checklist.
 ---
 {% include JB/setup %}
 
 Have you ever decided to wade into the Doctor Who back-catalogue only to get lost?
 
-It is easy to get lost. To that end, I built a handy checklist. It will help you track which episodes you have seen, which you haven't, and how many hours of unique episodes you have left.
+It is easy to get lost in 50 years of canon. To that end, I built a handy checklist. It will help you track which episodes you have seen, which you haven't, and how many hours of unique episodes you have left.
 
 ## [Here is the Checklist](/apps/dw.html).
 <br/>
