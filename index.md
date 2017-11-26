@@ -10,7 +10,7 @@ Life is filled with things that I find totally engrossing for a short time. If o
 <hr />
 
 <div class="listing">
-{% for post in site.posts %}
+{% for post in site.posts limit:40 %}
   {% if post.type == 'link' %}
     <div class="post other link">
       <a class="icon" href="{{ post.url }}" title="This is an external link.">★</a>
