@@ -28,11 +28,10 @@ def build_file(file_path, seasons, episodes):
     """ master function to build the q.html file
     """
     f = open(file_path, 'w')
+
+    # build equation tables
     epi_cnt = str(max(episodes[max(seasons.keys())].keys()))
-    min_cnt = 0
-    for s in episodes:
-        for e in episodes[s]:
-            min_cnt += episodes[s][e]['minutes']
+    min_cnt = sum(sum(e['minutes'] for e in s.values()) for s in episodes.values())
     min_str = min2str(min_cnt)
     min_cnt = str(min_cnt)
     f.write(PAGE_START.replace('EPI_CNT',  epi_cnt).replace('MIN_CNT', min_cnt).replace('MIN_STR', min_str))
