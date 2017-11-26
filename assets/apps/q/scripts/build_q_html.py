@@ -28,7 +28,14 @@ def build_file(file_path, seasons, episodes):
     """ master function to build the q.html file
     """
     f = open(file_path, 'w')
-    f.write(PAGE_START.replace('MAX_NUM',  str(max(episodes[max(seasons.keys())].keys()))))
+    epi_cnt = str(max(episodes[max(seasons.keys())].keys()))
+    min_cnt = 0
+    for s in episodes:
+        for e in episodes[s]:
+            min_cnt += episodes[s][e]['minutes']
+    min_str = min2str(min_cnt)
+    min_cnt = str(min_cnt)
+    f.write(PAGE_START.replace('EPI_CNT',  epi_cnt).replace('MIN_CNT', min_cnt).replace('MIN_STR', min_str))
 
     for season_num in sorted(seasons.keys()):
         f.write(build_season_div(season_num, seasons[season_num], episodes[season_num]))
@@ -77,7 +84,7 @@ def read_episodes(file_path):
         season = int(ln[0])
         episode = int(ln[1])
         nomen = ln[2]
-        #minutes = int(ln[3])
+        minutes = int(ln[3])
         link = ln[4]
         desc = ln[5]
         note = ln[6]
@@ -90,7 +97,7 @@ def read_episodes(file_path):
         if season not in eps:
             eps[season] = {}
         eps[season][episode] = {'name': nomen, 'link': link, 'desc': desc, 'note': note,
-                                'season': season, 'episode': episode}
+                                'season': season, 'episode': episode, 'minutes': minutes}
 
     f.close()
     return eps
@@ -114,6 +121,29 @@ def read_seasons(file_path):
 
     f.close()
     return seas
+
+
+def min2str(mins):
+    """ convert minutes to days, hours, and minutes """
+    days = mins // 1440
+    mins -= (days * 1440)
+    hours = mins // 60
+    mins -= (hours * 60)
+
+    s = ''
+    if days > 0:
+      s += str(days) + ' days '
+
+    if hours > 0:
+      s += str(hours) + ' hr '
+
+    if mins > 0:
+      s += str(int(mins)) + ' min';
+
+    if len(s) == 0:
+      s = '0'
+
+    return s.rstrip()
 
 
 SEASON_START = """<div class="exPan" id="cp-%(season)s">
@@ -155,7 +185,7 @@ EPISODE_ROW = """
  </td>
  <td class="centered">
   <div class="chk">
-   <input type="checkbox" value="1" id="story%(episode)s" name="check" class="cp-%(season)s-pan" />
+   <input type="checkbox" value="%(minutes)s" id="story%(episode)s" name="check" class="cp-%(season)s-pan" />
    <label for="story%(episode)s"></label>
   </div>
  </td>
@@ -165,8 +195,8 @@ EPISODE_ROW = """
 
 PAGE_START = """---
 layout: page
-title: Doctor Who Quotient Calculator
-tagline: Q - Calculator
+title: Doctor Who Checklist
+tagline: How much Doctor Who have you seen?
 group: apps
 category: tool
 ---
@@ -174,43 +204,48 @@ category: tool
 
 <link rel="stylesheet" type="text/css" href="/assets/apps/q/q_style.css">
 
-<h2>Doctor Who Quotient</h2><form action="#" method="post" class="qForm" id="qForm"><fieldset>
+<h2>How much Doctor Who have you seen?</h2><form action="#" method="post" class="qForm" id="qForm"><fieldset>
 
-<table class="eqn-table">
- <tbody>
-  <tr>
-    <td>
-     <div style="float:left;">Q = </div>
-    </td>
-    <td>
-     <div style="float:left">
-      <div class="eqn-numerator">(# of complete stories you've seen)</div>
-      <div style="text-align:center;">(# total)</div>
-     </div>
-    </td>
-    <td style="width:1em;">
-     <div style="float:left;margin:0;padding:0;">=</div>
-    </td>
-    <td>
-     <div style="float:left">
-      <div class="eqn-numerator">
-       <input name="total" id="total" class="q-total-input" size="3" value="0" readonly="readonly" type="text">
-      </div>
-      <div style="text-align:center;">
-       <span id="displayTotal">MAX_NUM</span>
-      </div>
-     </div>
-    </td>
-  </tr>
- </tbody>
-</table>
+<table class="eqn-table"><tbody>
+<tr>
+  <td><div style="float:left;">Story Fraction</div></td>
+  <td><div style="float:left;margin:0;padding:0;">=</div></td>
+  <td>
+   <div style="float:left">
+    <div class="eqn-numerator">
+     <input id="total" class="q-total-input" size="3" value="0" readonly="readonly" type="text">
+    </div>
+    <div style="text-align:center;">
+     <span id="displayTotal">EPI_CNT</span>
+    </div>
+   </div>
+  </td>
+  <td><div style="float:left;margin:0;padding:0;">=</div></td>
+  <td><input type="text" id="q" class="q-input" size="3" value="0.00" readonly="readonly" /></td>
+</tr>
+</tbody></table>
 
-<p>
- <label class="q-input-label">Q =
-  <input type="text" name="q" id="q" class="q-input" size="3" value="0.00" readonly="readonly" />
- </label>
-</p>
-<br/>
+<table class="eqn-table"><tbody>
+<tr>
+  <td><div style="float:left;">Time Fraction</div></td>
+  <td><div style="float:left;margin:0;padding:0;">=</div></td>
+  <td>
+   <div style="float:left">
+    <div class="eqn-numerator">
+     <input id="minuteStr" class="q-total-input" size="15" value="0" readonly="readonly" type="text">
+     <input id="minutes" value="0" readonly="readonly" type="hidden">
+    </div>
+    <div style="text-align:center;">
+     <input id="minutesTotal" value="MIN_CNT" readonly="readonly" type="hidden">
+     <span id="displayTotalT">MIN_STR</span>
+    </div>
+   </div>
+  </td>
+  <td><div style="float:left;margin:0;padding:0;">=</div></td>
+  <td><input type="text" id="t" class="q-input" size="2" value="0.0" readonly="readonly" /></td>
+</tr>
+</tbody></table>
+
 <div id="container">
 
 """
