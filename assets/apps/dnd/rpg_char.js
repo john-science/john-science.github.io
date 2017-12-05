@@ -46,7 +46,7 @@ var RPG_Char = (function() {
     var clas = choose_item(data_map['species'][ed][spec]);
     var from = choose_item(data_map['location']);
     var backstory = choose_item(data_map['backstory']);
-    document.getElementById('result').innerHTML = adj + " " + spec + " " + clas + " from " + from + " who " + backstory + ".";
+    document.getElementById('result').innerHTML = adj + " " + spec + ' <span style="color:#999">' + clas + "</span> " + " from " + from + " who " + backstory + ".";
   };
 
   /* attach event listeners to page */
