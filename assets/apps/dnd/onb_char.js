@@ -387,7 +387,7 @@ var DND_DATA = {
     "loves shopping and is deeply in debt",
     "loves underground techno and smokes roll-ups with menthol filters",
     "love Tennis and Celine Dion",
-    "makes a mean caserole, racist, and already called the police",
+    "makes a mean caserole, is racist, and already called the police",
     'married rich and is talking about "retiring" at 42',
     "married their highschool sweatheart",
     "mumbles incoherantly all the time",
