@@ -6,8 +6,45 @@ summary: A beginner's dictionary of important neural network terminology.
 ---
 {% include JB/setup %}
 
-<script type="text/javascript">function hideshow(a){document.getElementById&&("block"==a.style.display?a.style.display="none":a.style.display="block")}</script>
-<style>.sml{font-size:small}</style>
+<style>
+input[id^="spoiler"]{
+ /** hide the check box*/
+ display: none;
+}
+input[id^="spoiler"] + label {
+  /** label while hidden */
+  padding: 0;
+  border-radius: 0;
+  cursor: pointer;
+  transition: all .25s;
+}
+input[id^="spoiler"]:checked + label {
+  /** label while un-hidden */
+  padding: 5px 20px;
+  border-radius: 8px; 
+  color: #fff;
+  background: #32628b;
+}
+input[id^="spoiler"] ~ .spoiler {
+  /** open text box */
+  height: 0;
+  overflow: hidden;
+  opacity: 0;
+  margin: 10px auto 0; 
+  /** padding: 10px; */
+  background: #eee;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  transition: all .25s;
+}
+input[id^="spoiler"]:checked + label + .spoiler{
+  /** open text box... part 2? */
+  height: auto;
+  opacity: 1;
+  padding: 10px;
+}
+.sml{font-size:small}
+</style>
 
 <p>Jargon is always a huge stopping block for anyone new to a field.  In fact, for such a young field, there is already quite a lot of jargon surrounding neural networks. What follows is a short list of important terminology designed to aid beginners to neural networks.</p>
 
@@ -16,8 +53,9 @@ summary: A beginner's dictionary of important neural network terminology.
 <ul>
 
 <li>
-<a href="javascript:hideshow(document.getElementById('acc'))">Accuracy</a>
-<div id="acc" style="display: none">
+<input type="checkbox" id="spoiler1" /> 
+<label for="spoiler1" >Accuracy</label>
+<div class="spoiler">
 <p>In science and engineering, the "<a href="https://en.wikipedia.org/wiki/Accuracy_and_precision" target="_blank" rel="noopener noreferrer">accuracy</a>" of a measurement is a description of how close that measurement is to some "true" value. By contrast, the "precision" of a measurement describes how reproducible that measurement is.</p>
 <p>The accuracy of a neural network is a representation of how many inputs to the neural network result in the correct output. The accuracy of a neural network should only be trusted if it was measured against proper test data.</p>
 <p class="sml">(see Loss Function, Test Data)</p>
@@ -26,8 +64,9 @@ summary: A beginner's dictionary of important neural network terminology.
 
 
 <li>
-<a href="javascript:hideshow(document.getElementById('act_fun'))">Activation Function</a>
-<div id="act_fun" style="display: none">
+<input type="checkbox" id="spoiler2" /> 
+<label for="spoiler2" >Activation Function</label>
+<div class="spoiler">
 <p>Each neuron in an artificial neural network takes in an arbitrary number of numerical inputs and outputs (usually) a single value. There are, obviously, many different mathematical functions and algorithms possible to do this computation, and they are collectively known as <a href="https://en.wikipedia.org/wiki/Activation_function" target="_blank" rel="noopener noreferrer">Activation Functions</a>.</p>
 <p>There are a <a href="https://en.wikibooks.org/wiki/Artificial_Neural_Networks/Activation_Functions" target="_blank" rel="noopener noreferrer">huge</a> <a href="https://en.wikipedia.org/wiki/Activation_function#Comparison_of_activation_functions" target="_blank" rel="noopener noreferrer">variety</a> of activation functions in use in neural networks. Some of the more common include: the Step Function, variations on the Sigmoid Function, Softmax, and ReLU.</p>
 <p class="sml">(see Artificial Neural Network, Neuron, ReLU, Step Function, Sigmoid, Softmax)</p>
