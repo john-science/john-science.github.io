@@ -15,9 +15,9 @@ Fans can talk about little else.
 
 ## Who?
 
-Whittaker is maybe best known for [Broadchurch](http://www.imdb.com/title/tt2249364/), an incredibly successful British crime drama where she plays a main character. The show is pretty somber, dealing with the fallout in families affected by child murder. Whittaker's performance is top-notch, leaving no doubt she is good at her craft. In the show, she actually works alongside [David Tennant](https://en.wikipedia.org/wiki/David_Tennant) and [David Bradley](http://www.imdb.com/name/nm0103195/?ref_=ttfc_fc_cl_t38) who have each also played the Doctor.
+Whittaker is maybe best known for [Broadchurch](http://www.imdb.com/title/tt2249364/), an incredibly successful British crime drama. The show is pretty somber, dealing with the fallout in family affected by child murder. Whittaker's performance is top-notch; she is good at her craft. In the show, she actually works alongside [David Tennant](https://en.wikipedia.org/wiki/David_Tennant) and [David Bradley](http://www.imdb.com/name/nm0103195/?ref_=ttfc_fc_cl_t38) who have also played the Doctor.
 
-Whittaker has done a lot of other stuff too. But the nerd core knows her best for her part in [Attack the Block](http://www.imdb.com/title/tt1478964/): the 2011 indie sci-fi movie where aliens invade a South London neighborhood and end up in a war with the local gang. The movie is action and sci-fi with a fun, light tone that might be good practice for an aspiring Doctor.
+Whittaker has done a lot of other stuff too. But the nerdcore knows her best for her part in [Attack the Block](http://www.imdb.com/title/tt1478964/): the 2011 indie sci-fi movie where aliens invade a South London neighborhood and end up in a war with the local gang. The movie is action and sci-fi with a fun, light tone that might be good practice for an aspiring Doctor.
 
 Interestingly, the new Doctor Who show runner, [Chris Chibnall](https://en.wikipedia.org/wiki/Chris_Chibnall), also ran Broadchurch. Maybe knowing the right people helps, or maybe he just knows that he can get the performance he wants out of Whittaker. Though it sounds like she just [crushed the audition](https://www.theguardian.com/tv-and-radio/2017/jul/16/doctor-who-jodie-whittaker-announced-13th-doctor).
 
