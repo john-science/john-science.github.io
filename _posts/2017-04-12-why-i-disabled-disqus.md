@@ -6,9 +6,9 @@ summary: Why I removed the Disqus comments from my blog.
 ---
 {% include JB/setup %}
 
-This is a small, personal blog. It does not have a wide readership and it does not generate me any revenue.
+This is a small, personal blog. It does not have a wide readership and it does not generate any revenue.
 
-Originally, I thought the Disqus comments were a fun, free feature to add to my blog. But at what cost to my (admittedly few) readers?  Disqus offers a free service, and I have no comments about its quality. But the saying goes:
+Originally, I thought the Disqus comments were a fun, free feature to add to my blog. But at what cost to my (admittedly few) readers?  Disqus offers a free service, and I have no comments about its quality. But, as the saying goes:
 
 > If you're not paying for the product, you are the product.
 
