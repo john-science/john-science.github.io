@@ -6,7 +6,7 @@ summary: Watching all of the Doctor Who episodes with River Song, but from her t
 ---
 {% include JB/setup %}
 
-I wanted to re-watch all of the Doctor Who episodes with River Song, but from her timeline. Deciphering the order took a bit of research, so I thought I would share the results.
+I wanted to re-watch all of the Doctor Who episodes with River Song; but from her timeline. Deciphering the order took a bit of research, so I thought I would share the results.
 
 ### River Song's Timeline - by Episode
 
@@ -40,7 +40,7 @@ The River Song story arc is pretty big:
 
 ### Post-Mortem
 
-It took a while, but I finally re-watched all those episodes in the above order.
+It took a while, but I finally re-watched all the episodes above in River's timeline order.
 
 > **NO SPOILERS**
 
