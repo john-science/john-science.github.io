@@ -24,6 +24,6 @@ Interestingly, the new Doctor Who show runner, [Chris Chibnall](https://en.wikip
 
 ## When?
 
-The 13th Doctor's [first episode](http://www.imdb.com/title/tt6968542/) will be the 2017 Christmas special. That means fans will have to wait five-and-a-half months to see Whittaker as the Doctor. But even then, it is a good guess that Capaldi will remain the Doctor for most of that episode. In reality, it will be a year or two before Whittaker really takes the reigns.
+The 13th Doctor's [first episode](http://www.imdb.com/title/tt6968542/) will be the 2017 Christmas special. That means fans will have to wait five-and-a-half months to see Whittaker as the Doctor. But even then, it is a good guess that Capaldi will remain the Doctor for most of that episode. In reality, Whittaker won't really take the reigns until the start of Season 11, currently projected for October, 2018.
 
 Brace yourself for a long wait.
