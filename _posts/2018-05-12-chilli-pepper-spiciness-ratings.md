@@ -2,7 +2,7 @@
 layout: post
 title: "Chilli Pepper Spiciness Ratings"
 tags: [Food]
-summary: Just a quick listing of some of my favorite peppers, with their Scoville rating
+summary: A quick listing of some chilli peppers, with their Scoville rating
 date: 2018-05-12
 ---
 {% include JB/setup %}
