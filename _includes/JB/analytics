@@ -2,9 +2,6 @@
 
 {% if is_production and site.JB.analytics.provider and page.JB.analytics != false %}
 
-{% case site.JB.analytics.provider %}
-{% when "google" %}
-  {% include JB/analytics-providers/google %}
-{% endcase %}
+{% include JB/is_production %}
 
 {% endif %}
