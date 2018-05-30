@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Summer of Love... I mean Classic Who"
+title: "Summer of Love... and Classic Who"
 tags: [Doctor Who, Sci-Fi]
 summary: Twitch.TV will be streaming most of Classic Who for free, in the Summer of 2018
 ---
@@ -10,10 +10,10 @@ The BBC is teaming up with the folks over at [Twitch.tv](https://www.twitch.tv/t
 
 This should be *hilarious*.
 
-Starting on March 29th with the first ever episode of Doctor Who and ending on July 23rd with the last episode of Classic Who, this will be a great summer. The episodes are aired in Chronological order and cover most of the Classic Who stories. Though there are some exceptions and, of course, a lot of episodes have been lost forever.
+The series kicks off on March 29th with the first-ever episode of Doctor Who and ends on July 23rd with the last episode of the Classic Who era. The episodes are aired in Chronological order and cover most of the Classic Who stories. Most days air three different stories (2-4 epsiodes each), and repeat them all three times every day.
 
-But over 100 stories, over 500 episodes, of Classic Who will be free to watch! And, you know, legally.
+Over 100 stories, over 500 episodes, of Classic Who will be free to watch! And, you know, legally.
 
 **Pro Tip**: a lot of these episodes will be perfect for a Bad Movie Night. Invite your friends over, and don't take anything seriously.
 
-Anyway, you can watch them all [here on Twitch.tv](https://www.twitch.tv/twitchpresents), and you can find the calendar of events [here](https://www.doctorwho.tv/watch/twitch/#US).
+Anyway, you can watch them all **[here on Twitch.tv](https://www.twitch.tv/twitchpresents)**, and you can find the calendar of events **[here](https://www.doctorwho.tv/watch/twitch/#US)**.
