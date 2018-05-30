@@ -18,11 +18,13 @@ Over 100 stories, over 500 episodes, of Classic Who will be free to watch! And, 
 
 Anyway, you can watch them all on **[twitch.tv](https://www.doctorwho.tv/watch/twitch/#US)**.
 
-And here is the viewing calendar (PDT in the US).
+And here is the viewing calendar (PDT in the US):
 
 <br/>
 
-### 1st Doctor - William Hartnell - Black and White - Proof that TV pacing used to be *much* slower
+### 1st Doctor - William Hartnell - Black and White
+
+Proof that TV pacing used to be *much* slower
 
 Date | Adventures | 1st Run | 2nd Run | 3rd Run
 :--- | :--- | :---: | :---: | :---:
@@ -33,7 +35,9 @@ Date | Adventures | 1st Run | 2nd Run | 3rd Run
 4 June | The Time Meddler, The Ark, The Gunfighters, The War Machines | 11:00 | 18:12 | 01:24
 
 
-### 2st Doctor - Patrick Troughton - Black and White - The Doctor is a bohemiam, cosmic hobo
+### 2st Doctor - Patrick Troughton - Black and White
+
+The Doctor is a cosmic hobo. He is bohemian, goofy, and has a hair cut like one of the Beatles.
 
 Date | Adventures | 1st Run | 2nd Run | 3rd Run
 :--- | :--- | :---: | :---: | :---:
@@ -42,7 +46,9 @@ Date | Adventures | 1st Run | 2nd Run | 3rd Run
 7 June | The Krotons, The Seeds Of Death, The War Games | 11:00 | 19:40 | 04:20
 
 
-### 3rd Doctor - Jon Pertwee - Now in color! - The Doctor is James Bond, he's stuck on Earth, doing secret missions for the British government.
+### 3rd Doctor - Jon Pertwee - Now in color!
+
+The Doctor is James Bond. He is stuck on Earth, doing secret missions for the British government. He knows karate and uses it a Lot.
 
 Date | Adventures | 1st Run | 2nd Run | 3rd Run
 :--- | :--- | :---: | :---: | :---:
@@ -57,7 +63,9 @@ Date | Adventures | 1st Run | 2nd Run | 3rd Run
 20 June | Death To The Daleks, The Monster Of Peladon, Planet Of The Spiders | 11:00 | 18:12 | 01:24
 
 
-### 4th Doctor - Tom Baker - "Scarf Doctor" - The Golden Age of Classic Who
+### 4th Doctor - Tom Baker - "Scarf Doctor"
+
+The Golden Age of Classic Who
 
 Date | Adventures | 1st Run | 2nd Run | 3rd Run
 :--- | :--- | :---: | :---: | :---:
@@ -74,7 +82,9 @@ Date | Adventures | 1st Run | 2nd Run | 3rd Run
 6 July | State Of Decay, Warriors' Gate, The Keeper Of Traken, Logopolis, K9 And Company | 11:00 | 19:06 | 03:12
 
 
-### 5th Doctor - Peter Davison - The Doctor is a young cricket player, and he has a lot of friends (and you'll hate one of them).
+### 5th Doctor - Peter Davison - He's so young!
+
+The Doctor is a cricket player and he has a lot of friends (and you'll hate one of them).
 
 Date | Adventures | 1st Run | 2nd Run | 3rd Run
 :--- | :--- | :---: | :---: | :---:
@@ -84,7 +94,9 @@ Date | Adventures | 1st Run | 2nd Run | 3rd Run
 12 July | The King's Demons, Warriors Of The Deep, The Awakening, Frontios, The Caves Of Androzani | 11:00 | 20:00 | 05:00
 
 
-### 6th Doctor - Colin Baker - The Doctor is an asshole, and his coat will make you nauseous.
+### 6th Doctor - Colin Baker - The Doctor is an asshole...
+
+and his coat will make you nauseous.
 
 Date | Adventures | 1st Run | 2nd Run | 3rd Run
 :--- | :--- | :---: | :---: | :---:
@@ -93,7 +105,9 @@ Date | Adventures | 1st Run | 2nd Run | 3rd Run
 18 July | The Trial Of A Time Lord | 11:00 | 17:18 | 23:36
 
 
-### 7th Doctor - Sylvester McCoy - The Doctor is nice again! It's the 80s and the entire production crew was on cocaine.
+### 7th Doctor - Sylvester McCoy - The Doctor is fun again!
+
+I didn't believe what people said about cocaine in the '80s, until I saw this.
 
 Date | Adventures | 1st Run | 2nd Run | 3rd Run
 :--- | :--- | :---: | :---: | :---:
