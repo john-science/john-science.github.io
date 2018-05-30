@@ -38,7 +38,7 @@ Date | Adventures | 1st Run | 2nd Run | 3rd Run
 
 ### 2st Doctor - Patrick Troughton - Black and White
 
-The Doctor is a cosmic hobo. He is bohemian, goofy, and has a hair cut like one of the Beatles.
+The Doctor is a cosmic hobo. He is bohemian, goofy, and has a Beatles hair cut.
 
 Date | Adventures | 1st Run | 2nd Run | 3rd Run
 :--- | :--- | :---: | :---: | :---:
@@ -49,7 +49,7 @@ Date | Adventures | 1st Run | 2nd Run | 3rd Run
 
 ### 3rd Doctor - Jon Pertwee - Now in color!
 
-The Doctor is James Bond. He is stuck on Earth, doing secret missions for the British government. He knows karate and uses it a Lot.
+The Doctor is James Bond. He is stuck on Earth, doing secret missions for the British government. And he knows karate.
 
 Date | Adventures | 1st Run | 2nd Run | 3rd Run
 :--- | :--- | :---: | :---: | :---:
@@ -85,7 +85,7 @@ Date | Adventures | 1st Run | 2nd Run | 3rd Run
 
 ### 5th Doctor - Peter Davison - He's so young!
 
-The Doctor is a cricket player and he has a lot of friends (and you'll hate one of them).
+The Doctor is a cricket player and has a lot of friends. (You'll hate one of them.)
 
 Date | Adventures | 1st Run | 2nd Run | 3rd Run
 :--- | :--- | :---: | :---: | :---:
@@ -97,7 +97,7 @@ Date | Adventures | 1st Run | 2nd Run | 3rd Run
 
 ### 6th Doctor - Colin Baker - The Doctor is an asshole...
 
-and his coat will make you nauseous.
+...and his coat will make you nauseous.
 
 Date | Adventures | 1st Run | 2nd Run | 3rd Run
 :--- | :--- | :---: | :---: | :---:
