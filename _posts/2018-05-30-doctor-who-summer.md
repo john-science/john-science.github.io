@@ -6,7 +6,7 @@ summary: Twitch.TV will be streaming most of Classic Who for free, in the Summer
 ---
 {% include JB/setup %}
 
-The BBC is teaming up with the folks over at **[twitch.tv](https://www.twitch.tv/twitchpresents)** to give us an entire summer of Classic Doctor Who!
+The BBC is teaming up with the folks over at **[twitch.tv](https://www.doctorwho.tv/watch/twitch/)** to give us an entire summer of Classic Doctor Who!
 
 This should be *hilarious*.
 
@@ -14,7 +14,7 @@ The series kicks off on March 29th with the first-ever episode of Doctor Who and
 
 Over 100 stories, over 500 episodes, of Classic Who will be free to watch! And, you know, legally.
 
-Anyway, you can watch them all on **[twitch.tv](https://www.doctorwho.tv/watch/twitch/#US)**.
+Anyway, you can watch them all on **[twitch.tv](https://www.doctorwho.tv/watch/twitch/)**.
 
 **Pro Tip**: a lot of these episodes will be perfect for a Bad Movie Night. Invite your friends over, and don't take anything seriously.
 
