@@ -29,11 +29,11 @@ Proof that TV pacing used to be *much* slower
 
 Date | Adventures | 1st Run | 2nd Run | 3rd Run
 :--- | :--- | :---: | :---: | :---:
-29  May | An Unearthly Child, The Daleks , The Edge Of Destruction | 11:00 | 16:51 | 22:42
-30 May | The Keys Of Marinus, The Aztecs, The Sensorites | 11:00 | 18:12 | 01:24
-31 May | Planet Of Giants, The Dalek Invasion Of Earth, The Rescue, The Romans | 11:00 | 17:45 | 00:30
-1 June | The Web Planet , The Space Museum, The Chase | 11:00 | 18:12 | 01:24
-4 June | The Time Meddler, The Ark, The Gunfighters, The War Machines | 11:00 | 18:12 | 01:24
+29  May | An Unearthly Child,<br/> The Daleks,<br/> The Edge Of Destruction | 11:00 | 16:51 | 22:42
+30 May | The Keys Of Marinus,<br/> The Aztecs,<br/> The Sensorites | 11:00 | 18:12 | 01:24
+31 May | Planet Of Giants,<br/> The Dalek Invasion Of Earth,<br/> The Rescue,<br/> The Romans | 11:00 | 17:45 | 00:30
+1 June | The Web Planet,<br/> The Space Museum,<br/> The Chase | 11:00 | 18:12 | 01:24
+4 June | The Time Meddler,<br/> The Ark,<br/> The Gunfighters, The War Machines | 11:00 | 18:12 | 01:24
 
 
 ### 2st Doctor - Patrick Troughton - Black and White
