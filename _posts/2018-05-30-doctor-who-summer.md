@@ -14,13 +14,14 @@ The series kicks off on March 29th with the first-ever episode of Doctor Who and
 
 Over 100 stories, over 500 episodes, of Classic Who will be free to watch! And, you know, legally.
 
-**Pro Tip**: a lot of these episodes will be perfect for a Bad Movie Night. Invite your friends over, and don't take anything seriously.
-
 Anyway, you can watch them all on **[twitch.tv](https://www.doctorwho.tv/watch/twitch/#US)**.
 
-And here is the viewing calendar (PDT in the US):
+**Pro Tip**: a lot of these episodes will be perfect for a Bad Movie Night. Invite your friends over, and don't take anything seriously.
 
-<br/>
+
+## Viewing Calendar
+
+<small>(all times PDT in the US)</small>
 
 ### 1st Doctor - William Hartnell - Black and White
 
