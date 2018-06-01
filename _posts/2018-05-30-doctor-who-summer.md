@@ -23,7 +23,7 @@ Anyway, you can watch them all on **[twitch.tv](https://www.doctorwho.tv/watch/t
 
 ### 1st Doctor - William Hartnell - Black and White
 
-Proof that TV pacing used to be *much* slower
+TV pacing used to be *much* slower
 
 Date | Adventures | 1st Run | 2nd Run | 3rd Run
 :--- | :--- | :---: | :---: | :---:
