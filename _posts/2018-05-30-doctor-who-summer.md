@@ -10,18 +10,16 @@ The BBC is teaming up with the folks over at **[twitch.tv](https://www.doctorwho
 
 This should be *hilarious*.
 
-The series kicks off on March 29th with the first-ever episode of Doctor Who and ends on July 23rd with the last episode of the Classic Who era. The episodes are aired in Chronological order and cover most of the Classic Who stories. Most days air three different stories (2-4 epsiodes each), and repeat them all three times every day.
-
-Over 100 stories, over 500 episodes, of Classic Who will be free to watch! And, you know, legally.
+They are playing most of Classic Who (pre-1990) in Chronological order. Starting on March 29th with the first-ever episode of Doctor Who and ending on July 23rd with the last episode of the Classic Who era. Over 100 stories, over 500 episodes, of Classic Who will be free to watch!
 
 Anyway, you can watch them all on **[twitch.tv](https://www.doctorwho.tv/watch/twitch/)**.
 
-**Pro Tip**: a lot of these episodes will be perfect for a Bad Movie Night. Invite your friends over, and don't take anything seriously.
+**Pro Tip**: A lot of these episodes will be perfect for a Bad Movie Night. Invite your friends over, and don't take anything seriously.
 
 
 ## Viewing Calendar
 
-<small>(all times PDT in the US)</small>
+<small>(All times PDT in the US)</small>
 
 ### 1st Doctor - William Hartnell - Black and White
 
@@ -49,7 +47,7 @@ Date | Adventures | 1st Run | 2nd Run | 3rd Run
 
 ### 3rd Doctor - Jon Pertwee - Now in color!
 
-The Doctor is James Bond. He is stuck on Earth, doing secret missions for the British government. And he knows karate.
+The Doctor is James Bond. He knows karate and does secret missions for the British government.
 
 Date | Adventures | 1st Run | 2nd Run | 3rd Run
 :--- | :--- | :---: | :---: | :---:
@@ -110,7 +108,7 @@ Date | Adventures | 1st Run | 2nd Run | 3rd Run
 
 ### 7th Doctor - Sylvester McCoy - The Doctor is fun again!
 
-I didn't believe what people said about cocaine in the '80s, until I saw this.
+I didn't believe what people said about cocaine in the '80s, until I saw this hot mess.
 
 Date | Adventures | 1st Run | 2nd Run | 3rd Run
 :--- | :--- | :---: | :---: | :---:
