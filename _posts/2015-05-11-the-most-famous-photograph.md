@@ -10,7 +10,7 @@ After I bought my first camera and had spent some time pointing at things I star
 
 It turns out, this photograph has been seen by more people than any other:
 
-![Bliss](https://upload.wikimedia.org/wikipedia/en/7/7d/Bliss.png)
+<img src="https://upload.wikimedia.org/wikipedia/en/2/27/Bliss_%28Windows_XP%29.png" alt="Bliss">
 
 [Bliss](https://en.wikipedia.org/wiki/Bliss_%28image%29) was the default background for Windows XP. By virtue of that alone at least a billion people have seen it [[citation needed]](https://xkcd.com/285/). Even as late as 2013, [25 percent](http://www.zdnet.com/article/how-long-before-microsoft-windows-xp-disappears/) of all the desktop computers on the planet still ran Windows XP.
 
