@@ -34,11 +34,11 @@ Let's see what this looks like Haskell:
 putStrLn "Hello, World!"
 {% endhighlight %}
 
-Hey, not bad so far.  Simple and lightweight.
+Not bad: simple and lightweight, though `putStrLn` lacks elegance.
 
 ### Fibonacci Function
 
-Okay, I always start off by building a stupid function to calculate the Nth term in the Fibonacci series. No error-checking or safety, I'm just trying to get the flavor of the language.
+Okay, the first function I usually try to build in a new language calculates the Nth term in the Fibonacci series. Since I am just trying to get the flavor of the language I don't worry about overflow or performance issues here.
 
 Here it is in Stupid Python:
 
@@ -52,7 +52,7 @@ def fibonacci(n):
         return fibonacci(n - 1) + fibonacci(n - 2)
 {% endhighlight %}
 
-Here it is in slow, recursive, C:
+Here it is in slow, recursive C:
 
 {% highlight c %}
 long fibonacci(long a, long b, int n) {
@@ -60,7 +60,7 @@ long fibonacci(long a, long b, int n) {
 }
 {% endhighlight %}
 
-And actually, my usually trivial example in Haskell wasn't as simple to construct as I was expecting:
+And actually, my usually trivial example in Haskell wasn't as quick to construct as I was expecting. But it is highly readable:
 
 {% highlight python %}
 fibonacci x =
