@@ -10,7 +10,8 @@ This will be a skeptical, shallow-dive into Haskell. I just want to take a singl
 
 The first time I encounter a new language, I tend to bang out a few trivial examples just to get the flavor of things.
 
-### Hello World
+
+### Trivial Example 1: Hello World
 
 Okay, in Python, this is beautiful and short:
 
@@ -36,9 +37,10 @@ putStrLn "Hello, World!"
 
 Not bad: simple and lightweight, though `putStrLn` lacks elegance.
 
-### Fibonacci Function
 
-Okay, the first function I usually try to build in a new language calculates the Nth term in the Fibonacci series. Since I am just trying to get the flavor of the language I don't worry about overflow or performance issues here.
+### Trivial Example 2: Fibonacci Function
+
+Okay, the first function I usually try to build in a new language calculates the Nth term in the Fibonacci series. Since I am just trying to get the flavor of the language I don't worry about overflow, performance, memoization, etcetera.
 
 Here it is in Stupid Python:
 
@@ -70,3 +72,14 @@ fibonacci x =
            then 1
            else fibonacci (x - 1) + fibonacci (x - 2)
 {% endhighlight %}
+
+
+### Okay, but what's a Haskell?
+
+Haskell is:
+
+* a programming lanaguaged designed by an academic committee
+* purely functional
+* statically typed (with automatic type inference)
+* compiled (though there is a GNU interpreter)
+* list-first (though the std libs do have other data structures)
