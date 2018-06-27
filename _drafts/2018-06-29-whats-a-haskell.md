@@ -78,8 +78,8 @@ fibonacci x =
 
 Haskell is:
 
-* a programming lanaguaged designed by an academic committee
+* a programming language designed by an academic committee
 * purely functional
 * statically typed (with automatic type inference)
 * compiled (though there is a GNU interpreter)
-* list-first (though the std libs do have other data structures)
+* list-centric
