@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "What's a Haskell? - Part 1"
+title: "What's a Haskell?"
 tags: [Software, Haskell]
 summary: A Day-1 Exploration of the Haskell Language
 ---
