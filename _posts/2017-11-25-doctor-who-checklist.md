@@ -6,9 +6,9 @@ summary: Keep track of the episodes you have and (more importantly) haven't seen
 ---
 {% include JB/setup %}
 
-Have you ever decided to wade into the Doctor Who back-catalogue only to get lost?
+Have you ever decided to wade into the Doctor Who 50-year back-catalogue only to get lost?
 
-It is easy to get lost in 50 years of canon. To that end, I built a handy checklist. It will help you track which episodes you have seen, which you haven't, and how many hours of unique episodes you have left.
+To make it slightly easier to attempt the task, I built a handy checklist. It will help you track which episodes you have seen, which you haven't, and give you a rough idea of just how much there is left out there.
 
 ## [Here is the Checklist](/apps/dw.html).
 <br/>
@@ -19,7 +19,7 @@ Doctor Who has always been broken into "stories". Sometimes a single episode is 
 
 #### Episodes Since 1963
 * **[276](https://en.wikipedia.org/wiki/List_of_Doctor_Who_serials#Series_overview)** TV stories have aired.
-* Watching all of those would take: **17 days, 2 hour and 55 minutes**.
+* Watching all of those would take: **17 days, 2 hours and 55 minutes**.
 
 #### Classic Who
 * **[155](https://en.wikipedia.org/wiki/List_of_Doctor_Who_serials#First_Doctor)** stories aired between 1964 and 1989.
