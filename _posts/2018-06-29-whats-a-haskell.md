@@ -214,3 +214,12 @@ Ha. No.
 I don't even know what a Monad is yet!  An Applicative Functor?  What?
 
 Okay, I thought that since Lisp (and MIT-Scheme) had such little syntax to learn, Haskell would be fast to spin up on. And so far Haskell seems more like a fully fledge modern language (Java, not C++ or Scala), with a lot of syntax to learn.
+
+
+## References for Further Reading
+
+I don't know if I *will* be reading more about Haskell, it didn't endear itself to me immediately. But here are some references I found early on:
+
+* [Learn You a Haskell - Textbook](http://learnyouahaskell.com/chapters)
+* [Generalized Behaviors and Imprisoning Side Effects](https://whatthefunctional.wordpress.com/2018/03/04/modeling-generalized-behaviors-and-imprisoning-side-effects/)
+* [Making a Text Adventure in Haskell, part 1](https://whatthefunctional.wordpress.com/2018/03/07/making-a-text-adventure-in-haskell-part-1/)
