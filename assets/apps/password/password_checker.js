@@ -212,6 +212,31 @@ var text_entry = function(e) {
   }
 };
 
+var show = function() {
+  /** toggle to show your password */
+  document.getElementById('pass_string').setAttribute('type', 'text');
+};
+
+var hide = function() {
+  /** toggle to hid your password again */
+  document.getElementById('pass_string').setAttribute('type', 'password');
+};
+
+/** global to remember if the password is visible or not */
+var is_visible = 0;
+
+var show_hide = function() {
+  /** show or hid the password, after a click */
+  if (is_visible == 0) {
+      is_visible = 1;
+      show();
+  } else {
+      is_visible = 0;
+      hide();
+  }
+};
+
 /** Attach event listeners to the screen */
 document.getElementById('pass_string').addEventListener("keypress", text_entry);
 document.getElementById('test_button').addEventListener("click", full_test);
+document.getElementById("eye").addEventListener("click", show_hide, false);
