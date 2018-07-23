@@ -1,14 +1,13 @@
-""" Simple script to generate the q.html file needed for the Doctor Who Quotient app.
+""" Generate the q.html file needed for the Doctor Who Quotient app.
 
     There is a lot of HTML boilerplate here, treated as string manipulation only.
-    There are not HTML or XML libraries used, and all of the CSS and JavaScript
+    No HTML or XML libraries are used, and all of the CSS and JavaScript
     is included as magic constants in strings.
 
     NOTE: This script exists because the website is served statically via GitHub Pages,
           and it would be against their policy for me to have this page generated
           dynamically at build time.
 """
-
 
 EPISODE_FILE = 'episodes.csv'
 SEASON_FILE = 'seasons.csv'
