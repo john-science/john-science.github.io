@@ -2,11 +2,11 @@
 layout: post
 title: "What's a Haskell?"
 tags: [Software, Haskell]
-summary: A Day-1 Exploration of the Haskell Language
+summary: A 1-Day Exploration of the Haskell Language
 ---
 {% include JB/setup %}
 
-This will be a skeptical, shallow-dive into Haskell. I just want to take a single-day look at the Haskell language and see what it's all about. If you have spent a decade using Haskell in production and know all of its deep secrets, you will probably hate me for how much of your beautiful temple I am missing out on.  `#sorrynotsorry`
+This will be a skeptical, shallow-dive into Haskell. I just want to take a single-day look at the Haskell programming language and see what it's all about. If you have spent years using Haskell in production and know all of its deep secrets, you will probably hate this. `#sorrynotsorry`
 
 The first time I encounter a new language, I tend to bang out a few trivial examples just to get the flavor of things.
 
@@ -40,7 +40,7 @@ Not bad: simple and lightweight, though `putStrLn` lacks elegance.
 
 ## Trivial Example 2: Fibonacci Function
 
-Okay, the first function I usually try to build in a new language calculates the Nth term in the Fibonacci series. Since I am just trying to get the flavor of the language I don't worry about overflow, performance, memoization, etcetera.
+Okay, the first function I usually try to build in a new language calculates the Nth term in the Fibonacci series. Since I am just trying to get the flavor of the language I won't worry about overflow, performance, memoization, etcetera.
 
 Here it is in Stupid Python:
 
@@ -148,7 +148,6 @@ Okay, Haskell's lists appear to be singly-linked lists. But they have a ton of f
 
 Haskell's type system is broad and deep. Not only does Haskell have the usual types for numbers and booleans and the like, it also (very literally) considers functions to have types. For whatever reason, we use `:t` to find the type of a thing:
 
-
 {% highlight shell %}
 Prelude> :t 7
 7 :: Num t => t
@@ -174,7 +173,7 @@ Prelude> :t (>=)
 So, not only can you have types like `Num` and `Char`, you can have types like `Ord` which return a Boolean. And, of course, you can create your own types. And ensure that functions you create have the types that you want. I feel like types are doing double duty in Haskell, but I feel like I'd need to use the language for longer to be able to tell.
 
 
-## So Far I Hate `ghci`
+## So Far I Hate the GHCI
 
 The `ghci` is the GNU interpretter for Haskell. Okay, you have my attention, I like all of those words.
 
@@ -186,21 +185,21 @@ You see, in most interpretters you write code in your language of choice. For in
 help(something)
 {% endhighlight %}
 
-Easy, right?  You did that by using Python code. The `help` statement is just a Python function that you are calling. Okay, now let's try this in `hgci`:
+Easy, right?  You did that by using Python code. The `help` statement is just a Python function that you are calling. Okay, now let's try this in `ghci`:
 
 {% highlight python %}
 :? something
 {% endhighlight %}
 
-Okay, wait, but `:?` isn't Haskell code. It is it's own special syntax that you have to learn just for the `hgci`. So as a newbie learning Haskell you have to learn all the language syntax and another whole collection of syntax just for the `hgci`.
+Okay, wait, but `:?` isn't Haskell code. It is it's own special syntax that you have to learn just for the `ghci`. So as a newbie learning Haskell you have to learn all the Haskell syntax and another whole collection of syntax just for the `ghci`.
 
-Also, you can't do multi-line programs in the `hgci`. Here is what our simple `factorial` function looks like in the `hgci`:
+Also, you can't do multi-line programs in the `ghci`. Here is what our simple `factorial` function looks like in the `ghci`:
 
 {% highlight python %}
 let {factorial :: (Integral a) => a -> a  ; factorial 0 = 1  ; factorial n = n * factorial (n - 1) }
 {% endhighlight %}
 
-Also, it says `prelude>` all over the place for now reason. Which gets old.
+Also, it says `prelude>` all over the place for no reason.
 
 No thanks. Hard pass.
 
@@ -213,12 +212,12 @@ Ha. No.
 
 I don't even know what a Monad is yet!  An Applicative Functor?  What?
 
-Okay, I thought that since Lisp (and MIT-Scheme) had such little syntax to learn, Haskell would be fast to spin up on. And so far Haskell seems more like a fully fledge modern language (Java, not C++ or Scala), with a lot of syntax to learn.
+Okay, I thought that since Lisp (and MIT-Scheme) had such little syntax to learn, Haskell would be fast to spin up on. And so far Haskell seems more like a fully-fledged modern language (Java, not C++ or Scala), with a lot of syntax to learn. But I just couldn't get into it.
 
 
 ## References for Further Reading
 
-I don't know if I *will* be reading more about Haskell, it didn't endear itself to me immediately. But here are some references I found early on:
+I don't know if I *will* be reading more about Haskell, it didn't endear itself to me immediately. But here are some references I used during my first foray:
 
 * [Learn You a Haskell - Textbook](http://learnyouahaskell.com/chapters)
 * [Generalized Behaviors and Imprisoning Side Effects](https://whatthefunctional.wordpress.com/2018/03/04/modeling-generalized-behaviors-and-imprisoning-side-effects/)
