@@ -180,7 +180,7 @@ var update_bmi_label_child = function(bmi, sex) {
 var change_labels = function() {
   var is_metric = form_units_metric.checked;
   var inches, feet, cm, m;
-  if (is_metric) {
+  if (is_metric && document.getElementById('height_major_units').innerHTML != 'm') {
     document.getElementById('height_major_units').innerHTML = 'm';
     document.getElementById('height_minor_units').innerHTML = 'cm';
     document.getElementById('weight_units').innerHTML = 'kg';
@@ -191,7 +191,7 @@ var change_labels = function() {
     cm -= 100 * m;
     form_height_major.value = m;
     form_height_minor.value = Math.round(10 * cm) / 10;
-  } else {
+  } else if (!is_metric && document.getElementById('height_major_units').innerHTML != 'ft'){
     document.getElementById('height_major_units').innerHTML = 'ft';
     document.getElementById('height_minor_units').innerHTML = 'in';
     document.getElementById('weight_units').innerHTML = 'lbs';
