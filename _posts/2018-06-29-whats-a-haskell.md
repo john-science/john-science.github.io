@@ -210,9 +210,9 @@ That's it, I covered the entire language.
 
 Ha. No.
 
-I don't even know what a Monad is yet!  An Applicative Functor?  What?
+I don't even know what a Monad is yet! An Applicative Functor? What?
 
-Okay, I thought that since Lisp (and MIT-Scheme) had such little syntax to learn, Haskell would be fast to spin up on. And so far Haskell seems more like a fully-fledged modern language (Java, not C++ or Scala), with a lot of syntax to learn. But I just couldn't get into it.
+Okay, I am sure Haskell has many salient qualities. But there won't be a day-2 exploration of Haskell here because I just didn't enjoy the experience enough to want to continue. 
 
 
 ## References for Further Reading
