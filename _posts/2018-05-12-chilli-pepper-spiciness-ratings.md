@@ -7,7 +7,7 @@ date: 2018-05-12
 ---
 {% include JB/setup %}
 
-I love spicy foods and some peppers are amazingly tasty. BUT before throwing a few peppers into a dish I'm cooking I want to know roughly how spicy it is.  (I usually compare everything to jalapeno and habanero peppers, as my calibration points.)  The spiciest pepper isn't the tastiest though, so I just ignore the top few peppers on this list for any kind of real cooking.
+I love spicy foods and some peppers are as tasty as they are spicy. BUT before throwing a few peppers into a dish I'm cooking I want to know roughly how spicy they are. I typically use this list as my guideline, using jalapenos and habaneros as my calibration points.
 
 
 ## Chilli Pepper Spiciness Ratings
