@@ -30,7 +30,6 @@ body {font-family: sans-serif;font-size: 15px}
 
 .tree li {
   display: inline-block;
-  /** need white-space fix */
   vertical-align: top;
   text-align: center;
   list-style-type: none;
@@ -56,27 +55,19 @@ body {font-family: sans-serif;font-size: 15px}
 }
 
 .tree li:only-child::after,
-.tree li:only-child::before {
-  display: none;
-}
+.tree li:only-child::before {display: none}
 
-.tree li:only-child {
-  padding-top: 0;
-}
+.tree li:only-child {padding-top: 0}
 
 .tree li:first-child::before,
-.tree li:last-child::after {
-  border: 0 none;
-}
+.tree li:last-child::after {border: 0 none}
 
 .tree li:last-child::before {
   border-right: 1px solid #ccc;
   border-radius: 0 5px 0 0;
 }
 
-.tree li:first-child::after {
-  border-radius: 5px 0 0 0;
-}
+.tree li:first-child::after {border-radius: 5px 0 0 0}
 
 .tree ul ul::before {
   content: '';
@@ -119,19 +110,19 @@ body {font-family: sans-serif;font-size: 15px}
 <div class="tree">
   <ul>
     <li>
-      <a href="https://jsfiddle.net/84sa0vwc/27/">Graph</a>
+      <a href="https://en.wikipedia.org/wiki/Graph_(discrete_mathematics)" title="https://jsfiddle.net/84sa0vwc/27/">Graph</a>
 
       <ul>
         <li>
-          <a href="#">Directed</a>
+          <a href="https://en.wikipedia.org/wiki/Directed_graph" title="edges have directions">Directed</a>
           <ul>
             <li>
-              <a href="#">Quiver</a>
+              <a href="https://en.wikipedia.org/wiki/Quiver_%28mathematics%29" title="loops and multiple connections allowed">Quiver</a>
               <ul>
                 <li>
-                  <a href="#">Oriented Graph</a>
+                  <a href="https://en.wikipedia.org/wiki/Orientation_(graph_theory)" title="multiple connectons between two vertices not allowed">Oriented Graph</a>
                   <ul>
-                    <li><a href="#">DAG</a></li>
+                    <li><a href="https://en.wikipedia.org/wiki/Directed_acyclic_graph" title="loops are not allowed">DAG</a></li>
                   </ul>
                 </li>
               </ul>
@@ -140,31 +131,31 @@ body {font-family: sans-serif;font-size: 15px}
         </li>
 
         <li>
-          <a href="#">Undirected</a>
+          <a href="https://en.wikipedia.org/wiki/Graph_(discrete_mathematics)#Undirected_graph">Undirected</a>
           <ul>
             <li>
-              <a href="#">Simple</a>
+              <a href="https://en.wikipedia.org/wiki/Graph_(discrete_mathematics)#Simple_graph" title="no loops or multiple edges">Simple</a>
               <ul>
                 <li>
                   <a href="#">Acyclic</a>
                   <ul>
-                    <li><a href="#">Forrest</a>
+                    <li><a href="https://en.wikipedia.org/wiki/Tree_(graph_theory)#Forest">Forrest</a>
                       <ul>
-                        <li><a href="#">Tree</a>
+                        <li><a href="https://en.wikipedia.org/wiki/Tree_(graph_theory)">Tree</a>
                           <ul>
-                            <li><a href="#">Caterpillar Tree</a>
+                            <li><a href="https://en.wikipedia.org/wiki/Caterpillar_tree">Caterpillar Tree</a>
                             </li>
-                            <li><a href="#">Star Graph</a>
+                            <li><a href="https://en.wikipedia.org/wiki/Star_(graph_theory)">Star Graph</a>
                             </li>
-                            <li><a href="#">Rooted Tree</a>
+                            <li><a href="https://en.wikipedia.org/wiki/Tree_(graph_theory)#Rooted_tree">Rooted Tree</a>
                               <ul>
-                                <li><a href="#">K-D Tree</a>
+                                <li><a href="https://en.wikipedia.org/wiki/K-d_tree">K-D Tree</a>
                                 </li>
-                                <li><a href="#">Trie</a>
+                                <li><a href="https://en.wikipedia.org/wiki/Trie">Trie</a>
                                 </li>
-                                <li><a href="#">Heap</a>
+                                <li><a href="https://en.wikipedia.org/wiki/Heap_(data_structure)">Heap</a>
                                 </li>
-                                <li><a href="#">Ordered Tree</a>
+                                <li><a href="https://en.wikipedia.org/wiki/Tree_(graph_theory)#Ordered_tree">Ordered Tree</a>
                                 </li>
                               </ul>
                             </li>
