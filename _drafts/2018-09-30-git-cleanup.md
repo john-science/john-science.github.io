@@ -14,6 +14,8 @@ Below is a shell script to find the files in your repo which haven't been edited
 
 (If you aren't running Linux / Bash, the Git commands in this script will still work fine.)
 
+**git_largest_files.sh**:
+
 ```shell
 #!/bin/bash
 
@@ -46,6 +48,8 @@ rm -f "${TMP_PATH}"
 
 Git keeps a complete history of all the files you ever commit and all the changes to those files. So if you want to find the largest files in your repo, you have to search through the entire history of your repo. Luckily, Git gives us the power to do this pretty easily.
 
+**git_lonliest_files.sh**:
+
 ```shell
 #!/bin/bash
 
@@ -74,7 +78,7 @@ for commit in $(git rev-list --all); do
 		awk '{print $(NF-1) "\t" $(NF)}' >> "${TMP_PATH}"
 done
 
-# uniquely sort the results be file size
+# uniquely sort the results by file size
 sort -u --numeric-sort --reverse "${TMP_PATH}" >  "${OUT_PATH}"
 rm -f "${TMP_PATH}"
 
