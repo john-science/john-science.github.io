@@ -1,15 +1,18 @@
 ---
 layout: post
 title: "Cleaning Up Your Old Git Repos"
-tags: [Physics, Math]
-summary: A couple of useful tools for doing the spring cleaning on your old Git repos.
+tags: [Software, Git, Linux]
+summary: A couple of useful tools for doing the Spring Cleaning on your old Git repos.
 ---
 {% include JB/setup %}
 
-Blah Blah Blah... intro
+Whether you're maintaining a long-running project or have just jumped on board a new one, you will occassionally want to do some Spring Cleaning of your Git repos. Below are a couple of scripts I use to find the weak spots in my repos.
 
+### Which files haven't been edited in years?
 
-lonely files
+Below is a shell script to find the files in your repo which haven't been edited in a long time. Some of these will just be static resources that don't matter, but I find this script frequently turns up unused and outdated code in repos that need some TLC.
+
+(If you aren't running Linux / Bash, the Git commands in this script will still work fine.)
 
 ```shell
 #!/bin/bash
@@ -39,8 +42,9 @@ grep -v '^#' "${TMP_PATH}" | sort -u > "${OUT_PATH}"
 rm -f "${TMP_PATH}"
 ```
 
-blah blah blah, witty things
+### Where are the biggest files in your repo?
 
+Git keeps a complete history of all the files you ever commit and all the changes to those files. So if you want to find the largest files in your repo, you have to search through the entire history of your repo. Luckily, Git gives us the power to do this pretty easily.
 
 ```shell
 #!/bin/bash
@@ -75,5 +79,4 @@ sort -u --numeric-sort --reverse "${TMP_PATH}" >  "${OUT_PATH}"
 rm -f "${TMP_PATH}"
 
 ```
-
-yack yack yack... closing wittisicsm
+Did someone commit a 100MB data file and then quickly `git rm` it, thinking no one would notice? Well, I just noticed, and I am going to expunge that file from my history. Can't have it slowing me down.
