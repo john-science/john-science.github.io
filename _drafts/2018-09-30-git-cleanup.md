@@ -6,11 +6,11 @@ summary: A couple of useful tools for doing the Spring Cleaning on your old Git 
 ---
 {% include JB/setup %}
 
-Whether you're maintaining a long-running project or have just jumped on board a new one, you will occassionally want to do some Spring Cleaning of your Git repos. Below are a couple of scripts I use to find the weak spots in repos.
+Whether you're maintaining a long-running project or have just jumped on board a new one, you will occassionally want to do some Spring Cleaning on your Git repos. Below are a couple of scripts to help you find the weak spots in your repos.
 
 ### Which files haven't been edited in years?
 
-Below is a shell script to find the files in a repo that haven't been edited in a long time. Some of these will just be static resources that don't matter, sure. But I frequently turn up unused and outdated code this way, particularly in repos needing some TLC.
+Below is a shell script to find the files in a repo that haven't been edited in a long time. Some of these will just be static resources that don't matter, sure. But this script will also turn up all sorts of unused code and resources, particularly in repos needing some TLC.
 
 (If you aren't running Linux / Bash, the Git commands in this script will still work fine.)
 
@@ -46,7 +46,7 @@ rm -f "${TMP_PATH}"
 
 ### Where are the biggest files in your repo?
 
-Git keeps a complete history of all the files you ever commit and all the changes to those files. So if you want to find the largest files in your repo, you have to search through the entire history of your repo. Luckily, Git gives us the power to do this pretty easily.
+Git keeps a complete history of all the files you ever commit and all the changes to those files. So if you want to find the largest files in your repo, you have to search through the entire history of your repo. Luckily, Git gives us the power to do that pretty easily.
 
 **git_lonliest_files.sh**:
 
@@ -62,7 +62,7 @@ Git keeps a complete history of all the files you ever commit and all the change
 #                                                                      #
 #  To remove a large file from the history of your repo, do:           #
 #                                                                      #
-#  git filter-branch --tree-filter 'rm -f path/to/thing.bin' -- --all  #
+#  git filter-branch -f --tree-filter 'rm -f path/to/thing' -- --all   #
 #                                                                      #
 #  WARNING: This script will be slow for very large / old repos.       #
 ########################################################################
@@ -83,4 +83,4 @@ sort -u --numeric-sort --reverse "${TMP_PATH}" >  "${OUT_PATH}"
 rm -f "${TMP_PATH}"
 
 ```
-Did someone commit a 100MB data file and then quickly `git rm` it, thinking no one would notice? Well, I just noticed, and I am going to expunge that file from my history. Can't have it slowing me down.
+Did someone commit a 100MB data file and then quickly `git rm` it, thinking no one would notice? Well, you just noticed, and now you can filter it out of your history so it stops slowing you down.
