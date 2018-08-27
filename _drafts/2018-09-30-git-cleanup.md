@@ -62,7 +62,10 @@ Git keeps a complete history of all the files you ever commit and all the change
 #                                                                      #
 #  To remove a large file from the history of your repo, do:           #
 #                                                                      #
-#  git filter-branch -f --tree-filter 'rm -f path/to/thing' -- --all   #
+#  git filter-branch --force --index-filter 'git rm --cached \         #
+#      --ignore-unmatch path/to/thing.bin' --prune-empty \             #
+#      --tag-name-filter cat -- --all                                  #
+#  git push -f                                                         #
 #                                                                      #
 #  WARNING: This script will be slow for very large / old repos.       #
 ########################################################################
