@@ -1,16 +1,16 @@
 ---
 layout: post
 title: "Cleaning Up Your Old Git Repos"
-tags: [Software, Git, Linux]
+tags: [Git, Software, Linux]
 summary: A couple of useful tools for doing the Spring Cleaning on your old Git repos.
 ---
 {% include JB/setup %}
 
-Whether you're maintaining a long-running project or have just jumped on board a new one, you will occassionally want to do some Spring Cleaning of your Git repos. Below are a couple of scripts I use to find the weak spots in my repos.
+Whether you're maintaining a long-running project or have just jumped on board a new one, you will occassionally want to do some Spring Cleaning of your Git repos. Below are a couple of scripts I use to find the weak spots in repos.
 
 ### Which files haven't been edited in years?
 
-Below is a shell script to find the files in your repo which haven't been edited in a long time. Some of these will just be static resources that don't matter, but I find this script frequently turns up unused and outdated code in repos that need some TLC.
+Below is a shell script to find the files in a repo that haven't been edited in a long time. Some of these will just be static resources that don't matter, sure. But I frequently turn up unused and outdated code this way, particularly in repos needing some TLC.
 
 (If you aren't running Linux / Bash, the Git commands in this script will still work fine.)
 
