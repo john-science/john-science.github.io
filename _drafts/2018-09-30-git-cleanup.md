@@ -6,11 +6,11 @@ summary: A couple of useful tools for doing the Spring Cleaning on your old Git 
 ---
 {% include JB/setup %}
 
-Whether you're maintaining a long-running project or have just jumped on board a new one, you will occassionally want to do some Spring Cleaning on your Git repos. Below are a couple of scripts to help you find the weak spots in your repos.
+Whether you have been maintaining the same project for years or just jumped onto something new, you need to occassionally do some spring cleaning on your repos. Below are a couple of scripts to help you find a repos weak spots.
 
 ### Which files haven't been edited in years?
 
-Below is a shell script to find the files in a repo that haven't been edited in a long time. Some of these will just be static resources that don't matter, sure. But this script will also turn up all sorts of unused code and resources, particularly in repos needing some TLC.
+Below is a shell script to find the files in a repo that haven't been edited in a long time. Some of these will just be static resources that don't matter, sure. But this script will also turn up any unused code and resources. This script is a *must* if you think a repo needs some TLC.
 
 (If you aren't running Linux / Bash, the Git commands in this script will still work fine.)
 
@@ -46,7 +46,7 @@ rm -f "${TMP_PATH}"
 
 ### Where are the biggest files in your repo?
 
-Git keeps a complete history of all the files you ever commit and all the changes to those files. So if you want to find the largest files in your repo, you have to search through the entire history of your repo. Luckily, Git gives us the power to do that pretty easily.
+Git keeps a complete history of all the files ever committed and all the changes to those files. So if you want to find the largest files in your repo, you have to search through the entire history of your repo. Luckily, Git gives us the power to do that pretty easily.
 
 **git_lonliest_files.sh**:
 
@@ -71,7 +71,7 @@ Git keeps a complete history of all the files you ever commit and all the change
 ########################################################################
 
 # set file paths
-TMP_PATH='all_the_lonely_files.tmp'
+TMP_PATH='big_files.tmp'
 OUT_PATH='largest_files.txt'
 rm -f "${TMP_PATH}"
 
