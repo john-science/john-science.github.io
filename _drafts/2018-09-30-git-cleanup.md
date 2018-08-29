@@ -6,11 +6,14 @@ summary: A couple of useful tools for doing the Spring Cleaning on your old Git 
 ---
 {% include JB/setup %}
 
-Whether you have been maintaining the same project for years or just jumped onto something new, you need to occassionally do some spring cleaning on your repos. Below are a couple of scripts to help you find a repos weak spots.
+Whether you have been maintaining the same project for years or just jumped onto something new, you should occassionally go through your repos and tidy up. This doesn't have to happen often, say once a year. Do it in Spring and call it Spring Cleaning.
+
+Below are a couple scripts to help you find the clutter in your repos.
+
 
 ### Which files haven't been edited in years?
 
-Below is a shell script to find the files in a repo that haven't been edited in a long time. Some of these will just be static resources that don't matter, sure. But this script will also turn up any unused code and resources. This script is a *must* if you think a repo needs some TLC.
+Below is a shell script to find the files in a repo that haven't been edited in a long time. Some of these will just be static resources that don't matter, sure. But this script will also turn up any unused or forgotten files. This script is a *must* if you think a repo needs some TLC.
 
 (If you aren't running Linux / Bash, the Git commands in this script will still work fine.)
 
@@ -44,7 +47,8 @@ grep -v '^#' "${TMP_PATH}" | sort -u > "${OUT_PATH}"
 rm -f "${TMP_PATH}"
 ```
 
-### Where are the biggest files in your repo?
+
+### What are the biggest files in your repo?
 
 Git keeps a complete history of all the files ever committed and all the changes to those files. So if you want to find the largest files in your repo, you have to search through the entire history of your repo. Luckily, Git gives us the power to do that pretty easily.
 
@@ -86,4 +90,5 @@ sort -u --numeric-sort --reverse "${TMP_PATH}" >  "${OUT_PATH}"
 rm -f "${TMP_PATH}"
 
 ```
+
 Did someone commit a 100MB data file and then quickly `git rm` it, thinking no one would notice? Well, you just noticed, and now you can filter it out of your history so it stops slowing you down.
