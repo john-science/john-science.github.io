@@ -1,19 +1,19 @@
 ---
 layout: post
-title: "Cleaning Up Your Old Git Repos"
+title: "Tools for Cleaning Up Git Repos"
 tags: [Git, Software, Linux]
 summary: A couple of useful tools for doing the Spring Cleaning on your old Git repos.
 ---
 {% include JB/setup %}
 
-Whether you have been maintaining the same project for years or just jumped onto something new, you should occassionally go through your repos and tidy up. This doesn't have to happen often, say once a year. Do it in Spring and call it Spring Cleaning.
+Whether you have been maintaining the same project for years or just jumped onto something new, you should occassionally tidy up your repos. This doesn't have to happen often, say once a year. Do it in Spring and call it Spring Cleaning.
 
-Below are a couple scripts to help you find the clutter in your repos.
+Below are a couple scripts to help you find the cob webs and dust bunnies in your repos.
 
 
 ### Which files haven't been edited in years?
 
-Below is a shell script to find the files in a repo that haven't been edited in a long time. Some of these will just be static resources that don't matter, sure. But this script will also turn up any unused or forgotten files. This script is a *must* if you think a repo needs some TLC.
+A good place to start on your spring cleaning is to find all the files in your repos that haven't been edited in years. Sure, some of these will just be static resources. But the shell script below will also turn up any unused and forgotten files you might have lying around.
 
 (If you aren't running Linux / Bash, the Git commands in this script will still work fine.)
 
@@ -28,7 +28,7 @@ Below is a shell script to find the files in a repo that haven't been edited in 
 #  i.e. Sort all the files in a local Git repo by the date of their    #
 #       last commit.                                                   #
 #                                                                      #
-#  WARNING: This script will be slow for very large repos.             #
+#  WARNING: This script will be slow for large repos.                  #
 ########################################################################
 
 # set file paths
