@@ -22,29 +22,29 @@ A good place to start on your spring cleaning is to find all the files in your r
 ```shell
 #!/bin/bash
 
-################################################################
-#  Find the loneliest files in your Git repo.                  #
-#                                                              #
-#  i.e. Sort all the files in a local Git repo by the date of  #
-#       their last commit.                                     #
-#                                                              #
-#  WARNING: This script will be slow for large repos.          #
-################################################################
+#############################################################
+#  Find the loneliest files in your Git repo.               #
+#                                                           #
+#  i.e. Sort all the files in a local Git repo by the date  #
+#       of their last commit.                               #
+#                                                           #
+#  WARNING: This script will be slow for large repos.       #
+#############################################################
 
 # set file paths
-TMP_PATH='all_the_lonely_files.tmp'
-OUT_PATH='lonely_files.txt'
-rm -f "${TMP_PATH}"
+TMP='all_the_lonely_files.tmp'
+OUT='lonely_files.txt'
+rm -f "${TMP}"
 
 # loop through all the files in the repo
 # and get the date for their last commit
 for f in `git ls-tree --full-tree -r HEAD | awk '{print $(NF)}'`; do
-  echo `git log -1 --format=%cd --date=short ${f}` "${f}" >> "${TMP_PATH}"
+  echo `git log -1 --format=%cd --date=short ${f}` "${f}" >> "${TMP}"
 done
 
 # uniquely sort the results by commit date
-grep -v '^#' "${TMP_PATH}" | sort -u > "${OUT_PATH}"
-rm -f "${TMP_PATH}"
+grep -v '^#' "${TMP}" | sort -u > "${OUT}"
+rm -f "${TMP}"
 ```
 
 
@@ -57,37 +57,37 @@ Git keeps a complete history of all the files ever committed and all the changes
 ```shell
 #!/bin/bash
 
-################################################################
-#  Find the largest files in your Git repo.                    #
-#                                                              #
-#  i.e. Sort all the files in a local Git repo by their file   #
-#       size at any point in your repos history.               #
-#       (Even deleted files take up space in your repo.)       #
-#                                                              #
-#  To remove a large file from the history of your repo, do:   #
-#                                                              #
-#  git filter-branch --force --index-filter 'git rm --cached \ #
-#      --ignore-unmatch path/to/thing.bin' --prune-empty \     #
-#      --tag-name-filter cat -- --all                          #
-#  git push -f                                                 #
-#                                                              #
-#  WARNING: This script will be slow for large / old repos.    #
-################################################################
+#############################################################
+#  Find the largest files in your Git repo.                 #
+#                                                           #
+#  i.e. Sort all the files in a local Git repo by their     #
+#       file size at any point in your repos history.       #
+#       (Even deleted files take up space in your repo.)    #
+#                                                           #
+#  To remove a file from the history of your repo, do:      #
+#                                                           #
+#  git filter-branch --force --index-filter \               #
+#      'git rm --cached --ignore-unmatch thing.bin' \       #
+#      --prune-empty --tag-name-filter cat -- --all         #
+#  git push -f                                              #
+#                                                           #
+#  WARNING: This script will be slow for large/old repos.   #
+#############################################################
 
 # set file paths
-TMP_PATH='big_files.tmp'
-OUT_PATH='largest_files.txt'
-rm -f "${TMP_PATH}"
+TMP='big_files.tmp'
+OUT='largest_files.txt'
+rm -f "${TMP}"
 
 # loop through all past commits and grab file sizes
 for commit in $(git rev-list --all); do
   git ls-tree -r --long "${commit}" | \
-    awk '{print $(NF-1) "\t" $(NF)}' >> "${TMP_PATH}"
+    awk '{print $(NF-1) "\t" $(NF)}' >> "${TMP}"
 done
 
 # uniquely sort the results by file size
-sort -u --numeric-sort --reverse "${TMP_PATH}" >  "${OUT_PATH}"
-rm -f "${TMP_PATH}"
+sort -u --numeric-sort --reverse "${TMP}" > "${OUT}"
+rm -f "${TMP}"
 
 ```
 
