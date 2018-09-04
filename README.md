@@ -5,7 +5,6 @@ This is a blog-ish platform about my minor obsessions. Every day I come across t
 **Topics of Interest:**
 
 * Software
-* Data Science
 * Science Fiction
 * Physics
 * Math
