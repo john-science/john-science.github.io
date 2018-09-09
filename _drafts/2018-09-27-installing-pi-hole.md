@@ -8,6 +8,8 @@ summary: Installing a Pi-Hole on my home network, with Comcast and a Raspberry P
 
 ## Setting up the Raspberry Pi
 
+Set 1, buy a Raspberry Pi. Version 2 or newer. I chose a version 3B last year. I had since lost the power cable, apparently. So... details.
+
 > TODO
 
 ## Installing Pi-Hole
