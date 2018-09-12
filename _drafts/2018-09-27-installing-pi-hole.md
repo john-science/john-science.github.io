@@ -23,6 +23,44 @@ You will also need a small set of peripherals for your Raspbery Pi: a power cabl
 
 To do this, you will need an SD card reader, the ability to format your SD card, and the a disk image utility.
 
+First, I need to format my 32GB micro SD card. To start, I need it's name:
+
+    $  mount
+    /dev/sda1
+    ...
+    /dev/mmcblk1p1
+    /dev/mmcblk1p2
+    /dev/mmcblk1p3
+
+Oh, oops, at some point I already formatted this disk into three partitions. What crazy thing was I doing that day? ([I remember](https://github.com/theJollySin/i-wish-i-were-at-defcon-25-hack-a-thon), but it doesn't matter.)
+
+Before I can format it, I need to unmount it:
+
+    $ umount /dev/mmcblk1p1
+    $ umount /dev/mmcblk1p2
+    $ umount /dev/mmcblk1p3
+
+I first I thought unmount was not installed. But, actually it is umount. Somebody trying to save themselves one keystroke 30 years ago. How convenient.
+
+Now I just need to format it:
+
+    $ mkdosfs -I -F32 /dev/mmcblk1p1
+
+(Why, you may ask, did I choose the `FAT32` file system? Good question. I have no idea.)
+
+Formatting my little 32GB drive took 15 minutes. Yawn.
+
+
+**Step 3** Installig the Raspbian OS
+
+I got the Raspbian OS from the official download site [here](https://www.raspberrypi.org/downloads/raspbian/). I decided to get the "Stretch Lite" version.
+
+Last time I downloaded the Raspian OS it took an hour, today it says 2 minutes. Has there website gotten faster, or is it my internet connection?
+
+Okay, let's read ahead. To install the Raspbian OS, I will follow the offical Linux guide [here](https://www.raspberrypi.org/documentation/installation/installing-images/linux.md).
+
+**Step 4** Check the Installation
+
 > TODO
 
 
