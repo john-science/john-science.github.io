@@ -6,11 +6,16 @@ summary: Installing a Pi-Hole on my home network, with Comcast and a Raspberry P
 ---
 {% include JB/setup %}
 
-A Pi-Hole is a tool to filter out all internet traffic from your network that is ad-related. It does this by filtering out IP addresses known to be related to ads, information tracking, or malware.
+What follows is an installation guide for a Pi-Hole.
 
-This page will be an example walk-through of my installation experience, along with some retrospective on life behind a Pi-Hole.
+In particular, I am stuck using Comcast as my ISP and haven't found much helpful information on how this changes things. So I thought I would share what I found.
 
-I am a typical American end-user, stuck using Comcast Xfinity for my ISP. I have 3-5 internet-enabled devices connected to my home network at any one time. And I will be doing this installation from a Linux computer (though that won't matter much).
+
+## What's a Pi-Hole?
+
+A Pi-Hole is a piece of software that filters all ads from your home internet traffic. This is a great tool for privacy and even helps filter out malware.
+
+A Pi-Hole works at the modem/router/DHCP level of your home network, by filtering out all traffic from known advertising or malicious IPs (we're looking at you, ads.google).
 
 
 ## Setting up the Raspberry Pi
