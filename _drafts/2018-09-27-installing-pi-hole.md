@@ -20,9 +20,9 @@ A Pi-Hole works at the modem/router/DHCP level of your home network, by filterin
 
 ## Setting up the Raspberry Pi
 
-* **Step 1** Get a Raspberry Pi. (Version 2 or newer preferred for performance.
+* **Step 1** Get a Raspberry Pi. (Version 2 or newer preferred for performance.)
 
-You will also need a small set of peripherals for your Raspbery Pi: a power cable, an SD card, and optionally a case.
+I got a Pi version 3B kit, with a power cable, SD card, and a case.
 
 * **Step 2** Install an operating system on your Pi.
 
@@ -45,7 +45,7 @@ Before I can format it, I need to unmount it:
     $ umount /dev/mmcblk1p2
     $ umount /dev/mmcblk1p3
 
-I first I thought unmount was not installed. But, actually it is umount. Somebody trying to save themselves one keystroke 30 years ago. How convenient.
+I first I thought "unmount" was not installed. But, actually it is "umount". Somebody trying to save themselves one keystroke 30 years ago. I'm going to make an alias (`alias unmount='umount'`).
 
 Now I just need to format it:
 
@@ -53,7 +53,7 @@ Now I just need to format it:
 
 (Why, you may ask, did I choose the `FAT32` file system? Good question. I have no idea.)
 
-Formatting my little 32GB drive took 15 minutes. Yawn.
+Formatting my little 32GB drive took 15 minutes. *Yawn.*
 
 
 **Step 3** Installig the Raspbian OS
@@ -71,7 +71,11 @@ Okay, let's read ahead. To install the Raspbian OS, I will follow the offical Li
 
 ## Installing Pi-Hole
 
+First things first, I hooked my Raspberry Pi up to the internet...
+
 > TODO
+
+> TODO: bonus points: turn off WIFI and Bluetooth on the Pi.  It's going to be hooked up to the modem by wire anyway, and it IS a security device, so let's lock it down.
 
 
 ## Setting up the Modem
