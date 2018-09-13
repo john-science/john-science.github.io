@@ -64,7 +64,14 @@ Last time I downloaded the Raspian OS it took an hour, today it says 2 minutes. 
 
 Okay, let's read ahead. To install the Raspbian OS, I will follow the offical Linux guide [here](https://www.raspberrypi.org/documentation/installation/installing-images/linux.md).
 
-**Step 4** Check the Installation
+**Step 4** Change the Password
+
+> TODO: the Raspberry Pi comes with a well-known default username/pass. At *least* change that password.
+
+    $ passwd
+
+
+**Step 5** Check the Installation
 
 > TODO
 
