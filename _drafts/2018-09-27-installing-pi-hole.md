@@ -73,15 +73,18 @@ Okay, let's read ahead. To install the Raspbian OS, I will follow the offical Li
 
 **Step 4** Change the Password
 
-> TODO: the Raspberry Pi comes with a well-known default username/pass. At *least* change that password.
+The Raspbian OS comes with a default username/password. But we are trying to build a security device here, so let's change that default password. Since Raspbian is just a Linux distro, changing the password is as easy as:
 
     $ passwd
+
+Pick something greater than 12 characters long. If you want a safe (client-side JS) way to test how strong your password is testanti it out [here](http://antineutrino.net/apps/password_analyzer).
 
 
 **Step 5** Check the Installation
 
-> TODO: Sure, it seems to work.
+How do you check if a Linux installation is working? Just play around and make sure you can do things:
 
+    $ top
     $ ping bing.com
     $ python
     >>> print("Yeah, because everyone uses Bing.")
