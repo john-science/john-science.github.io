@@ -55,6 +55,13 @@ Now I just need to format it:
 
 Formatting my little 32GB drive took 15 minutes. *Yawn.*
 
+**Step 2.5** Unbreaking the Keyboard
+
+Every time...
+
+    sudo raspi-config
+
+Localization Options > Keyboard Setup
 
 **Step 3** Installig the Raspbian OS
 
@@ -73,7 +80,11 @@ Okay, let's read ahead. To install the Raspbian OS, I will follow the offical Li
 
 **Step 5** Check the Installation
 
-> TODO
+> TODO: Sure, it seems to work.
+
+    $ ping bing.com
+    $ python
+    >>> print("Yeah, because everyone uses Bing.")
 
 
 ## Installing Pi-Hole
@@ -82,7 +93,9 @@ First things first, I hooked my Raspberry Pi up to the internet...
 
 > TODO
 
-> TODO: bonus points: turn off WIFI and Bluetooth on the Pi.  It's going to be hooked up to the modem by wire anyway, and it IS a security device, so let's lock it down.
+> TODO: bonus points: turn off WIFI and Bluetooth on the Pi.  It's going to be hooked up to the modem by wire anyway, and it IS a security device, so let's lock it down.  https://www.raspberrypi.org/forums/viewtopic.php?f=28&t=146598
+
+    curl -sSL https://install.pi-hole.net | bash
 
 
 ## Setting up the Modem
