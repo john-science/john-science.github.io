@@ -1,19 +1,17 @@
 ---
 layout: post
 title: "Installing a Pi-Hole"
-tags: [Privacy, Raspberry Pi, Software]
+tags: [Privacy, Raspberry Pi, Software, Linux]
 summary: Installing a Pi-Hole on my home network, with Comcast and a Raspberry Pi.
 ---
 {% include JB/setup %}
 
-What follows is an installation guide for a Pi-Hole.
-
-In particular, I am stuck using Comcast as my ISP and haven't found much helpful information on how this changes things. So I thought I would share what I found.
+I am stuck using Comcast as my ISP and haven't found much helpful information on how this changes affects the Pi-Hole installation process. So I thought I would share what I found.
 
 
 ## What's a Pi-Hole?
 
-A Pi-Hole is a piece of software that filters all ads from your home internet traffic. This is a great tool for privacy and even helps filter out malware.
+A Pi-Hole is a piece of software that filters all ads from your home internet traffic. It is a great tool for privacy and even helps filter out malware.
 
 A Pi-Hole works at the modem/router/DHCP level of your home network, by filtering out all traffic from known advertising or malicious IPs (we're looking at you, ads.google).
 
@@ -27,6 +25,8 @@ I got a Pi version 3B kit, with a power cable, SD card, and a case.
 * **Step 2** Install an operating system on your Pi.
 
 To do this, you will need an SD card reader, the ability to format your SD card, and the a disk image utility.
+
+Personally, I am running all of this from a Ubuntu 16.04 machine.
 
 First, I need to format my 32GB micro SD card. To start, I need it's name:
 
