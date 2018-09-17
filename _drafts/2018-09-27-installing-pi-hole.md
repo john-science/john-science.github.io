@@ -101,7 +101,11 @@ To install the Pi-Hole itself, I went to [pi-hole.net](pi-hole.net) and read thr
 
 And we're rolling. Easy.
 
-> TODO: bonus points: turn off WIFI and Bluetooth on the Pi.  It's going to be hooked up to the modem by wire anyway, and it IS a security device, so let's lock it down.  https://www.raspberrypi.org/forums/viewtopic.php?f=28&t=146598
+**Bonus Points - Disconnecting WIFI and Bluetooth**
+
+We really don't need the WIFI and the Bluetooth on and running on our Raspberry Pi any more. They're not going to be used and, worse, they are an unnecessary security weakness in our system. So let's turn them off. Their are [two strategies](https://raspberrypi.stackexchange.com/questions/53149/disable-power-on-wifi-and-bluetooth-interfaces-during-boot) to do this.
+
+> TODO
 
 
 ## Setting up the Modem
