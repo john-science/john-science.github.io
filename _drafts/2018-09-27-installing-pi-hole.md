@@ -105,7 +105,7 @@ And we're rolling. Easy.
 
 We really don't need the WIFI and the Bluetooth on and running on our Raspberry Pi any more. They're not going to be used and, worse, they are an unnecessary security weakness in our system. So let's turn them off. Their are [two strategies](https://raspberrypi.stackexchange.com/questions/53149/disable-power-on-wifi-and-bluetooth-interfaces-during-boot) to do this.
 
-> TODO
+> TODO!!!
 
 
 ## Setting up the Modem
@@ -114,6 +114,9 @@ We really don't need the WIFI and the Bluetooth on and running on our Raspberry 
 
 
 ## Configure the Comcast Router
+
+Okay, after some shakanery I was able to log onto my Comcast modem by going to the ip `10.0.0.1`. This may or may not work for you. Apparently it varies. I have no idea why it *would* though.
+
 
 > TODO
 
