@@ -105,6 +105,25 @@ And we're rolling. Easy.
 
 We really don't need the WIFI and the Bluetooth on and running on our Raspberry Pi any more. They're not going to be used and, worse, they are an unnecessary security weakness in our system. So let's turn them off. Their are [two strategies](https://raspberrypi.stackexchange.com/questions/53149/disable-power-on-wifi-and-bluetooth-interfaces-during-boot) to do this.
 
+*First Method: Remove the Hardward definitions*
+
+We define out hardware in `/boot/config.txt` in Raspbian, so we can disable these devices like so:
+
+    dtoverlay=pi3-disable-bt
+    dtoverlay=pi3-disable-wifi
+
+*Second Method: Blacklist the Device Drivers*
+
+We define our device drivers in Raspbian here: `/etc/modprobe.d/raspi-blacklist.conf`. So all we have to do to disable the drivers is blacklist them like so:
+
+    #wifi
+    blacklist brcmfmac
+    blacklist brcmutil
+    #bt
+    blacklist btbcm
+    blacklist hci_uart
+
+
 > TODO!!!
 
 
@@ -115,7 +134,7 @@ We really don't need the WIFI and the Bluetooth on and running on our Raspberry 
 
 ## Configure the Comcast Router
 
-Okay, after some shakanery I was able to log onto my Comcast modem by going to the ip `10.0.0.1`. This may or may not work for you. Apparently it varies. I have no idea why it *would* though.
+Okay, after some shakanery I was able to log onto my Comcast modem by going to the ip `10.0.0.1`. This may or may not work for you. Apparently it varies. For some inexplicable "Comcast reason".
 
 
 > TODO
