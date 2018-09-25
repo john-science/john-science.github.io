@@ -6,11 +6,29 @@ summary: The most fundamental theory in all of science.
 ---
 {% include JB/setup %}
 
-Noether's Theorem is so general it serves as the foundation for nearly all other scientific principles: conservation of energy, conservation of momentum, conservation of name-a-thing. Strangley, it is not taught to undergraduate physics majors in America.  Perhaps this is because the theory is so general it is hard to find a practical problem that a student can sink their teeth into. Or maybe education is not what it is cracked up to be.  Maybe Emmy Noether just never got famous enough, who knows.
 
-Einstein had nothing but [extremely flattering](https://www.washingtonpost.com/news/comic-riffs/wp/2015/03/23/emmy-noether-google-doodle-why-einstein-called-her-a-creative-mathematical-genius/) things to say about Noether, who remains one of the greatest scientific minds ever.
+## Outline
+  
+The goal of this talk is to explain Noether's Theorem at a no-math level, and give a brief biography of Emmy Noether.
 
-Anyway, let us talk about the theory.
+Ideally, this will be presentable in 15-30 minutes.
+
+Ideally, it will be fully presentable with no diagrams, or only a couple diagrams which are hand-drawable.
+
+#### Life up to the Theorem
+
+> TODO
+
+#### The Theorem
+
+> TODO
+
+#### Life After the Theorem
+
+> TODO
+  
+
+## NOTES
 
 * [Einstein was Noether's Mentor](https://www.washingtonpost.com/news/comic-riffs/wp/2015/03/23/emmy-noether-google-doodle-why-einstein-called-her-a-creative-mathematical-genius/?noredirect=on&utm_term=.c05fbd4bd738)
   - Einstein called her two years at Pennsylvania’s Bryn Mawr “the happiest and perhaps the most fruitful of her entire career.”
@@ -50,25 +68,3 @@ Anyway, let us talk about the theory.
   - There is a certain amount mythos about a great mind dying young. Painters have Van Gogh. Writers have *cough*. Mathematicians and Physicists have Emmy Noether.
   - She also did a bunch of important group theory, ring theory, and hypercomplex numbers. Stuff I do not know well.
   - Apparently, Noether is still very, very famous amoung mathematicians. I think for Noether Rings.
-  
-  
-  ## Outline
-  
-  The goal of this talk is to explain Noether's Theorem at a no-math level, and give a brief biography of Emmy Noether.
-  
-  Ideally, this will be presentable in 15-30 minutes.
-  
-  Ideally, it will be fully presentable with no diagrams, or only a couple diagrams which are hand-drawable.
-  
-  #### Life up to the Theorem
-  
-  TODO
-  
-  #### The Theorem
-  
-  TODO
-  
-  #### Life After the Theorem
-  
-  TODO
-  
