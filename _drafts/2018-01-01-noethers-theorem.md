@@ -15,6 +15,10 @@ Anyway, let us talk about the theory.
 * [Einstein was Noether's Mentor](https://www.washingtonpost.com/news/comic-riffs/wp/2015/03/23/emmy-noether-google-doodle-why-einstein-called-her-a-creative-mathematical-genius/?noredirect=on&utm_term=.c05fbd4bd738)
   - Einstein called her two years at Pennsylvania’s Bryn Mawr “the happiest and perhaps the most fruitful of her entire career.”
 * [Wikipedia](https://en.wikipedia.org/wiki/Emmy_Noether)
+  - proved in 1915, published in 1918
+  - ovarian cancer, convolescence, death, very swiftly. Causes unclear at the time.
+  - appears to have loved math first and foremost in her life, passionately
+  - no evidence she ever married or had children
 * [Science Asylum](https://www.youtube.com/watch?v=ahf0zCaqrwM)
   - Noether helped Einstein and Hilbert on GR.
   - Noether gave lectures at Hilbert's university in 1915 and it was so scandalous she had to officially be his "assistant" for her lecture series.
