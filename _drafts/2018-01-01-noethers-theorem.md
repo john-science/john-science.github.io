@@ -33,6 +33,7 @@ Ideally, it will be fully presentable with no diagrams, or only a couple diagram
 - Noether's Theorem: for every symmetry in nature there is a corresponding conservation law. (And vice versa.) (The math is roughly: Principle of Least Action + a symmetry + Noether's Theorm = Law of Nature. Just be clear, Nother came up with a way to *generate* the laws of nature. The theorem is the tool which is used to create, build, and understand the laws of nature; all of the conservation laws. Newton watched the world and found conserved quantities, and Nother developed a theorem which explained WHY they were conserved.
 - Principle of Least Action: kinetic - potential energy is conserved. The universe is lazy. Imagine the path a golf ball takes in an arc from a golfer. Now imagine that path swirling up 1000 yards in a spiral after it leaves the golfer but landing in the same spot at the end. That's wrong, right? Now imagine the golf ball leaving the golfer and hitting the same spot at the end, but snaking left to right wildly hundreds of yards skimming the grass. Still wrong, yeah? The path it takes is the laziest one for nature, it's the one that minimizes the action.
 - Describe what a symmetry is. That's always fun.
+  + What if the entire universe was a bit to the right of where it is now? What if 
 - Laws of motion: spatial symmetries. Work, heat, mass -> time. Take all the other laws of nature and now we know WHY.
 
 
