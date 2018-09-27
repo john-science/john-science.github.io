@@ -50,6 +50,7 @@ Ideally, it will be fully presentable with no diagrams, or only a couple diagram
 - There is a certain amount mythos about a great mind dying young. Painters have Van Gogh. Writers have *cough*. Mathematicians and Physicists have Emmy Noether.
 - Einstein called her two years at Pennsylvania’s Bryn Mawr “the happiest and perhaps the most fruitful of her entire career.”
 - appears to have loved math first and foremost in her life, passionately
+- Einstein called her a genius.
 
 
 ## Links
@@ -60,3 +61,5 @@ Ideally, it will be fully presentable with no diagrams, or only a couple diagram
 * [Physics is Beautiful](https://www.youtube.com/watch?v=C4vNPEEwsmc)
 * [Emmy Noether is buried in Philidelphia](https://en.wikipedia.org/wiki/Bryn_Mawr_College#M._Carey_Thomas_Library)
 * [Emmy Noether and the Fabric of Reality](https://www.youtube.com/watch?v=1_MpQG2xXVo)
+* [Brilliant YT Channel](https://www.youtube.com/watch?v=04ERSb06dOg)
+
