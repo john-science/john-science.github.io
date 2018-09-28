@@ -9,9 +9,9 @@ summary: A soft, friendly introduction to networking in Linux.
 Networking is a whole field that you could spend your entire life studying and working in. And Linux is a big ecosystem. So getting started learning to deal with your network in Linux could sound a little intimidating. This guide will not attempt to teach you everything, you will not find the deep secrets of Linux and networking here. Instead, this will be a beginner-level, friendly introduction to four Linux commandline networking tools that will help form a solid starting point to explore and work on your network.
 
 
-## netstat
+## ss
 
-> TODO: [netstat](https://en.wikipedia.org/wiki/Netstat)
+> TODO: [ss](https://en.wikipedia.org/wiki/Iproute2)
 
 
 ## nmap
