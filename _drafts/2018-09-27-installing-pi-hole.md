@@ -134,8 +134,7 @@ We define our device drivers in Raspbian here: `/etc/modprobe.d/raspi-blacklist.
 
 ## Configure the Comcast Router
 
-Okay, after some shakanery I was able to log onto my Comcast modem by going to the ip `10.0.0.1`. This may or may not work for you. Apparently it varies. For some inexplicable "Comcast reason".
-
+Next, you need to log into your Comcast router. For some reason, this is not going to be the same for everyone. After some playing around, I found my router's IP was `10.0.0.1`. And then, to my horror, I found the username/password to my Comcast router was `admin`/`password`. So, I changed that. You may also find your default password is `admin` or `highspeed`. These are straight-up terryible but Comcast justifies it by say that have to beinside the network to log into the router anyway.
 
 > TODO
 
