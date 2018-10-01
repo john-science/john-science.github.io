@@ -6,7 +6,9 @@ summary: A list of all the things left that physics doesn't adaquately explain.
 ---
 {% include JB/setup %}
 
-Below is a list of the most fundamental and important unsolved problems in physics. Just to be clear, in order to make the list there must be a real-world, physical observation that does not fit with our understanding of the universe. For instance, finding a room temperature super conductor would be awesome, but there is no unexplained observation there it is just a very hard (and important) engineering problem.
+Below is a list of the most fundamental unsolved problems in physics.
+
+Just to be clear, in order to make the list there must be a real-world, physical observation that does not fit with our understanding of the universe. For instance, a lot of physicists are looking for room-temperature super conductors. This is an important, unsolved problem in physics. But there is no observation of the real world that breaks the standard model there, this is almost an engineering problem, in that there is no guarantee that finding a room-temperature super conductor would increase our understanding of the universe.
 
 Please note the date of publication in the URL of this post. Things change and the biggest questions in physics don't *stay* unanswered.
 
