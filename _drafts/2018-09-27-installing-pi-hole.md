@@ -127,16 +127,14 @@ We define our device drivers in Raspbian here: `/etc/modprobe.d/raspi-blacklist.
 > TODO!!!
 
 
-## Setting up the Modem
-
-> TODO
-
-
 ## Configure the Comcast Router
 
 Next, you need to log into your Comcast router. For some reason, this is not going to be the same for everyone. After some playing around, I found my router's IP was `10.0.0.1`. And then, to my horror, I found the username/password to my Comcast router was `admin`/`password`. So, I changed that. You may also find your default password is `admin` or `highspeed`. These are straight-up terryible but Comcast justifies it by say that have to beinside the network to log into the router anyway.
 
-> TODO
+> TODO: Reconnect the Pi-Hole to my network and note its IP.
+> TODO: Set up the DHCP on the Comcast router to only dynamically allocate IPs *above* the static IP given to my Pi-Hole.
+> TODO: Point the Comcast router at my Pi-Hole as a DNS.
+> TODO: Profit?
 
 
 ## Up and Running
