@@ -36,6 +36,8 @@ Ideally, it will be fully presentable with no diagrams, or only a couple diagram
   + What if the entire universe was a bit to the right of where it is now? What if the entire universe was suddenly rotated by 10%, including you? What if the whole universe was exactly the same as it is now, but it started 4 seconds earlier?
   + An asteroid flying through deep space.
   + Running a chemistry experiment an hour in the future.
+  + Run any experiment in a different time or place. Keeping everything else the same, nothing changes.
+  + A moon in a stable orbit around a cold, dead star. But, you know, up beat.
 - Laws of motion: spatial symmetries. Work, heat, mass -> time. Take all the other laws of nature and now we know WHY.
 
 
