@@ -18,6 +18,8 @@ A Pi-Hole works at the modem/router level of your home network, by filtering out
 
 ## Setting up the Raspberry Pi
 
+This is all pretty basic. If you have already played around with an RPi a bit, you can skip ahead.
+
 * **Step 1** Get a Raspberry Pi.
 
 You will want at least a Raspberry Pi version 2 for performance reasons. I got a Pi version 3B kit, with a power cable, SD card, and a case.
@@ -124,7 +126,7 @@ We define our device drivers in Raspbian here: `/etc/modprobe.d/raspi-blacklist.
     blacklist hci_uart
 
 
-> TODO!!!
+> TODO: Oh, have you not done this yet?
 
 
 ## Configure the Comcast Router
@@ -139,10 +141,9 @@ Next, you need to log into your Comcast router. For some reason, this is not goi
 
 ## Up and Running
 
-> TODO
+> TODO: screenshot or it didn't happen
 
 
 ## Retrospective
 
-> TODO
-
+> TODO: After a week or two of data has been collected.
