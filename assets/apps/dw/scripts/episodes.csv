@@ -75,14 +75,14 @@ s_num|e_num|name|minutes|link|desc|notes
 11|74|Planet of the Spiders|150|https://en.wikipedia.org/wiki/Planet_of_the_Spiders|Giant Spiders and Mike Yates feature in the Third Doctor's swansong.|
 12|75|Robot|100|https://en.wikipedia.org/wiki/Robot_%28Doctor_Who%29|After his regeneration, the Doctor investigates the robbery of top secret plans.|
 12|76|The Ark in Space|100|https://en.wikipedia.org/wiki/The_Ark_in_Space|The TARDIS materialises aboard the Ark, a space station orbiting Earth.|
-12|77|The Sontaran Experiment|50|https://en.wikipedia.org/wiki/The_Sontaran_Experiment|The Doctor, Sarah and Harry arrive on a distant future Earth which is now a desolate wilderness.|
-12|78|Genesis of the Daleks|150|https://en.wikipedia.org/wiki/Genesis_of_the_Daleks|The Time Lords foresee Daleks conquering the Universe, and send the Doctor to stop them.|
+12|77|The Sontaran Experiment|50|https://en.wikipedia.org/wiki/The_Sontaran_Experiment|The crew arrive on a distant future Earth which is now a desolate wilderness.|
+12|78|Genesis of the Daleks|150|https://en.wikipedia.org/wiki/Genesis_of_the_Daleks|The Time Lords send the Doctor to stop the Daleks conquering the Universe.|
 12|79|Revenge of the Cybermen|100|https://en.wikipedia.org/wiki/Revenge_of_the_Cybermen|The time ring returns the Doctor, Sarah and Harry to space station Nerva.|
 13|80|Terror of the Zygons|100|https://en.wikipedia.org/wiki/Terror_of_the_Zygons|Oil rigs off Scotland are being attacked by the Loch Ness monster.|
 13|81|Planet of Evil|100|https://en.wikipedia.org/wiki/Planet_of_Evil|The TARDIS picks up a distress call so the Doctor and Sarah go to investigate.|
 13|82|Pyramids of Mars|100|https://en.wikipedia.org/wiki/Pyramids_of_Mars|In England, 1911, the Doctor and Sarah encounter Sutekh, last of the Osirans.|
 13|83|The Android Invasion|100|https://en.wikipedia.org/wiki/The_Android_Invasion|The Doctor and Sarah arrive on present day Earth. Or do they?|
-13|84|The Brain of Morbius|100|https://en.wikipedia.org/wiki/The_Brain_of_Morbius|The TARDIS lands on wreckage-strewn Karn where Dr Solon gives the Doctor and Sarah shelter.|
+13|84|The Brain of Morbius|100|https://en.wikipedia.org/wiki/The_Brain_of_Morbius|The TARDIS lands on wreckage-strewn Karn where Dr Solon gives the crew shelter.|
 13|85|The Seeds of Doom|150|https://en.wikipedia.org/wiki/The_Seeds_of_Doom|An alien pod has been found and the Doctor rushes to investigate.|
 14|86|The Masque of Mandragora|100|https://en.wikipedia.org/wiki/The_Masque_of_Mandragora|In 15th Century Italy, the Doctor & Sarah save Earth from the Mandragora Helix.|
 14|87|The Hand of Fear|100|https://en.wikipedia.org/wiki/The_Hand_of_Fear|The Doctor & Sarah Jane battle a fossilised alien hand. Eldrad must live.|
@@ -97,8 +97,8 @@ s_num|e_num|name|minutes|link|desc|notes
 15|96|Underworld|100|https://en.wikipedia.org/wiki/Underworld_%28Doctor_Who%29|The TARDIS lands on a spacecraft piloted by the survivors of the planet Minyos.|
 15|97|The Invasion of Time|150|https://en.wikipedia.org/wiki/The_Invasion_of_Time|The Sontarans invade Gallifrey and the Doctor constructs the Demat Gun.|
 16|98|The Ribos Operation|100|https://en.wikipedia.org/wiki/The_Ribos_Operation|To restore cosmic balance, the White Guardian requires the Key to Time.|
-16|99|The Pirate Planet|100|https://en.wikipedia.org/wiki/The_Pirate_Planet|The second segment to the Key is supposed to be on the Planet Calufrax, which is missing.|
-16|100|The Stones of Blood|100|https://en.wikipedia.org/wiki/The_Stones_of_Blood|The tracer points to a stone circle on Boscombe Moor, where druids await the Doctor.|
+16|99|The Pirate Planet|100|https://en.wikipedia.org/wiki/The_Pirate_Planet|The second segment of the Key is on the Planet Calufrax, which is missing.|
+16|100|The Stones of Blood|100|https://en.wikipedia.org/wiki/The_Stones_of_Blood|Druids await the Docter on the Boscombe Moore.|
 16|101|The Androids of Tara|100|https://en.wikipedia.org/wiki/The_Androids_of_Tara|In search of the fourth segment of the Key to Time, the TARDIS lands on Tara.|
 16|102|The Power of Kroll|100|https://en.wikipedia.org/wiki/The_Power_of_Kroll|In search of the fifth segment of the Key to Time, Romana is taken by Swampies.|
 16|103|The Armageddon Factor|150|https://en.wikipedia.org/wiki/The_Armageddon_Factor|In search of the final segment of the Key to Time, the TARDIS lands on Atrios.|
@@ -177,7 +177,7 @@ s_num|e_num|name|minutes|link|desc|notes
 29|176|Fear Her|45|https://en.wikipedia.org/wiki/Fear_Her|The Doctor and Rose visit the 2012 London Olympics, but children are vanishing.|
 29|177|Army of Ghosts|90|https://en.wikipedia.org/wiki/Army_of_Ghosts|Ghosts appear around the Earth, and everyone but the Doctor and Rose accept it.|
 30|178|The Runaway Bride|60|https://en.wikipedia.org/wiki/The_Runaway_Bride_%28Doctor_Who%29|Donna is transported to the TARDIS on her wedding day, and meets the Doctor.|
-30|179|Smith and Jones|45|https://en.wikipedia.org/wiki/Smith_and_Jones_%28Doctor_Who%29|Dr Martha Jones and her hospital are kidnapped by a Judoon platoon upon the Moon.|
+30|179|Smith and Jones|45|https://en.wikipedia.org/wiki/Smith_and_Jones_%28Doctor_Who%29|Dr Jones and her hospital are kidnapped by a Judoon platoon upon the Moon.|
 30|180|The Shakespeare Code|45|https://en.wikipedia.org/wiki/The_Shakespeare_Code|The Doctor and Martha meet Shakespeare, but the Carrionites threaten the world.|
 30|181|Gridlock|45|https://en.wikipedia.org/wiki/Gridlock_%28Doctor_Who%29|While visiting New Earth, Martha gets kidnapped and stuck in traffic.|
 30|182|Daleks in Manhattan|90|https://en.wikipedia.org/wiki/Daleks_in_Manhattan|People are disappearing from 1930s Manhattan and pig men roam the sewers.|
@@ -187,7 +187,7 @@ s_num|e_num|name|minutes|link|desc|notes
 30|186|Blink|45|https://en.wikipedia.org/wiki/Blink_%28Doctor_Who%29|Sally Sparrow is chased by the weeping angles.|
 30|187|Utopia|144|https://en.wikipedia.org/wiki/Utopia_%28Doctor_Who%29|Harry Saxon becomes Prime Minister and faces off with the Doctor.|
 31|188|Voyage of the Damned|72|https://en.wikipedia.org/wiki/Voyage_of_the_Damned_%28Doctor_Who%29|The interstellar cruise ship Titanic is set to crash into the Earth.|
-31|189|Partners in Crime|50|https://en.wikipedia.org/wiki/Partners_in_Crime_%28Doctor_Who%29|Donna Noble searches for the Doctor and investigates the mysterious Adipose Industries.|
+31|189|Partners in Crime|50|https://en.wikipedia.org/wiki/Partners_in_Crime_%28Doctor_Who%29|Donna Noble searches for the Doctor and investigates Adipose Industries.|
 31|190|The Fires of Pompeii|50|https://en.wikipedia.org/wiki/The_Fires_of_Pompeii|The Doctor takes Donna to Pompeii, on the day of the eruption of Mt. Vesuvius.|
 31|191|Planet of the Ood|45|https://en.wikipedia.org/wiki/Planet_of_the_Ood|The Doctor and Donna find the icy homeworld of the Ood slave-race.|
 31|192|The Sontaran Stratagem|90|https://en.wikipedia.org/wiki/The_Sontaran_Stratagem|The Sontarans plan to take over Earth through the Rattigan Academy and ATMOS.|
@@ -215,7 +215,7 @@ s_num|e_num|name|minutes|link|desc|notes
 34|214|The Impossible Astronaut|90|https://en.wikipedia.org/wiki/The_Impossible_Astronaut|The Doctor and co are invited to Lake Silencio, Utah, and then to 1969.|
 34|215|The Curse of the Black Spot|45|https://en.wikipedia.org/wiki/The_Curse_of_the_Black_Spot|A ghostly Siren stalks a 17th-century pirate ship.|
 34|216|The Doctor's Wife|45|https://en.wikipedia.org/wiki/The_Doctor%27s_Wife|A Time Lord distress call lures the TARDIS to a junkyard in a bubble universe.|
-34|217|The Rebel Flesh|90|https://en.wikipedia.org/wiki/The_Rebel_Flesh|Human-like plastic industrial robots are treated poorly and rebel against their makers.|
+34|217|The Rebel Flesh|90|https://en.wikipedia.org/wiki/The_Rebel_Flesh|Human-like industrial robots are treated poorly and rebel against their makers.|
 34|218|A Good Man Goes to War|50|https://en.wikipedia.org/wiki/A_Good_Man_Goes_to_War|The Doctor's darkest hour as he declares war on those who kidnapped Amy.|
 34|219|Let's Kill Hitler|50|https://en.wikipedia.org/wiki/Let%27s_Kill_Hitler|Rory and Amy's best mate kidnap the TARDIS to kill Hitler (and the Doctor).|
 34|220|Night Terrors|45|https://en.wikipedia.org/wiki/Night_Terrors_%28Doctor_Who%29|A little boy named George is scared of the monsters in his cupboard, so are we.|
@@ -227,7 +227,7 @@ s_num|e_num|name|minutes|link|desc|notes
 35|226|Asylum of the Daleks|50|https://en.wikipedia.org/wiki/Asylum_of_the_Daleks|The Daleks summon the Doctor, Amy and Rory to an ice planet.|
 35|227|Dinosaurs on a Spaceship|45|https://en.wikipedia.org/wiki/Dinosaurs_on_a_Spaceship|A spaceship full of dinosaurs is on a collision path with Earth.|
 35|228|A Town Called Mercy|45|https://en.wikipedia.org/wiki/A_Town_Called_Mercy|The Doctor, Amy and Rory travel to the Old West and face a gunslinging cyborg.|
-35|229|The Power of Three|45|https://en.wikipedia.org/wiki/The_Power_of_Three_%28Doctor_Who%29|The Doctor, Amy & Rory investigate small black cubes that have invaded the Earth.|
+35|229|The Power of Three|45|https://en.wikipedia.org/wiki/The_Power_of_Three_%28Doctor_Who%29|The Doctor, Amy & Rory investigate small black cubes that have invaded Earth.|
 35|230|The Angels Take Manhattan|45|https://en.wikipedia.org/wiki/The_Angels_Take_Manhattan|In 1930s New York, the Doctor, Amy, Rory, and River and face the Weeping Angels.|
 35|231|The Snowmen|60|https://en.wikipedia.org/wiki/The_Snowmen|The Doctor & Clara face sinister Doctor Simeon & an army of snowmen.|
 35|232|The Bells of Saint John|45|https://en.wikipedia.org/wiki/The_Bells_of_Saint_John|The Doctor & Clara discover that the wifi is harvesting human minds.|
