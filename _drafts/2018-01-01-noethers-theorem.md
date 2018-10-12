@@ -16,7 +16,7 @@ Ideally, this will be presentable in 15-30 minutes.
 Ideally, it will be fully presentable with no diagrams, or only a couple diagrams which are hand-drawable.
 
 
-#### Life up to the Theorem
+### Life up to the Theorem
 
 - Born 1882, in 1900 she decided to go into mathematics (gasp)
 - She audited undergrad (dad new everyone), and crushed the final exam without ever officially being a student.
@@ -28,10 +28,13 @@ Ideally, it will be fully presentable with no diagrams, or only a couple diagram
 - Noether gave lectures at Hilbert's university in 1915 and it was so scandalous she had to officially be his "assistant" for her lecture series.
 
 
-#### The Theorem
+### The Theorem
 
 - Noether's Theorem: for every symmetry in nature there is a corresponding conservation law. (And vice versa.) (The math is roughly: Principle of Least Action + a symmetry + Noether's Theorm = Law of Nature. Just be clear, Nother came up with a way to *generate* the laws of nature. The theorem is the tool which is used to create, build, and understand the laws of nature; all of the conservation laws. Newton watched the world and found conserved quantities, and Nother developed a theorem which explained WHY they were conserved.
 - Principle of Least Action: kinetic - potential energy is conserved. The universe is lazy. Imagine the path a golf ball takes in an arc from a golfer. Now imagine that path swirling up 1000 yards in a spiral after it leaves the golfer but landing in the same spot at the end. That's wrong, right? Now imagine the golf ball leaving the golfer and hitting the same spot at the end, but snaking left to right wildly hundreds of yards skimming the grass. Still wrong, yeah? The path it takes is the laziest one for nature, it's the one that minimizes the action.
+
+#### Example Symmetries
+
 - Describe what a symmetry is. That's always fun.
   + What if the entire universe was a bit to the right of where it is now? What if the entire universe was suddenly rotated by 10%, including you? What if the whole universe was exactly the same as it is now, but it started 4 seconds earlier?
   + An asteroid flying through deep space.
@@ -41,7 +44,7 @@ Ideally, it will be fully presentable with no diagrams, or only a couple diagram
 - Laws of motion: spatial symmetries. Work, heat, mass -> time. Take all the other laws of nature and now we know WHY.
 
 
-#### Life After the Theorem
+### Life After the Theorem
 
 - In 1919 she was denied a faculty position at her university (Goettingen). "What will our soldiers think when they return to the university and find that they are required to learn at the feet of a woman?"
 - So it was, in 1922 that she got her first academic income, as a Privatdozent (something closer to a grad student than a professor).
