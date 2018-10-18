@@ -32,16 +32,28 @@ Ideally, it will be fully presentable with no diagrams, or only a couple diagram
 - proved in 1915, published in 1918
 - Noether's Theorem: for every symmetry in nature there is a corresponding conservation law. (And vice versa.) (The math is roughly: Principle of Least Action + a symmetry + Noether's Theorm = Law of Nature. Just be clear, Nother came up with a way to *generate* the laws of nature. The theorem is the tool which is used to create, build, and understand the laws of nature; all of the conservation laws. Newton watched the world and found conserved quantities, and Nother developed a theorem which explained WHY they were conserved.
 - Principle of Least Action: kinetic - potential energy is conserved. The universe is lazy. Imagine the path a golf ball takes in an arc from a golfer. Now imagine that path swirling up 1000 yards in a spiral after it leaves the golfer but landing in the same spot at the end. That's wrong, right? Now imagine the golf ball leaving the golfer and hitting the same spot at the end, but snaking left to right wildly hundreds of yards skimming the grass. Still wrong, yeah? The path it takes is the laziest one for nature, it's the one that minimizes the action.
+- Laws of motion: spatial symmetries. Work, heat, mass -> time. Take all the other laws of nature and now we know WHY.
 
 #### Example Symmetries
 
-- Describe what a symmetry is. That's always fun.
-  + What if the entire universe was a bit to the right of where it is now? What if the entire universe was suddenly rotated by 10%, including you? What if the whole universe was exactly the same as it is now, but it started 4 seconds earlier?
-  + An asteroid flying through deep space.
-  + Running a chemistry experiment an hour in the future.
-  + Run any experiment in a different time or place. Keeping everything else the same, nothing changes.
-  + A moon in a stable orbit around a cold, dead star. But, you know, up beat.
-- Laws of motion: spatial symmetries. Work, heat, mass -> time. Take all the other laws of nature and now we know WHY.
+> Describe what a symmetry is. That's always fun.
+
+- What if the entire universe was a bit to the right of where it is now?
+  + What if the whole universe was exactly the same as it is now, but it started 4 seconds earlier?
+  + What if the entire universe was suddenly rotated by 10%, including you?
+- An asteroid flying through deep space.
+  + It doesn't speed up or slow down, it just keeps flying.
+  + It doesn't suddenly turn or change directory, it flies straight.
+  + At any point along it's path it looks the same, flying forward at the same speed. It is "symmetric" in changes along this path. And it conserves its forward momentum.
+  + This is where we get conservation of momentum, from symmetries in translation.
+- You run a simple chemistry experiment: you add flame to some methane in the presence of air. It explodes.
+  + If you set up your experiment exactly the same an hour in the past as an hour in the future you would get the same result: boom.
+  + This means your experiment is "symmetric" to changes in time. And you know that the explosion always has the same amount of energy, so the "energy" of your experiment is conserved. 
+  + This is why energy is conserved, because all the experiments you can think of are "symmetric" to changes in time, as long as you do the experiment exactly the same way each time.
+- A moon in a stable orbit around a cold, dead star. But, you know, up beat. (Conservation of angular momentum)
+- "gauge symmetry" of EM field -> charge conservation
+- 
+
 
 
 ### Life After the Theorem
