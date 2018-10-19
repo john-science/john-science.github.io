@@ -11,18 +11,17 @@ summary: The most fundamental theory in all of science.
   
 The goal of this talk is to explain Noether's Theorem at a no-math level, and give a brief biography of Emmy Noether.
 
-Ideally, this will be presentable in 10-30 minutes.
+Ideally, this will be presentable in 10-20 minutes.
 
 Ideally, it will be fully presentable with no diagrams, or only a couple diagrams which are hand-drawable.
 
 
 ### Life up to the Theorem
 
-- Born 1882, in 1900 she decided to go into mathematics (gasp)
-- She audited undergrad (dad was a math prof), and crushed the final exam without ever officially being a student
-- One of the first woman PhDs in Germany
-- Had to survive on very small inheritance and odd jobs covering for faculty during lectures
-- Could never be the lead author on a paper
+Emmy Noether was born in Germany in 1882. In 1900 she decided to go into mathematics at the university. This was absolutely scandolous at the time. In fact, even though her father was a math professor, she still couldn't officially enroll. She had to unoffically audit every math class for her undergradate. She never took an exam or handed in a homework. But in those days there was one big exam at the end of undergraduate to get your degree. And she crushed that exam, so she got her undergaduate degree in Mathematics. And when she got her PhD in math, she was one of the first women in Germany got get a PhD ever.
+
+However, women couldn't be professors, so she had to survive on a (very small) inheritance from her father. She did odd jobs covering lectures for faculty to make ends meet. She was a prodigous mathematician, publishing frequently. But she could never be the first author on a paper.
+
 - Noether helped Einstein and Hilbert on GR
 - Noether gave lectures at Hilbert's university in 1915 and it was so scandalous she had to officially be his "assistant" for her lecture series
 
