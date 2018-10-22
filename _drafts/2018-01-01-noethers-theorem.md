@@ -22,8 +22,8 @@ Emmy Noether was born in Germany in 1882. In 1900 she decided to go into mathema
 
 However, women couldn't be professors, so she had to survive on a (very small) inheritance from her father. She did odd jobs covering lectures for faculty to make ends meet. She was a prodigous mathematician, publishing frequently. But she could never be the first author on a paper.
 
-- Noether helped Einstein and Hilbert on GR
-- Noether gave lectures at Hilbert's university in 1915 and it was so scandalous she had to officially be his "assistant" for her lecture series
+- Noether gave lectures at Hilbert's university in 1915 and it was so scandalous she had to officially be his "assistant" for her lecture series (TODO: more details)
+- Noether helped Einstein and Hilbert on GR (TODO: worth more research for two sentences.)
 
 
 ### The Theorem
