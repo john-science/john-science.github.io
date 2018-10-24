@@ -17,7 +17,7 @@ A good place to start on your spring cleaning is to find all the files in your r
 
 (If you aren't running Linux / Bash, the Git commands in this script will still work fine.)
 
-**git_largest_files.sh**:
+**git_lonliest_files.sh**:
 
 ```shell
 #!/bin/bash
@@ -52,7 +52,7 @@ rm -f "${TMP}"
 
 Git keeps a complete history of all the files ever committed and all the changes to those files. So if you want to find the largest files in your repo, you have to search through the entire history of your repo. Luckily, Git gives us the power to do that pretty easily.
 
-**git_lonliest_files.sh**:
+**git_largest_files.sh**:
 
 ```shell
 #!/bin/bash
