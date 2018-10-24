@@ -36,6 +36,8 @@ Socket Statistics (`ss`) is a part of the IProute2 Linux network tools. It gives
 
 `iptables` is a network management tool to set priviledges for network packet communications.
 
+> `iptables` has been replaced in Redhat 7 by `firewalld` or some such. Is that right? Is that available in Ubuntu?
+
 
 ## Bonus Round
 
