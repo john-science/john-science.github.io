@@ -6,16 +6,18 @@ summary: Things I learned while getting into mutual funds for personal.
 ---
 {% include JB/setup %}
 
-> I am not a professional financial anything. This is just my own personal research.
+> I am not a professional financial anything. This is just my own personal research. Caveat emptor.
 
-This is just a quick intro explaination of things I learned while researching mutual funds for my own personal investing.
+This is just a quick intro to mutual funds; the kinds of beginner things I learned while researching for my own personal investing.
 
 
 ## Point 1: Diversify Your Investments
 
 > Risk vs Return
 
-Mutual funds often state they are "Small Cap" or "Large Cap" or...
+Mutual funds usually list themselves as [Small Cap](https://www.investopedia.com/terms/s/small-cap.asp), [Mid Cap](https://www.investopedia.com/terms/m/midcapstock.asp), or [Large Cap](https://www.investopedia.com/terms/l/large-cap.asp). The "Cap" there is market capitalization. Big companies like Google and Coca-Cola are "Large Cap". If a company . (In order to count as Small Cap a company needs $300 million capitalization, $2-$10 billion or Mid Cap, and over $10 is Large Cap.)
+
+The idea here is one of risk. The standard wisdom is that Coca-Cola is such a big company that the chances of it's stock being worth $0 next year is virtually zero. But a smaller company (like that local restaurant down the street) *could* actually go out of buisness. So larger companies are seen as less risky.
 
 ![Small vs Large Cap graph](https://www.relakhs.com/wp-content/uploads/2016/01/risk-return-trade-off-large-mid-small-multi-cap-funds-pic.jpg)
 
