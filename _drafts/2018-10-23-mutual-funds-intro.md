@@ -35,14 +35,6 @@ The idea here is that a "Small Cap, Growth Fund" tends to take on more volatile 
 
 This is the simplest way to think of the "risk vs reward" problem in Mutual Fun Investing. Do I trust it as the God's-honest truth? No. But mutual funds tend to be designed around these terms, and that makes this a useful way to think about mutual funds.
 
-Okay, now let's take a somewhat more detailed dive into our options.
-
-![The Graph with more detail](https://qph.fs.quoracdn.net/main-qimg-3035adb8cab0f4526fcf4ddb57bbd3b0)
-
-Okay, there is a lot to unpack here...
-
-In the end, if there is a term you don't know on this chart, it is worth your time to look it up on [Investopedia](https://www.investopedia.com/).
-
 
 ## 2. Watch out for Fees and Expenses
 
@@ -62,7 +54,7 @@ I won't be putting all my money in Index Funds or anything, but this is a *reall
 * Start early
 * How much do you *need* to invest?
 * How much are you allowed to invest (in tax-deferred retirement accounts)?
-
+* Quick List of different types of funds: see [this](https://qph.fs.quoracdn.net/main-qimg-3035adb8cab0f4526fcf4ddb57bbd3b0)
 
 ## Resources
 
