@@ -38,6 +38,8 @@ This is the simplest way to think of the "risk vs reward" problem in Mutual Fun 
 
 ## 2. Watch out for Fees and Expenses
 
+Mutual Funds can be a solid way to invest your money. But the companies that run mutual funds are for-profit businesses. And many of them will try and take a large portion of your profits in various ways. Either up-front, or over the years, mutual funds can charge you money in a lot of ways. If you're going to be be putting away a good portion of your money in mutual funds, it is worth your time to learn about the ways these companies can charge you.
+
 * [SEC page on Feeds and Expenses](https://www.sec.gov/files/ib_mutualfundfees.pdf)
 * [Secondary SEC page on Feeds and Expenses](https://www.sec.gov/fast-answers/answersmffeeshtm.html)
 
