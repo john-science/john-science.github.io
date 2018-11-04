@@ -46,9 +46,16 @@ Mutual Funds can be a solid way to invest your money. But the companies that run
 
 ## 3. Index Funds
 
-I won't be putting all my money in Index Funds or anything, but this is a *really* interesting point.
+> The question is: are [mutual funds](https://www.investopedia.com/walkthrough/fund-guide/mutual-funds-etfs/mf/default.aspx) really better than just a simple [index fund](https://www.investopedia.com/terms/i/indexfund.asp)?
 
-* [Time Time Warren Buffet bet against Hedge Funds](https://www.investopedia.com/articles/investing/030916/buffetts-bet-hedge-funds-year-eight-brka-brkb.asp)
+There is an interesting story where [Warren Buffet bet](https://www.investopedia.com/articles/investing/030916/buffetts-bet-hedge-funds-year-eight-brka-brkb.asp) a million dollars to any [hedge fund](https://www.investopedia.com/terms/h/hedgefund.asp) on Wall Street that they couldn't earn more interest than a simple [index fund](https://www.investopedia.com/terms/i/indexfund.asp) over the next ~9 years. Warren Buffet lost the bet.
+
+Of course, [mutual funds](https://www.investopedia.com/walkthrough/fund-guide/mutual-funds-etfs/mf/default.aspx) are not [hedge funds](https://www.investopedia.com/terms/h/hedgefund.asp):
+
+* [hedge funds](https://www.investopedia.com/terms/h/hedgefund.asp) are much more aggressive in their investments
+* [hedge funds](https://www.investopedia.com/terms/h/hedgefund.asp) require a certain net worth to be able to invest
+
+But this is a great example of the risk-vs-reward trade-offs. Most people believe index funds of the American economy have low risk in the long term.
 
 
 ## 4. What else?
