@@ -2,18 +2,19 @@
 layout: post
 title: "Intro to Mutual Funds"
 tags: [Investing, Personal Finance]
-summary: Things I learned while getting into mutual funds for personal.
+summary: A Quick Introduction to Mutual Fund Basics for Personal Investing
 ---
 {% include JB/setup %}
 
-> I am not a professional financial anything. This is just my own personal research. Caveat emptor.
-
-This is just a quick intro to mutual funds; the kinds of beginner things I learned while researching for my own personal investing.
+> I am not a professional financial anything. This is just my own personal retirment research. Caveat emptor.
 
 
-## 1. Diversify Your Investments
+## 0. What is a Mutual Fund
 
-> Risk vs Return
+A mutual fund is a managed portfolio of stocks and investments that is curated for you using a stated, disciplined investment strategy.
+
+
+## 1. Risk vs Return
 
 Mutual funds usually list themselves as [Small Cap](https://www.investopedia.com/terms/s/small-cap.asp), [Mid Cap](https://www.investopedia.com/terms/m/midcapstock.asp), or [Large Cap](https://www.investopedia.com/terms/l/large-cap.asp). The "Cap" there is market capitalization. Big companies like Google and Coca-Cola are "Large Cap". If a company . (In order to count as Small Cap a company needs $300 million capitalization, $2-$10 billion or Mid Cap, and over $10 is Large Cap.)
 
@@ -35,8 +36,18 @@ The idea here is that a "Small Cap, Growth Fund" tends to take on more volatile 
 
 This is the simplest way to think of the "risk vs reward" problem in Mutual Fun Investing. Do I trust it as the God's-honest truth? No. But mutual funds tend to be designed around these terms, and that makes this a useful way to think about mutual funds.
 
+## 2. Diversify Your Investments
 
-## 2. Watch out for Fees and Expenses
+> All investments involve risk.
+
+Standard wisdom in investing is that you need to diversify your assets. If you have all you money invested in [Dutch Tulips](https://www.investopedia.com/terms/d/dutch_tulip_bulb_market_bubble.asp) because they are selling like hotcakes, you can lose everything if they suddenly become unpopular.  (TODO: phrasing)
+
+Mutual funds seem like a good answer to this. By definition, they help you diversify where each dollar you invest goes. And if we look at the graph above we see an easy way to start thinking about diversifying our assets even further...
+
+> TODO
+
+
+## 3. Watch out for Fees and Expenses
 
 Mutual Funds can be a solid way to invest your money. But the companies that run mutual funds are for-profit businesses. And many of them will try and take a large portion of your profits in various ways. Either up-front, or over the years, mutual funds can charge you money in a lot of ways. If you're going to be be putting away a good portion of your money in mutual funds, it is worth your time to learn about the ways these companies can charge you.
 
@@ -44,7 +55,7 @@ Mutual Funds can be a solid way to invest your money. But the companies that run
 * [Secondary SEC page on Feeds and Expenses](https://www.sec.gov/fast-answers/answersmffeeshtm.html)
 
 
-## 3. Index Funds
+## 4. Index Funds
 
 > The question is: are [mutual funds](https://www.investopedia.com/walkthrough/fund-guide/mutual-funds-etfs/mf/default.aspx) really better than just a simple [index fund](https://www.investopedia.com/terms/i/indexfund.asp)?
 
@@ -64,8 +75,22 @@ But this is a great example of the risk-vs-reward trade-offs. Most people believ
 * How much do you *need* to invest?
 * How much are you allowed to invest (in tax-deferred retirement accounts)?
 * Quick List of different types of funds: see [this](https://qph.fs.quoracdn.net/main-qimg-3035adb8cab0f4526fcf4ddb57bbd3b0)
+  * index funds
+  * equity funds
+  * total return funds
+  * investment grade bond funds
+  * high-yield bond funds
+  * global bond funds
+  * government bond funds
+  * multi-sector funds
+  * state and national municipal bond funds
+  * taxable money market funds
+  * tax-free money market funds
 
 ## Resources
 
 * [Investopedia](https://www.investopedia.com)
+  * [Investopedia - Mutual Fund Basics Tutorial](https://www.investopedia.com/university/mutualfunds/)
+  * [How to Pick a Good Mutual Fund](https://www.investopedia.com/investing/how-pick-best-mutual-fund/)
 * [money.stackexchange](https://money.stackexchange.com/)
+* [Retirment Calculator - 1](https://www.nerdwallet.com/investing/retirement-calculator)
