@@ -16,25 +16,29 @@ A mutual fund is a managed portfolio of stocks and investments that is curated f
 
 ## 1. Risk vs Return
 
-Mutual funds usually list themselves as [Small Cap](https://www.investopedia.com/terms/s/small-cap.asp), [Mid Cap](https://www.investopedia.com/terms/m/midcapstock.asp), or [Large Cap](https://www.investopedia.com/terms/l/large-cap.asp). The "Cap" is short for market capitalization. Big companies like Google and Coca-Cola are "Large Cap". (To count as Small Cap a company needs $300 million capitalization, $2-$10 billion or Mid Cap, and over $10 is Large Cap.)
+#### Small Cap vs Large Cap
+
+Mutual funds usually list themselves as [Small Cap](https://www.investopedia.com/terms/s/small-cap.asp), [Mid Cap](https://www.investopedia.com/terms/m/midcapstock.asp), or [Large Cap](https://www.investopedia.com/terms/l/large-cap.asp). The "Cap" is short for market capitalization. Big companies like Google and Coca-Cola are "Large Cap". (In detail, To count as Small Cap a company needs $300 million capitalization, $2-$10 billion or Mid Cap, and over $10 is Large Cap.)
 
 The idea here is larger companies are less risky. The standard wisdom is that Coca-Cola is such a big company that the chances of it's stock being worth $0 next year is virtually zero. But a smaller company (like that local restaurant down the street) *could* actually go out of buisness suddenly. So larger companies are seen as less risky.
 
 ![Small vs Large Cap graph](https://www.relakhs.com/wp-content/uploads/2016/01/risk-return-trade-off-large-mid-small-multi-cap-funds-pic.jpg)
 
+#### [Value vs Growth](https://money.stackexchange.com/questions/9534/mutual-fund-types-value-vs-blend-vs-growth)
+
 Mutual funds are also frequently broken into "value" or "growth" categories, or "blend" which is a mix of the two. A "value" fund is one that is "cheap" right now, when compared with it's past earnings and reasonable estimates of its current evaluation. A "growth" fund is one that is currently growing really fast and is likely to yield some profits in the very near term. A "blend" fund takes stocks from both of these categories.
 
 The general philosophy is that growth funds can yield higher profits, but in return for also having more risk involved.
 
-* [Value vs Growth](https://money.stackexchange.com/questions/9534/mutual-fund-types-value-vs-blend-vs-growth)
+#### The Graph
 
 Now that we have those two sets of terms defined we can look at our first risk vs reward chart.
 
 ![THE Graph](https://www.weabenefits.com/uploadedImages/Retirement/Enrollment_Booklet/TSA/stylebox.gif)
 
-The idea here is that a "Small Cap, Growth Fund" tends to take on more volatile stocks, which can mean greater profits but also greater losses. That is the risky corner of the graph. But "Large Cap, Value Funds" are much more stable in the long-term, in theory, and so they on the safe but low return corner of the graph.
+The idea here is that a "Small Cap, Growth Fund" tends to take on more volatile stocks, which *can* mean greater profits but definitely means greater risk. That is the risky corner of the graph. But "Large Cap, Value Funds" are much more stable in the long-term, in theory, and so they on the safe (but low return) corner of the graph.
 
-This is the simplest way to think of the "risk vs reward" problem in Mutual Fun Investing. Do I trust it as the God's-honest truth? No. But mutual funds tend to be designed around these terms, and that makes this a useful way to think about mutual funds.
+On the surface, a graph like the one above seems to over-simplify the economy. But since this is frequently how mutual funds are designed, this graph has real value. At least as a starting point.
 
 
 ## 2. Fees and Expenses
