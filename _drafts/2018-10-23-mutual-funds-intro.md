@@ -18,7 +18,7 @@ A mutual fund is a managed portfolio of stocks and investments that is curated f
 
 #### Small Cap vs Large Cap
 
-Mutual funds usually list themselves as [Small Cap](https://www.investopedia.com/terms/s/small-cap.asp), [Mid Cap](https://www.investopedia.com/terms/m/midcapstock.asp), or [Large Cap](https://www.investopedia.com/terms/l/large-cap.asp). The "Cap" is short for market capitalization. Big companies like Google and Coca-Cola are "Large Cap". (In detail, To count as Small Cap a company needs $300 million capitalization, $2-$10 billion or Mid Cap, and over $10 is Large Cap.)
+Mutual funds usually list themselves as [Small Cap](https://www.investopedia.com/terms/s/small-cap.asp), [Mid Cap](https://www.investopedia.com/terms/m/midcapstock.asp), or [Large Cap](https://www.investopedia.com/terms/l/large-cap.asp). The "Cap" is short for market capitalization. (In detail, To count as Small Cap a company needs $300 million capitalization, $2-$10 billion or Mid Cap, and over $10 is Large Cap.) So, when you hear "Large Cap" think Coca-Cola and Google.
 
 The idea here is larger companies are less risky. The standard wisdom is that Coca-Cola is such a big company that the chances of it's stock being worth $0 next year is virtually zero. But a smaller company (like that local restaurant down the street) *could* actually go out of buisness suddenly. So larger companies are seen as less risky.
 
@@ -26,7 +26,7 @@ The idea here is larger companies are less risky. The standard wisdom is that Co
 
 #### [Value vs Growth](https://money.stackexchange.com/questions/9534/mutual-fund-types-value-vs-blend-vs-growth)
 
-Mutual funds are also frequently broken into "value" or "growth" categories, or "blend" which is a mix of the two. A "value" fund is one that is "cheap" right now, when compared with it's past earnings and reasonable estimates of its current evaluation. A "growth" fund is one that is currently growing really fast and is likely to yield some profits in the very near term. A "blend" fund takes stocks from both of these categories.
+Mutual funds are also frequently broken into "value" or "growth" categories (or "blend" which is just a mix of the two). A "value" fund is one that is "cheap" right now, when compared with it's past earnings and reasonable estimates of its current evaluation. A "growth" fund is one that is currently growing really fast and is likely to yield some profits in the very near term. A "blend" fund takes stocks from both of these categories.
 
 The general philosophy is that growth funds can yield higher profits, but in return for also having more risk involved.
 
@@ -34,11 +34,11 @@ The general philosophy is that growth funds can yield higher profits, but in ret
 
 Now that we have those two sets of terms defined we can look at our first risk vs reward chart.
 
-![THE Graph](https://www.weabenefits.com/uploadedImages/Retirement/Enrollment_Booklet/TSA/stylebox.gif)
+![THE Chart](https://www.weabenefits.com/uploadedImages/Retirement/Enrollment_Booklet/TSA/stylebox.gif)
 
-The idea here is that a "Small Cap, Growth Fund" tends to take on more volatile stocks, which *can* mean greater profits but definitely means greater risk. That is the risky corner of the graph. But "Large Cap, Value Funds" are much more stable in the long-term, in theory, and so they on the safe (but low return) corner of the graph.
+The idea here is that a "Small Cap, Growth Fund" tends to take on more volatile stocks, which *can* mean greater profits but definitely means greater risk. Conversely, "Large Cap, Value Funds" are much more stable in the long-term. Again, in theory. 
 
-On the surface, a graph like the one above seems to over-simplify the economy. But since this is frequently how mutual funds are designed, this graph has real value. At least as a starting point.
+On the surface, a graph like the one above seems like it must be over-simplifing the entire economy. But since this is frequently how mutual funds are designed, this graph has real value. It lets you know what the fund managers are thinking.
 
 
 ## 2. Fees and Expenses
