@@ -69,7 +69,7 @@ See [this](https://qph.fs.quoracdn.net/main-qimg-3035adb8cab0f4526fcf4ddb57bbd3b
 
 > All investments involve risk.
 
-Standard wisdom in investing is that you need to diversify your assets. That was when the mark ebbs and flows you can weather the storm. Don't put all your money in [Dutch Tulips](https://www.investopedia.com/terms/d/dutch_tulip_bulb_market_bubble.asp).
+Standard wisdom in investing is that you need to diversify your assets. The market will ebb and flow, and when one investment dips you don't want to lose everything. Don't put all your money in [Dutch Tulips](https://www.investopedia.com/terms/d/dutch_tulip_bulb_market_bubble.asp).
 
 Mutual funds seem like a good answer to this. By definition, they help you diversify where each dollar you invest goes. And if we look at the graph above we see an easy way to start thinking about diversifying our assets even further...
 
