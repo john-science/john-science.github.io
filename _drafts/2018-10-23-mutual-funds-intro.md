@@ -43,7 +43,12 @@ On the surface, a graph like the one above seems like it must be over-simplifing
 
 ## 2. Fees and Expenses
 
-Mutual Funds can be a solid way to invest your money. But the companies that run mutual funds are for-profit businesses. And many of them will try and take a large portion of your profits. Either up-front, or over the years, mutual funds can charge you money in a lot of ways. If you're going to be be putting away a good portion of your money in mutual funds, it is worth your time to learn about the ways these companies can charge you.
+Mutual Funds can be a solid way to invest your money. But the companies that run mutual funds are for-profit businesses. Either up-front, or over the years, mutual funds can charge you money in a lot of ways, they can take a lot of your profits.
+
+Mutual funds can charge you fees in lots of different ways:
+
+* **shareholder fees** are incured during shareholder transactions (buying / selling)
+* **operating costs** are due to paying the people that manage the fund
 
 ![Beware Fees](/assets/images/mutual_fund_fees_ex.png)
 
