@@ -18,9 +18,9 @@ A mutual fund is a managed portfolio of stocks and investments that is curated f
 
 #### Small Cap vs Large Cap
 
-Mutual funds usually list themselves as [Small Cap](https://www.investopedia.com/terms/s/small-cap.asp), [Mid Cap](https://www.investopedia.com/terms/m/midcapstock.asp), or [Large Cap](https://www.investopedia.com/terms/l/large-cap.asp). The "Cap" is short for market capitalization. (In detail, To count as Small Cap a company needs $300 million capitalization, $2-$10 billion or Mid Cap, and over $10 is Large Cap.) So, when you hear "Large Cap" think Coca-Cola and Google.
+Mutual funds usually list themselves as [Small Cap](https://www.investopedia.com/terms/s/small-cap.asp), [Mid Cap](https://www.investopedia.com/terms/m/midcapstock.asp), or [Large Cap](https://www.investopedia.com/terms/l/large-cap.asp). The "Cap" is short for market capitalization. (In detail, to count as Small Cap a company needs $300 million in capitalization, $2-$10 billion for Mid Cap, and over $10 for Large Cap.) So, when you hear "Large Cap" think Coca-Cola and Google.
 
-The idea here is larger companies are less risky. The standard wisdom is that Coca-Cola is such a big company that the chances of it's stock being worth $0 next year is virtually zero. But a smaller company (like that local restaurant down the street) *could* actually go out of buisness suddenly. So larger companies are seen as less risky.
+The idea here is larger companies are less risky. The standard wisdom is that Coca-Cola is such a big company that the chances of it's stock being worth $0 next year is virtually zero. But a smaller company (like a local restaurant chain) *could* actually go out of buisness suddenly. So larger companies are typically seen as less risky.
 
 ![Small vs Large Cap graph](https://www.relakhs.com/wp-content/uploads/2016/01/risk-return-trade-off-large-mid-small-multi-cap-funds-pic.jpg)
 
@@ -28,7 +28,7 @@ The idea here is larger companies are less risky. The standard wisdom is that Co
 
 Mutual funds are also frequently broken into "value" or "growth" categories (or "blend" which is just a mix of the two). A "value" fund is one that is "cheap" right now, when compared with it's past earnings and reasonable estimates of its current evaluation. A "growth" fund is one that is currently growing really fast and is likely to yield some profits in the very near term. A "blend" fund takes stocks from both of these categories.
 
-The general philosophy is that growth funds can yield higher profits, but in return for also having more risk involved.
+The general philosophy is that growth funds can yield higher profits, but are also a little riskier
 
 #### The Graph
 
@@ -36,7 +36,7 @@ Now that we have those two sets of terms defined we can look at our first risk v
 
 ![THE Chart](https://www.weabenefits.com/uploadedImages/Retirement/Enrollment_Booklet/TSA/stylebox.gif)
 
-The idea here is that a "Small Cap, Growth Fund" tends to take on more volatile stocks, which *can* mean greater profits but definitely means greater risk. Conversely, "Large Cap, Value Funds" are much more stable in the long-term. Again, in theory. 
+The idea here is that a "Small Cap, Growth Fund" tends to take on more volatile stocks, which can mean greater profits but definitely means greater risk. Conversely, "Large Cap, Value Funds" are probably much more stable in the long-term. Again, in theory. 
 
 On the surface, a graph like the one above seems like it must be over-simplifing the entire economy. But since this is frequently how mutual funds are designed, this graph has real value. It lets you know what the fund managers are thinking.
 
@@ -44,6 +44,8 @@ On the surface, a graph like the one above seems like it must be over-simplifing
 ## 2. Fees and Expenses
 
 Mutual Funds can be a solid way to invest your money. But the companies that run mutual funds are for-profit businesses. And many of them will try and take a large portion of your profits. Either up-front, or over the years, mutual funds can charge you money in a lot of ways. If you're going to be be putting away a good portion of your money in mutual funds, it is worth your time to learn about the ways these companies can charge you.
+
+![Beware Fees](/assets/images/mutual_fund_fees_ex.png)
 
 * [SEC page on Feeds and Expenses](https://www.sec.gov/files/ib_mutualfundfees.pdf)
 * [Secondary SEC page on Feeds and Expenses](https://www.sec.gov/fast-answers/answersmffeeshtm.html)
