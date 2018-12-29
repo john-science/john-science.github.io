@@ -22,7 +22,7 @@ Mutual funds usually list themselves as [Small Cap](https://www.investopedia.com
 
 The idea here is larger companies are less risky. The standard wisdom is that Coca-Cola is such a big company that the chances of it's stock being worth $0 next year is virtually zero. But a smaller company (like a local restaurant chain) *could* actually go out of buisness suddenly. So larger companies are typically seen as less risky.
 
-![Small vs Large Cap graph](/assets/images/invest/cap_vs_risk.png)
+![Small vs Large Cap graph](/assets/images/invest/cap_vs_risk.jpeg)
 
 #### [Value vs Growth](https://money.stackexchange.com/questions/9534/mutual-fund-types-value-vs-blend-vs-growth)
 
@@ -34,7 +34,7 @@ The general philosophy is that growth funds can yield higher profits, but are al
 
 Now that we have those two sets of terms defined we can look at our first risk vs reward chart.
 
-![THE Chart](/assets/images/invest/cap_vs_growth.png)
+![THE Chart](/assets/images/invest/cap_vs_growth.gif)
 
 The idea here is that a "Small Cap, Growth Fund" tends to take on more volatile stocks, which can mean greater profits but definitely means greater risk. Conversely, "Large Cap, Value Funds" are probably much more stable in the long-term. Again, in theory. 
 
