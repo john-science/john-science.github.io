@@ -50,7 +50,7 @@ Mutual funds can charge you fees in lots of different ways:
 * **shareholder fees** are incured during shareholder transactions (buying / selling)
 * **operating costs** are due to paying the people that manage the fund
 
-![Beware Fees](/assets/images/mutual_fund_fees_ex.png)
+![Beware Fees](/assets/images/invest/mutual_fund_fees_ex.png)
 
 * [SEC page on Feeds and Expenses](https://www.sec.gov/files/ib_mutualfundfees.pdf)
 * [Secondary SEC page on Feeds and Expenses](https://www.sec.gov/fast-answers/answersmffeeshtm.html)
