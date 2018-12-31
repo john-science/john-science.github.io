@@ -32,11 +32,11 @@ Mutual funds are also frequently broken into "value" or "growth" categories (or 
 
 The general philosophy is that growth funds can yield higher profits, but are also a little riskier
 
-#### The Graph
+#### The Cap vs Growth Graph
 
 Now that we have those two sets of terms defined we can look at our first risk vs reward chart.
 
-![THE Chart](/assets/images/invest/cap_vs_growth.gif)
+![Cap vs Growth Graph](/assets/images/invest/cap_vs_growth.gif)
 
 The idea here is that a "Small Cap, Growth Fund" tends to take on more volatile stocks, which can mean greater profits but definitely means greater risk. Conversely, "Large Cap, Value Funds" are probably much more stable in the long-term. Again, in theory. 
 
@@ -56,7 +56,7 @@ Mutual funds can charge you fees in lots of different ways:
 
 A good rule-of-thumb is:
 
-> Never pick a fund that charges over 0.25% in fees.
+> Don't pick funds that charges more than 0.25% in fees.
 
 Fees and expenses are tricky. Dis-honest fund advertising will try to convince you that their fund makes so much money they can charge you 2%. Don't be fooled. For a neutral opinion on the fee structures of funds, the SEC is a safe source of information:
 
@@ -70,9 +70,7 @@ Fees and expenses are tricky. Dis-honest fund advertising will try to convince y
 
 Standard wisdom in investing is that you need to diversify your assets. The market will ebb and flow, and when one investment dips you don't want to lose everything. Don't put all your money in [Dutch Tulips](https://www.investopedia.com/terms/d/dutch_tulip_bulb_market_bubble.asp).
 
-Mutual funds seem like a good answer to this. By definition, they help you diversify where each dollar you invest goes. And if we look at the graph above we see an easy way to start thinking about diversifying our assets even further...
-
-> TODO
+Mutual funds seem like a good answer to this. By definition, they help you diversify where each dollar you invest goes. And if we look at the "Cap vs Growth Graph" above we see an easy way to start thinking about diversifying our assets even further. We can pick different corners of the "Cap vs Growth" graph.
 
 
 ## 4. A Final Note: Index Funds
@@ -95,20 +93,12 @@ There are lots of types of mutual funds. That is, there are lots of investment s
 
 ![types of funds](/assets/images/invest/mutual_funds_types.png)
 
-  * index funds
-  * equity funds
-  * total return funds
-  * investment grade bond funds
-  * high-yield bond funds
-  * global bond funds
-  * government bond funds
-  * multi-sector funds
-  * state and national municipal bond funds
-  * taxable money market funds
-  * tax-free money market funds
+For a quick intro to different types of funds checkout THIS TODO.
 
 
 ## Resources
+
+This was, of course, just a first encounter introduction to mutual funds. There are a lot of great resources out there to help you learn more to plan for your retirement, or whatever else your goals might be.
 
 * [Investopedia](https://www.investopedia.com)
   * [Investopedia - Mutual Fund Basics Tutorial](https://www.investopedia.com/university/mutualfunds/)
