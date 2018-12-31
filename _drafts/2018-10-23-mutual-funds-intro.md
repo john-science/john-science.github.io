@@ -1,12 +1,14 @@
 ---
 layout: post
-title: "Intro to Mutual Funds"
+title: "Mutual Funds for Beginners"
 tags: [Investing, Personal Finance]
-summary: A Quick Introduction to Mutual Fund Basics
+summary: A Introduction to Mutual Funds for Beginners
 ---
 {% include JB/setup %}
 
 > I am not a professional financial anything. This is just my own personal retirment research. Caveat emptor.
+
+What follows is an absolute-basic introduction to mutual funds for people new to retirement investing.
 
 
 ## 0. What is a Mutual Fund
@@ -52,27 +54,17 @@ Mutual funds can charge you fees in lots of different ways:
 
 ![Beware Fees](/assets/images/invest/mutual_fund_fees_ex.png)
 
+A good rule-of-thumb is:
+
+> Never pick a fund that charges over 0.25% in fees.
+
+Fees and expenses are tricky. Dis-honest fund advertising will try to convince you that their fund makes so much money they can charge you 2%. Don't be fooled. For a neutral opinion on the fee structures of funds, the SEC is a safe source of information:
+
 * [SEC page on Feeds and Expenses](https://www.sec.gov/files/ib_mutualfundfees.pdf)
 * [Secondary SEC page on Feeds and Expenses](https://www.sec.gov/fast-answers/answersmffeeshtm.html)
 
 
-## 3. Types of Funds
-
-See [this](https://qph.fs.quoracdn.net/main-qimg-3035adb8cab0f4526fcf4ddb57bbd3b0)
-  * index funds
-  * equity funds
-  * total return funds
-  * investment grade bond funds
-  * high-yield bond funds
-  * global bond funds
-  * government bond funds
-  * multi-sector funds
-  * state and national municipal bond funds
-  * taxable money market funds
-  * tax-free money market funds
-
-
-## 4. Diversify Your Investments
+## 3. Diversify Your Investments
 
 > All investments involve risk.
 
@@ -83,7 +75,7 @@ Mutual funds seem like a good answer to this. By definition, they help you diver
 > TODO
 
 
-## 5. A Final Note: Index Funds
+## 4. A Final Note: Index Funds
 
 > The question is: are [mutual funds](https://www.investopedia.com/walkthrough/fund-guide/mutual-funds-etfs/mf/default.aspx) really better than just a simple [index fund](https://www.investopedia.com/terms/i/indexfund.asp)?
 
@@ -95,6 +87,25 @@ Of course, [mutual funds](https://www.investopedia.com/walkthrough/fund-guide/mu
 * [hedge funds](https://www.investopedia.com/terms/h/hedgefund.asp) require a certain net worth to be able to invest
 
 But this is a great example of the risk-vs-reward trade-offs. Most people believe index funds of the American economy have low risk in the long term.
+
+
+#### Other Types of Funds
+
+There are lots of types of mutual funds. That is, there are lots of investment strategies followed by mutual fund companies.
+
+![types of funds](/assets/images/invest/mutual_funds_types.png)
+
+  * index funds
+  * equity funds
+  * total return funds
+  * investment grade bond funds
+  * high-yield bond funds
+  * global bond funds
+  * government bond funds
+  * multi-sector funds
+  * state and national municipal bond funds
+  * taxable money market funds
+  * tax-free money market funds
 
 
 ## Resources
