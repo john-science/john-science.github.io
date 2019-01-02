@@ -93,7 +93,7 @@ There are lots of types of mutual funds. That is, there are lots of investment s
 
 ![types of funds](/assets/images/invest/mutual_funds_types.png)
 
-For a quick intro to different types of funds checkout THIS TODO.
+For a quick intro to different types of funds checkout <<THIS TODO>>.
 
 
 ## Resources
@@ -106,4 +106,4 @@ This was, of course, just a first encounter introduction to mutual funds. There 
 * [money.stackexchange](https://money.stackexchange.com/)
 * [Retirment Calculator - 1](https://www.nerdwallet.com/investing/retirement-calculator)
 * How much do you *need* to invest?
-* How much are you allowed to invest (in tax-deferred retirement accounts)?
+* How much are you allowed to invest (in tax-deferred retirement accounts)
