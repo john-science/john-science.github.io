@@ -93,7 +93,7 @@ There are lots of types of mutual funds. That is, there are lots of investment s
 
 ![types of funds](/assets/images/invest/mutual_funds_types.png)
 
-For a quick intro to different types of funds checkout <<THIS TODO>>.
+For a quick intro to different types of funds checkout [this Investopia article](https://www.investopedia.com/university/mutualfunds/mutualfunds1.asp).
 
 
 ## Resources
