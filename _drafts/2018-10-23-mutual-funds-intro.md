@@ -107,3 +107,5 @@ This was, of course, just a first encounter introduction to mutual funds. There 
 * [Retirment Calculator - 1](https://www.nerdwallet.com/investing/retirement-calculator)
 * How much do you *need* to invest?
 * How much are you allowed to invest (in tax-deferred retirement accounts)
+
+TODO: curate a lot more links
