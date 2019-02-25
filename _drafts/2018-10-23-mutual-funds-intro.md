@@ -105,6 +105,7 @@ This was, of course, just a first encounter introduction to mutual funds. There 
   * [How to Pick a Good Mutual Fund](https://www.investopedia.com/investing/how-pick-best-mutual-fund/)
 * [money.stackexchange](https://money.stackexchange.com/)
 * [Retirment Calculator - 1](https://www.nerdwallet.com/investing/retirement-calculator)
+* [traditional vs Roth 401k calculator](https://www.bankrate.com/calculators/retirement/401-k-or-roth-ira-calculator.aspx)
 * How much do you *need* to invest?
 * How much are you allowed to invest (in tax-deferred retirement accounts)
 
