@@ -122,6 +122,7 @@ How much do you *need* to invest?
 * [Bankrate Retirement Calculator](https://www.bankrate.com/calculators/retirement/retirement-plan-calculator.aspx)
 
 Roth or Traditional?
+* [traditional vs Roth 401k calculator](https://www.aarp.org/work/retirement-planning/roth_vs_traditional_401k_calculator.html)
 * [traditional vs Roth 401k calculator](https://www.bankrate.com/calculators/retirement/401-k-or-roth-ira-calculator.aspx)
 
 How much will my 401k earn if I do X?
