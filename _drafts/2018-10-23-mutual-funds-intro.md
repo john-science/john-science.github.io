@@ -116,15 +116,15 @@ This was, of course, just a first encounter introduction to mutual funds. There 
 
 #### Calculators
 
-How much do you *need* to invest?
+Should you, personally, pick a Roth or Traditional 401k?
+* [traditional vs Roth 401k calculator](https://www.aarp.org/work/retirement-planning/roth_vs_traditional_401k_calculator.html)
+* [traditional vs Roth 401k calculator](https://www.bankrate.com/calculators/retirement/401-k-or-roth-ira-calculator.aspx)
+
+How much do you *need* to invest for your particular retirement goals?
 * [NerdWallet Retirment Calculator](https://www.nerdwallet.com/investing/retirement-calculator)
 * [AARP Retirement Calculator](https://www.aarp.org/work/retirement-planning/retirement_calculator.html)
 * [Bankrate Retirement Calculator](https://www.bankrate.com/calculators/retirement/retirement-plan-calculator.aspx)
 
-Roth or Traditional?
-* [traditional vs Roth 401k calculator](https://www.aarp.org/work/retirement-planning/roth_vs_traditional_401k_calculator.html)
-* [traditional vs Roth 401k calculator](https://www.bankrate.com/calculators/retirement/401-k-or-roth-ira-calculator.aspx)
-
-How much will my 401k earn if I do X?
+How much will my 401k earn if I invest X per month?
 * [Calculator.net 401k calculator](https://www.calculator.net/401k-calculator.html)
 * [AARP 401k calculator](https://www.aarp.org/work/retirement-planning/401k_calculator.html)
