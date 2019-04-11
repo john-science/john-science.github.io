@@ -112,7 +112,6 @@ This was, of course, just a first encounter introduction to mutual funds. There 
   * [Investopedia - Mutual Fund Basics Tutorial](https://www.investopedia.com/university/mutualfunds/)
   * [How to Pick a Good Mutual Fund](https://www.investopedia.com/investing/how-pick-best-mutual-fund/)
 * [money.stackexchange](https://money.stackexchange.com/)
-* How much are you allowed to invest (in tax-deferred retirement accounts of all kinds)
 
 #### Calculators
 
@@ -128,3 +127,6 @@ How much do you *need* to invest for your particular retirement goals?
 How much will my 401k earn if I invest X per month?
 * [Calculator.net 401k calculator](https://www.calculator.net/401k-calculator.html)
 * [AARP 401k calculator](https://www.aarp.org/work/retirement-planning/401k_calculator.html)
+
+How much are you allowed to invest (in tax-deferred retirement accounts of all kinds)
+* TODO
