@@ -77,7 +77,7 @@ Standard wisdom in investing is that you need to diversify your assets. The mark
 Mutual funds seem like a good answer to this. By definition, they help you diversify where is invested. And if we look at the "Cap vs Growth Graph" above we see an easy way to start thinking about diversifying our assets even further. We can pick different corners of the "Cap vs Growth" graph.
 
 
-## 4. A Final Note: Index Funds
+## 4. Index Funds
 
 An [index fund](https://www.investopedia.com/terms/i/indexfund.asp) (also index tracker) is a mutual fund designed to follow certain preset rules so that the fund can track a specified basket of underlying investments, like the S&P 500. These funds are run on very strict rules and require for lower operating costs.
 
@@ -91,6 +91,12 @@ Of course, [mutual funds](https://www.investopedia.com/walkthrough/fund-guide/mu
 * [hedge funds](https://www.investopedia.com/terms/h/hedgefund.asp) require a certain net worth to be able to invest
 
 But this is a great example of the risk-vs-reward trade-offs. Most people believe index funds of the American economy have low risk in the long term.
+
+## 5. 401k vs IRA
+
+You can do both!  Or neither.
+
+* https://www.personalcapital.com/blog/retirement-planning/can-contribute-401k-ira/
 
 
 #### Other Types of Funds
