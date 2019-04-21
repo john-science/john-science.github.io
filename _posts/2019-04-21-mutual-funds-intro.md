@@ -8,12 +8,12 @@ summary: A Introduction to Mutual Funds for Beginners
 
 > I am not a professional financial anything. This is just my own personal retirment research. Caveat emptor.
 
-What follows is an absolute-basic introduction to mutual funds for people new to retirement investing.
+What follows is an introduction to the absolute basics of mutual funds.
 
 
 ## 0. What is a Mutual Fund
 
-A mutual fund is a managed portfolio of stocks and investments that is curated for you using a stated, disciplined investment strategy.
+A [mutual fund](https://en.wikipedia.org/wiki/Mutual_fund) is a managed portfolio of stocks and investments that is curated for you using a stated, disciplined investment strategy.
 
 
 ## 1. Risk vs Return
@@ -22,14 +22,14 @@ A mutual fund is a managed portfolio of stocks and investments that is curated f
 
 Mutual funds usually list themselves as [Small Cap](https://www.investopedia.com/terms/s/small-cap.asp), [Mid Cap](https://www.investopedia.com/terms/m/midcapstock.asp), or [Large Cap](https://www.investopedia.com/terms/l/large-cap.asp). The "Cap" is short for market capitalization. (In detail, to count as Small Cap a company needs $300 million in capitalization, $2-$10 billion for Mid Cap, and over $10 for Large Cap.) So, when you hear "Large Cap" think Coca-Cola and Google.
 
-The idea here is larger companies are less risky. The standard wisdom is that Coca-Cola is such a big company that the chances of it's stock being worth $0 next year is virtually zero. But a smaller company (like a local restaurant chain) actually *could* go out of buisness suddenly. So larger companies are typically seen as less risky.
+The idea here is larger companies are less risky. The standard wisdom is that Coca-Cola is such a big company that the chances of it's stock being worth $0 next year is virtually zero. But a smaller company (like a local construction company) actually *could* go out of buisness suddenly. So larger companies are typically seen as less risky.
 
 ![Small vs Large Cap graph](/assets/images/invest/cap_vs_risk.jpeg)
 
 
 #### Value vs Growth
 
-Mutual funds are also frequently broken into "value" or "growth" categories (or "blend" which is just a mix of the two). A "value" fund is one that is "cheap" right now, when compared with it's past earnings and reasonable estimates of its current evaluation. A "growth" fund is one that is currently growing really fast and is likely to yield some profits in the very near term. A "blend" fund takes stocks from both of these categories.
+Mutual funds are also frequently broken into "value" or "growth" categories. A "value" fund is one that is "cheap" right now, when compared with it's past earnings and reasonable estimates of its current evaluation. A "growth" fund is one that is currently growing really fast and is likely to yield some profits in the very near term. A "blend" fund takes stocks from both of these categories.
 
 The general philosophy is that growth funds can yield higher profits, but are also a little riskier.
 
@@ -40,7 +40,7 @@ The general philosophy is that growth funds can yield higher profits, but are al
 
 Now that we have those two sets of terms defined we can look at our first risk vs reward chart.
 
-![Cap vs Growth Graph](/assets/images/invest/cap_vs_growth.gif)
+![Cap vs Growth Graph](/assets/images/invest/cap_vs_growth.png)
 
 The idea here is that a "Small Cap, Growth Fund" tends to take on more volatile stocks, which can mean greater profits but definitely means greater risk. Conversely, "Large Cap, Value Funds" are probably much more stable in the long-term. Again, in theory. 
 
@@ -51,7 +51,7 @@ On the surface, a graph like the one above seems like it must be over-simplifing
 
 Mutual Funds can be a solid way to invest your money. But the companies that run mutual funds are for-profit businesses. Either up-front, or over time, mutual funds charge you money. And they can take a lot of your profits.
 
-Mutual funds can charge you fees in lots of different ways:
+Mutual funds can charge you fees in lots of different ways, but two of the most common are:
 
 * **shareholder fees** are incured during shareholder transactions (buying / selling)
 * **operating costs** are due to paying the people that manage the fund
@@ -60,7 +60,7 @@ Mutual funds can charge you fees in lots of different ways:
 
 A good rule-of-thumb is:
 
-> Don't pick funds that charges more than 0.25% in fees.
+> Don't pick funds that charge more than 0.25% in total fees.
 
 Fees and expenses are tricky. Dis-honest fund advertising will try to convince you that their fund makes so much money they can charge you 2%. Don't be fooled. For a neutral opinion on the fee structures of funds, the SEC is a safe source of information:
 
@@ -74,12 +74,12 @@ Fees and expenses are tricky. Dis-honest fund advertising will try to convince y
 
 Standard wisdom in investing is that you need to diversify your assets. The market will ebb and flow, and when one investment dips you don't want to lose everything. Don't put all your money in [Dutch Tulips](https://www.investopedia.com/terms/d/dutch_tulip_bulb_market_bubble.asp).
 
-Mutual funds seem like a good answer to this. By definition, they help you diversify where is invested. And if we look at the "Cap vs Growth Graph" above we see an easy way to start thinking about diversifying our assets even further. We can pick different corners of the "Cap vs Growth" graph.
+Mutual funds seem like a good answer to this. By definition, they help you diversify where your money is invested. And if we look at the "Cap vs Growth" graph above we see an easy way to start thinking about how to diversify our assets even further.
 
 
 ## 4. Index Funds
 
-An [index fund](https://www.investopedia.com/terms/i/indexfund.asp) (also index tracker) is a mutual fund designed to follow certain preset rules so that the fund can track a specified basket of underlying investments, like the S&P 500. These funds are run on very strict rules and require for lower operating costs.
+An [index fund](https://www.investopedia.com/terms/i/indexfund.asp) (or "index tracker") is a mutual fund designed to follow certain preset rules so that the fund can track a specified basket of underlying investments, like the S&P 500. These funds are run on very strict rules and require for lower operating costs.
 
 > The question is: are [mutual funds](https://www.investopedia.com/walkthrough/fund-guide/mutual-funds-etfs/mf/default.aspx) really better than just a simple index fund?
 
@@ -91,12 +91,6 @@ Of course, [mutual funds](https://www.investopedia.com/walkthrough/fund-guide/mu
 * [hedge funds](https://www.investopedia.com/terms/h/hedgefund.asp) require a certain net worth to be able to invest
 
 But this is a great example of the risk-vs-reward trade-offs. Most people believe index funds of the American economy have low risk in the long term.
-
-## 5. 401k vs IRA
-
-You can do both!  Or neither.
-
-* https://www.personalcapital.com/blog/retirement-planning/can-contribute-401k-ira/
 
 
 #### Other Types of Funds
@@ -110,7 +104,8 @@ For a quick intro to different types of funds checkout [this Investopia article]
 
 ## Resources
 
-This was, of course, just a first encounter introduction to mutual funds. There are a lot of great resources out there to help you learn more to plan for your retirement, or whatever else your goals might be.
+This was, of course, just a first encounter introduction to mutual funds.  There are a lot of great resources out there to help you learn more to plan for your retirement, or whatever else your goals might be.
+
 
 #### General Investing References
 
@@ -121,18 +116,20 @@ This was, of course, just a first encounter introduction to mutual funds. There 
 
 #### Calculators
 
-Should you, personally, pick a Roth or Traditional 401k?
-* [traditional vs Roth 401k calculator](https://www.aarp.org/work/retirement-planning/roth_vs_traditional_401k_calculator.html)
-* [traditional vs Roth 401k calculator](https://www.bankrate.com/calculators/retirement/401-k-or-roth-ira-calculator.aspx)
+Why do you care about mutual funds?  Well, if you are investing for retirement in America you can invest up to a certain amount each year in an IRA (or probably something like a 401k) and those investments will reap various tax benefits.  The most common way to do these investments is through mutual funds.  The tools below will help you organize your thoughts on how much you need to invest and what the best strategies might be.
 
-How much do you *need* to invest for your particular retirement goals?
-* [NerdWallet Retirment Calculator](https://www.nerdwallet.com/investing/retirement-calculator)
-* [AARP Retirement Calculator](https://www.aarp.org/work/retirement-planning/retirement_calculator.html)
-* [Bankrate Retirement Calculator](https://www.bankrate.com/calculators/retirement/retirement-plan-calculator.aspx)
+How much are you allowed to invest (in tax-deferred retirement accounts)?
+* [PersonalCapital - 401k and IRA limits](https://www.personalcapital.com/blog/retirement-planning/can-contribute-401k-ira/)
+
+How much do you *need* to invest for your goals?
+* [NerdWallet Retirment Calculator](https://www.nerdwallet.com/investing/retirement-calculator) - Simple and Clear
+* [Bankrate Retirement Calculator](https://www.bankrate.com/calculators/retirement/retirement-plan-calculator.aspx) - Simple but Descriptive
+* [AARP Retirement Calculator](https://www.aarp.org/work/retirement-planning/retirement_calculator.html) - Detailed and Thorough
+
+Should you, personally, pick a Roth or Traditional 401k?
+* [traditional vs Roth 401k calculator](https://www.bankrate.com/calculators/retirement/401-k-or-roth-ira-calculator.aspx) - Simple but Descriptive
+* [traditional vs Roth 401k calculator](https://www.aarp.org/work/retirement-planning/roth_vs_traditional_401k_calculator.html) - Detailed and Thorough
 
 How much will my 401k earn if I invest X per month?
-* [Calculator.net 401k calculator](https://www.calculator.net/401k-calculator.html)
-* [AARP 401k calculator](https://www.aarp.org/work/retirement-planning/401k_calculator.html)
-
-How much are you allowed to invest (in tax-deferred retirement accounts of all kinds)
-* TODO
+* [Calculator.net 401k calculators](https://www.calculator.net/401k-calculator.html) - A few helpful calculators
+* [AARP 401k calculator](https://www.aarp.org/work/retirement-planning/401k_calculator.html) - Detailed and Thorough
