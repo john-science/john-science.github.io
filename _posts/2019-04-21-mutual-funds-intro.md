@@ -20,7 +20,7 @@ A [mutual fund](https://en.wikipedia.org/wiki/Mutual_fund) is a managed portfoli
 
 #### Small Cap vs Large Cap
 
-Mutual funds usually list themselves as [Small Cap](https://www.investopedia.com/terms/s/small-cap.asp), [Mid Cap](https://www.investopedia.com/terms/m/midcapstock.asp), or [Large Cap](https://www.investopedia.com/terms/l/large-cap.asp). The "Cap" is short for market capitalization. (In detail, to count as Small Cap a company needs $300 million in capitalization, $2-$10 billion for Mid Cap, and over $10 for Large Cap.) So, when you hear "Large Cap" think Coca-Cola and Google.
+Mutual funds usually list themselves as [Small Cap](https://www.investopedia.com/terms/s/small-cap.asp), [Mid Cap](https://www.investopedia.com/terms/m/midcapstock.asp), or [Large Cap](https://www.investopedia.com/terms/l/large-cap.asp). The "Cap" is short for market capitalization. (In detail, to count as Small Cap a company needs $300 million to $2 billion in capitalization, $2-$10 billion for Mid Cap, and over $10 billion for Large Cap.) So, when you hear "Large Cap" think Coca-Cola and Google.
 
 The idea here is larger companies are less risky. The standard wisdom is that Coca-Cola is such a big company that the chances of it's stock being worth $0 next year is virtually zero. But a smaller company (like a local construction company) actually *could* go out of buisness suddenly. So larger companies are typically seen as less risky.
 
@@ -118,18 +118,22 @@ This was, of course, just a first encounter introduction to mutual funds.  There
 
 Why do you care about mutual funds?  Well, if you are investing for retirement in America you can invest up to a certain amount each year in an IRA (or probably something like a 401k) and those investments will reap various tax benefits.  The most common way to do these investments is through mutual funds.  The tools below will help you organize your thoughts on how much you need to invest and what the best strategies might be.
 
-How much are you allowed to invest (in tax-deferred retirement accounts)?
+**How much are you allowed to invest (in tax-deferred retirement accounts)?**
 * [PersonalCapital - 401k and IRA limits](https://www.personalcapital.com/blog/retirement-planning/can-contribute-401k-ira/)
 
-How much do you *need* to invest for your goals?
-* [NerdWallet Retirment Calculator](https://www.nerdwallet.com/investing/retirement-calculator) - Simple and Clear
-* [Bankrate Retirement Calculator](https://www.bankrate.com/calculators/retirement/retirement-plan-calculator.aspx) - Simple but Descriptive
-* [AARP Retirement Calculator](https://www.aarp.org/work/retirement-planning/retirement_calculator.html) - Detailed and Thorough
+**How much do you *need* to invest for your goals?**
+* [NerdWallet - Retirment Calculator](https://www.nerdwallet.com/investing/retirement-calculator) - Simple and Clear
+* [Bankrate - Retirement Calculator](https://www.bankrate.com/calculators/retirement/retirement-plan-calculator.aspx) - Simple but Descriptive
+* [AARP - Retirement Calculator](https://www.aarp.org/work/retirement-planning/retirement_calculator.html) - Detailed and Thorough
 
-Should you, personally, pick a Roth or Traditional 401k?
-* [traditional vs Roth 401k calculator](https://www.bankrate.com/calculators/retirement/401-k-or-roth-ira-calculator.aspx) - Simple but Descriptive
-* [traditional vs Roth 401k calculator](https://www.aarp.org/work/retirement-planning/roth_vs_traditional_401k_calculator.html) - Detailed and Thorough
+**Should you, personally, pick a Roth or Traditional 401k?**
+* [BankRate - traditional vs Roth 401k calculator](https://www.bankrate.com/calculators/retirement/401-k-or-roth-ira-calculator.aspx) - Simple but Descriptive
+* [AARP - traditional vs Roth 401k calculator](https://www.aarp.org/work/retirement-planning/roth_vs_traditional_401k_calculator.html) - Detailed and Thorough
 
-How much will my 401k earn if I invest X per month?
-* [Calculator.net 401k calculators](https://www.calculator.net/401k-calculator.html) - A few helpful calculators
-* [AARP 401k calculator](https://www.aarp.org/work/retirement-planning/401k_calculator.html) - Detailed and Thorough
+**How much will my 401k earn if I invest X per month?**
+* [Calculator.net - 401k calculators](https://www.calculator.net/401k-calculator.html) - A few helpful calculators
+* [AARP - 401k calculator](https://www.aarp.org/work/retirement-planning/401k_calculator.html) - Detailed and Thorough
+
+**How will my retirement investment strategy change over time?**
+* [Bazinga - How Investing Changes As You Get Older](https://www.benzinga.com/general/education/16/08/8398467/how-investing-changes-as-you-get-older)
+* [BankRate - How your life stages shapes investing style](https://www.bankrate.com/investing/how-your-life-stage-shapes-investing-style/#slide=1)
