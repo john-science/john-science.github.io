@@ -92,3 +92,35 @@ rm -f "${TMP}"
 ```
 
 Did someone commit a 100MB data file and then quickly `git rm` it, thinking no one would notice? Well, you just noticed, and now you can filter it out of your history so it stops slowing you down.
+
+
+### Which branches haven't been touched in years?
+
+Branches are a great tool. But sometimes people create them and just forget about them. This isn't usually a big problem. But it sometimes means that important work is lost forever in branches that were never merged. And it can become impossible to look through all your branches if you need to. The little shell script below is a good starting point for branch cleanup.
+
+**git_lonliest_branches.sh**:
+
+```shell
+#!/bin/bash
+
+#############################################################
+#  Find the loneliest branches in your Git repo.            #
+#                                                           #
+#  i.e. Sort all the branches in a local Git repo by the    #
+#       date of their last commit, and show the commiter.   #
+#                                                           #
+#  WARNING: This script will be slow for large repos.       #
+#############################################################
+
+# set file paths
+OUT='lonely_branches.txt'
+
+# bring your local repo up to date
+git fetch --all
+
+# prune all the origin-deleted branches locally
+git fetch --prune
+
+# find all branches and sort them by age and commiter
+for branch in `git branch -r | grep -v HEAD`;do echo -e `git show --format="%cd, %an," --date=format:'%Y-%m-%d' $branch | head -n 1` \\t$branch; done |    sort -r | sed 's/origin\///g' | sed 's/\t//g' | sort -u > ${OUT}
+```
