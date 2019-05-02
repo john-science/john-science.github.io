@@ -110,30 +110,35 @@ This was, of course, just a first encounter introduction to mutual funds.  There
 #### General Investing References
 
 * [Investopedia](https://www.investopedia.com)
-  * [Investopedia - Mutual Fund Basics Tutorial](https://www.investopedia.com/university/mutualfunds/)
-  * [How to Pick a Good Mutual Fund](https://www.investopedia.com/investing/how-pick-best-mutual-fund/)
+* [Investopedia - Mutual Fund Basics Tutorial](https://www.investopedia.com/university/mutualfunds/)
+* [How to Pick a Good Mutual Fund](https://www.investopedia.com/investing/how-pick-best-mutual-fund/)
 * [money.stackexchange](https://money.stackexchange.com/)
 
 #### Calculators
 
 Why do you care about mutual funds?  Well, if you are investing for retirement in America you can invest up to a certain amount each year in an IRA (or probably something like a 401k) and those investments will reap various tax benefits.  The most common way to do these investments is through mutual funds.  The tools below will help you organize your thoughts on how much you need to invest and what the best strategies might be.
 
-**How much are you allowed to invest (in tax-deferred retirement accounts)?**
+#### How much are you allowed to invest (in tax-deferred retirement accounts)?
+
 * [PersonalCapital - 401k and IRA limits in the U.S.](https://www.personalcapital.com/blog/retirement-planning/can-contribute-401k-ira/)
 
-**How much do you *need* to invest for your goals?**
+#### How much do you *need* to invest for your goals?
+
 * [NerdWallet - Retirment Calculator](https://www.nerdwallet.com/investing/retirement-calculator) - Simple and Clear
 * [Bankrate - Retirement Calculator](https://www.bankrate.com/calculators/retirement/retirement-plan-calculator.aspx) - Simple but Descriptive
 * [AARP - Retirement Calculator](https://www.aarp.org/work/retirement-planning/retirement_calculator.html) - Detailed and Thorough
 
-**Should you, personally, pick a Roth or Traditional 401k?**
+#### Should you, personally, pick a Roth or Traditional 401k?
+
 * [BankRate - traditional vs Roth 401k calculator](https://www.bankrate.com/calculators/retirement/401-k-or-roth-ira-calculator.aspx) - Simple but Descriptive
 * [AARP - traditional vs Roth 401k calculator](https://www.aarp.org/work/retirement-planning/roth_vs_traditional_401k_calculator.html) - Detailed and Thorough
 
-**How much will my 401k earn if I invest X per month?**
+#### How much will my 401k earn if I invest X per month?
+
 * [Calculator.net - 401k calculators](https://www.calculator.net/401k-calculator.html) - A few helpful calculators
 * [AARP - 401k calculator](https://www.aarp.org/work/retirement-planning/401k_calculator.html) - Detailed and Thorough
 
-**How will my retirement investment strategy change over time?**
+#### How will my retirement investment strategy change over time?
+
 * [Bazinga - How Investing Changes As You Get Older](https://www.benzinga.com/general/education/16/08/8398467/how-investing-changes-as-you-get-older)
 * [BankRate - How your life stages shapes investing style](https://www.bankrate.com/investing/how-your-life-stage-shapes-investing-style/#slide=1)
