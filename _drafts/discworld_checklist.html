@@ -72,7 +72,7 @@ category: tool
 
 <br>
 <button onclick="save()">SAVE</button>
-<button onclick="load_()">LOAD</button>
+<button onclick="lo_ad()">LOAD</button>
 
 <script>
 var i, checkboxes = document.querySelectorAll('input[type=checkbox]');
@@ -81,11 +81,11 @@ var save = function() {
   for (i=0; i < checkboxes.length; i++) {
     localStorage.setItem(checkboxes[i].name, checkboxes[i].checked); 
   }
-}
+};
 
-var load_ = function() {
+var lo_ad = function() {
   for (i=0; i < checkboxes.length; i++) {
     checkboxes[i].checked = localStorage.getItem(checkboxes[i].name) === 'true' ? true:false;
   }
-}
+};
 </script>
