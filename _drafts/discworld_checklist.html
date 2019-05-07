@@ -69,3 +69,23 @@ category: tool
 <input type="checkbox" name="story33" value="5">33. Death and What Comes Next (2002)<br>
 <input type="checkbox" name="story38" value="288">38. Once More* With Footnotes (2004)<br>
 <input type="checkbox" name="story40" value="32">40. Where's my cow (2005)<br>
+
+<br>
+<button onclick="save()">SAVE</button>
+<button onclick="load_()">LOAD</button>
+
+<script>
+var i, checkboxes = document.querySelectorAll('input[type=checkbox]');
+
+var save = function() {
+  for (i=0; i < checkboxes.length; i++) {
+    localStorage.setItem(checkboxes[i].name, checkboxes[i].checked); 
+  }
+}
+
+var load_ = function() {
+  for (i=0; i < checkboxes.length; i++) {
+    checkboxes[i].checked = localStorage.getItem(checkboxes[i].name) === 'true' ? true:false;
+  }
+}
+</script>
