@@ -7,60 +7,157 @@ category: tool
 ---
 {% include JB/setup %}
 
+<style>
+.eqn-table {
+  border: 0;
+  color: #777;
+  font-size: 1em;
+  font-family: monospace, Arial, Helvetica, sans-serif;
+  width: auto;
+  min-width: 0;
+  display: table;
+  margin-bottom: 10px
+}
+
+.eqn-table td {
+  width: auto;
+  min-width: 0
+}
+
+.eqn-numerator {
+  border-bottom: 1px solid;
+  text-align: center;
+  margin-bottom: 2px;
+  padding-bottom: 2px
+}
+
+.dw-input,
+.dw-total-input {
+  padding: 5px;
+  background: #fff;
+  color: #777
+}
+
+.dw-total-input {
+  margin: 0;
+  border: 1px solid #d4d4d4;
+  text-align: center;
+  color: #777
+}
+
+.dw-input {
+  border: 0 solid #003b6f;
+  color: #003b6f;
+  font-size: 30px
+}
+</style>
+
+<table class="eqn-table">
+  <tbody>
+    <tr>
+      <td>
+        <div style="float:left;">Books:</div>
+      </td>
+      <td>
+        <div style="float:left">
+          <div class="eqn-numerator">
+            <input id="numBooks" class="dw-total-input" size="3" value="0" readonly="readonly" type="text">
+          </div>
+          <div style="text-align:center;">
+            <span id="booksTotal">41</span>
+          </div>
+        </div>
+      </td>
+      <td>
+        <div style="float:left;margin:0;padding:0;">=</div>
+      </td>
+      <td><input type="text" id="booksFraction" class="dw-input" size="3" value="0.00" readonly="readonly" /></td>
+    </tr>
+  </tbody>
+</table>
+
+<table class="eqn-table">
+  <tbody>
+    <tr>
+      <td>
+        <div style="float:left;">Pages:</div>
+      </td>
+      <td>
+        <div style="float:left">
+          <div class="eqn-numerator">
+            <input id="numPages" class="dw-total-input" size="15" value="0" readonly="readonly" type="text">
+          </div>
+          <div style="text-align:center;">
+            <input id="pagesTotal" value="14907" readonly="readonly" type="hidden">
+            <span id="displayTotalPages">14907</span>
+          </div>
+        </div>
+      </td>
+      <td>
+        <div style="float:left;margin:0;padding:0;">=</div>
+      </td>
+      <td><input type="text" id="pagesFraction" class="dw-input" size="2" value="0.0" readonly="readonly" /></td>
+    </tr>
+  </tbody>
+</table>
+
+<button onclick="save()">SAVE</button>
+<button onclick="lo_ad()">LOAD</button>
+
 <h3>Rincewind</h3>
-<input type="checkbox" name="story1" value="285">1. The Colour of Magic (1983)<br>
-<input type="checkbox" name="story2" value="241">2. The Light Fantastic (1986)<br>
-<input type="checkbox" name="story5" value="276">5. Sourcery (1988)<br>
-<input type="checkbox" name="story9" value="217">9. <strike>Faust</strike> Eric (1990)<br>
-<input type="checkbox" name="story19" value="368">19. Interesting Times (1994)<br>
-<input type="checkbox" name="story24" value="416">24. The Last Continent (1998)<br>
-<input type="checkbox" name="story30" value="176">30. The Last Hero (2001)<br>
-<input type="checkbox" name="story43" value="400">43. Unseen Academicals (2009)<br>
+<input type="checkbox" name="book1" value="285">1. The Colour of Magic (1983)<br>
+<input type="checkbox" name="book2" value="241">2. The Light Fantastic (1986)<br>
+<input type="checkbox" name="book5" value="276">5. Sourcery (1988)<br>
+<input type="checkbox" name="book9" value="217">9. <strike>Faust</strike> Eric (1990)<br>
+<input type="checkbox" name="book19" value="368">19. Interesting Times (1994)<br>
+<input type="checkbox" name="book24" value="416">24. The Last Continent (1998)<br>
+<input type="checkbox" name="book30" value="176">30. The Last Hero (2001)<br>
+<input type="checkbox" name="book43" value="400">43. Unseen Academicals (2009)<br>
 
 <h3>Witches</h3>
-<input type="checkbox" name="story3" value="228">3. Equal Rites (1987)<br>
-<input type="checkbox" name="story6" value="265">6. Wyrd Sisters (1988)<br>
-<input type="checkbox" name="story12" value="374">12. Witches Abroad (1991)<br>
-<input type="checkbox" name="story14" value="400">14. Lords and Ladies (1992)<br>
-<input type="checkbox" name="story20" value="285">20. Maskerade (1995)<br>
-<input type="checkbox" name="story25" value="296">25. Carpe Jugulum (1998)<br>
+<input type="checkbox" name="book3" value="228">3. Equal Rites (1987)<br>
+<input type="checkbox" name="book6" value="265">6. Wyrd Sisters (1988)<br>
+<input type="checkbox" name="book12" value="374">12. Witches Abroad (1991)<br>
+<input type="checkbox" name="book14" value="400">14. Lords and Ladies (1992)<br>
+<input type="checkbox" name="book20" value="285">20. Maskerade (1995)<br>
+<input type="checkbox" name="book25" value="296">25. Carpe Jugulum (1998)<br>
 
 <h3>Death</h3>
-<input type="checkbox" name="story4" value="243">4. Mort (1987)<br>
-<input type="checkbox" name="story11" value="352">11. Reaper Man (1991)<br>
-<input type="checkbox" name="story18" value="424">18. Soul Music (1994)<br>
-<input type="checkbox" name="story22" value="432">22. Hogfather (1996)<br>
-<input type="checkbox" name="story29" value="378">29. Thief of Time (2001)<br>
+<input type="checkbox" name="book4" value="243">4. Mort (1987)<br>
+<input type="checkbox" name="book11" value="352">11. Reaper Man (1991)<br>
+<input type="checkbox" name="book18" value="424">18. Soul Music (1994)<br>
+<input type="checkbox" name="book22" value="432">22. Hogfather (1996)<br>
+<input type="checkbox" name="book29" value="378">29. Thief of Time (2001)<br>
 
 <h3>City Watch</h3>
-<input type="checkbox" name="story8" value="376">8. Guards! Guards! (1989)<br>
-<input type="checkbox" name="story16" value="377">16. Men at Arms (1993)<br>
-<input type="checkbox" name="story21" value="411">21. Feet of Clay (1996)<br>
-<input type="checkbox" name="story23" value="461">23. Jingo (1997)<br>
-<input type="checkbox" name="story27" value="464">27. The Fifth Elephant (1999)<br>
-<input type="checkbox" name="story32" value="480">32. Night Watch (2002)<br>
-<input type="checkbox" name="story39" value="439">39. Thud! (2005)<br>
-<input type="checkbox" name="story45" value="378">45. Snuff (2011)<br>
+<input type="checkbox" name="book8" value="376">8. Guards! Guards! (1989)<br>
+<input type="checkbox" name="book16" value="377">16. Men at Arms (1993)<br>
+<input type="checkbox" name="book21" value="411">21. Feet of Clay (1996)<br>
+<input type="checkbox" name="book23" value="461">23. Jingo (1997)<br>
+<input type="checkbox" name="book27" value="464">27. The Fifth Elephant (1999)<br>
+<input type="checkbox" name="book32" value="480">32. Night Watch (2002)<br>
+<input type="checkbox" name="book39" value="439">39. Thud! (2005)<br>
+<input type="checkbox" name="book45" value="378">45. Snuff (2011)<br>
 
 <h3>Tiffany Aching</h3>
-<input type="checkbox" name="story34" value="390">34. The Wee Free Men (2003)<br>
-<input type="checkbox" name="story36" value="352">36. A Hat Full of Sky (2004)<br>
-<input type="checkbox" name="story41" value="325">41. Wintersmith (2006)<br>
-<input type="checkbox" name="story44" value="349">44. I Shall Wear Midnight (2010)<br>
-<input type="checkbox" name="story47" value="276">47. The Shepherd's Crown (2015)<br>
+<input type="checkbox" name="book34" value="390">34. The Wee Free Men (2003)<br>
+<input type="checkbox" name="book36" value="352">36. A Hat Full of Sky (2004)<br>
+<input type="checkbox" name="book41" value="325">41. Wintersmith (2006)<br>
+<input type="checkbox" name="book44" value="349">44. I Shall Wear Midnight (2010)<br>
+<input type="checkbox" name="book47" value="276">47. The Shepherd's Crown (2015)<br>
 
 <h3>Moist von Lipwig</h3>
-<input type="checkbox" name="story37" value="394">37. Going Postal (2004)<br>
-<input type="checkbox" name="story42" value="394">42. Making Money (2007)<br>
-<input type="checkbox" name="story46" value="377">46. Raising Steam (2013)<br>
+<input type="checkbox" name="book37" value="394">37. Going Postal (2004)<br>
+<input type="checkbox" name="book42" value="394">42. Making Money (2007)<br>
+<input type="checkbox" name="book46" value="377">46. Raising Steam (2013)<br>
 
 <h3>One-Off Stories</h3>
-<input type="checkbox" name="story7" value="341">7. Pyramids (1989)<br>
-<input type="checkbox" name="story10" value="396">10. Moving Pictures (1990)<br>
-<input type="checkbox" name="story13" value="400">13. Small Gods (1992)<br>
-<input type="checkbox" name="story28" value="336">28. The Truth (2000)<br>
-<input type="checkbox" name="story31" value="256">31. The Amazing Maurice And His Educated Rodents (2001)<br>
-<input type="checkbox" name="story35" value="496">35. Monstrous Regiment (2003)<br>
+<input type="checkbox" name="book7" value="341">7. Pyramids (1989)<br>
+<input type="checkbox" name="book10" value="396">10. Moving Pictures (1990)<br>
+<input type="checkbox" name="book13" value="400">13. Small Gods (1992)<br>
+<input type="checkbox" name="book28" value="336">28. The Truth (2000)<br>
+<input type="checkbox" name="book31" value="256">31. The Amazing Maurice And His Educated Rodents (2001)<br>
+<input type="checkbox" name="book35" value="496">35. Monstrous Regiment (2003)<br>
 
 <h3>Short Works</h3>
 <input type="checkbox" name="story15" value="10">15. Troll Bridge (1992)<br>
@@ -77,15 +174,30 @@ category: tool
 <script>
 var i, checkboxes = document.querySelectorAll('input[type=checkbox]');
 
+var rounding = function(num, denom) {
+  return Math.round(num / denom * 1000) / 1000;
+};
+
 var save = function() {
-  for (i=0; i < checkboxes.length; i++) {
-    localStorage.setItem(checkboxes[i].name, checkboxes[i].checked); 
+  var num_books = 0;
+  var num_pages = 0;
+  for (i = 0; i < checkboxes.length; i++) {
+    localStorage.setItem(checkboxes[i].name, checkboxes[i].checked);
+    if (checkboxes[i].checked && checkboxes[i].name.indexOf("book") !== -1) {
+      num_books += 1;
+      num_pages += parseInt(checkboxes[i].value);
+    }
   }
+  document.getElementById("numBooks").value = num_books;
+  document.getElementById("booksFraction").value = rounding(num_books, 41.0);
+  document.getElementById("numPages").value = num_pages;
+  document.getElementById("pagesFraction").value = rounding(num_pages, 14907.0);
 };
 
 var lo_ad = function() {
-  for (i=0; i < checkboxes.length; i++) {
-    checkboxes[i].checked = localStorage.getItem(checkboxes[i].name) === 'true' ? true:false;
+  for (i = 0; i < checkboxes.length; i++) {
+    checkboxes[i].checked = localStorage.getItem(checkboxes[i].name) === 'true' ? true : false;
   }
+  save();
 };
 </script>
