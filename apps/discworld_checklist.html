@@ -202,4 +202,13 @@ var lo_ad = function() {
   }
   save();
 };
+
+/** onload hack: https://ckon.wordpress.com/2008/07/25/stop-using-windowonload-in-javascript/ */
+if (window.attachEvent) {
+  window.attachEvent('onload', qInit);
+} else if (window.addEventListener) {
+  window.addEventListener('load', qInit, false);
+} else {
+  document.addEventListener('load', qInit, false);
+}
 </script>
