@@ -205,10 +205,10 @@ var lo_ad = function() {
 
 /** onload hack: https://ckon.wordpress.com/2008/07/25/stop-using-windowonload-in-javascript/ */
 if (window.attachEvent) {
-  window.attachEvent('onload', qInit);
+  window.attachEvent('onload', lo_ad);
 } else if (window.addEventListener) {
-  window.addEventListener('load', qInit, false);
+  window.addEventListener('load', lo_ad, false);
 } else {
-  document.addEventListener('load', qInit, false);
+  document.addEventListener('load', lo_ad, false);
 }
 </script>
