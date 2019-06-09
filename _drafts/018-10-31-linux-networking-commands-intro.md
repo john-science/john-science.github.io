@@ -16,13 +16,6 @@ Networking is a whole field that you could spend your entire life studying and w
 Socket Statistics (`ss`) is a part of the IProute2 Linux network tools. It gives you a bunch of statistics on your network sockets.
 
 
-## nmap
-
-> TODO: [nmap](https://en.wikipedia.org/wiki/Nmap)
-
-`nmap` is an open-source security scanner that allows you to scanner your local network to build a map of the hosts and services.
-
-
 ## ifconfig
 
 > TODO: [ifconfig](https://en.wikipedia.org/wiki/Ifconfig)
@@ -37,6 +30,13 @@ Socket Statistics (`ss`) is a part of the IProute2 Linux network tools. It gives
 `iptables` is a network management tool to set priviledges for network packet communications.
 
 > `iptables` has been replaced in Redhat 7 by `firewalld`. But `iptables` still comes stock with Ubuntu,
+
+
+## nmap
+
+> TODO: [nmap](https://en.wikipedia.org/wiki/Nmap)
+
+`nmap` is an open-source security scanner that allows you to scanner your local network to build a map of the hosts and services.
 
 
 ## Bonus Round
