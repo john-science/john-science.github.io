@@ -34,3 +34,8 @@ $ minikube start
 ⌛  Verifying: apiserver proxy etcd scheduler controller dns
 🏄  Done! kubectl is now configured to use "minikube"
 ```
+
+## Hello Minikube
+
+Okay, now that we have Minikube installed, it's time to play around with it. For lack of a better idea, I'm just going to work through the ["Hello Minikube"](https://kubernetes.io/docs/tutorials/hello-minikube/) tutorial on the Kube website.
+
