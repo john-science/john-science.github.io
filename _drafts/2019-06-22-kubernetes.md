@@ -149,5 +149,6 @@ minikube delete
 
 ## Resources
 
+* [The Official, Written Tutorial](https://kubernetes.io/docs/tutorials/hello-minikube/)
 * [Kubernetes Tutorial - YouTube](https://www.youtube.com/playlist?list=PLot-YkcC7wZ9xwMzkzR_EkOrPahSofe5Q)
 * [Services vs Deployments vs Replica Sets vs Pods vs Containers - YouTube](https://www.youtube.com/watch?v=ohSUtEfDefc)
