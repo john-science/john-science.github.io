@@ -95,7 +95,7 @@ But this is a great example of the risk-vs-reward trade-offs. Most people believ
 
 #### Other Types of Funds
 
-There are lots of types of mutual funds. That is, there are lots of investment strategies followed by mutual fund companies.
+There are lots of types of mutual funds. That is, there are lots of investment strategies followed by mutual fund managers.
 
 ![types of funds](/assets/images/invest/mutual_funds_types.png)
 
@@ -116,7 +116,7 @@ This was, of course, just a first encounter introduction to mutual funds.  There
 
 #### Calculators
 
-Why do you care about mutual funds?  Well, if you are investing for retirement in America you can invest up to a certain amount each year in an IRA (or probably something like a 401k) and those investments will reap various tax benefits.  The most common way to do these investments is through mutual funds.  The tools below will help you organize your thoughts on how much you need to invest and what the best strategies might be.
+Why should you care about mutual funds?  Well, mutual funds are a really common way to invest, especially for retirement. The tools below will help you organize your thoughts on how much you need to invest and what the best strategies might be.
 
 #### How much are you allowed to invest (in tax-deferred retirement accounts)?
 
