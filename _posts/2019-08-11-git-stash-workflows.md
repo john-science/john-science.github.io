@@ -2,7 +2,7 @@
 layout: post
 title: "Git: to Stash, or not to Stash"
 tags: [Software, Git]
-summary: A simple introduction to git stash workflows
+summary: A quick introduction to git stash workflows
 ---
 {% include JB/setup %}
 
@@ -16,16 +16,16 @@ Let's build a little test repo, so we have something to use for concrete example
     $ mkdir hello
     $ cd hello
     $ git init
-    
+
     $ echo "def main():
         print('hello world')
     if __name__ == '__main__':
         main()
     " > hello_world.py
-    
+
     $ echo "bin/
     dist/" > .gitignore
-    
+
     $ echo "Which license do I want?" > LICENSE
 
     $ git add hello_world.py LICENSE .gitignore
@@ -80,18 +80,53 @@ It really is that easy. Though, I should note, files that aren't yet `git add`ed
 
 Let's say the workflow above appeals to you. You start using it every day and it becomes something you rely upon. In that situation, people who started out liking the new feature for its simplicity start asking for more power. Along with that new power comes more syntax to learn.
 
-I feel like this is a parable of most of how most software evolves.
+I feel like this is how most software evolves.
 
-TODO
+Anyway, the more detailed workflow here is that you `git stash` multiple times and want to pick and chose which stashes to apply from your history.
 
-    $ git stash save "something"
-    $ git stash save "something else"
-    $ git stash save "nothing"
-    $ git stash list
+So, let's make some changes:
+
+    $ echo ".tox/
+    docs/
+    __pycach__/" >> .gitignore
+    $ git stash save "adding things to .gitignore"
+    
+    $ echo "MIT or GNU GPLv3.0?" > LICENSE
+    $ git stash save "narrowed my open sources licenses down"
+    
+    $ echo "htmlcov/
+    cover/
+    .coverage/" >> .gitignore
+    $ git stash save "adding coverage artifacts to .gitignore"
+
+Now we have three `git stash` references stored locally. First things first, we want to list them:
+
+    $ git stash liststash@{0}: On master: adding coverage artifacts to .gitignore
+    stash@{1}: On master: narrowed my open sources licenses down
+    stash@{2}: On master: adding things to .gitignore
+
+Let's say we realize we don't have any coverage tests in this project and we don't need that last stash in the list:
+
     $ git stash drop stash@{2}
     $ git stash list
+    stash@{0}: On master: adding coverage artifacts to .gitignore
+    stash@{1}: On master: narrowed my open sources licenses down
+
+THEN we decide we want to apply that second stashed item to our repo:
+
+    $ cat LICENSE 
+    Which license do I want?
+    
     $ git stash pop stash@{1}
+    
+    $ cat LICENSE 
+    MIT or GNU GPLv3.0?
+
+Lastly, say we want to completely drop all the stashes we have in our local repo:
+
     $ git stash clear
+
+And that's about it. The more detailed `git stash` workflow involves managing a labelled list of stash items. It is certainly more powerful, but also requires more work to operate. Still, it's only a handful of easily Googlable commands.
 
 
 ## My Personal Workflow
