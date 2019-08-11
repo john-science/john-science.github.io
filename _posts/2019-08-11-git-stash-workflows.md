@@ -29,9 +29,9 @@ Let's build a little test repo, so we have something to use for concrete example
     $ echo "Which license do I want?" > LICENSE
 
     $ git add hello_world.py LICENSE .gitignore
-    $ git commit hello_world.py LICENSE .gitignore -m "initializing repo"
+    $ git commit hello_world.py LICENSE .gitignore -m "init repo"
 
-Okay, this is just about the smallest repo in the world:
+This is just about the smallest repo in the world:
 
 * hello/
   * hello_world.py
@@ -49,7 +49,7 @@ Okay, the first `git stash` workflow to know about is easy and fast.  Let's say 
 
 But we're not done with our changes to the `.gitignore` file, and suddenly we have other work to do. Someone on our team has made big changes to the repo in some other branch, and we need to go work on the other branch.
 
-Easy, to save our work locally, without commit any changes we just do:
+To save our work locally, without committing any changes we just do:
 
     $ git stash
 
