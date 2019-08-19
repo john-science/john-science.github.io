@@ -6,37 +6,80 @@ summary: A soft, friendly introduction to networking in Linux.
 ---
 {% include JB/setup %}
 
-Networking is a whole field that you could spend your entire life studying and working in. And Linux is a big ecosystem. So getting started learning to deal with your network in Linux could sound a little intimidating. This guide will not attempt to teach you everything. I certainly don't know everything. You will not find the deep secrets of networking here. This will be a beginner-level, friendly introduction to four Linux commandline networking tools that will help form a solid starting point to explore and work on your network.
+Networking is a whole field that you could spend your entire life studying and working in. And Linux is a big ecosystem. So getting started learning to deal with your network in Linux could be a little intimidating. This guide will not attempt to teach you everything. I certainly don't know everything. You will not find the deep secrets of networking here. This will be a beginner-level, friendly introduction to four Linux commandline networking tools that will help form a solid starting point to explore your network.
 
 
-## ss
+## The Basics
 
-> TODO: [ss](https://en.wikipedia.org/wiki/Iproute2)
+Okay, if you have spent much time in Linux at all, these three commands will probably be familiar to you. I was going to leave them out of this discussion as they are *so* basic. But, really, if you haven't seen these before you will absolutely need them if you want to explore or configure your local network.
 
-Socket Statistics (`ss`) is a part of the IProute2 Linux network tools. It gives you a bunch of statistics on your network sockets.
+#### ping
+
+The `ping` command is used to test if you can research an IP address on your network.
+
+```shell
+$ ping wikipedia.com
+PING wikipedia.com (208.80.154.232) 56(84) bytes of data.
+64 bytes from ncredir-lb.eqiad.wikimedia.org (208.80.154.232): icmp_seq=1 ttl=55 time=15.4 ms
+64 bytes from ncredir-lb.eqiad.wikimedia.org (208.80.154.232): icmp_seq=2 ttl=55 time=15.3 ms
+^C
+--- wikipedia.com ping statistics ---
+2 packets transmitted, 2 received, 0% packet loss, time 1001ms
+rtt min/avg/max/mdev = 15.300/15.366/15.433/0.140 ms
+
+$ ping 208.80.154.232
+PING 208.80.154.232 (208.80.154.232) 56(84) bytes of data.
+64 bytes from 208.80.154.232: icmp_seq=1 ttl=55 time=15.5 ms
+64 bytes from 208.80.154.232: icmp_seq=2 ttl=55 time=15.2 ms
+64 bytes from 208.80.154.232: icmp_seq=3 ttl=55 time=15.4 ms
+^C
+--- 208.80.154.232 ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2003ms
+rtt min/avg/max/mdev = 15.271/15.428/15.566/0.187 ms
+```
+
+### nslookup
+
+The `nslookup` command is used to query your DNS mapping for a given IP address. For instance:
+
+```shell
+$ nslookup wikipedia.com
+Server:		192.168.76.13
+Address:	192.168.76.13#53
+
+Non-authoritative answer:
+Name:	wikipedia.com
+Address: 208.80.154.232
+```
+
+### ssh
+
+The `ssh` command is used to connect to another computer using the OpenSSH client. You will, of course, need credentials to make this connection happen. You may need an SSH key shared with the remote server, and you will probably need a username and password.
+
+```shell
+$ ssh my_user_name@208.80.154.232
+```
+
+And when you are done doing whatever it is you are doing on the remote server don't forget to exit:
+
+```shell
+exit
+```
 
 
-## ifconfig
+## ip
 
-> TODO: [ifconfig](https://en.wikipedia.org/wiki/Ifconfig)
-
-`ifconfig` is used to display and coonfigure your network interface.
+> TODO: show / manipulate routing, devices, policy routing and tunnels
 
 
-## iptables
+## firewalld
 
-> TODO: [iptables](https://en.wikipedia.org/wiki/Iptables)
-
-`iptables` is a network management tool to set priviledges for network packet communications.
-
-> `iptables` has been replaced in Redhat 7 by `firewalld`. But `iptables` still comes stock with Ubuntu,
+> TODO
 
 
-## nmap
+## netstat
 
-> TODO: [nmap](https://en.wikipedia.org/wiki/Nmap)
-
-`nmap` is an open-source security scanner that allows you to scanner your local network to build a map of the hosts and services.
+> TODO: Print network connections, routing tables, interface statistics, masquerade connections, and multicast memberships
 
 
 ## Bonus Round
