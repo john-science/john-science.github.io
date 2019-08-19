@@ -2,7 +2,7 @@
 layout: post
 title: "Getting Started with the Linux Commandline"
 tags: [Linux]
-summary: A currated list of the basic Linux commands to know.
+summary: A currated list of common Linux commands.
 ---
 {% include JB/setup %}
 
@@ -18,8 +18,10 @@ And if you want to learn more about them, try typing:
 
 Okay, this list may seem a little long to start with. But each of these tools is likely to be on every Linux computer you see for the rest of your life. Learn them once, know them forever.
 
-* [|]() - 
-* [awk]() - 
+* [|](https://www.geeksforgeeks.org/piping-in-unix-or-linux/) - "pipe" the outputs of one command into another
+* [>](https://ryanstutorials.net/linuxtutorial/piping.php) - "pipe" the outputs of a command into a file
+* [>>](https://ryanstutorials.net/linuxtutorial/piping.php) - "append" the outputs of a command to a file
+* [awk](https://likegeeks.com/awk-command/) - programming language for pattern-matching and parsing text
 * [bg]() - 
 * [cat]() - 
 * [cd]() - change directory
@@ -47,20 +49,21 @@ Okay, this list may seem a little long to start with. But each of these tools is
 * [ping]() - 
 * [pkill]() - 
 * [ps]() - 
-* [pwd]() - 
+* [pwd]() - print the path to you current directory
 * [rm]() - remove a file (or files)
 * [rsync]() - 
 * [scp]() - 
+* [sed]() - programming language for filtering and transforming text
 * [screen]() - 
-* [sleep]() - 
-* [sort]() - 
-* [su]() - 
-* [sudo]() - 
+* [sleep]() - idle. wait. Do nothing for N seconds.
+* [sort]() - alphabetize a list of strings (usually a file)
+* [su]() - enter the "super user", where you have heightened permissions
+* [sudo]() - "super user do" one command, with heightened permissions
 * [tail]() - Show the last N lines in a file.
 * [tar]() - 
 * [top]() - Show what processes are running on your computer (htop is better).
-* [uname]() - 
-* [uuidgen]() - 
+* [uname]() - print information about the operating system
+* [uuidgen]() - generate a random UUID
 * [vi]() - A commandline text editor (replaced by VIM)
 * [vim]() - The best commandline text editor.
 * [wc]() - "word count" in a file (or "line count" if you add `-l`)
