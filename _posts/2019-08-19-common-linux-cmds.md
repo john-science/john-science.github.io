@@ -82,6 +82,8 @@ Okay, this list may seem a little long. It is. But each of these tools is likely
 
 How did I generate this list? Actually, I used four of the above commands together!
 
-    history | awk -F " " '{print $2}' | sort -u
+```shell
+history | awk -F " " '{print $2}' | sort -u
+```
 
 Try it out. Can you explain how this works?
