@@ -23,18 +23,17 @@ Okay, this list may seem a little long to start with. But each of these tools is
 * [>>](https://ryanstutorials.net/linuxtutorial/piping.php) - "append" the outputs of a command to a file
 * [awk](https://likegeeks.com/awk-command/) - programming language for pattern-matching and parsing text
 * [bg](https://www.thegeekdiary.com/understanding-the-job-control-commands-in-linux-bg-fg-and-ctrlz/) - places the current job in the background
-* [cat]() - 
-* [cd]() - change directory
+* [cat](https://www.lifewire.com/uses-of-linux-cat-command-4011235) - display and concatenate files
+* [cd](https://www.computerhope.com/unix/ucd.htm) - change directory
 * [chmod]() - change the permissions on a file (or files)
 * [chown]() - change the owner of a file (or files)
 * [cp](https://www.lifewire.com/copy-files-using-linux-cp-command-4022366) - copies a file (or directory if you use `-r`)
-* [crontab]() - 
+* [crontab](https://www.lifewire.com/crontab-linux-command-4095300) - run programs at regular intervals
 * [cut](https://www.geeksforgeeks.org/cut-command-linux-examples/) - remove sections from each line in a file
-* [date]() - prints the current date/time to the terminal
-* [display]() - 
-* [echo]() - print a string to the terminal
-* [emacs]() - a command line text editor (VIM is better)
-* [exit]() - close the terminal
+* [date](https://www.lifewire.com/display-date-time-using-linux-command-line-4032698) - prints the current date/time to the terminal
+* [echo](https://www.tecmint.com/echo-command-in-linux/) - print a string to the terminal
+* [emacs](http://www.jesshamrick.com/2012/09/10/absolute-beginners-guide-to-emacs/) - a command line text editor (VIM is better)
+* [exit](https://www.howtoforge.com/linux-exit-command/) - close the terminal or exit your shell script
 * [fg](https://www.thegeekdiary.com/understanding-the-job-control-commands-in-linux-bg-fg-and-ctrlz/) - brings a background job to the foreground
 * [find](https://www.lifewire.com/uses-of-linux-command-find-2201100) - search for files inside a directory
 * [grep](https://www.lifewire.com/linux-grep-command-3571842) - search for a string in a file (or files)
@@ -43,27 +42,27 @@ Okay, this list may seem a little long to start with. But each of these tools is
 * [head]() - Shwo the first N lines in a file.
 * [history]() - show the last N commands you've typed in
 * [htop]() - Show the processes currently running on your computer.
-* [killall]() - 
+* [killall](https://www.lifewire.com/how-to-kill-processes-using-linux-4062677) - kill all processes that match a name
 * [ls](https://www.lifewire.com/uses-of-linux-ls-command-4054227) - lists the contents of a directory
-* [make]() - 
+* [make](https://www.lifewire.com/make-linux-command-unix-command-4097054) - run Makefiles to build code (originally for C code)
 * [man](https://www.lifewire.com/man-linux-command-4095406) - print the "man"ual for the program
-* [mkdir]() - 
+* [mkdir](https://www.lifewire.com/create-directories-linux-mkdir-command-3991847) - make new directories
 * [mv]() - move a file (or files)
 * [ping](https://www.lifewire.com/uses-of-command-ping-2201076) - test if an IP (or web) address is reachable
-* [pkill]() - 
+* [pkill](https://www.lifewire.com/how-to-kill-processes-using-linux-4062677) - kill process by ID or name
 * [ps](https://www.lifewire.com/uses-of-linux-ps-command-4058715) - show the running processes
 * [pwd]() - print the path to you current directory
 * [rm](https://www.lifewire.com/delete-files-using-linux-rm-command-4023999) - remove a file (or files)
-* [rsync]() - 
-* [scp]() - 
+* [rsync](https://www.lifewire.com/copying-directories-with-rsync-3971105) - copy (and synchronize) files easily
+* [scp](https://www.garron.me/en/articles/scp.html) - "secure copy" files over an SSH connection
 * [sed]() - programming language for filtering and transforming text
-* [screen]() - 
+* [screen](https://www.rackaid.com/blog/linux-screen-tutorial-and-how-to/) - manage multiple Linux command line sessions from the same terminal
 * [sleep](https://www.lifewire.com/use-linux-sleep-command-3572060) - idle. wait. Do nothing for N seconds.
 * [sort](https://www.geeksforgeeks.org/sort-command-linuxunix-examples/) - alphabetize a list of strings (usually a file)
 * [su](https://www.lifewire.com/what-to-know-sudo-command-3576779) - enter the "super user", where you have heightened permissions
 * [sudo](https://www.lifewire.com/what-to-know-sudo-command-3576779) - "super user do" one command, with heightened permissions
 * [tail](https://www.lifewire.com/view-end-of-line-tail-command-4028901) - Show the last N lines in a file.
-* [tar]() - 
+* [tar](https://www.howtogeek.com/248780/how-to-compress-and-extract-files-using-the-tar-command-on-linux/) - create tar balls from multiple files, and compress/decompress those tar balls
 * [time](https://www.lifewire.com/command-return-time-command-4054237) - 
 * [top]() - Show what processes are running on your computer (htop is better).
 * [uname]() - print information about the operating system
