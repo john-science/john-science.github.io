@@ -22,7 +22,7 @@ And if you want to learn more about them, try typing:
 
 Okay, this list may seem a little long. It is. But each of these tools is likely to be on every Linux computer you see for the rest of your life. They can become the toolbox you use to build practically anything.
 
-* [|](https://www.geeksforgeeks.org/piping-in-unix-or-linux/) - "pipe" the outputs of one command into another
+* [\|](https://www.geeksforgeeks.org/piping-in-unix-or-linux/) - "pipe" the outputs of one command into another
 * [>](https://ryanstutorials.net/linuxtutorial/piping.php) - "pipe" the outputs of a command into a file
 * [>>](https://ryanstutorials.net/linuxtutorial/piping.php) - "append" the outputs of a command to a file
 * [awk](https://likegeeks.com/awk-command/) - programming language for pattern-matching and parsing text
@@ -60,15 +60,15 @@ Okay, this list may seem a little long. It is. But each of these tools is likely
 * [rsync](https://www.lifewire.com/copying-directories-with-rsync-3971105) - copy (and synchronize) files easily
 * [scp](https://www.garron.me/en/articles/scp.html) - "secure copy" files over an SSH connection
 * [sed](https://www.lifewire.com/example-uses-of-sed-2201058) - programming language for filtering and transforming text
-* [screen](https://www.rackaid.com/blog/linux-screen-tutorial-and-how-to/) - manage multiple Linux command line sessions from the same terminal
+* [screen](https://www.rackaid.com/blog/linux-screen-tutorial-and-how-to/) - manage multiple Linux commandline sessions
 * [sleep](https://www.lifewire.com/use-linux-sleep-command-3572060) - idle. wait. Do nothing for N seconds.
 * [sort](https://www.geeksforgeeks.org/sort-command-linuxunix-examples/) - alphabetize a list of strings (usually a file)
 * [su](https://www.lifewire.com/what-to-know-sudo-command-3576779) - enter the "super user", where you have heightened permissions
 * [sudo](https://www.lifewire.com/what-to-know-sudo-command-3576779) - "super user do" one command, with heightened permissions
 * [tail](https://www.lifewire.com/view-end-of-line-tail-command-4028901) - Show the last N lines in a file.
-* [tar](https://www.howtogeek.com/248780/how-to-compress-and-extract-files-using-the-tar-command-on-linux/) - create tar balls from multiple files, and compress/decompress those tar balls
+* [tar](https://www.howtogeek.com/248780/how-to-compress-and-extract-files-using-the-tar-command-on-linux/) - create, compress, and decompress tar balls
 * [time](https://www.lifewire.com/command-return-time-command-4054237) - 
-* [top](https://www.lifewire.com/linux-top-command-2201163) - Show what processes are running on your computer (htop is better).
+* [top](https://www.lifewire.com/linux-top-command-2201163) - What processes are running? (htop is better)
 * [uname](https://www.lifewire.com/display-system-information-uname-command-3964321) - print information about the operating system
 * [uptime](https://www.computerhope.com/unix/uptime.htm) - Tell how long the system has been running.
 * [vi](https://linuxconfig.org/vim-tutorial) - A commandline text editor (replaced by VIM)
