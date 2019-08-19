@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Getting Started with the Linux Commandline"
+title: "The Most Common Linux Commands"
 tags: [Linux]
-summary: To get started with Linux, learn the most common commands.
+summary: Getting Started with the Linux Commandline
 ---
 {% include JB/setup %}
 
