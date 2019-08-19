@@ -22,7 +22,7 @@ Okay, this list may seem a little long to start with. But each of these tools is
 * [>](https://ryanstutorials.net/linuxtutorial/piping.php) - "pipe" the outputs of a command into a file
 * [>>](https://ryanstutorials.net/linuxtutorial/piping.php) - "append" the outputs of a command to a file
 * [awk](https://likegeeks.com/awk-command/) - programming language for pattern-matching and parsing text
-* [bg]() - 
+* [bg](https://www.thegeekdiary.com/understanding-the-job-control-commands-in-linux-bg-fg-and-ctrlz/) - places the current job in the background
 * [cat]() - 
 * [cd]() - change directory
 * [chmod]() - change the permissions on a file (or files)
@@ -35,7 +35,7 @@ Okay, this list may seem a little long to start with. But each of these tools is
 * [echo]() - print a string to the terminal
 * [emacs]() - a command line text editor (VIM is better)
 * [exit]() - close the terminal
-* [fg]() - 
+* [fg](https://www.thegeekdiary.com/understanding-the-job-control-commands-in-linux-bg-fg-and-ctrlz/) - brings a background job to the foreground
 * [find](https://www.lifewire.com/uses-of-linux-command-find-2201100) - search for files inside a directory
 * [grep](https://www.lifewire.com/linux-grep-command-3571842) - search for a string in a file (or files)
 * [gunzip](https://www.geeksforgeeks.org/gunzip-command-in-linux-with-examples/) - Decompress a ZIP file
@@ -51,7 +51,7 @@ Okay, this list may seem a little long to start with. But each of these tools is
 * [mv]() - move a file (or files)
 * [ping](https://www.lifewire.com/uses-of-command-ping-2201076) - test if an IP (or web) address is reachable
 * [pkill]() - 
-* [ps]() - 
+* [ps](https://www.lifewire.com/uses-of-linux-ps-command-4058715) - show the running processes
 * [pwd]() - print the path to you current directory
 * [rm](https://www.lifewire.com/delete-files-using-linux-rm-command-4023999) - remove a file (or files)
 * [rsync]() - 
