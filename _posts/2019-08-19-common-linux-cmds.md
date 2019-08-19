@@ -11,10 +11,13 @@ So you're learning your way around the Linux commandline and there are *all* the
 * `/bin/`
 * `/usr/bin/`
 
-And if you want to learn more about them, try typing:
+And if you want to learn more about them, try typing one of these:
 
-    $ man something
-    $ something --help
+```shell
+man something
+
+something --help
+```
 
 ## The Most Common Commands
 
