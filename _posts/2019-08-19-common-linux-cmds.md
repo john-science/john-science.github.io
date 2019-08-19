@@ -67,7 +67,7 @@ Okay, this list may seem a little long. It is. But each of these tools is likely
 * [sudo](https://www.lifewire.com/what-to-know-sudo-command-3576779) - "super user do" one command, with heightened permissions
 * [tail](https://www.lifewire.com/view-end-of-line-tail-command-4028901) - Show the last N lines in a file.
 * [tar](https://www.howtogeek.com/248780/how-to-compress-and-extract-files-using-the-tar-command-on-linux/) - create, compress, and decompress tar balls
-* [time](https://www.lifewire.com/command-return-time-command-4054237) - 
+* [time](https://www.lifewire.com/command-return-time-command-4054237) - calculate how long any command takes to run
 * [top](https://www.lifewire.com/linux-top-command-2201163) - What processes are running? (htop is better)
 * [uname](https://www.lifewire.com/display-system-information-uname-command-3964321) - print information about the operating system
 * [uptime](https://www.computerhope.com/unix/uptime.htm) - Tell how long the system has been running.
