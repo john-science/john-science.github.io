@@ -91,7 +91,7 @@ rm -f "${TMP}"
 
 ```
 
-Did someone commit a 100MB data file and then quickly `git rm` it, thinking no one would notice? Well, you just noticed, and now you can filter it out of your history so it stops slowing you down.
+Did someone commit a 100MB data file and then quickly `git rm` it, thinking no one would notice? Well, you just noticed, and now you can filter it out of your history so it stops slowing you down. For a quick summary on how to totally remove files from your history, check [here](https://dalibornasevic.com/posts/2-permanently-remove-files-and-folders-from-git-repo).
 
 
 ### Which branches haven't been touched in years?
