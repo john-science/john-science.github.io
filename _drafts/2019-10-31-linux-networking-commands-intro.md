@@ -46,7 +46,7 @@ rtt min/avg/max/mdev = 15.271/15.428/15.566/0.187 ms
 
 ### ssh
 
-The `ssh` command is used to connect to another computer using the OpenSSH client. You will, of course, need credentials to make this connection happen. You may need an SSH key shared with the remote server, and you will probably need a username and password.
+The [ssh](https://en.wikipedia.org/wiki/Secure_Shell) command is used to connect to another computer using the OpenSSH client. You will, of course, need credentials to make this connection happen. You may need an SSH key shared with the remote server, and you will probably need a username and password.
 
 ```shell
 $ ssh my_user_name@208.80.154.232
