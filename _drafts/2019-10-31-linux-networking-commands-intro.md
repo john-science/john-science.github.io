@@ -82,10 +82,15 @@ Address: 208.80.154.232
 
 > TODO
 
+* [linuxconfig](https://linuxconfig.org/introduction-to-firewalld-and-firewall-cmd-command-on-linux)
+
 
 ## netstat
 
 > TODO: Print network connections, routing tables, interface statistics, masquerade connections, and multicast memberships
+
+* [binary tides tutorial](https://www.binarytides.com/linux-netstat-command-examples/)
+* [Some YouTube tutorial](https://www.youtube.com/watch?v=O0iQ6-ybZak)
 
 
 ## Bonus Round
