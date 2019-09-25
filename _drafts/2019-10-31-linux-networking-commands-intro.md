@@ -77,6 +77,8 @@ Address: 208.80.154.232
 
 > TODO: show / manipulate routing, devices, policy routing and tunnels
 
+* [ip examples](https://www.cyberciti.biz/faq/linux-ip-command-examples-usage-syntax/)
+
 
 ## firewalld
 
