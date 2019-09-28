@@ -82,7 +82,7 @@ Address: 208.80.154.232
 
 ## firewalld
 
-> TODO
+> TODO: a firewall management tool
 
 * [linuxconfig](https://linuxconfig.org/introduction-to-firewalld-and-firewall-cmd-command-on-linux)
 
