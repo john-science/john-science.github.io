@@ -6,14 +6,14 @@ summary: A soft, friendly introduction to networking in Linux.
 ---
 {% include JB/setup %}
 
-Networking is a whole field that you could spend your entire life studying. And Linux is a big ecosystem. So getting started learning to deal with your network in Linux could be a little intimidating. This guide will not attempt to teach you everything. I certainly don't know everything. You will not find the deep secrets of networking here. This will be a beginner-level, friendly introduction to four Linux commandline networking tools that will help form a solid starting point to explore your network.
+Networking is a field that you could spend your entire life studying. And Linux is a big ecosystem. So getting started learning to deal with your network in Linux could be a little intimidating. This guide will not attempt to teach you everything. I certainly don't know everything. You will not find the deep secrets of networking here. This will be a beginner-level, friendly introduction to four Linux commandline networking tools that will help form a solid starting point to explore your personal network.
 
 
 ## The Basics - You might already know them!
 
 Okay, if you have spent much time in Linux at all, these three commands will probably be familiar to you. I was going to leave them out of this discussion as they are *so* basic. But, really, if you haven't seen these before you will absolutely need them if you want to explore or configure your local network.
 
-#### ping
+### ping
 
 The `ping` command is used to test if you can reach an IP address on your network. Let's see if we can reach Wikipedia today:
 
