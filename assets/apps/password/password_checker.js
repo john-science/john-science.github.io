@@ -5,10 +5,10 @@ var WARN_COLORS = {
   1: "#DF0101",
   2: "#DF7401",
   3: "#D7DF01",
-  4: "#003b6f",
-  5: "#003b6f",
-  6: "#003b6f",
-  7: "#003b6f"
+  4: "#00FF00",
+  5: "#00FF00",
+  6: "#00FF00",
+  7: "#00FF00"
 };
 var WARN_TITLE = {1:"EXTREMELY bad.",2:"Not good.",3:"Okay. Could be better."};
 var COMPLEX_CUTS = [1e9,1e15,1e20];
