@@ -4,7 +4,9 @@ var DND_DATA = {
 
   species: {
     "0": {
-      "": ["Accountant", "Human Resources Generalist", "IT Expert", "Personal Assistant", "Temp"]
+      "": ["Accountant", "Administrative Assistant", "Human Resources Generalist", "IT Expert", "Marketing Analyst",
+           "Marketing Manager", "Computer Network Engineer", "Personal Assistant", "Sales Representative",
+           "Social Media Strategist", "Software Engineer", "Temp"]
     },
   },
 
