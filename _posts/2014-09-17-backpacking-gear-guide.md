@@ -304,7 +304,7 @@ alt="Reading a map on the trail">
 
 > A knife is an extremely versatile tool.
 
-If you've ever watched Bear Grylls on TV, or taken a survival course, you'll know that purists think the only piece of equipment you need to survive in the wild is a knife. Since you are backpacking, you can be a lot more prepared than that. Still, a good knife can be quite handy. 
+If you've ever watched survival shows on TV, or taken a survival course, you'll know that purists think the only piece of equipment you need to survive in the wild is a knife. Since you are backpacking, you can be a lot more prepared than that. Still, a good knife can be quite handy. 
 
 A lot of factors go into choosing a backpacking knife, but I will break it down into four categories:
 
@@ -336,7 +336,7 @@ The survival blade I like best is the <a href="http://www.amazon.com/Tool-Logic-
 
 ![Tool Logic SL3](http://i.stack.imgur.com/CqoCa.jpg)
 
-If your plans depends more heavily on your knife, you will have to accept a little extra weight for a longer blade. Your best bet there will be the <a href="http://www.amazon.com/Gerber-31-000751-Survival-Ultimate-Serrated/dp/B003R0LSMO/">Gerber Bear Grylls-model survival knife</a> ($40 and 11 ounces). This even has a built-in sharpener.
+If your plans depends more heavily on your knife, you will have to accept a little extra weight for a longer blade. A good bet there will be something like the <a href="http://www.amazon.com/Gerber-31-000751-Survival-Ultimate-Serrated/dp/B003R0LSMO/">Gerber Bear Grylls-model survival knife</a> ($40 and 11 ounces). This even has a built-in sharpener.
 
 ![Gerber Bear Grylls knife](http://i.stack.imgur.com/NDlUX.jpg)
 
