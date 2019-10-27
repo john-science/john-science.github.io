@@ -6,9 +6,9 @@ summary: The entire history of the Dwarves of Middle Earth.
 ---
 {% include JB/setup %}
 
-I have been working on a [game](https://github.com/theJollySin/mazes_of_erebor) lately, and I found myself wanting a history of the Dwarves. Unfortunately, there is far less written about the Dwarves than there is about the Elves. If Tolkien did flush out the history of the Dwarves, he didn't share it with us. What I was able to cobble together had to be scrounged from all of his works.
+I have been working on a project lately, and wanting a history of Tolkien's Dwarves. Unfortunately, there is far less written about the Dwarves than there is about the Elves. If Tolkien did flush out the history of the Dwarves, he didn't share it with us. What I was able to cobble together had to be scrounged from all of his works.
 
-What follows is a brief timeline of every major event in Dwarven history, that we know of. Tolkien's mythology evolved and improved over time; where possible I try to use his last and most recent version.
+What follows is a brief timeline of every major event in Dwarven history, that we know of. Tolkien's mythology evolved and improved over time; where possible I try to use his most recent version.
 
 ### Table of Contents
 
