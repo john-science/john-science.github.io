@@ -72,6 +72,8 @@ Name:	wikipedia.com
 Address: 208.80.154.232
 ```
 
+This tool is easy to use, but frequently hard to interpret all the crazy kinds of outputs that get dumped to the screen.
+
 
 ## ip
 
@@ -97,6 +99,6 @@ Address: 208.80.154.232
 
 ## Bonus Round
 
-> TODO: [fail2ban](https://en.wikipedia.org/wiki/Fail2ban) is a simple tool( written in Python) to help fight / prevent brute-force network attacks. In particular, if an IP address fails to login N times, their IP will be automatically banned for M days. So anyone try thousands of common username/password combinations will get automatically blocked. This is particularly useful for servers that are exposed to the public, as they will almost certainly see a lot of these brute-force attacks.
+> TODO: [fail2ban](https://en.wikipedia.org/wiki/Fail2ban) is a simple tool (written in Python) to help fight / prevent brute-force network attacks. In particular, if an IP address fails to login N times, their IP will be automatically banned for M days. So anyone try thousands of common username/password combinations will get automatically blocked. This is particularly useful for servers that are exposed to the public, as they will almost certainly see a lot of these brute-force attacks.
 
 > TODO: files of interest: knownhosts, hostfile
