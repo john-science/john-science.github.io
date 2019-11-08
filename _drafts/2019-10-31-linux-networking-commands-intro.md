@@ -6,7 +6,7 @@ summary: A soft, friendly introduction to networking in Linux.
 ---
 {% include JB/setup %}
 
-Networking is a field that you could spend your entire life studying. And Linux is a big ecosystem. So getting started learning to deal with your network in Linux could be a little intimidating. This guide will not attempt to teach you everything. I certainly don't know everything. You will not find the deep secrets of networking here. This will be a beginner-level, friendly introduction to four Linux commandline networking tools that will help form a solid starting point to explore your personal network.
+Networking is a field that you could spend your entire life studying. And Linux is a big ecosystem. So getting started learning to deal with your network in Linux could be a little intimidating. This guide will not attempt to teach you everything. I certainly don't know everything. You will not find the deep secrets of networking here. This will be a beginner-level, friendly introduction to four Linux commandline networking tools that will help form a solid starting point to explore your personal network (plus a little bonus material).
 
 
 ## The Basics - You might already know them!
@@ -15,7 +15,7 @@ Okay, if you have spent much time in Linux at all, these three commands will pro
 
 ### ping
 
-The `ping` command is used to test if you can reach an IP address on your network. Let's see if we can reach Wikipedia today:
+The `ping` command is used to test if you can reach an IP address. Let's see if we can reach Wikipedia today:
 
 ```shell
 $ ping wikipedia.com
@@ -30,7 +30,7 @@ rtt min/avg/max/mdev = 15.300/15.366/15.433/0.140 ms
 
 Great!  We see above the IP adress we reach Wikipedia through and we get little pings sent out at regular intervals to give us some metrics on our latency and connection speed to the host.
 
-Of course, you can also `ping` IP addresses, not just the URL and get the same information:
+Of course, you can also `ping` IP addresses, and get the same information:
 
 ```shell
 $ ping 208.80.154.232
@@ -46,13 +46,13 @@ rtt min/avg/max/mdev = 15.271/15.428/15.566/0.187 ms
 
 ### ssh
 
-The [ssh](https://en.wikipedia.org/wiki/Secure_Shell) command is used to connect to another computer using the OpenSSH client. You will, of course, need credentials to make this connection happen. You may need an SSH key shared with the remote server, and you will probably need a username and password.
+The [ssh](https://en.wikipedia.org/wiki/Secure_Shell) command is used to connect to another computer (on the commandline) using the OpenSSH client. You will, of course, need credentials to make this connection happen. You may need an SSH key shared with the remote server, and you will probably need a username and password.
 
 ```shell
 $ ssh my_user_name@208.80.154.232
 ```
 
-And when you are done doing whatever it is you are doing on the remote server don't forget to exit:
+And when you are done on the remote server don't forget to exit:
 
 ```shell
 exit
