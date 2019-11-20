@@ -51,7 +51,12 @@ def morgue_spider(all_urls, new_urls, out_name='morgue_urls', depth=5, wait_seco
 
 
 def looks_crawl_related(url):
-    """
+    """ Determine if, broadly, it seems likely a URL is DCSS-related.
+    
+    Args:
+        url (str): Any arbitary URL
+    Returns:
+        bool: Could this URL possibly be a DCSS link?
     """
     u = url.lower()
     crawl_terms = ('crawl', 'dcss', 'morgue')
@@ -63,7 +68,12 @@ def looks_crawl_related(url):
 
 
 def find_links_in_file(url):
-    """
+    """ Find all the HTML links we can on a given webpage.
+
+    Args:
+        url (str): Any arbitary URL
+    Returns:
+        set: All the URLs we could find on that page.
     """
     r = requests.get(url)
     html = r.content
@@ -98,7 +108,12 @@ def write_morgue_urls_to_file(all_urls, out_name='morgue_urls'):
 
 
 def find_morgues(urls):
-    """
+    """ Find the subset of URLs that look like they might be morgue files.
+
+    Args:
+        urls (set): A bunch of URLs
+    Returns:
+        list: All URLs that might be morgue files
     """
     return [u for u in urls if u.split('/')[-1].startswith('morgue') and u.endswith('.txt')]
 
