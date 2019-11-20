@@ -10,44 +10,51 @@ from bs4 import BeautifulSoup
 # CONSTANTS
 SEARCH_DEPTH = 5
 WAIT_SECONDS = 60.0
+TIMEOUT_SECONDS = 60 * 30
 OUT_NAME = 'morgue_urls'
-PAGES = ['https://crawl.kelbi.org/scoring/highscores.html',
-         'https://crawl.kelbi.org/scoring/per-day.html',
-         'https://crawl.kelbi.org/scoring/best-players-total-score.html',
-         'https://crawl.kelbi.org/',
+PAGES = ['http://crawl.akrasiac.org/',
          'http://crawl.akrasiac.org/scoring/overview.html',
          'http://crawl.akrasiac.org/scoring/per-day.html',
          'http://crawl.akrasiac.org/scoring/per-day-monthly.html',
          'http://crawl.akrasiac.org/scoring/winners.html',
          'http://crawl.akrasiac.org/scoring/best-players-total-score.html',
          'http://crawl.akrasiac.org/scoring/index.html',
-         'http://crawl.akrasiac.org/']
+         'https://crawl.kelbi.org/',
+         'https://crawl.kelbi.org/scoring/per-day.html',
+         'https://crawl.kelbi.org/scoring/highscores.html',
+         'https://crawl.kelbi.org/scoring/best-players-total-score.html']
 
 
 def main():
-    all_urls = morgue_spider(set(PAGES), set(PAGES), OUT_NAME, int(SEARCH_DEPTH), float(WAIT_SECONDS))
+    all_urls = morgue_spider(set(PAGES), set(PAGES), OUT_NAME, int(TIMEOUT_SECONDS), int(SEARCH_DEPTH),
+                             float(WAIT_SECONDS))
     print('Spidered {0} URLs'.format(len(all_urls)))
 
 
-def morgue_spider(all_urls, new_urls, out_name='morgue_urls', depth=5, wait_seconds=60.0):
+def morgue_spider(all_urls, new_urls, out_name='morgue_urls', timeout=1800, depth=5, wait=60.):
     """
     """
-    if depth <= 0:
+    if depth <= 0 or len(new_urls) == 0:
         return all_urls
+
+    print('Depth {0}: {1} new URLs'.format(depth, len(new_urls)))
+    print('\t', end='', flush=True)
 
     newer_urls = set()
     start = datetime.now().timestamp()
     for url in new_urls:
         if url.endswith('.html') and looks_crawl_related(url):
+            print('.', end='', flush=True)
             newer_urls.update(find_links_in_file(url))
-            sleep(wait_seconds + 0.5 * wait_seconds * random())
-            if datetime.now().timestamp() - start > 30 * 60 * 60:
+            if datetime.now().timestamp() - start > timeout:
                 write_morgue_urls_to_file(newer_urls - all_urls, out_name)
                 start = datetime.now().timestamp()
+                print('\t', end='', flush=True)
+            sleep(wait + 0.5 * wait * random())
 
     write_morgue_urls_to_file(newer_urls - all_urls, out_name)
 
-    return morgue_spider(all_urls.union(newer_urls), newer_urls - all_urls, out_name, depth - 1)
+    return morgue_spider(all_urls.union(newer_urls), newer_urls - all_urls, out_name, timeout, depth - 1, wait)
 
 
 def looks_crawl_related(url):
@@ -61,7 +68,7 @@ def looks_crawl_related(url):
     u = url.lower()
     crawl_terms = ('crawl', 'dcss', 'morgue')
     for term in crawl_terms:
-        if term in url:
+        if term in u:
             return True
 
     return False
@@ -96,9 +103,9 @@ def write_morgue_urls_to_file(all_urls, out_name='morgue_urls'):
     urls = [u for u in urls if u not in known_morgues]
 
     if not len(urls):
-        print("Found no new morgues.")
+        print("\n\tFound no new morgues.")
     else:
-        print("Found {0} new morgues".format(len(urls)))
+        print("\n\tWriting {0} new morgues to file.".format(len(urls)))
 
     # write all the new and unique morgues we have found to a text file
     with open('{0}_{1}.txt'.format(out_name, datetime.now().strftime('%Y%m%d_%H%M%S')), 'a+') as f:
