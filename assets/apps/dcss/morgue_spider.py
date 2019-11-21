@@ -1,38 +1,54 @@
 """
 """
+from bs4 import BeautifulSoup
 from datetime import datetime
 from glob import glob
 from random import random
 import requests
 from time import sleep
-from bs4 import BeautifulSoup
 
 # CONSTANTS
 SEARCH_DEPTH = 5
 WAIT_SECONDS = 60.0
 TIMEOUT_SECONDS = 60 * 30
 OUT_NAME = 'morgue_urls'
-PAGES = ['http://crawl.akrasiac.org/',
-         'http://crawl.akrasiac.org/scoring/overview.html',
-         'http://crawl.akrasiac.org/scoring/per-day.html',
-         'http://crawl.akrasiac.org/scoring/per-day-monthly.html',
-         'http://crawl.akrasiac.org/scoring/winners.html',
-         'http://crawl.akrasiac.org/scoring/best-players-total-score.html',
-         'http://crawl.akrasiac.org/scoring/index.html',
-         'https://crawl.kelbi.org/',
-         'https://crawl.kelbi.org/scoring/per-day.html',
-         'https://crawl.kelbi.org/scoring/highscores.html',
-         'https://crawl.kelbi.org/scoring/best-players-total-score.html']
+URLS = ['http://crawl.akrasiac.org/',
+        'http://crawl.akrasiac.org/scoring/overview.html',
+        'http://crawl.akrasiac.org/scoring/per-day.html',
+        'http://crawl.akrasiac.org/scoring/per-day-monthly.html',
+        'http://crawl.akrasiac.org/scoring/winners.html',
+        'http://crawl.akrasiac.org/scoring/best-players-total-score.html',
+        'http://crawl.akrasiac.org/scoring/index.html',
+        'https://crawl.kelbi.org/',
+        'https://crawl.kelbi.org/scoring/per-day.html',
+        'https://crawl.kelbi.org/scoring/highscores.html',
+        'https://crawl.kelbi.org/scoring/best-players-total-score.html']
 
 
 def main():
-    all_urls = morgue_spider(set(PAGES), set(PAGES), OUT_NAME, int(TIMEOUT_SECONDS), int(SEARCH_DEPTH),
-                             float(WAIT_SECONDS))
+    urls = set(URLS)
+    out_name = str(OUT_NAME)
+    timeout = int(TIMEOUT_SECONDS)
+    wait = float(WAIT_SECONDS)
+    depth = int(SEARCH_DEPTH)
+
+    all_urls = morgue_spider(set(urls), urls, out_name, timeout, wait, depth)
     print('Spidered {0} URLs'.format(len(all_urls)))
 
 
-def morgue_spider(all_urls, new_urls, out_name='morgue_urls', timeout=1800, depth=5, wait=60.):
-    """
+def morgue_spider(all_urls, new_urls, out_name='morgue_urls', timeout=1800, wait=60., depth=5):
+    """ Spider through all the links you can find, recursively, to look for DCSS morgue files,
+    write all those you find to a simple text file
+
+    Args:
+        all_urls (set): All the URLs you have previously seen
+        new_urls (set): All the new URLs you need to spider this time through
+        out_name (str): Filename prefix for lists of morgue URLs
+        timeout (int): Number of seconds before writing an intermediary output file
+        wait (float): Minimum time to wait between HTTP requests
+        depth (int): Number of links to follow down into, spidering depth
+    Returns:
+        set: All the URLs that were found during the spidering
     """
     if depth <= 0 or len(new_urls) == 0:
         return all_urls
@@ -41,20 +57,33 @@ def morgue_spider(all_urls, new_urls, out_name='morgue_urls', timeout=1800, dept
     print('\t', end='', flush=True)
 
     newer_urls = set()
+    last_base_url = 'NOETHER'
     start = datetime.now().timestamp()
     for url in new_urls:
-        if url.endswith('.html') and looks_crawl_related(url):
-            print('.', end='', flush=True)
-            newer_urls.update(find_links_in_file(url))
-            if datetime.now().timestamp() - start > timeout:
-                write_morgue_urls_to_file(newer_urls - all_urls, out_name)
-                start = datetime.now().timestamp()
+        # let's not spider the whole internet
+        if not (url.endswith('.html') and looks_crawl_related(url)):
+            continue
+
+        # look for links inside this URL
+        print('.', end='', flush=True)
+        newer_urls.update(find_links_in_file(url))
+
+        # sleep, if we need to give the site a break  
+        if url.startswith(last_base_url):
+            sleep(wait + 0.25 * wait * random())
+        last_base_url = url[:url[8:].find('/') + 8]
+
+        # write a temp output file if it's been too long
+        if datetime.now().timestamp() - start > timeout:
+            write_morgue_urls_to_file(newer_urls - all_urls, out_name)
+            start = datetime.now().timestamp()
                 print('\t', end='', flush=True)
-            sleep(wait + 0.5 * wait * random())
 
-    write_morgue_urls_to_file(newer_urls - all_urls, out_name)
+    # write any new morgues you found to file
+    newer_urls = newer_urls - all_urls
+    write_morgue_urls_to_file(newer_urls, out_name)
 
-    return morgue_spider(all_urls.union(newer_urls), newer_urls - all_urls, out_name, timeout, depth - 1, wait)
+    return morgue_spider(all_urls.union(newer_urls), newer_urls, out_name, timeout, wait, depth - 1)
 
 
 def looks_crawl_related(url):
@@ -67,6 +96,7 @@ def looks_crawl_related(url):
     """
     u = url.lower()
     crawl_terms = ('crawl', 'dcss', 'morgue')
+
     for term in crawl_terms:
         if term in u:
             return True
@@ -90,7 +120,13 @@ def find_links_in_file(url):
 
 
 def write_morgue_urls_to_file(all_urls, out_name='morgue_urls'):
-    """
+    """ Write all the morgues you found to a simple text file,
+    checking to make sure you haven't found it before
+
+    Args:
+        all_urls (set): Lots of arbitrary morgue URLs
+        out_name (str): Filename prefix for morgue lists
+    Returns: None
     """
     urls = find_morgues(all_urls)
 
