@@ -4,6 +4,8 @@ def main():
     pass
 
 
+# TODO: Add in ability to parse these awful HTML versions of morgues: 
+#       http://lazy-life.ddo.jp:8080/morgue/anselm/morgue-anselm-20160315-131124.txt
 def parse_one_morgue(txt):
     lines = txt.split('\n')[:20]
     if len(lines) < 13:
