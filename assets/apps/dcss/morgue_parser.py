@@ -1,4 +1,8 @@
 
+def main():
+    # TODO:
+    pass
+
 
 def parse_one_morgue(txt):
     lines = txt.split('\n')[:20]
@@ -45,3 +49,7 @@ SPECIES = {'barachian', 'black draconian', 'centaur', 'deep dwarf', 'deep elf', 
            'mottled draconian', 'mountain dwarf', 'mummy', 'naga', 'octopode', 'ogre', 'pale draconian',
            'purple draconian', 'red draconian', 'sludge elf', 'spriggan', 'tengu', 'troll', 'vampire',
            'vine stalker', 'white draconian', 'yellow draconian'}
+
+
+if __name__ == '__main__':
+    main()
