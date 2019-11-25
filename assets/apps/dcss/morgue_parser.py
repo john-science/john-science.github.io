@@ -15,8 +15,8 @@ def main():
             print(parse_one_morgue(txt))
         except ParserError as e:
             print('ParserError', e, url)
-        except Loser as e:
-            print('Loser', url)
+        except Loser:
+            print('Loser:', url)
 
 
 def read_url(url):
@@ -27,6 +27,8 @@ def read_url(url):
 
 
 def parse_one_morgue(txt):
+    """
+    """
     txt = strip_html(txt)
 
     lines = txt.split('\n')[:20]
