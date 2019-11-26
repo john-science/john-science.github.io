@@ -36,6 +36,7 @@ def main():
     print('Spidered {0} URLs'.format(len(all_urls)))
 
 
+# TODO: Track when the last time you hit a base URL is, and be smarter about when you sleep.
 def morgue_spider(all_urls, new_urls, out_name='morgue_urls', timeout=1800, wait=60., depth=5):
     """ Spider through all the links you can find, recursively, to look for DCSS morgue files,
     write all those you find to a simple text file
