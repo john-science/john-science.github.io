@@ -1,34 +1,50 @@
 """
 """
+from bz2 import BZ2File
 import requests
 from sys import argv
 
 
+# TODO: create a callable non-main function
 def main():
-    # TODO: Normalize species, backgrounds, and Gods on output
-    # TODO: function to read text from a file and return stats
-    # TODO: function to grab text from a link and return the stats
-    # TODO: function to loop through links (or files) and build a winners file
-    for url in argv[1:]:
-        txt = read_url(url)
+    master_file = argv[1]
+    if master_file.endswith('.bz2'):
+        urls = bz2.BZ2File(master_file, 'r').readlines()
+        urls = [u.decode('utf-8') for u in urls]
+    else:
+        urls = open(master_file, 'r').readlines()
+
+    # TODO: write the results to output files (every 30 minutes)
+    # TODO: smart sleeping when rotating through URLs
+    for url in urls:
+        if url.startswith('http'):
+            txt = read_url(url)
+        else:
+            txt = read_file(url)
+
         try:
-            print(parse_one_morgue(txt))
+            spec, back, god, runes, ver = parse_one_morgue(txt)
+            print('{0}{1}^{2},{3},{4}'.format(spec, back, god, runes, ver))
         except ParserError as e:
             print('ParserError', e, url)
         except Loser:
-            print('Loser:', url)
+            print('Loser', url)
 
 
 def read_url(url):
-    """
+    """ Read the text from a URL
     """
     r = requests.get(url)
     return r.content.decode("utf-8")
 
 
+def read_file(file_path):
+    """ Read the text from a file
+    """
+    return open(file_path, 'r').read()
+
+
 def parse_one_morgue(txt):
-    """
-    """
     txt = strip_html(txt)
 
     lines = txt.split('\n')[:20]
@@ -46,26 +62,54 @@ def parse_one_morgue(txt):
     num_runes = -1
     the_line = ''
     for line in lines[1:]:
+        if not len(line.strip()):
+            continue
+        elif line.strip().startswith('... and '):
+            num_runes = int(line.split('... and ')[1].split(' runes')[0])
+        elif line.strip().startswith('Was ') and line.strip().endswith('.'):
+            god = line.lower().split('.')[0].split(' ')[-1]
+        elif ('the' in line) and ('(' in line) and (')' in line) and ('Turns:' in line) and ('Time:' in line):
+            the_line = line
+            break
 
     if not len(the_line) or num_runes < 0:
         raise ParserError('Error parsing file')
 
-    species = background = ''
-    build = the_line.split('(')[1].split(')')[0].lower()
-    if ' ' not in build and len(build) == 4:
-        # cover the case where builds are written as (OpEE)
-        species = build[:2]
-        background = build[2:]
-    else:
-        # cover the case where builds are written as (Octopode Earth Elementalist)
-        for spec in SPECIES:
-            if build.startswith(spec):
-                species = spec
-                background = build.split(spec)[1].strip()
-                break
+    try:
+        build = the_line.split('(')[1].split(')')[0].lower()
+        if ' ' not in build and len(build) == 4:
+            # cover the case where builds are written as (OpEE)
+            species = build[:2]
+            background = build[2:]
+        else:
+            # cover the case where builds are written as (Octopode Earth Elementalist)
+            b = build.split()
+            if b[0] in SPECIES:
+                species = SPECIES[b[0]]
+                background = ' '.join(b[1:])
+            elif (b[0] + ' ' + b[1]) in SPECIES:
+                species = SPECIES[b[0] + ' ' + b[1]]
+                background = ' '.join(b[2:])
 
-    if not len(species) or not len(background):
-        raise ParserError('Error parsing build info')
+        if background in BACKGROUNDS:
+            background = BACKGROUNDS[background]
+        elif background in BACKGROUNDS_ABR:
+            background = BACKGROUNDS_ABR[background]
+
+        if species in SPECIES:
+            species = SPECIES[species]
+        elif species in SPECIES_ABR:
+            species = SPECIES_ABR[species]
+
+        if god in GODS:
+            god = GODS[god]
+        elif god in GODS_ABR:
+            god = GODS_ABR[god]
+    except:
+        raise ParserError('Build info: {0}'.format(build))
+
+    if len(species) != 2 or len(background) != 2:
+        raise ParserError('Build info: {0}'.format(build))
 
     return species, background, god, num_runes, version
 
@@ -91,15 +135,36 @@ class ParserError(Exception):
     pass
 
 
-SPECIES = {'barachian', 'black draconian', 'centaur', 'deep dwarf', 'deep elf', 'demigod', 'demonspawn', 'djinni',
-           'draconian', 'felid', 'formicid', 'gargoyle', 'ghoul', 'green draconian', 'grey draconian', 'grotesk',
-           'halfling', 'high elf', 'hill orc', 'human', 'kobold', 'lava orc', 'merfolk', 'minotaur',
-           'mottled draconian', 'mountain dwarf', 'mummy', 'naga', 'octopode', 'ogre', 'pale draconian',
-           'purple draconian', 'red draconian', 'sludge elf', 'spriggan', 'tengu', 'troll', 'vampire',
-           'vine stalker', 'white draconian', 'yellow draconian'}
+SPECIES = {'barachian': 'Br', 'black draconian': 'Dr', 'centaur': 'Ce', 'deep dwarf': 'DD', 'deep elf': 'DE',
+           'demigod': 'Dg', 'demonspawn': 'Ds', 'djinni': 'Dj', 'draconian': 'Dr', 'felid': 'Fe', 'formicid': 'Fo',
+           'gargoyle': 'Gr', 'ghoul': 'Gh', 'green draconian': 'Dr', 'grey draconian': 'Dr', 'grotesk': 'Gr',
+           'halfling': 'Ha', 'high elf': 'HE', 'hill orc': 'HO', 'human': 'Hu', 'kobold': 'Ko', 'lava orc': 'LO',
+           'merfolk': 'Me', 'minotaur': 'Mi', 'mottled draconian': 'Dr', 'mountain dwarf': 'MD', 'mummy': 'Mu',
+           'naga': 'Na', 'octopode': 'Op', 'ogre': 'Og', 'pale draconian': 'Dr', 'purple draconian': 'Dr',
+           'red draconian': 'Dr', 'sludge elf': 'SE', 'spriggan': 'Sp', 'tengu': 'Te', 'troll': 'Tr', 'vampire': 'Va',
+           'vine stalker': 'VS', 'white draconian': 'Dr', 'yellow draconian': 'Dr'}
+SPECIES_ABR = {v.lower(): v for v in SPECIES.values()}
 
-GODS = {'muna': 'Sif Muna', 'madash': 'Fedhas Madash', 'sagoz': 'Gozag Ym Sagoz', 'xobeh': 'Nemelex Xobeh',
-        'stormbringer': 'Qazlal Stormbringer', 'council': 'The Wu Jian Council', 'one': 'The Shining One'}
+BACKGROUNDS = {'abyssal': 'AK', 'abyssal knight': 'AK', 'air': 'AE', 'air elementalist': 'AE', 'arcane': 'AM',
+               'arcane marksman': 'AM', 'artificer': 'Ar', 'assassin': 'As', 'berserker': 'Be', 'chaos': 'CK',
+               'chaos knight': 'CK', 'conjurer': 'Cj', 'death': 'DK', 'death knight': 'DK', 'earth': 'EE',
+               'earth elementalist': 'EE', 'enchanter': 'En', 'fighter': 'Fi', 'fire': 'FE', 'fire elementalist': 'FE',
+               'gladiator': 'Gl', 'healer': 'He', 'hunter': 'Hu', 'ice': 'IE', 'ice elementalist': 'IE', 'monk': 'Mo',
+               'necromancer': 'Ne', 'paladin': 'Pa', 'priest': 'Pr', 'reaver': 'Re', 'skald': 'Sk', 'stalker': 'St',
+               'summoner': 'Su', 'thief': 'Th', 'transmuter': 'Tm', 'venom': 'VM', 'venom mage': 'VM',
+               'wanderer': 'Wn', 'warper': 'Wr', 'wizard': 'Wz'}
+BACKGROUNDS_ABR = {b.lower(): b for b in BACKGROUNDS.values()}
+
+GODS = {'ashenzari': 'Ash', 'beogh': 'Beo', 'cheibriados': 'Chei', 'council': 'Wu', 'dithmenos': 'Dith',
+        'elyvilon': 'Ely', 'fedhas': 'Fed', 'fedhas madash': 'Fed', 'gozag': 'Goz', 'gozag ym sagoz': 'Goz',
+        'hepliaklqana': 'Hep', 'jian': 'Wu', 'jiyva': 'Jiyva', 'kikubaaqudgha': 'Kik', 'lugonu': 'Lug',
+        'madash': 'Fed', 'makhleb': 'Mak', 'muna': 'Sif', 'nemelex': 'Nem', 'nemelex xobeh': 'Nem', 'okawaru': 'Oka',
+        'one': 'TSO', 'pakellas': 'Pak', 'qazlal': 'Qaz', 'qazlal stormbringer': 'Qaz', 'ru': 'Ru', 'sagoz': 'Goz',
+        'shining': 'TSO', 'shinning': 'TSO', 'sif': 'Sif', 'sif muna': 'Sif', 'stormbringer': 'Qaz',
+        'the shining one': 'TSO', 'the wu jian council': 'Wu', 'trog': 'Trog', 'uskayaw': 'Usk', 'vehumet': 'Veh',
+        'wu': 'Wu', 'xobeh': 'Nem', 'xom': 'Xom', 'ym': 'Goz', 'yredelemnul': 'Yred', 'zin': 'Zin'}
+GODS_ABR = {g.lower(): g for g in GODS.values()}
+
 
 
 if __name__ == '__main__':
