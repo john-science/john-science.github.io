@@ -79,6 +79,7 @@ def read_episodes(file_path):
 
     for line in f.readlines():
         ln = line.rstrip().split('|')
+        if len(ln) < 4: continue
         season = int(ln[0])
         episode = int(ln[1])
         nomen = ln[2]
