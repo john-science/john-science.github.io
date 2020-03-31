@@ -17,7 +17,7 @@ To make it slightly easier to attempt the task, I built a handy checklist. It wi
 
 Doctor Who has always been broken into "stories". Sometimes a single episode is a stand-alone story. But sometimes, particularly in the old days, many episodes in a row are part of a single, tightly-bound "story".
 
-#### Episodes Since 1963
+#### Everything Since 1963
 * **[295](https://en.wikipedia.org/wiki/List_of_Doctor_Who_serials#Series_overview)** TV stories have aired.
 * Watching all of those would take: **17 days, 21 hours and 13 minutes**.
 
