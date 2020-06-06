@@ -1,12 +1,12 @@
 ---
 layout: page
-title: This is just a place for me to put my tree self-education
+title: My notes while learning to ID trees
 ---
 {% include JB/setup %}
 
-> This is just a place for me to put my notes on trees, as I self-educate.
+> These are just my notes while I learn to ID trees.
 
-For help identifying trees, check out the <a href="https://www.arborday.org/trees/whattree/whatTree.cfm">Arbor Day website</a>.
+The <a href="https://www.arborday.org/trees/whattree/whatTree.cfm">Arbor Day website</a> is a good resource for IDing trees.
 
 
 <h2>High-Level Taxonomy</h2>
@@ -17,7 +17,7 @@ Angiosperms are flowering plants. They are relatively newer than Gymnosperms, an
 
 <b>Gymnosperms</b> include: conifers, cycads, and ginko trees. All other trees are <b>Angiosperms</b>.
 
-Angiosperms are also different because their seeds have cases.
+Angiosperms aren't just flowering, their seeds also have casings.
 
 
 <h2>Identifying Conifers</h2>
