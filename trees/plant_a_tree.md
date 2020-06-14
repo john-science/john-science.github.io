@@ -21,3 +21,4 @@ Link | Location | Description
 [Woodland Trust](https://www.woodlandtrust.org.uk/support-us/give/donations/) | UK | 80% of your money goes to planting trees in the UK
 [American Forests](https://www.americanforests.org/ways-to-give/plant-trees/) | USA | ?
 [Arbor Day Foundation](https://www.arborday.org/) | USA? | ?
+[One Tree Planted](https://onetreeplanted.org/pages/regions) | Global | $1 = 1 Tree
