@@ -22,6 +22,7 @@ Link | Location | Description
 [American Forests](https://www.americanforests.org/ways-to-give/plant-trees/) | USA | ?
 [Arbor Day Foundation](https://www.arborday.org/) | USA? | ?
 [One Tree Planted](https://onetreeplanted.org/pages/regions) | Global | $1 = 1 Tree
+[Plant a Tree Foundation](https://plantatreefoundation.org/) | ? | ?
 
 
 ### How to Validate a Charity
