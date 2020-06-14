@@ -22,3 +22,15 @@ Link | Location | Description
 [American Forests](https://www.americanforests.org/ways-to-give/plant-trees/) | USA | ?
 [Arbor Day Foundation](https://www.arborday.org/) | USA? | ?
 [One Tree Planted](https://onetreeplanted.org/pages/regions) | Global | $1 = 1 Tree
+
+
+### How to Validate a Charity
+
+> Try not to give to a charity that spends more than 25% of donations on overhead.
+
+Here are some good resources to research a charity before you give:
+
+* [GuideStar](https://www.guidestar.org/) - has actual IRS forms for US charities
+* [Wise Giving Alliance](https://www.give.org/)
+* [https://www.charitynavigator.org/](Charity Navigator)
+* [Charity Watch](https://www.charitywatch.org/)
