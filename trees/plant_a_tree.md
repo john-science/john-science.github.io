@@ -32,5 +32,5 @@ Here are some good resources to research a charity before you give:
 
 * [GuideStar](https://www.guidestar.org/) - has actual IRS forms for US charities
 * [Wise Giving Alliance](https://www.give.org/)
-* [https://www.charitynavigator.org/](Charity Navigator)
+* [Charity Navigator](https://www.charitynavigator.org/)
 * [Charity Watch](https://www.charitywatch.org/)
