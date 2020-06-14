@@ -6,7 +6,7 @@ title: My notes while learning to ID trees
 
 > These are just my notes while I learn to ID trees.
 
-The <a href="https://www.arborday.org/trees/whattree/whatTree.cfm">Arbor Day website</a> is a good resource for IDing trees.
+The <a href="https://www.arborday.org/trees/whattree/whatTree.cfm">Arbor Day website</a> is a good resource for IDing trees in North America. (For now, I'm confining this work to just the trees of North America. It's where I live, and is a big enough topic for one mortal.)
 
 
 <h2>High-Level Taxonomy</h2>
