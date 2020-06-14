@@ -9,9 +9,9 @@ title: Plant a Tree
 
 ## Guides for Planting and Growing your own Trees
 
-* [TreesAreGood](https://www.treesaregood.org/treeowner) - full manual: planting, caring, watering, siting
-* [Soil Drainage Peak Test](https://i.imgur.com/2KiPHab.jpg)
-* [Watering New Trees](https://extension.umn.edu/planting-and-growing-guides/watering-newly-planted-trees-and-shrubs)
+* [TreesAreGood](https://www.treesaregood.org/treeowner) - complete planting and care guide
+* [Soil Drainage Peak Test](https://i.imgur.com/2KiPHab.jpg) - know your soil
+* [Watering New Trees](https://extension.umn.edu/planting-and-growing-guides/watering-newly-planted-trees-and-shrubs) - watering guide
 
 
 ## How and Where to Donate
