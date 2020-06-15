@@ -16,13 +16,16 @@ title: Plant a Tree
 
 ## How and Where to Donate
 
-Link | Location | Description
-:--- | :------- | :----------
-[Woodland Trust](https://www.woodlandtrust.org.uk/support-us/give/donations/) | UK | 80% of your money goes to planting trees in the UK
+Link | Location
+:--- | :-------
+[Woodland Trust](https://www.woodlandtrust.org.uk/support-us/give/donations/) | UK
+[Arbor Day Foundation](https://www.arborday.org/) | USA?
+[One Tree Planted](https://onetreeplanted.org/pages/regions) | Global
+
+<!--
 [American Forests](https://www.americanforests.org/ways-to-give/plant-trees/) | USA | ?
-[Arbor Day Foundation](https://www.arborday.org/) | USA? | ?
-[One Tree Planted](https://onetreeplanted.org/pages/regions) | Global | $1 = 1 Tree
 [Plant a Tree Foundation](https://plantatreefoundation.org/) | ? | ?
+-->
 
 
 ### How to Validate a Charity
