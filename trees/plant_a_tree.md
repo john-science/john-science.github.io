@@ -14,15 +14,23 @@ title: Plant a Tree
 * [Watering New Trees](https://extension.umn.edu/planting-and-growing-guides/watering-newly-planted-trees-and-shrubs) - watering guide
 
 
-## How and Where to Donate
+## Donate
 
 Link | Location
 :--- | :-------
 [Woodland Trust](https://www.woodlandtrust.org.uk/support-us/give/donations/) | UK
-[Arbor Day Foundation](https://www.arborday.org/) | USA?
+[Arbor Day Foundation](https://www.arborday.org/) | USA
 [One Tree Planted](https://onetreeplanted.org/pages/regions) | Global
+[Eden Reforestation Projects](https://edenprojects.org/) | Madagascar, Haiti, Nepal, Kenya, Indonesia, Mozambique
+[Reforest Now](https://www.reforestnow.org.au/) | Australia
+[Mount Keyna Environmental Conservation](https://mount-kenya-environmental-conservation.org/) | Kenya
+
+Or Donate passively through your internet searches:
+
+* [Ecosia](https://www.ecosia.org/)
 
 <!--
+Where Ecosia donates: https://blog.ecosia.org/ecosia-financial-reports-tree-planting-receipts/
 [American Forests](https://www.americanforests.org/ways-to-give/plant-trees/) | USA | ?
 [Plant a Tree Foundation](https://plantatreefoundation.org/) | ? | ?
 -->
