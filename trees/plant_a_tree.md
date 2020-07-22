@@ -1,13 +1,15 @@
 ---
 layout: page
-title: Plant a Tree
+title: Plant Trees
 ---
 {% include JB/setup %}
 
 > Plant a tree. Or donate to people who will.
 
 
-## Donate
+## Donate to People Who Plant Trees
+
+Maybe you live in an apartment and you can't plant a tree.  Or maybe you just want to see people replenish the rainforests in Africa and South America. There are people out there where are really 
 
 Link | Location
 :--- | :-------
