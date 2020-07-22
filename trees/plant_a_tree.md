@@ -7,23 +7,16 @@ title: Plant a Tree
 > Plant a tree. Or donate to people who will.
 
 
-## Guides for Planting and Growing your own Trees
-
-* [TreesAreGood](https://www.treesaregood.org/treeowner) - complete planting and care guide
-* [Soil Drainage Peak Test](https://i.imgur.com/2KiPHab.jpg) - know your soil
-* [Watering New Trees](https://extension.umn.edu/planting-and-growing-guides/watering-newly-planted-trees-and-shrubs) - watering guide
-
-
 ## Donate
 
 Link | Location
 :--- | :-------
-[Woodland Trust](https://www.woodlandtrust.org.uk/support-us/give/donations/) | UK
 [Arbor Day Foundation](https://www.arborday.org/) | USA
-[One Tree Planted](https://onetreeplanted.org/pages/regions) | Global
-[Eden Reforestation Projects](https://edenprojects.org/) | Madagascar, Haiti, Nepal, Kenya, Indonesia, Mozambique
-[Reforest Now](https://www.reforestnow.org.au/) | Australia
+[Eden Reforestation Projects](https://edenprojects.org/) | Haiti, Kenya, Indonesia, Madagascar, Mozambique, Nepal
 [Mount Keyna Environmental Conservation](https://mount-kenya-environmental-conservation.org/) | Kenya
+[One Tree Planted](https://onetreeplanted.org/pages/regions) | Global
+[Reforest Now](https://www.reforestnow.org.au/) | Australia
+[Woodland Trust](https://www.woodlandtrust.org.uk/support-us/give/donations/) | UK
 
 Or Donate passively through your internet searches:
 
@@ -46,3 +39,11 @@ Here are some good resources to research a charity before you give:
 * [Wise Giving Alliance](https://www.give.org/)
 * [Charity Navigator](https://www.charitynavigator.org/)
 * [Charity Watch](https://www.charitywatch.org/)
+
+
+
+## Guides for Planting and Growing your own Trees
+
+* [TreesAreGood](https://www.treesaregood.org/treeowner) - complete planting and care guide
+* [Watering New Trees](https://extension.umn.edu/planting-and-growing-guides/watering-newly-planted-trees-and-shrubs) - watering guide
+* [Soil Drainage Peak Test](https://i.imgur.com/2KiPHab.jpg) - know your soil
