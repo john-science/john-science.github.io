@@ -1,15 +1,17 @@
 ---
 layout: page
-title: Plant Trees
+title: Plant a Tree
 ---
 {% include JB/setup %}
 
-> Plant a tree. Or donate to people who will.
+> Plant a tree. Or donate to people who will plant them where they are needed most.
+
+If you own land, plant a native tree. Plant as many as you can. But for those of us who live in the city in apartments, it's sadly not an option to plant trees with our own hands. There are, however, people all around the world working on reforesting this planet that we have stripped bare in the last thousand years.
+
+What I have below is a list of place you can feel good about donating to. They are trustworthy organizations that will spend your money wisely: planting native species, keeping biodiversity high, and supporting the local communities that desparately need access to the resources a healthy forest brings.
 
 
-## Donate to People Who Plant Trees
-
-Maybe you live in an apartment and you can't plant a tree.  Or maybe you just want to see people replenish the rainforests in Africa and South America. There are people out there where are really 
+## Donate
 
 Link | Location
 :--- | :-------
@@ -19,16 +21,6 @@ Link | Location
 [One Tree Planted](https://onetreeplanted.org/pages/regions) | Global
 [Reforest Now](https://www.reforestnow.org.au/) | Australia
 [Woodland Trust](https://www.woodlandtrust.org.uk/support-us/give/donations/) | UK
-
-Or Donate passively through your internet searches:
-
-* [Ecosia](https://www.ecosia.org/)
-
-<!--
-Where Ecosia donates: https://blog.ecosia.org/ecosia-financial-reports-tree-planting-receipts/
-[American Forests](https://www.americanforests.org/ways-to-give/plant-trees/) | USA | ?
-[Plant a Tree Foundation](https://plantatreefoundation.org/) | ? | ?
--->
 
 
 ### How to Validate a Charity
@@ -43,8 +35,24 @@ Here are some good resources to research a charity before you give:
 * [Charity Watch](https://www.charitywatch.org/)
 
 
+## Donate Passively
+
+> Plant trees by doing online searches.
+
+Do you Google things a lot? Every time you search the internet, you generate revenue for that search engine. Why not use all that revenue to do something good for one? If you use the [Ecosia](https://www.ecosia.org/) search engine, 50% of the revenue you passively generate by searching online goes to planting trees around the world.
+
+As a bonus, Ecosia cares a LOT more about your privacy than Google does.
+
+* [Ecosia](https://www.ecosia.org/)
+
 
 ## Guides for Planting and Growing your own Trees
+
+> Plant a tree yourself!
+
+If you *can* plant a tree yourself, awesome. Hell, plant one for me, I am intensely jealous.
+
+Here are a couple of nice starter guides for how to plant (and care for) trees.
 
 * [TreesAreGood](https://www.treesaregood.org/treeowner) - complete planting and care guide
 * [Watering New Trees](https://extension.umn.edu/planting-and-growing-guides/watering-newly-planted-trees-and-shrubs) - watering guide
