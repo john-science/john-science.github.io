@@ -6,9 +6,9 @@ summary: Or donate to people who will plant them where they are needed most.
 ---
 {% include JB/setup %}
 
-If you own land, go ahead and plant a native tree. Hell, plant two. But for those of us who live in apartments, it's not an option to plant trees with our own hands. There are, however, people all around the world working on reforesting this planet. People who are working hard to fix the problems of the last 1000 years.
+If you own land, go ahead and plant a native tree. Hell, plant two. But for those of us who live in apartments, it's not an option to plant trees with our own hands. There are, however, people all around the world working on reforestation. People who are working hard to fix the problems of the last 1000 years.
 
-What I have below is a list of place you can feel good about donating to. They are trustworthy organizations that will spend your money wisely: planting native species, keeping biodiversity high, and supporting the local communities that desparately need access to the resources a healthy forest brings.
+What I have below is a list of places you can feel good about donating to. They are trustworthy organizations that will spend your money wisely: planting native species, keeping biodiversity high, and supporting the local communities that desparately need access to the resources a healthy forest brings.
 
 
 ## Donate
