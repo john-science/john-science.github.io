@@ -1,10 +1,10 @@
 ---
 layout: page
 title: Plant a Tree
+tags: [Environment, Charity, Trees]
+summary: Or donate to people who will plant them where they are needed most.
 ---
 {% include JB/setup %}
-
-> Plant a tree. Or donate to people who will plant them where they are needed most.
 
 If you own land, plant a native tree. Plant as many as you can. But for those of us who live in the city in apartments, it's sadly not an option to plant trees with our own hands. There are, however, people all around the world working on reforesting this planet that we have stripped bare in the last thousand years.
 
