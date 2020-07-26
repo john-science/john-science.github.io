@@ -1,14 +1,16 @@
 ---
 layout: post
-title: Plant a Tree
-tags: [Environment, Charity, Trees]
-summary: Or donate to people who will plant them where they are needed most.
+title: Where to Donate to Plant Trees
+tags: [Trees, Charity, Environment]
+summary: A short list of trusted charities that will spend your money wisely.
 ---
 {% include JB/setup %}
 
-If you own land, plant a native tree. Hell, plant two. But for those of us who live in apartments, it's not an option to plant trees with our own hands. There are, however, people all around the world working on reforestation. People who are working hard to fix the problems of the last 1000 years.
+I'd love to plant a tree with my own, bare hands. But I live in an apartment in the city. So for now, that will have to remain a pipe dream.
 
-What I have below is a list of places you can feel good about donating to. They are trustworthy organizations that will spend your money wisely: planting native species, keeping biodiversity high, and supporting the local communities that desparately need access to the resources a healthy forest brings.
+Luckily, there are dedicated people all around the world planting trees. Reforesting regions that have been stripped bare since the industrial revolution.
+
+What follows is my short list for charities that will spend your money on planting trees, not on overhead. They will plant native trees where they are needed  most, and they have a solid track record.
 
 
 ## Donate
@@ -27,19 +29,19 @@ Link | Location
 
 > Try not to give to a charity that spends more than 25% of donations on overhead.
 
-Here are some good resources to research a charity before you give:
+The first question you might have is "How do I know these charities are legit?"  And *that* is a good question. Don't take my word for it. Do your research. To aid you in your research, here are four solid resources to use to look up a charty:
 
-* [GuideStar](https://www.guidestar.org/) - has actual IRS forms for US charities
-* [Wise Giving Alliance](https://www.give.org/)
 * [Charity Navigator](https://www.charitynavigator.org/)
 * [Charity Watch](https://www.charitywatch.org/)
+* [GuideStar](https://www.guidestar.org/) - has actual IRS forms for US charities
+* [Wise Giving Alliance](https://www.give.org/)
 
 
 ## Donate Passively
 
-> Plant trees by doing online searches.
+> Plant trees by seraching online.
 
-Do you Google things a lot? Every time you search the internet, you generate revenue for that search engine. Why not use all that revenue to do something good for one? If you use the [Ecosia](https://www.ecosia.org/) search engine, 50% of the revenue you passively generate by searching online goes to planting trees around the world.
+Do you Google things a lot? Every time you search the internet, you generate revenue for that search engine. Why not pipe all that revenue into planting trees, rather than just getting a billionare a bigger mega yacht? If you use the [Ecosia](https://www.ecosia.org/) search engine, about 50% of the revenue you passively generate by searching online goes to planting trees around the world.
 
 As a bonus, Ecosia cares a LOT more about your privacy than Google does.
 
@@ -50,7 +52,7 @@ As a bonus, Ecosia cares a LOT more about your privacy than Google does.
 
 > Plant a tree yourself!
 
-If you *can* plant a tree yourself, awesome. Hell, plant one for me, I am intensely jealous.
+If you *can* plant a tree yourself, awesome. Plant one for me. I am intensely jealous.
 
 Here are a couple of nice starter guides for how to plant (and care for) trees.
 
