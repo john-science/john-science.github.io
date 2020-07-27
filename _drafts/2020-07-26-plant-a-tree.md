@@ -10,7 +10,7 @@ I'd love to plant a tree with my own, bare hands. But I live in an apartment in 
 
 Luckily, there are dedicated people all around the world planting trees. Reforesting regions that have been stripped bare since the industrial revolution.
 
-What follows is my short list for charities that will spend your money on planting trees, not on overhead. They will plant native trees where they are needed  most, and they have a solid track record.
+What follows is my short list of charities that will spend your money on planting trees, not on overhead. They will plant native trees where they are needed  most, working with the locals, and they have a solid track record.
 
 
 ## Donate
