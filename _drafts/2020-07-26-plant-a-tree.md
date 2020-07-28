@@ -29,12 +29,14 @@ Link | Location
 
 > Try not to give to a charity that spends more than 25% of donations on overhead.
 
-The first question you might have is "How do I know these charities are legit?"  And *that* is a good question. Don't take my word for it. Do your research. To aid you in your research, here are four solid resources to use to look up a charty:
+The first question you might have is "How do I know these charities are legit?"  And *that* is a good question. Don't take my word for it. Do your research. To that end, here are four solid resources for researching charities:
 
 * [Charity Navigator](https://www.charitynavigator.org/)
 * [Charity Watch](https://www.charitywatch.org/)
 * [GuideStar](https://www.guidestar.org/) - has actual IRS forms for US charities
 * [Wise Giving Alliance](https://www.give.org/)
+
+Also, some charities (like [Arbor Day](https://www.arborday.org/generalinfo/990/)) post their tax returns directly on their web page for all to see. So look out for that.
 
 
 ## Donate Passively
