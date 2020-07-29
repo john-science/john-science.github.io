@@ -8,9 +8,9 @@ summary: A short list of trusted charities that will spend your money wisely.
 
 I'd love to plant a tree with my own, bare hands. But I live in an apartment in the city. So for now, that will have to remain a pipe dream.
 
-Luckily, there are dedicated people all around the world planting trees. Reforesting regions that have been stripped bare since the industrial revolution.
+Luckily, there are dedicated people all around the world planting trees.
 
-What follows is my short list of charities that will spend your money on planting trees, not on overhead. They will plant native trees where they are needed  most, working with the locals, and they have a solid track record.
+What follows is my short list of charities that will spend your money on reforestation, not on overhead. They will plant native trees where they are needed  most, working with the locals, and they have a solid track record.
 
 
 ## Donate
