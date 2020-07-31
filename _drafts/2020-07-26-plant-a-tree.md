@@ -10,7 +10,7 @@ I'd love to plant a tree with my own, bare hands. But I live in an apartment in 
 
 Luckily, there are dedicated people all around the world planting trees.
 
-What follows is my short list of charities that will spend your money on reforestation, not on overhead. They will plant native trees where they are needed  most, working with the locals, and they have a solid track record.
+What follows is my short list of charities that will spend your money on reforestation, not on overhead. They will plant native trees where they are needed most, working with the locals, and they have a solid track record.
 
 
 ## Donate
@@ -29,21 +29,21 @@ Link | Location
 
 > Try not to give to a charity that spends more than 25% of donations on overhead.
 
-The first question you might have is "How do I know these charities are legit?"  And *that* is a good question. Don't take my word for it. Do your research. To that end, here are four solid resources for researching charities:
+The first question you might have is "How do I know these charities are legit?"  And *that* is a good question. Don't take my word for it. Do your research. To that end, here are four great resources for researching charities:
 
 * [Charity Navigator](https://www.charitynavigator.org/)
 * [Charity Watch](https://www.charitywatch.org/)
 * [GuideStar](https://www.guidestar.org/) - has actual IRS forms for US charities
 * [Wise Giving Alliance](https://www.give.org/)
 
-Also, some charities (like [Arbor Day](https://www.arborday.org/generalinfo/990/)) post their tax returns directly on their web page for all to see. So look out for that.
+Also, some charities (like [Arbor Day](https://www.arborday.org/generalinfo/990/)) post their tax returns directly on their web page for all to see. That's always a good sign.
 
 
 ## Donate Passively
 
 > Plant trees by seraching online.
 
-Do you Google things a lot? Every time you search the internet, you generate revenue for that search engine. Why not pipe all that revenue into planting trees, rather than just getting a billionare a bigger mega yacht? If you use the [Ecosia](https://www.ecosia.org/) search engine, about 50% of the revenue you passively generate by searching online goes to planting trees around the world.
+Do you Google things a lot? Every time you search the internet, you generate revenue for that search engine. Why not pipe all that revenue into planting trees, rather than just helping some billionare buy a bigger mega yacht? If you use the [Ecosia](https://www.ecosia.org/) search engine, about 50% of the revenue you passively generate by searching online goes to planting trees around the world.
 
 As a bonus, Ecosia cares a LOT more about your privacy than Google does.
 
@@ -54,7 +54,7 @@ As a bonus, Ecosia cares a LOT more about your privacy than Google does.
 
 > Plant a tree yourself!
 
-If you *can* plant a tree yourself, awesome. Plant one for me. I am intensely jealous.
+If you *can* plant a tree yourself, awesome. Plant one for me.
 
 Here are a couple of nice starter guides for how to plant (and care for) trees.
 
