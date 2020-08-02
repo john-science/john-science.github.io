@@ -33,7 +33,7 @@ The first question you might have is "How do I know these charities are legit?" 
 
 * [Charity Navigator](https://www.charitynavigator.org/)
 * [Charity Watch](https://www.charitywatch.org/)
-* [GuideStar](https://www.guidestar.org/) - has actual IRS forms for US charities
+* [GuideStar](https://www.guidestar.org/)
 * [Wise Giving Alliance](https://www.give.org/)
 
 Also, some charities (like [Arbor Day](https://www.arborday.org/generalinfo/990/)) post their tax returns directly on their web page for all to see. That's always a good sign.
@@ -43,7 +43,7 @@ Also, some charities (like [Arbor Day](https://www.arborday.org/generalinfo/990/
 
 > Plant trees by searching online.
 
-Do you Google things a lot? Every time you search the internet, you generate revenue for a search engine. Why not pipe all that revenue into planting trees, rather than just helping some billionare buy a bigger mega yacht? If you use the [Ecosia](https://www.ecosia.org/) search engine, about 50% of the revenue you passively generate by searching online goes to planting trees around the world.
+Do you Google things a lot? Every time you search the internet, you generate revenue for a search engine. Why not pipe all that revenue into planting trees? If you use the [Ecosia](https://www.ecosia.org/) search engine, about 50% of the revenue you passively generate by searching online goes to planting trees around the world.
 
 As a bonus, Ecosia cares a LOT more about your privacy than Google does.
 
