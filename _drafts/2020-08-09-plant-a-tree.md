@@ -29,7 +29,7 @@ Link | Location
 
 > Try not to give to a charity that spends more than 25% of donations on overhead.
 
-The first question you might have is "How do I know these charities are legit?"  And *that* is a good question. Don't take my word for it. Do your own research. To help you, here are four great resources for researching charities:
+The first question you might have is "How do I know these charities are legit?" And *that* is a good question. Don't take my word for it. Do your own research. To help you, here are four great resources for researching charities:
 
 * [Charity Navigator](https://www.charitynavigator.org/)
 * [Charity Watch](https://www.charitywatch.org/)
