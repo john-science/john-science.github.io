@@ -67,7 +67,7 @@ var CalCalc = (function() {
 
     txt += '<tr><td><label for="acts">Choose an activity:</label>';
     txt += '<select name="acts" id="acts">';
-    txt += '<option value="calithenics">calithenics</option>';
+    txt += '<option value="calisthenics">calisthenics</option>';
     txt += '<option value="running" selected>running</option>';
     txt += '<option value="stretching">stretching</option>';
     txt += '<option value="walking">walking</option>';
@@ -92,7 +92,7 @@ var CalCalc = (function() {
   var load_met_calculator = function(e) {
     var act = user_act.value;
     var txt = '';
-    if (act == 'calithenics') {
+    if (act == 'calisthenics') {
       txt += '<select name="met" id="met">';
       txt += '<option value="2.65">Abdominal exercises, light effort</option>';
       txt += '<option value="3.1">crunches, pull-ups</option>';
@@ -115,7 +115,6 @@ var CalCalc = (function() {
       txt += '<option value="14.5">10 mph (6 min / mile)</option>';
       txt += '</select>';
     //}  else if (act == 'walking') {
-      
     //} else if (act == 'yoga') {
      
     } 
