@@ -16,10 +16,7 @@ summary: Cheat Sheet for geological eras and periods.
   text-align: center;
   vertical-align: middle;
 }
-table {
-  border-collapse: collapse;
-}
-table, th, td {
+th, td {
   border: 2px solid lightgrey;
 }
 .hdr a:link {
