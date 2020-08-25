@@ -16,7 +16,7 @@ summary: Cheat Sheet for geological eras and periods.
   text-align: center;
   vertical-align: middle;
 }
-th, td {
+.geotable th, td {
   border: 2px solid lightgrey;
 }
 .hdr a:link {
@@ -27,7 +27,7 @@ th, td {
 }
 </style>
 
-<table style="border-collapse: collapse;border: 2px solid lightgrey">
+<table style="border-collapse: collapse;border: 2px solid lightgrey" class="geotable">
   <tbody>
     <tr>
       <th class="hdr"><a href="https://en.wikipedia.org/wiki/Eon_(geology)" title="Eon (geology)">Eon</a><br></th>
