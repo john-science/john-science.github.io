@@ -56,7 +56,7 @@ summary: Cheat Sheet for geological eras and periods.
     <tr>
       <td rowspan="3" style="background: #FAAC58" class="hdr"><a href="https://en.wikipedia.org/wiki/Mesozoic" title="Mesozoic">Mesozoic</a></td>
       <td style="background: #F5A9A9" class="hdr"><a href="https://en.wikipedia.org/wiki/Cretaceous" title="Cretaceous">Cretaceous</a></td>
-      <td><a href="https://en.wikipedia.org/wiki/Flowering_plant" title="Flowering plant">Flowering plants</a> proliferate, along with new <a href="https://en.wikipedia.org/wiki/Insect" title="Insect">insects</a>. Many new types of <a href="https://en.wikipedia.org/wiki/Dinosaur" title="Dinosaur">dinosaurs</a> evolve, as do modern crocodilians and sharks. Birds toothed and toothless coexist with <a href="https://en.wikipedia.org/wiki/Pterosaurs" title="Pterosaurs">pterosaurs</a>. <a href="https://en.wikipedia.org/wiki/Marsupial" title="Marsupial">Marsupials</a> and <a href="https://en.wikipedia.org/wiki/Eutheria" title="Eutheria">placental</a> mammals appear. Break up of <a href="https://en.wikipedia.org/wiki/Gondwana" title="Gondwana">Gondwana</a>.</td>
+      <td><a href="https://en.wikipedia.org/wiki/Flowering_plant" title="Flowering plant">Flowering plants</a> proliferate, along with new <a href="https://en.wikipedia.org/wiki/Insect" title="Insect">insects</a>. Many new types of <a href="https://en.wikipedia.org/wiki/Dinosaur" title="Dinosaur">dinosaurs</a> evolve, as do modern crocodilians and sharks. Birds toothed and toothless coexist with <a href="https://en.wikipedia.org/wiki/Pterosaurs" title="Pterosaurs">pterosaurs</a>. <a href="https://en.wikipedia.org/wiki/Marsupial" title="Marsupial">Marsupials</a> and <a href="https://en.wikipedia.org/wiki/Eutheria" title="Eutheria">placental</a> mammals appear. Break up of <a href="https://en.wikipedia.org/wiki/Gondwana" title="Gondwana">Gondwana</a> supercontinent.</td>
       <td>145</td>
     </tr>
     <tr>
@@ -66,7 +66,7 @@ summary: Cheat Sheet for geological eras and periods.
     </tr>
     <tr>
       <td style="background: #F2F5A9" class="hdr"><a href="https://en.wikipedia.org/wiki/Triassic" title="Triassic">Triassic</a></td>
-      <td><a href="https://en.wikipedia.org/wiki/Archosaur" title="Archosaur">Archosaurs</a> dominant on land as <a href="https://en.wikipedia.org/wiki/Dinosaur" title="Dinosaur">dinosaurs</a> and in the air as <a href="https://en.wikipedia.org/wiki/Pterosaur" title="Pterosaur">pterosaurs</a>. First <a href="https://en.wikipedia.org/wiki/Mammal" title="Mammal">mammals</a> and <a href="https://en.wikipedia.org/wiki/Crocodilia" title="Crocodilia">crocodilia</a> appear. <em><a href="https://en.wikipedia.org/wiki/Dicroidium" title="Dicroidium">Dicroidium</a></em>flora common on land. <a href="https://en.wikipedia.org/wiki/Scleractinia" title="Scleractinia">Modern corals</a> and <a href="https://en.wikipedia.org/wiki/Insect" title="Insect">insects</a> appear.</td>
+      <td><a href="https://en.wikipedia.org/wiki/Archosaur" title="Archosaur">Archosaurs</a> dominant on land as <a href="https://en.wikipedia.org/wiki/Dinosaur" title="Dinosaur">dinosaurs</a> and in the air as <a href="https://en.wikipedia.org/wiki/Pterosaur" title="Pterosaur">pterosaurs</a>. First <a href="https://en.wikipedia.org/wiki/Mammal" title="Mammal">mammals</a> and <a href="https://en.wikipedia.org/wiki/Crocodilia" title="Crocodilia">crocodilia</a> appear. <a href="https://en.wikipedia.org/wiki/Dicroidium" title="Dicroidium">Dicroidium</a> flora common on land. <a href="https://en.wikipedia.org/wiki/Scleractinia" title="Scleractinia">Modern corals</a> and <a href="https://en.wikipedia.org/wiki/Insect" title="Insect">insects</a> appear.</td>
       <td>251</td>
     </tr>
     <tr>
@@ -88,7 +88,7 @@ summary: Cheat Sheet for geological eras and periods.
     </tr>
     <tr>
       <td style="background: #A9F5A9" class="hdr"><a href="https://en.wikipedia.org/wiki/Silurian" title="Silurian">Silurian</a></td>
-      <td>First <a href="https://en.wikipedia.org/wiki/Vascular_plant" title="Vascular plant">vascular plants</a>, first <a href="https://en.wikipedia.org/wiki/Millipede" title="Millipede">millipedes</a> and <a href="https://en.wikipedia.org/wiki/Arthropleurida" title="Arthropleurida">arthropleurids</a> on land. First <a href="https://en.wikipedia.org/wiki/Jawed_fish" title="Jawed fish">jawed fishes</a>, as well as many <a href="https://en.wikipedia.org/wiki/Ostracoderm" title="Ostracoderm">armoured</a> <a href="https://en.wikipedia.org/wiki/Agnatha" title="Agnatha">jawless fish</a>, populate the seas. <a href="https://en.wikipedia.org/wiki/Eurypterid" title="Eurypterid">Sea-scorpions</a> reach large size. <a href="https://en.wikipedia.org/wiki/Tabulate_coral" title="Tabulate coral">Tabulate</a> and <a href="https://en.wikipedia.org/wiki/Rugosa" title="Rugosa">rugose</a> corals, <a href="https://en.wikipedia.org/wiki/Brachiopod" title="Brachiopod">brachiopods</a> (<em>Pentamerida</em>, <a href="https://en.wikipedia.org/wiki/Rhynchonellida" title="Rhynchonellida">Rhynchonellida</a>, etc.), and <a href="https://en.wikipedia.org/wiki/Crinoid" title="Crinoid">crinoids</a> all abundant. <a href="https://en.wikipedia.org/wiki/Trilobite" title="Trilobite">Trilobites</a> and <a href="https://en.wikipedia.org/wiki/Mollusk" title="Mollusk">mollusks</a> diverse; <a href="https://en.wikipedia.org/wiki/Graptolite" title="Graptolite">graptolites</a> not as varied. Beginning of <a href="https://en.wikipedia.org/wiki/Caledonian_Orogeny" title="Caledonian Orogeny">Caledonian Orogeny</a> for hills in England, Ireland, Wales, Scotland, and the <a href="https://en.wikipedia.org/wiki/Scandinavian_Mountains" title="Scandinavian Mountains">Scandinavian Mountains</a>. Also continued into Devonian period as the <a href="https://en.wikipedia.org/wiki/Acadian_Orogeny" title="Acadian Orogeny">Acadian Orogeny</a>, above. <a href="https://en.wikipedia.org/wiki/Taconic_Orogeny" title="Taconic Orogeny">Taconic Orogeny</a> tapers off. <a href="https://en.wikipedia.org/wiki/Lachlan_Orogeny" title="Lachlan Orogeny">Lachlan Orogeny</a> on Australian continent tapers off.</td>
+      <td>First <a href="https://en.wikipedia.org/wiki/Vascular_plant" title="Vascular plant">vascular plants</a>, first <a href="https://en.wikipedia.org/wiki/Millipede" title="Millipede">millipedes</a> and <a href="https://en.wikipedia.org/wiki/Arthropleurida" title="Arthropleurida">arthropleurids</a> on land. First <a href="https://en.wikipedia.org/wiki/Jawed_fish" title="Jawed fish">jawed fishes</a>, as well as many <a href="https://en.wikipedia.org/wiki/Ostracoderm" title="Ostracoderm">armoured</a> <a href="https://en.wikipedia.org/wiki/Agnatha" title="Agnatha">jawless fish</a>, populate the seas. <a href="https://en.wikipedia.org/wiki/Eurypterid" title="Eurypterid">Sea-scorpions</a> reach large size. <a href="https://en.wikipedia.org/wiki/Tabulate_coral" title="Tabulate coral">Tabulate</a> and <a href="https://en.wikipedia.org/wiki/Rugosa" title="Rugosa">rugose</a> corals, <a href="https://en.wikipedia.org/wiki/Brachiopod" title="Brachiopod">brachiopods</a> (<em>Pentamerida</em>, <a href="https://en.wikipedia.org/wiki/Rhynchonellida" title="Rhynchonellida">Rhynchonellida</a>, etc.), and <a href="https://en.wikipedia.org/wiki/Crinoid" title="Crinoid">crinoids</a> all abundant. <a href="https://en.wikipedia.org/wiki/Trilobite" title="Trilobite">Trilobites</a> and <a href="https://en.wikipedia.org/wiki/Mollusk" title="Mollusk">mollusks</a> diverse; <a href="https://en.wikipedia.org/wiki/Graptolite" title="Graptolite">graptolites</a> not as varied.</td>
       <td>444</td>
     </tr>
     <tr>
@@ -98,7 +98,7 @@ summary: Cheat Sheet for geological eras and periods.
     </tr>
     <tr>
       <td style="background: #D0A9F5" class="hdr"><a href="https://en.wikipedia.org/wiki/Cambrian" title="Cambrian">Cambrian</a></td>
-      <td><a href="https://en.wikipedia.org/wiki/Cambrian_Explosion" title="Cambrian Explosion">Cambrian Explosion</a>. Most modern <a href="https://en.wikipedia.org/wiki/Animalia" title="Animalia">animal</a> <a href="https://en.wikipedia.org/wiki/Phylum" title="Phylum">phyla</a> appear. First <a href="https://en.wikipedia.org/wiki/Chordate" title="Chordate">chordates</a> appear, along with a number of extinct, problematic phyla. <a href="https://en.wikipedia.org/wiki/Trilobite" title="Trilobite">Trilobites</a>, <a href="https://en.wikipedia.org/wiki/Priapulid" title="Priapulid">priapulid</a> worms, <a href="https://en.wikipedia.org/wiki/Porifera" title="Porifera">sponges</a>, inarticulate <a href="https://en.wikipedia.org/wiki/Brachiopod" title="Brachiopod">brachiopods</a> (unhinged lampshells), and numerous other animals. <a href="https://en.wikipedia.org/wiki/Anomalocarid" title="Anomalocarid">Anomalocarids</a> are giant predators, while many Ediacaran fauna die out. <a href="https://en.wikipedia.org/wiki/Prokaryote" title="Prokaryote">Prokaryotes</a>, <a href="https://en.wikipedia.org/wiki/Protist" title="Protist">protists</a> (e.g., <a href="https://en.wikipedia.org/wiki/Foram" title="Foram">forams</a>), <a href="https://en.wikipedia.org/wiki/Fungus" title="Fungus">fungi</a> and <a href="https://en.wikipedia.org/wiki/Algae" title="Algae">algae</a> continue to present day. <a href="https://en.wikipedia.org/wiki/Gondwana" title="Gondwana">Gondwana</a> emerges.</td>
+      <td><a href="https://en.wikipedia.org/wiki/Cambrian_Explosion" title="Cambrian Explosion">Cambrian Explosion</a>. Most modern <a href="https://en.wikipedia.org/wiki/Animalia" title="Animalia">animal</a> <a href="https://en.wikipedia.org/wiki/Phylum" title="Phylum">phyla</a> appear. First <a href="https://en.wikipedia.org/wiki/Chordate" title="Chordate">chordates</a> appear, along with a number of extinct, problematic phyla. <a href="https://en.wikipedia.org/wiki/Trilobite" title="Trilobite">Trilobites</a>, <a href="https://en.wikipedia.org/wiki/Priapulid" title="Priapulid">priapulid</a> worms, <a href="https://en.wikipedia.org/wiki/Porifera" title="Porifera">sponges</a>, inarticulate <a href="https://en.wikipedia.org/wiki/Brachiopod" title="Brachiopod">brachiopods</a> (unhinged lampshells), and numerous other animals. <a href="https://en.wikipedia.org/wiki/Anomalocarid" title="Anomalocarid">Anomalocarids</a> are giant predators, while many Ediacaran fauna die out. <a href="https://en.wikipedia.org/wiki/Prokaryote" title="Prokaryote">Prokaryotes</a>, <a href="https://en.wikipedia.org/wiki/Protist" title="Protist">protists</a> (e.g., <a href="https://en.wikipedia.org/wiki/Foram" title="Foram">forams</a>), <a href="https://en.wikipedia.org/wiki/Fungus" title="Fungus">fungi</a> and <a href="https://en.wikipedia.org/wiki/Algae" title="Algae">algae</a> continue to present day. <a href="https://en.wikipedia.org/wiki/Gondwana" title="Gondwana">Gondwana</a> forms.</td>
       <td>541</td>
     </tr>
     <tr>
@@ -110,7 +110,7 @@ summary: Cheat Sheet for geological eras and periods.
     </tr>
     <tr>
       <td style="background: #F5D0A9" class="hdr"><a href="https://en.wikipedia.org/wiki/Cryogenian" title="Cryogenian">Cryogenian</a></td>
-      <td>Possible "<a href="https://en.wikipedia.org/wiki/Snowball_Earth" title="Snowball Earth">Snowball Earth</a>" period. Fossils still rare.</td>
+      <td>Possible "<a href="https://en.wikipedia.org/wiki/Snowball_Earth" title="Snowball Earth">Snowball Earth</a>" period. Fossils rare.</td>
       <td>720</td>
     </tr>
     <tr>
@@ -121,7 +121,7 @@ summary: Cheat Sheet for geological eras and periods.
     <tr>
       <td rowspan="3" style="background: #FAAC58" class="hdr"><a href="https://en.wikipedia.org/wiki/Mesoproterozoic" title="Mesoproterozoic">Meso-<br>proterozoic</a></td>
       <td style="background: #F5A9A9" class="hdr"><a href="https://en.wikipedia.org/wiki/Stenian" title="Stenian">Stenian</a></td>
-      <td>Narrow highly <a href="https://en.wikipedia.org/wiki/Metamorphic_rock" title="Metamorphic rock">metamorphic</a> belts due to <a href="https://en.wikipedia.org/wiki/Orogeny" title="Orogeny">orogeny</a> as <a href="https://en.wikipedia.org/wiki/Rodinia" title="Rodinia">Rodinia</a> forms.</td>
+      <td><a href="https://en.wikipedia.org/wiki/Rodinia" title="Rodinia">Rodinia</a> supercontinent.</td>
       <td>1200</td>
     </tr>
     <tr>
@@ -137,7 +137,7 @@ summary: Cheat Sheet for geological eras and periods.
     <tr>
       <td rowspan="4" style="background: #F4FA58" class="hdr"><a href="https://en.wikipedia.org/wiki/Paleoproterozoic" title="Paleoproterozoic">Paleo-<br>proterozoic</a></td>
       <td style="background: #F5A9A9" class="hdr"><a href="https://en.wikipedia.org/wiki/Statherian" title="Statherian">Statherian</a></td>
-      <td>First <a href="https://en.wikipedia.org/wiki/Eukaryote" title="Eukaryote">complex single-celled life</a>: <a href="https://en.wikipedia.org/wiki/Protist" title="Protist">protists</a> with nuclei, <a href="https://en.wikipedia.org/wiki/Francevillian_biota" title="Francevillian biota">Francevillian biota</a>. <a href="https://en.wikipedia.org/wiki/Columbia_(supercontinent)" title="Columbia (supercontinent)">Columbia</a> is the primordial supercontinent.</td>
+      <td>First <a href="https://en.wikipedia.org/wiki/Eukaryote" title="Eukaryote">complex single-celled life</a>: <a href="https://en.wikipedia.org/wiki/Protist" title="Protist">protists</a> with nuclei, <a href="https://en.wikipedia.org/wiki/Francevillian_biota" title="Francevillian biota">Francevillian biota</a>. <a href="https://en.wikipedia.org/wiki/Columbia_(supercontinent)" title="Columbia (supercontinent)">Columbia</a> supercontinent.</td>
       <td>1800</td>
     </tr>
     <tr>
@@ -147,7 +147,7 @@ summary: Cheat Sheet for geological eras and periods.
     </tr>
     <tr>
       <td style="background: #F5D0A9" class="hdr"><a href="https://en.wikipedia.org/wiki/Rhyacian" title="Rhyacian">Rhyacian</a></td>
-      <td><a href="https://en.wikipedia.org/wiki/Bushveld_Igneous_Complex" title="Bushveld Igneous Complex">Bushveld Igneous Complex</a> forms. <a href="https://en.wikipedia.org/wiki/Huronian" title="Huronian">Huronian</a> glaciation.</td>
+      <td><a href="https://en.wikipedia.org/wiki/Bushveld_Igneous_Complex" title="Bushveld Igneous Complex">Bushveld Igneous Complex</a> forms.</td>
       <td>2300</td>
     </tr>
     <tr>
