@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Geological Periods"
+title: "Life on the Geological Time Scale"
 tags: [Science, Geology, Biology]
-summary: Cheat Sheet for geological eras and periods.
+summary: Cheat Sheet for the evolution of life throughout geologic time.
 ---
 {% include JB/setup %}
 
