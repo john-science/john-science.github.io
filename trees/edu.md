@@ -23,3 +23,8 @@ Angiosperms aren't just flowering, their seeds also have casings.
 <h2>Identifying Conifers</h2>
 
 [This](https://leafyplace.com/identifying-conifers-pine-fir-spruce/) guide to identifying conifers is just excellent. Worth a second read.
+
+
+<h2>Pronouncing Scientific Names</h2>
+
+* "-aceae" is pronounced "A-C-I" or "ay-see-eye"
