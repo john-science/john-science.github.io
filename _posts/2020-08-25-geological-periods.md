@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Life on the Geological Time Scale"
+title: "Life over Time"
 tags: [Science, Geology, Biology]
-summary: Cheat Sheet for the evolution of life throughout geologic time.
+summary: Cheat Sheet for the evolution of life over geologic time.
 ---
 {% include JB/setup %}
 
@@ -56,12 +56,12 @@ summary: Cheat Sheet for the evolution of life throughout geologic time.
     <tr>
       <td rowspan="3" style="background: #FAAC58" class="hdr"><a href="https://en.wikipedia.org/wiki/Mesozoic" title="Mesozoic">Mesozoic</a></td>
       <td style="background: #F5A9A9" class="hdr"><a href="https://en.wikipedia.org/wiki/Cretaceous" title="Cretaceous">Cretaceous</a></td>
-      <td><a href="https://en.wikipedia.org/wiki/Flowering_plant" title="Flowering plant">Flowering plants</a> proliferate, along with new <a href="https://en.wikipedia.org/wiki/Insect" title="Insect">insects</a>. Many new types of <a href="https://en.wikipedia.org/wiki/Dinosaur" title="Dinosaur">dinosaurs</a> evolve, as do modern crocodilians and sharks. Birds toothed and toothless coexist with <a href="https://en.wikipedia.org/wiki/Pterosaurs" title="Pterosaurs">pterosaurs</a>. <a href="https://en.wikipedia.org/wiki/Marsupial" title="Marsupial">Marsupials</a> and <a href="https://en.wikipedia.org/wiki/Eutheria" title="Eutheria">placental</a> mammals appear. Break up of <a href="https://en.wikipedia.org/wiki/Gondwana" title="Gondwana">Gondwana</a> supercontinent.</td>
+      <td><a href="https://en.wikipedia.org/wiki/Flowering_plant" title="Flowering plant">Flowering plants</a> proliferate, along with new <a href="https://en.wikipedia.org/wiki/Insect" title="Insect">insects</a>. Many new types of <a href="https://en.wikipedia.org/wiki/Dinosaur" title="Dinosaur">dinosaurs</a> evolve, as do modern crocodilians and sharks. Birds toothed and toothless coexist with <a href="https://en.wikipedia.org/wiki/Pterosaurs" title="Pterosaurs">pterosaurs</a>. <a href="https://en.wikipedia.org/wiki/Marsupial" title="Marsupial">Marsupials</a> and <a href="https://en.wikipedia.org/wiki/Eutheria" title="Eutheria">placental</a> mammals appear.</td>
       <td>145</td>
     </tr>
     <tr>
       <td style="background: #F5D0A9" class="hdr"><a href="https://en.wikipedia.org/wiki/Jurassic" title="Jurassic">Jurassic</a></td>
-      <td><a href="https://en.wikipedia.org/wiki/Gymnosperm" title="Gymnosperm">Gymnosperms</a> (especially <a href="https://en.wikipedia.org/wiki/Conifer" title="Conifer">conifers</a>, <a href="https://en.wikipedia.org/wiki/Bennettitales" title="Bennettitales">Bennettitales</a> and <a href="https://en.wikipedia.org/wiki/Cycad" title="Cycad">cycads</a>) and <a href="https://en.wikipedia.org/wiki/Fern" title="Fern">ferns</a> common. Many types of <a href="https://en.wikipedia.org/wiki/Dinosaur" title="Dinosaur">dinosaurs</a>. Mammals common but small. First birds and <a href="https://en.wikipedia.org/wiki/Squamata" title="Squamata">lizards</a>. Breakup of <a href="https://en.wikipedia.org/wiki/Pangaea" title="Pangaea">Pangaea</a>.</td>
+      <td><a href="https://en.wikipedia.org/wiki/Gymnosperm" title="Gymnosperm">Gymnosperms</a> (especially <a href="https://en.wikipedia.org/wiki/Conifer" title="Conifer">conifers</a>, <a href="https://en.wikipedia.org/wiki/Bennettitales" title="Bennettitales">Bennettitales</a> and <a href="https://en.wikipedia.org/wiki/Cycad" title="Cycad">cycads</a>) and <a href="https://en.wikipedia.org/wiki/Fern" title="Fern">ferns</a> common. Many types of <a href="https://en.wikipedia.org/wiki/Dinosaur" title="Dinosaur">dinosaurs</a>. Mammals common but small. First birds and <a href="https://en.wikipedia.org/wiki/Squamata" title="Squamata">lizards</a>.</td>
       <td>201</td>
     </tr>
     <tr>
@@ -98,7 +98,7 @@ summary: Cheat Sheet for the evolution of life throughout geologic time.
     </tr>
     <tr>
       <td style="background: #D0A9F5" class="hdr"><a href="https://en.wikipedia.org/wiki/Cambrian" title="Cambrian">Cambrian</a></td>
-      <td><a href="https://en.wikipedia.org/wiki/Cambrian_Explosion" title="Cambrian Explosion">Cambrian Explosion</a>. Most modern <a href="https://en.wikipedia.org/wiki/Animalia" title="Animalia">animal</a> <a href="https://en.wikipedia.org/wiki/Phylum" title="Phylum">phyla</a> appear. First <a href="https://en.wikipedia.org/wiki/Chordate" title="Chordate">chordates</a> appear, along with a number of extinct, problematic phyla. <a href="https://en.wikipedia.org/wiki/Trilobite" title="Trilobite">Trilobites</a>, <a href="https://en.wikipedia.org/wiki/Priapulid" title="Priapulid">priapulid</a> worms, <a href="https://en.wikipedia.org/wiki/Porifera" title="Porifera">sponges</a>, inarticulate <a href="https://en.wikipedia.org/wiki/Brachiopod" title="Brachiopod">brachiopods</a> (unhinged lampshells), and numerous other animals. <a href="https://en.wikipedia.org/wiki/Anomalocarid" title="Anomalocarid">Anomalocarids</a> are giant predators, while many Ediacaran fauna die out. <a href="https://en.wikipedia.org/wiki/Prokaryote" title="Prokaryote">Prokaryotes</a>, <a href="https://en.wikipedia.org/wiki/Protist" title="Protist">protists</a> (e.g., <a href="https://en.wikipedia.org/wiki/Foram" title="Foram">forams</a>), <a href="https://en.wikipedia.org/wiki/Fungus" title="Fungus">fungi</a> and <a href="https://en.wikipedia.org/wiki/Algae" title="Algae">algae</a> continue to present day. <a href="https://en.wikipedia.org/wiki/Gondwana" title="Gondwana">Gondwana</a> forms.</td>
+      <td><a href="https://en.wikipedia.org/wiki/Cambrian_Explosion" title="Cambrian Explosion">Cambrian Explosion</a>. Most modern <a href="https://en.wikipedia.org/wiki/Animalia" title="Animalia">animal</a> <a href="https://en.wikipedia.org/wiki/Phylum" title="Phylum">phyla</a> appear. First <a href="https://en.wikipedia.org/wiki/Chordate" title="Chordate">chordates</a> appear, along with a number of extinct, problematic phyla. <a href="https://en.wikipedia.org/wiki/Trilobite" title="Trilobite">Trilobites</a>, <a href="https://en.wikipedia.org/wiki/Priapulid" title="Priapulid">priapulid</a> worms, <a href="https://en.wikipedia.org/wiki/Porifera" title="Porifera">sponges</a>, inarticulate <a href="https://en.wikipedia.org/wiki/Brachiopod" title="Brachiopod">brachiopods</a> (unhinged lampshells), and numerous other animals. <a href="https://en.wikipedia.org/wiki/Anomalocarid" title="Anomalocarid">Anomalocarids</a> are giant predators, while many Ediacaran fauna die out. <a href="https://en.wikipedia.org/wiki/Prokaryote" title="Prokaryote">Prokaryotes</a>, <a href="https://en.wikipedia.org/wiki/Protist" title="Protist">protists</a> (e.g., <a href="https://en.wikipedia.org/wiki/Foram" title="Foram">forams</a>), <a href="https://en.wikipedia.org/wiki/Fungus" title="Fungus">fungi</a> and <a href="https://en.wikipedia.org/wiki/Algae" title="Algae">algae</a> continue to present day.</td>
       <td>541</td>
     </tr>
     <tr>
@@ -137,7 +137,7 @@ summary: Cheat Sheet for the evolution of life throughout geologic time.
     <tr>
       <td rowspan="4" style="background: #F4FA58" class="hdr"><a href="https://en.wikipedia.org/wiki/Paleoproterozoic" title="Paleoproterozoic">Paleo-<br>proterozoic</a></td>
       <td style="background: #F5A9A9" class="hdr"><a href="https://en.wikipedia.org/wiki/Statherian" title="Statherian">Statherian</a></td>
-      <td>First <a href="https://en.wikipedia.org/wiki/Eukaryote" title="Eukaryote">complex single-celled life</a>: <a href="https://en.wikipedia.org/wiki/Protist" title="Protist">protists</a> with nuclei, <a href="https://en.wikipedia.org/wiki/Francevillian_biota" title="Francevillian biota">Francevillian biota</a>. <a href="https://en.wikipedia.org/wiki/Columbia_(supercontinent)" title="Columbia (supercontinent)">Columbia</a> supercontinent.</td>
+      <td>First <a href="https://en.wikipedia.org/wiki/Eukaryote" title="Eukaryote">complex single-celled life</a>: <a href="https://en.wikipedia.org/wiki/Protist" title="Protist">protists</a> with nuclei, <a href="https://en.wikipedia.org/wiki/Francevillian_biota" title="Francevillian biota">Francevillian biota</a>.</td>
       <td>1800</td>
     </tr>
     <tr>
@@ -152,13 +152,13 @@ summary: Cheat Sheet for the evolution of life throughout geologic time.
     </tr>
     <tr>
       <td style="background: #A9F5A9" class="hdr"><a href="https://en.wikipedia.org/wiki/Siderian" title="Siderian">Siderian</a></td>
-      <td><a href="https://en.wikipedia.org/wiki/Oxygen_catastrophe" title="Oxygen catastrophe">Oxygen catastrophe</a>: <a href="https://en.wikipedia.org/wiki/Banded_iron_formation" title="Banded iron formation">banded iron formations</a> forms.</td>
+      <td><a href="https://en.wikipedia.org/wiki/Oxygen_catastrophe" title="Oxygen catastrophe">Oxygen catastrophe</a></td>
       <td>2500</td>
     </tr>
     <tr>
       <td rowspan="4" style="background: #F7FE2E" class="hdr"><a href="https://en.wikipedia.org/wiki/Archean" title="Archean"><div  class="rotat">Archean</div></a></td>
       <td style="background: #FA5858"><a href="https://en.wikipedia.org/wiki/Neoarchean" title="Neoarchean">Neoarchean</a></td>
-      <td colspan="2">Stabilization of most modern <a href="https://en.wikipedia.org/wiki/Craton" title="Craton">cratons</a>; possible <a href="https://en.wikipedia.org/wiki/Mantle_(geology)" title="Mantle (geology)">mantle</a> overturn event.</td>
+      <td colspan="2">Stabilization of most modern <a href="https://en.wikipedia.org/wiki/Craton" title="Craton">cratons</a>.</td>
       <td>2800</td>
     </tr>
     <tr>
@@ -179,22 +179,22 @@ summary: Cheat Sheet for the evolution of life throughout geologic time.
     <tr>
       <td rowspan="4" style="background: #2EFE2E" class="hdr"><a href="https://en.wikipedia.org/wiki/Hadean" title="Hadean"><div  class="rotat">Hadean</div></a></td>
       <td style="background: #FA5858" class="hdr"><a href="https://en.wikipedia.org/wiki/Early_Imbrian" title="Early Imbrian">Early <br>Imbrian</a></td>
-      <td colspan="2">Indirect <a href="https://en.wikipedia.org/wiki/Photosynthetic" title="Photosynthetic">photosynthetic</a> evidence (e.g., <a href="https://en.wikipedia.org/wiki/Kerogen" title="Kerogen">kerogen</a>) of primordial life. This era overlaps the beginning of the <a href="https://en.wikipedia.org/wiki/Late_Heavy_Bombardment" title="Late Heavy Bombardment">Late Heavy Bombardment</a> of the Inner Solar System, produced possibly by the planetary migration of Neptune into the <a href="https://en.wikipedia.org/wiki/Kuiper_belt" title="Kuiper belt">Kuiper belt</a> as a result of orbital resonances between Jupiter and Saturn. Oldest known rock (4,031 to 3,580 MYA).</td>
+      <td colspan="2">Indirect <a href="https://en.wikipedia.org/wiki/Photosynthetic" title="Photosynthetic">photosynthetic</a> evidence (e.g., <a href="https://en.wikipedia.org/wiki/Kerogen" title="Kerogen">kerogen</a>) of primordial life.</td>
       <td>4130</td>
     </tr>
     <tr>
       <td style="background: #FAAC58" class="hdr"><a href="https://en.wikipedia.org/wiki/Nectarian" title="Nectarian">Nectarian</a></td>
-      <td colspan="2">Possible first appearance of <a href="https://en.wikipedia.org/wiki/Plate_tectonic" title="Plate tectonic">plate tectonics</a>. Earliest evidence for life based on unusually high amounts of light isotopes of carbon, a common sign of life.</td>
+      <td colspan="2">Earliest evidence for life based on unusually high amounts of light isotopes of carbon, a common sign of life.</td>
       <td>4280</td>
     </tr>
     <tr>
       <td style="background: #F4FA58" class="hdr"><a href="https://en.wikipedia.org/wiki/Basin_Groups" title="Basin Groups">Basin Groups</a></td>
-      <td colspan="2">End of the Early Bombardment Phase. Oldest known mineral (Zircon). Asteroids and comets bring water to Earth.</td>
+      <td colspan="2">End of the Early Bombardment Phase. Asteroids and comets bring water to Earth.</td>
       <td>4533</td>
     </tr>
     <tr>
       <td style="background: #58FA58" class="hdr"><a href="https://en.wikipedia.org/wiki/Cryptic_era" title="Cryptic era">Cryptic</a></td>
-      <td colspan="2">Formation of Moon (4,500 MYA), probably from <a href="https://en.wikipedia.org/wiki/Giant_impact_hypothesis" title="Giant impact hypothesis">giant impact</a>, since the end of this era. Formation of Earth (4,570 to 4,567.17 MYA), Early Bombardment Phase begins. Formation of Sun (4,680 to 4,630 MYA).</td>
+      <td colspan="2">Formation of Moon (4,500 MYA), probably from <a href="https://en.wikipedia.org/wiki/Giant_impact_hypothesis" title="Giant impact hypothesis">giant impact</a>. Formation of Earth (4,570 to 4,567.17 MYA), Early Bombardment Phase begins. Formation of Sun (4,680 to 4,630 MYA).</td>
       <td>4600</td>
     </tr>
   </tbody>
