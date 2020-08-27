@@ -102,7 +102,7 @@ summary: Cheat Sheet for the evolution of life over geologic time.
       <td>541</td>
     </tr>
     <tr>
-      <td rowspan="10" style="background: #FE9A2E" class="hdr"><a href="https://en.wikipedia.org/wiki/Proterozoic" title="Proterozoic"><div  class="rotat">Proterozoic</div></a></td>
+      <td rowspan="5" style="background: #FE9A2E" class="hdr"><a href="https://en.wikipedia.org/wiki/Proterozoic" title="Proterozoic"><div  class="rotat">Proterozoic</div></a></td>
       <td rowspan="3" style="background: #FA5858" class="hdr"><a href="https://en.wikipedia.org/wiki/Neoproterozoic" title="Neoproterozoic">Neo-<br>proterozoic</a></td>
       <td style="background: #F5A9A9" class="hdr"><a href="https://en.wikipedia.org/wiki/Ediacaran" title="Ediacaran">Ediacaran</a></td>
       <td>First <a href="https://en.wikipedia.org/wiki/Metazoa" title="Metazoa">multi-celled animals</a>. <a href="https://en.wikipedia.org/wiki/Ediacaran_biota" title="Ediacaran biota">Ediacaran biota</a> flourish worldwide in seas. Possible worm-like <em><a href="https://en.wikipedia.org/wiki/Trichophycus_pedum" title="Trichophycus pedum">Trichophycus</a></em>. First <a href="https://en.wikipedia.org/wiki/Porifera" title="Porifera">sponges</a> and <a href="https://en.wikipedia.org/wiki/Trilobita" title="Trilobita">trilobitomorphs</a>. Enigmatic forms include many soft-jellied creatures shaped like bags, disks, or quilts (like <em><a href="https://en.wikipedia.org/wiki/Dickinsonia" title="Dickinsonia">Dickinsonia</a></em>).</td>
@@ -119,40 +119,15 @@ summary: Cheat Sheet for the evolution of life over geologic time.
       <td>1000</td>
     </tr>
     <tr>
-      <td rowspan="3" style="background: #FAAC58" class="hdr"><a href="https://en.wikipedia.org/wiki/Mesoproterozoic" title="Mesoproterozoic">Meso-<br>proterozoic</a></td>
-      <td style="background: #F5A9A9" class="hdr"><a href="https://en.wikipedia.org/wiki/Stenian" title="Stenian">Stenian</a></td>
-      <td><a href="https://en.wikipedia.org/wiki/Rodinia" title="Rodinia">Rodinia</a> supercontinent.</td>
-      <td>1200</td>
-    </tr>
-    <tr>
+      <td style="background: #FAAC58" class="hdr"><a href="https://en.wikipedia.org/wiki/Mesoproterozoic" title="Mesoproterozoic">Meso-<br>proterozoic</a></td>
       <td style="background: #F5D0A9" class="hdr"><a href="https://en.wikipedia.org/wiki/Ectasian" title="Ectasian">Ectasian</a></td>
-      <td><a href="https://en.wikipedia.org/wiki/Green_algae" title="Green algae">Green algae</a> <a href="https://en.wikipedia.org/wiki/Colony_(biology)" title="Colony (biology)">colonies</a> in the seas.</td>
-      <td>1400</td>
-    </tr>
-    <tr>
-      <td style="background: #F2F5A9" class="hdr"><a href="https://en.wikipedia.org/wiki/Calymmian" title="Calymmian">Calymmian</a></td>
-      <td><a href="https://en.wikipedia.org/wiki/Platform_cover" title="Platform cover">Platform covers</a> expand.</td>
+      <td><a href="https://en.wikipedia.org/wiki/Green_algae" title="Green algae">Green algae</a> <a href="https://en.wikipedia.org/wiki/Colony_(biology)" title="Colony (biology)">colonies</a> in the seas. (1400 MYA)</td>
       <td>1600</td>
     </tr>
     <tr>
-      <td rowspan="4" style="background: #F4FA58" class="hdr"><a href="https://en.wikipedia.org/wiki/Paleoproterozoic" title="Paleoproterozoic">Paleo-<br>proterozoic</a></td>
+      <td style="background: #F4FA58" class="hdr"><a href="https://en.wikipedia.org/wiki/Paleoproterozoic" title="Paleoproterozoic">Paleo-<br>proterozoic</a></td>
       <td style="background: #F5A9A9" class="hdr"><a href="https://en.wikipedia.org/wiki/Statherian" title="Statherian">Statherian</a></td>
-      <td>First <a href="https://en.wikipedia.org/wiki/Eukaryote" title="Eukaryote">complex single-celled life</a>: <a href="https://en.wikipedia.org/wiki/Protist" title="Protist">protists</a> with nuclei, <a href="https://en.wikipedia.org/wiki/Francevillian_biota" title="Francevillian biota">Francevillian biota</a>.</td>
-      <td>1800</td>
-    </tr>
-    <tr>
-      <td style="background: #F5D0A9" class="hdr"><a href="https://en.wikipedia.org/wiki/Orosirian" title="Orosirian">Orosirian</a></td>
-      <td>The atmosphere becomes <a href="https://en.wikipedia.org/wiki/Oxygen" title="Oxygen">oxygenic</a>.</td>
-      <td>2050</td>
-    </tr>
-    <tr>
-      <td style="background: #F5D0A9" class="hdr"><a href="https://en.wikipedia.org/wiki/Rhyacian" title="Rhyacian">Rhyacian</a></td>
-      <td><a href="https://en.wikipedia.org/wiki/Bushveld_Igneous_Complex" title="Bushveld Igneous Complex">Bushveld Igneous Complex</a> forms.</td>
-      <td>2300</td>
-    </tr>
-    <tr>
-      <td style="background: #A9F5A9" class="hdr"><a href="https://en.wikipedia.org/wiki/Siderian" title="Siderian">Siderian</a></td>
-      <td><a href="https://en.wikipedia.org/wiki/Oxygen_catastrophe" title="Oxygen catastrophe">Oxygen catastrophe</a></td>
+      <td>First <a href="https://en.wikipedia.org/wiki/Eukaryote" title="Eukaryote">complex single-celled life</a>: <a href="https://en.wikipedia.org/wiki/Protist" title="Protist">protists</a> with nuclei, <a href="https://en.wikipedia.org/wiki/Francevillian_biota" title="Francevillian biota">Francevillian biota</a>. (1800 MYA)</td>
       <td>2500</td>
     </tr>
     <tr>
