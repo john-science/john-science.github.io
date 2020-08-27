@@ -164,12 +164,12 @@ summary: Cheat Sheet for the evolution of life over geologic time.
     </tr>
     <tr>
       <td style="background: #F4FA58" class="hdr"><a href="https://en.wikipedia.org/wiki/Basin_Groups" title="Basin Groups">Basin Groups</a></td>
-      <td colspan="2">End of the Early Bombardment Phase. Asteroids and comets bring water to Earth.</td>
+      <td colspan="2">End of the Early Bombardment Phase.<br>Asteroids and comets bring water to Earth.</td>
       <td>4533</td>
     </tr>
     <tr>
       <td style="background: #58FA58" class="hdr"><a href="https://en.wikipedia.org/wiki/Cryptic_era" title="Cryptic era">Cryptic</a></td>
-      <td colspan="2">Formation of Moon (4,500 MYA), probably from <a href="https://en.wikipedia.org/wiki/Giant_impact_hypothesis" title="Giant impact hypothesis">giant impact</a>. Formation of Earth (4,570 to 4,567.17 MYA), Early Bombardment Phase begins. Formation of Sun (4,680 to 4,630 MYA).</td>
+      <td colspan="2">Formation of Moon (4,500 MYA), probably from <a href="https://en.wikipedia.org/wiki/Giant_impact_hypothesis" title="Giant impact hypothesis">giant impact</a>.<br>Formation of Earth (4,570 to 4,567.17 MYA), Early Bombardment Phase begins.<br>Formation of Sun (4,680 to 4,630 MYA).</td>
       <td>4600</td>
     </tr>
   </tbody>
