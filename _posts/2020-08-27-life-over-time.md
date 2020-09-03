@@ -159,7 +159,7 @@ summary: Cheat Sheet for the evolution of life over geologic time.
     </tr>
     <tr>
       <td style="background: #FAAC58" class="hdr"><a href="https://en.wikipedia.org/wiki/Nectarian" title="Nectarian">Nectarian</a></td>
-      <td colspan="2">Earliest evidence for life based on unusually high amounts of light isotopes of carbon, a common sign of life.</td>
+      <td colspan="2">Earliest evidence for life based on unusually high amounts of light isotopes of carbon, a common sign of life. Earliest life was <a href="https://en.wikipedia.org/wiki/Eukaryote" title="Eukaryotes">Eukaryotes</a>.</td>
       <td>4280</td>
     </tr>
     <tr>
