@@ -50,7 +50,7 @@ summary: Cheat Sheet for the evolution of life over geologic time.
     </tr>
     <tr>
       <td style="background: #F2F5A9" class="hdr"><a href="https://en.wikipedia.org/wiki/Paleogene" title="Paleogene">Paleogene</a></td>
-      <td>Extinction of the non-avian dinosaurs. <a href="https://en.wikipedia.org/wiki/Mammal" title="Mammal">Mammals</a> diversify. Evolution and dispersal of <a href="https://en.wikipedia.org/wiki/Flowering_plant" title="Flowering plant">flowering plants</a>.<br><a href="https://en.wikipedia.org/wiki/Chicxulub_impact" title="Chicxulub impact">Chicxulub impact</a> and the <a href="https://en.wikipedia.org/wiki/K-Pg_extinction_event" title="K-Pg extinction event">K-Pg extinction event</a>.</td>
+      <td>Extinction of the non-avian dinosaurs. <a href="https://en.wikipedia.org/wiki/Mammal" title="Mammal">Mammals</a> diversify. Evolution and dispersal of <a href="https://en.wikipedia.org/wiki/Flowering_plant" title="Flowering plant">flowering plants</a>.<br><strong><a href="https://en.wikipedia.org/wiki/Chicxulub_impact" title="Chicxulub impact">Chicxulub impact</a></strong> and the <a href="https://en.wikipedia.org/wiki/K-Pg_extinction_event" title="K-Pg extinction event">K-Pg extinction event</a>.</td>
       <td>66</td>
     </tr>
     <tr>
