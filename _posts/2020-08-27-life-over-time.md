@@ -110,7 +110,7 @@ summary: Cheat Sheet for the evolution of life over geologic time.
     </tr>
     <tr>
       <td style="background: #F5D0A9" class="hdr"><a href="https://en.wikipedia.org/wiki/Cryogenian" title="Cryogenian">Cryogenian</a></td>
-      <td>Possible "<a href="https://en.wikipedia.org/wiki/Snowball_Earth" title="Snowball Earth">Snowball Earth</a>" period. Fossils rare.</td>
+      <td><strong>"<a href="https://en.wikipedia.org/wiki/Snowball_Earth" title="Snowball Earth">Snowball Earth</a>"</strong></td>
       <td>720</td>
     </tr>
     <tr>
