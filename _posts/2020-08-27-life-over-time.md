@@ -116,7 +116,7 @@ summary: Cheat Sheet for the evolution of life over geologic time.
     </tr>
     <tr>
       <td style="background: #F2F5A9" class="hdr"><a href="https://en.wikipedia.org/wiki/Tonian" title="Tonian">Tonian</a></td>
-      <td>Simple <a href="https://en.wikipedia.org/wiki/Multicellular" title="Multicellular">multi-celled</a> <a href="https://en.wikipedia.org/wiki/Eukaryota" title="Eukaryota">eukaryotes</a>. First radiation of <a href="https://en.wikipedia.org/wiki/Dinoflagellate" title="Dinoflagellate">dinoflagellate</a>-like <a href="https://en.wikipedia.org/wiki/Acritarch" title="Acritarch">acritarchs</a>. </td>
+      <td><strong>First simple <a href="https://en.wikipedia.org/wiki/Multicellular" title="Multicellular">multi-celled</a> <a href="https://en.wikipedia.org/wiki/Eukaryota" title="Eukaryota">eukaryotes</a>.</strong></td>
       <td>1000</td>
     </tr>
     <tr>
