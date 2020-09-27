@@ -48,6 +48,12 @@ var deBloop = function(e) {
   }
 };
 
+// remove no-JS warning
+var delete_me = document.getElementById("js_warning");
+if (delete_me) {
+    delete_me.parentNode.removeChild(delete_me);
+}
+
 // allow heriage selector to have two onchange functions
 var herigate_helper = function() {
   handle_yr_selector();
