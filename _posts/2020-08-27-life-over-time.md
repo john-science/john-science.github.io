@@ -40,7 +40,7 @@ summary: Cheat Sheet for the evolution of life over geologic time.
       <td rowspan="12" style="background: #FE2E2E" class="hdr"><a href="https://en.wikipedia.org/wiki/Phanerozoic" title="Phanerozoic"><div  class="rotat">Phanerozoic</div></a></td>
       <td rowspan="3" style="background: #FA5858" class="hdr"><a href="https://en.wikipedia.org/wiki/Cenozoic" title="Cenozoic">Cenozoic</a></td>
       <td style="background: #F5A9A9" class="hdr"><a href="https://en.wikipedia.org/wiki/Quaternary" title="Quaternary">Quaternary</a></td>
-      <td>Human evolution</td>
+      <td><strong>Human evolution</strong></td>
       <td>2.6</td>
     </tr>
     <tr>
@@ -56,7 +56,7 @@ summary: Cheat Sheet for the evolution of life over geologic time.
     <tr>
       <td rowspan="3" style="background: #FAAC58" class="hdr"><a href="https://en.wikipedia.org/wiki/Mesozoic" title="Mesozoic">Mesozoic</a></td>
       <td style="background: #F5A9A9" class="hdr"><a href="https://en.wikipedia.org/wiki/Cretaceous" title="Cretaceous">Cretaceous</a></td>
-      <td><strong><a href="https://en.wikipedia.org/wiki/Flowering_plant" title="Flowering plant">Flowering plants</a> proliferate</strong>, along with new <a href="https://en.wikipedia.org/wiki/Insect" title="Insect">insects</a>. Many new types of <a href="https://en.wikipedia.org/wiki/Dinosaur" title="Dinosaur">dinosaurs</a> evolve, as do modern crocodilians and sharks. Birds toothed and toothless coexist with <a href="https://en.wikipedia.org/wiki/Pterosaurs" title="Pterosaurs">pterosaurs</a>. <a href="https://en.wikipedia.org/wiki/Marsupial" title="Marsupial">Marsupials</a> and <a href="https://en.wikipedia.org/wiki/Eutheria" title="Eutheria">placental</a> mammals appear.</td>
+      <td><strong><a href="https://en.wikipedia.org/wiki/Flowering_plant" title="Flowering plant">Flowering plants</a></strong> proliferate, along with new <a href="https://en.wikipedia.org/wiki/Insect" title="Insect">insects</a>. Many new types of <a href="https://en.wikipedia.org/wiki/Dinosaur" title="Dinosaur">dinosaurs</a> evolve, as do modern crocodilians and sharks. Birds toothed and toothless coexist with <a href="https://en.wikipedia.org/wiki/Pterosaurs" title="Pterosaurs">pterosaurs</a>. <a href="https://en.wikipedia.org/wiki/Marsupial" title="Marsupial">Marsupials</a> and <a href="https://en.wikipedia.org/wiki/Eutheria" title="Eutheria">placental</a> mammals appear.</td>
       <td>145</td>
     </tr>
     <tr>
@@ -72,7 +72,7 @@ summary: Cheat Sheet for the evolution of life over geologic time.
     <tr>
       <td rowspan="6" style="background: #F4FA58" class="hdr"><a href="https://en.wikipedia.org/wiki/Paleozoic" title="Paleozoic">Paleozoic</a></td>
       <td style="background: #F5A9A9" class="hdr"><a href="https://en.wikipedia.org/wiki/Permian" title="Permian">Permian</a></td>
-      <td><strong><a href="https://en.wikipedia.org/wiki/Permian-Triassic_extinction_event" title="Permian-Triassic extinction event">Permian-Triassic extinction event</a></strong> occurs (251 MYA): 95% of life on Earth becomes extinct.<br>Coal-age flora are replaced by <a href="https://en.wikipedia.org/wiki/Conifer_cone" title="Conifer cone">cone</a>-bearing <a href="https://en.wikipedia.org/wiki/Gymnosperm" title="Gymnosperm">gymnosperms</a> (the first true <a href="https://en.wikipedia.org/wiki/Seed_plants" title="Seed plants">seed plants</a>) and by the first true <a href="https://en.wikipedia.org/wiki/Moss" title="Moss">mosses</a>. <a href="https://en.wikipedia.org/wiki/Beetles" title="Beetles">Beetles</a> and <a href="https://en.wikipedia.org/wiki/Fly" title="Fly">flies</a> evolve.</td>
+      <td><strong><a href="https://en.wikipedia.org/wiki/Permian-Triassic_extinction_event" title="Permian-Triassic extinction event">Permian-Triassic extinction event</a></strong> occurs (251 MYA): 95% of life on Earth becomes extinct.<br>Coal-age flora are replaced by <a href="https://en.wikipedia.org/wiki/Conifer_cone" title="Conifer cone">cone</a>-bearing <a href="https://en.wikipedia.org/wiki/Gymnosperm" title="Gymnosperm">gymnosperms</a> and by the first <a href="https://en.wikipedia.org/wiki/Moss" title="Moss">mosses</a>. <a href="https://en.wikipedia.org/wiki/Beetles" title="Beetles">Beetles</a> and <a href="https://en.wikipedia.org/wiki/Fly" title="Fly">flies</a> evolve.</td>
       <td>295</td>
     </tr>
     <tr>
