@@ -42,8 +42,7 @@ summary: A collection of some of the most famous chess games of all time.
 * []()
 
 
-## TODO
+## links and ideas
 
-* []()
-* []()
+* Maybe find some great games from all these folks: [best chess players ever](https://www.chess.com/article/view/the-best-chess-players-over-time)
 
