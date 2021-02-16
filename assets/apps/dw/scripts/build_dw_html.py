@@ -15,16 +15,14 @@ OUT_FILE = 'dw.html'
 
 
 def main():
-    """ Read the two data files and then generate the HTML file.
-    """
+    """ Read the two data files and then generate the HTML file. """
     seasons = read_seasons(SEASON_FILE)
     episodes = read_episodes(EPISODE_FILE)
     build_file(OUT_FILE, seasons, episodes)
 
 
 def build_file(file_path, seasons, episodes):
-    """ master function to build the q.html file
-    """
+    """ master function to build the dw.html file """
     f = open(file_path, 'w')
 
     # build equation tables
@@ -42,8 +40,7 @@ def build_file(file_path, seasons, episodes):
 
 
 def build_season_div(num, nomen, season):
-    """ Build the string for the HTML div representing an entire season
-    """
+    """ Build the string for the HTML div representing an entire season """
     txt = SEASON_START % {'season': str(num), 'name': nomen}
 
     for episode_num in sorted(season.keys()):
@@ -54,8 +51,7 @@ def build_season_div(num, nomen, season):
 
 
 def build_episode_row(episode):
-    """ Build the string for the HTML row representing a single episode
-    """
+    """ Build the string for the HTML row representing a single episode """
     row = EPISODE_ROW % episode
 
     if episode['note']:
@@ -87,7 +83,7 @@ def read_episodes(file_path):
         desc = ln[5]
         note = ln[6]
 
-        # QA on episode description length
+        # Validation: episode description length
         if len(desc) > 80:
             print('\nWARNING: S' + str(season) + ' E' + str(episode) + ' is too long by ' +
                   str(len(desc) - 80) + ' characters.\n\t' + desc)
@@ -103,8 +99,8 @@ def read_episodes(file_path):
 
 def read_seasons(file_path):
     """ read the seasons file into a dictionary
-        s_num|title
-        1|Season 1 (1963-64)
+    s_num|title
+    1|Season 1 (1963-64)
     """
     seas = {}
 
