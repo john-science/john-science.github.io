@@ -15,8 +15,7 @@ OUT_FILE = 'dw.html'
 
 
 def main():
-    """ Read the two data files and then
-        generate the HTML file.
+    """ Read the two data files and then generate the HTML file.
     """
     seasons = read_seasons(SEASON_FILE)
     episodes = read_episodes(EPISODE_FILE)
@@ -69,8 +68,8 @@ def build_episode_row(episode):
 
 def read_episodes(file_path):
     """ read the episodes file into a dictionary
-        s_num|e_num|name|minutes|link|desc|notes
-        38|266|Smile|50|https://en.wikipedia.org/wiki/Smile_(Doctor_Who)|Smiling Killer Robots|
+    s_num|e_num|name|minutes|link|desc|notes
+    38|266|Smile|50|https://en.wikipedia.org/wiki/Smile_(Doctor_Who)|Smiling Killer Robots|
     """
     eps = {}
 
@@ -146,12 +145,12 @@ def min2str(mins):
 
 
 SEASON_START = """<div class="exPan" id="cp-%(season)s">
-  <div id="cp-%(season)s-exPanHead" class="exPanHead">
-   <input type=hidden id="cp-%(season)s-panCnt" value=0 />
-   <h2>%(name)s<span id="cp-%(season)s-icon" class="icon-close-open"></span><span id="cp-%(season)s-panLabel" class="exPanCnt"></span></h2>
-  </div>
-  <div id="cp-%(season)s-exPanCont" class="exPanCont">
-   <table class="no-border">
+ <div id="cp-%(season)s-exPanHead" class="exPanHead">
+  <input type=hidden id="cp-%(season)s-panCnt" value=0 />
+  <h2>%(name)s<span id="cp-%(season)s-icon" class="icon-close-open"></span><span id="cp-%(season)s-panLabel" class="exPanCnt"></span></h2>
+ </div>
+ <div id="cp-%(season)s-exPanCont" class="exPanCont">
+  <table class="no-border">
 <thead>
  <tr>
   <th>Story</th>
@@ -202,41 +201,41 @@ category: tool
 
 <table class="eqn-table"><tbody>
 <tr>
-  <td><div style="float:left;">Story Fraction</div></td>
-  <td><div style="float:left;margin:0;padding:0;">=</div></td>
-  <td>
-   <div style="float:left">
-    <div class="eqn-numerator">
-     <input id="total" class="q-total-input" size="3" value="0" readonly="readonly" type="text">
-    </div>
-    <div style="text-align:center;">
-     <span id="displayTotal">EPI_CNT</span>
-    </div>
+ <td><div style="float:left;">Story Fraction</div></td>
+ <td><div style="float:left;margin:0;padding:0;">=</div></td>
+ <td>
+  <div style="float:left">
+   <div class="eqn-numerator">
+    <input id="total" class="q-total-input" size="3" value="0" readonly="readonly" type="text">
    </div>
-  </td>
-  <td><div style="float:left;margin:0;padding:0;">=</div></td>
-  <td><input type="text" id="q" class="q-input" size="3" value="0.00" readonly="readonly" /></td>
+   <div style="text-align:center;">
+    <span id="displayTotal">EPI_CNT</span>
+   </div>
+  </div>
+ </td>
+ <td><div style="float:left;margin:0;padding:0;">=</div></td>
+ <td><input type="text" id="q" class="q-input" size="3" value="0.00" readonly="readonly" /></td>
 </tr>
 </tbody></table>
 
 <table class="eqn-table"><tbody>
 <tr>
-  <td><div style="float:left;">Time Fraction</div></td>
-  <td><div style="float:left;margin:0;padding:0;">=</div></td>
-  <td>
-   <div style="float:left">
-    <div class="eqn-numerator">
-     <input id="minuteStr" class="q-total-input" size="15" value="0" readonly="readonly" type="text">
-     <input id="minutes" value="0" readonly="readonly" type="hidden">
-    </div>
-    <div style="text-align:center;">
-     <input id="minutesTotal" value="MIN_CNT" readonly="readonly" type="hidden">
-     <span id="displayTotalT">MIN_STR</span>
-    </div>
+ <td><div style="float:left;">Time Fraction</div></td>
+ <td><div style="float:left;margin:0;padding:0;">=</div></td>
+ <td>
+  <div style="float:left">
+   <div class="eqn-numerator">
+    <input id="minuteStr" class="q-total-input" size="15" value="0" readonly="readonly" type="text">
+    <input id="minutes" value="0" readonly="readonly" type="hidden">
    </div>
-  </td>
-  <td><div style="float:left;margin:0;padding:0;">=</div></td>
-  <td><input type="text" id="t" class="q-input" size="2" value="0.0" readonly="readonly" /></td>
+   <div style="text-align:center;">
+    <input id="minutesTotal" value="MIN_CNT" readonly="readonly" type="hidden">
+    <span id="displayTotalT">MIN_STR</span>
+   </div>
+  </div>
+ </td>
+ <td><div style="float:left;margin:0;padding:0;">=</div></td>
+ <td><input type="text" id="t" class="q-input" size="2" value="0.0" readonly="readonly" /></td>
 </tr>
 </tbody></table>
 
