@@ -26,6 +26,7 @@ Below are some of my favorite text-based games. All of these games have legions 
 * [A Dark Room](http://adarkroom.doublespeakgames.com/)
 * [Candy Box 2](http://candybox2.net/)
 * [Discworld MUD](http://discworld.atuin.net/lpc/)
+* [Dwarf Fortress](https://www.bay12games.com/dwarves/)
 * [Hitchhiker's Guide - 30th Anniversary Edition](http://www.bbc.co.uk/programmes/articles/1g84m0sXpnNCv84GpN2PLZG/the-hitchhikers-guide-to-the-galaxy-game-30th-anniversary-edition)
 * [Rogue - The Original](https://archive.org/details/msdos_Rogue_1983)
 * [Seedship](http://philome.la/johnayliff/seedship/play)
