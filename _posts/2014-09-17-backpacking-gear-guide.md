@@ -8,7 +8,7 @@ date: 2016-05-23
 {% include JB/setup %}
 
 Selecting backpacking gear is all about weight.
-k
+
 The classic mistake of the new backpacker is to try and prepare for every eventuality. They end up with giant, back-breaking packs that would be cruel to force on a mule. An experienced backpacker knows exactly what they need and that is all they bring. This means they get less tired on the trail. They can travel faster. And they probably have a better time.
 
 The absolute extreme are the `ultra-lightweight backpackers` who believe in sacrificing a lot of comfort (sleeping bags, tents, clean water, you name it) for the sake of travelling much lighter.
@@ -47,7 +47,7 @@ srcset="/assets/images/backpacking/backpack_hiking_1000px.jpg 1000w,
 sizes="(max-width: 38em) 100vw, 50vw"
 alt="A Backpack in the Wild">
 
-You want a pack with an internal frame. They offers the support you need to carry a lot of weight. Backpacks range in size from 30 litres to over 100 litres. For short (2-4 day) trips, most beginners start out with packs in the 40 to 60-liter range. The important trade-off here is that a bigger pack can hold more things, but that will make it heavier.
+You want a pack with an internal frame. They offer the support you need to carry a lot of weight. Backpacks range in size from 30 litres to over 100 litres. For short (2-4 day) trips, most beginners start out with packs in the 40 to 60-liter range. The important trade-off here is that a bigger pack can hold more things, but that will make it heavier.
 
 Modern packs have a huge variety of pockets, mesh things, straps, zippers and flaps. Of all these fancy extras, the most important is the slot inside that allows you to hold a water bladder. This allows you to sip water from a tube at any moment while you're walking. (Stay hydrated!) When selecting a water bladder for your bag (they're sold separately), get a 3-litre or maybe a 2-litre. Don't go smaller. I carry a 3-litre bladder and a 1-litre bottle.
 
