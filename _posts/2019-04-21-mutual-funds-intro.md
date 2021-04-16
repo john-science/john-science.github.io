@@ -42,7 +42,7 @@ Now that we have those two sets of terms defined we can look at our first risk v
 
 ![Cap vs Growth Graph](/assets/images/invest/cap_vs_growth.png)
 
-The idea here is that a "Small Cap, Growth Fund" tends to take on more volatile stocks, which can mean greater profits but definitely means greater risk. Conversely, "Large Cap, Value Funds" are probably much more stable in the long-term. Again, in theory. 
+The idea here is that a "Small Cap, Growth Fund" tends to take on more volatile stocks, which can mean greater profits but definitely means greater risk. Conversely, "Large Cap, Value Funds" are probably much more stable in the long-term. Again, in theory.
 
 On the surface, a graph like the one above seems like it must be over-simplifing the entire economy. But since this is frequently how mutual funds are designed, this graph has real value. It lets you know how funds are run.
 
@@ -79,7 +79,7 @@ Mutual funds seem like a good answer to this. By definition, they help you diver
 
 ## 4. Index Funds
 
-An [index fund](https://www.investopedia.com/terms/i/indexfund.asp) (or "index tracker") is a mutual fund designed to follow certain preset rules so that the fund can track a specified basket of underlying investments, like the S&P 500. These funds are run on very strict rules and require for lower operating costs.
+An [index fund](https://www.investopedia.com/terms/i/indexfund.asp) (or "index tracker") is a mutual fund designed to follow certain preset rules so that the fund can track a specified basket of underlying investments, like the S&P 500. These funds are run on very strict rules and require far lower operating costs.
 
 > The question is: are [mutual funds](https://www.investopedia.com/walkthrough/fund-guide/mutual-funds-etfs/mf/default.aspx) really better than just a simple index fund?
 
