@@ -7,7 +7,7 @@ summary: Design Flaws and Major Problems in JavaScript
 
 {% include JB/setup %}
 
-This will not be an angry tirade against JavaScript. For all of its flaws, JavaScript is a very successful language, widely used around the world. It is also the most popular functional programming language ever. However, the first version of JavaScript was notoriously written in just two weeks, so there are problems. In this series I will attempt to catalogue all of those problems.
+This will not be an angry tirade against JavaScript. For all of its flaws, JavaScript is a very successful language, widely used around the world. It is also the most popular functional programming language ever. However, the first version of JavaScript was notoriously written in just two weeks, so there are problems. In this series I will attempt to catalogue those problems.
 
 Just to be clear, this series will only discuss problems with JavaScript 1.3 (ECMAScript 3). This was the defacto version for over a decade, and I don't think ECMAScript 5 or 6 have added any problems of their own.
 
@@ -101,11 +101,7 @@ JavaScript only supports 16-bit unicode. Because, well, it's old. But this is th
 
 #### include
 
-JavaScript lacks an include keyword to import other JavaScript files. There are ways to work around this using the DOM, but it is still a bizarre choice. Imagine:
-
-* building all the cities of the Roman Empire, but no roads between them.
-* teaching every person in the world to write, then blinding them.
-* your favorite programming language without include/import: Java, C, C++, Python...
+JavaScript lacks an include keyword to import other JavaScript files. There are ways to work around this using the DOM, but it is still a bizarre choice.
 
 
 #### Weak Typing / Lack of Static Typing
@@ -116,5 +112,3 @@ Vanilla JavaScript is designed around a very weak typing system, without even op
 ### To Be Continued
 
 In [volume 2](/2017/01/10/eww-javascript-part-2) of this series, we will cover the smaller more obvious mistakes in JavaScript.
-
-What is it about JavaScript that drives you insane? Leave your thoughts in the comments below.

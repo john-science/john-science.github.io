@@ -57,7 +57,7 @@ Because, remember, arrays are just objects with some syntactic sugar to make it 
 10001
 {% endhighlight %}
 
-There may have been a use-case for this `.length` method that made it a beautiful idea. But that use-case is not immediately obvious on inspection.
+There may have been a use-case for this `.length` method that made it a beautiful idea. But that use-case is not immediately obvious.
 
 
 #### Array vs Object
@@ -121,14 +121,14 @@ Seriously, it would have take like an hour to do a type check on the default `so
 
 #### String.substring
 
-The `.substring()` method does the exact same as the `.slice()` method, expect that it does not accept negative values.
+The `.substring()` method does the exact same as the `.slice()` method, except it does not accept negative values.
 
 It was redundant and useless 20 years ago, and still is.
 
 
 #### Auto-Magic Semicolons
 
-Another feature that undoubtedly came from a desire to help beginners is the automatic inject of semicolons. This has caused me problems in the past, but has never saved me any. Particularly because of outlying cases that different browsers try and treat differently. The classic bad example is this code:
+Another feature that undoubtedly came from a desire to help beginners is the automatic injection of semicolons. This has caused me problems in the past, but has never saved me any. Particularly because of outlying cases that different browsers treat differently. The classic bad example is this code:
 
 {% highlight javascript %}
 return
@@ -161,7 +161,9 @@ The real problem here is that this leaves ambiguity in the language: JavaScript 
 
 #### Reserved Words
 
-For reasons lost to time (or I'm too lazy to look up) JavaScript has a ton of reserved words that are not actually used in the language. Which is the kind of thing tends to make one simultaneously angry and tired. The reserved words which make sense are:
+For reasons lost to time (or I'm too lazy to look up) JavaScript has a ton of reserved words that are not actually used in the language. Which is the kind of thing that tends to make one simultaneously angry and tired.
+
+The reserved words which make sense are:
 
     arguments await* break case catch class* const continue debugger default delete do else enum* eval export* extends* false finally for function if implements import* in instanceof interface let* new null package private protected public return static super* switch this throw true try typeof var void while with yield
 
@@ -243,7 +245,7 @@ true
 
 #### ==
 
-The usual boolean operators (`==` and `!=`) do not act like you would expect in JavaScript. The first thing they do is convert the terms on either side of the operator to the same type, and *then* they compare them. This is obviously radically slower than the typical boolean operators in, like, every other programming language.
+The usual boolean operators (`==` and `!=`) do not act like you would expect in JavaScript. The first thing they do is convert the terms on either side of the operator to the same type, and *then* they compare them. This is obviously radically slower than the typical boolean operators in every other programming language.
 
 These operators area also a hot mess in a lot of other ways:
 
@@ -259,7 +261,7 @@ false
 true
 {% endhighlight %}
 
-The list goes on and on. 
+The list goes on and on.
 
 The only solution is to use `===` and `!==`, which are the usual boolean operators from other languages. They do not do any type conversion. Two variables of different types are not equal. If JavaScript did not include these operators, most of use would build them ourselves.
 
@@ -276,4 +278,4 @@ In JavaScript, for some reason, `void` is an operator that takes in a value and 
 
 #### To Be Continued?
 
-What is it about JavaScript that drives you insane? Leave your thoughts in the comments below.
+If you ever see a "part 3" to this series, it will be because I ran head first into another exciting JavaScript feature.
