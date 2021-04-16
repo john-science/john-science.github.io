@@ -90,10 +90,10 @@ So, let's make some changes:
     docs/
     __pycach__/" >> .gitignore
     $ git stash save "adding things to .gitignore"
-    
+
     $ echo "MIT or GNU GPLv3.0?" > LICENSE
     $ git stash save "narrowed my open sources licenses down"
-    
+
     $ echo "htmlcov/
     cover/
     .coverage/" >> .gitignore
@@ -101,7 +101,8 @@ So, let's make some changes:
 
 Now we have three `git stash` references stored locally. First things first, we want to list them:
 
-    $ git stash liststash@{0}: On master: adding coverage artifacts to .gitignore
+    $ git stash list
+    stash@{0}: On master: adding coverage artifacts to .gitignore
     stash@{1}: On master: narrowed my open sources licenses down
     stash@{2}: On master: adding things to .gitignore
 
@@ -114,12 +115,12 @@ Let's say we realize we don't have any coverage tests in this project and we don
 
 THEN we decide we want to apply that second stashed item to our repo:
 
-    $ cat LICENSE 
+    $ cat LICENSE
     Which license do I want?
-    
+
     $ git stash pop stash@{1}
-    
-    $ cat LICENSE 
+
+    $ cat LICENSE
     MIT or GNU GPLv3.0?
 
 Lastly, say we want to completely drop all the stashes we have in our local repo:
