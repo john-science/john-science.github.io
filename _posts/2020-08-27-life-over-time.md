@@ -27,6 +27,8 @@ summary: Cheat Sheet for the evolution of life over geologic time.
 }
 </style>
 
+This is just a cheat sheet that I use as a high level overview of evolution on the Earth.
+
 <table style="border-collapse: collapse;border: 2px solid lightgrey" class="geotable">
   <tbody>
     <tr>

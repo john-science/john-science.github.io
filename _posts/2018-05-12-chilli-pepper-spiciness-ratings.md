@@ -7,7 +7,7 @@ date: 2018-05-12
 ---
 {% include JB/setup %}
 
-I love spicy foods and some peppers are as tasty as they are spicy. BUT before throwing a few peppers into a dish I'm cooking I want to know roughly how spicy they are. I typically use this list as my guideline, using jalapenos and habaneros as my calibration points.
+I love spicy foods and some peppers are as tasty as they are spicy. But *before* throwing a few peppers into a dish I want to know roughly how spicy they are. This is the list I use this list as my guideline, using jalapenos and habaneros as my calibration points.
 
 
 ## Chilli Pepper Spiciness Ratings
