@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Hyperinflation Banknotes"
+title: "Inflation Banknotes"
 tags: [Money, Numismatics]
 summary: Money is Fictional
 ---
@@ -40,6 +40,12 @@ This is also an object lesson in just how fictional money really is.
 ## Bosnia Herzegovina 1992
 
 > TODO
+
+## Peru 1990
+
+> TODO
+
+* https://www.leftovercurrency.com/exchange/peruvian-soles/demonetized-peruvian-inti-banknotes/5000000-peruvian-intis-banknote/
 
 ## Yugoslavia 1993
 
