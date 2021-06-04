@@ -80,6 +80,7 @@ This is also an object lesson in just how fictional money really is.
 > TODO
 
 * [Wikipedia](https://en.wikipedia.org/wiki/Hyperinflation_in_Zimbabwe)
+* [YouTube video on Mugabe](https://youtu.be/N2iSUlLD374?t=138)
 
 
 ## References
@@ -102,3 +103,4 @@ This is also an object lesson in just how fictional money really is.
 
 * https://www.ma-shops.com/grazi/item.php?id=7134
 * https://www.ma-shops.com/shops/search.php?searchstr=billion&catid=1150&sortby=preis_eur&pricemax=24.554885076954&pricemin=0&ajax=2qhr
+* https://www.banknoteworld.com/?target=search&mode=search&substring=billion&filter_max_price=30#
