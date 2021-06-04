@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Inflation Banknotes"
+title: "Hyperinflation Banknotes"
 tags: [Money, Numismatics]
 summary: Money is Fictional
 ---
@@ -20,6 +20,8 @@ This is also an object lesson in just how fictional money really is.
 ## Germany 1923
 
 > TODO
+
+* [Business Insider](https://www.businessinsider.com/weimar-germany-hyperinflation-explained-2013-9#meanwhile-goods-were-flying-off-the-shelves-of-shops-as-people-tried-to-protect-themselves-against-the-falling-value-of-the-currency-12)
 
 ## Japan 1930
 
@@ -41,11 +43,17 @@ This is also an object lesson in just how fictional money really is.
 
 > TODO
 
-## Peru 1990
+## Peru 1990-1991
 
 > TODO
 
 * https://www.leftovercurrency.com/exchange/peruvian-soles/demonetized-peruvian-inti-banknotes/5000000-peruvian-intis-banknote/
+
+## Poland 1991-1994
+
+> TODO
+
+* https://www.leftovercurrency.com/exchange/polish-zloty/old-polish-zloty-banknotes/1000000-old-polish-zloty-banknote-wladyslaw-reymont/
 
 ## Yugoslavia 1993
 
@@ -55,9 +63,23 @@ This is also an object lesson in just how fictional money really is.
 
 > TODO
 
-## Zimbabwe 2009
+## Turkey 1999-2005
 
 > TODO
+
+* https://www.leftovercurrency.com/exchange/turkish-old-lira/obsolete-old-turkish-lira-banknotes/10000000-turkish-old-lira-banknote-7th-emission-group-1970/
+
+## Romania 2001-2005
+
+> TODO
+
+* https://www.leftovercurrency.com/exchange/romanian-old-lei/obsolete-old-romanian-lei-banknotes/1000000-romanian-old-lei-banknote-luca-caragiale/
+
+## Zimbabwe 2008-2009
+
+> TODO
+
+* [Wikipedia](https://en.wikipedia.org/wiki/Hyperinflation_in_Zimbabwe)
 
 
 ## References
@@ -69,6 +91,12 @@ This is also an object lesson in just how fictional money really is.
 * https://www.spurlock.illinois.edu/blog/p/1920s-hyperinflation-in/283
 * https://www.banknoteworld.com/blog/largest-and-smallest-banknote-denominations/
 * https://www.banknoteworld.com/blog/oh-no-here-we-go-again-new-hyperinflation-banknotes/
+
+## Leftover Notes Research
+
+* [1,000,000](https://www.leftovercurrency.com/?s=1000000&post_type=product)
+* [5,000,000](https://www.leftovercurrency.com/?s=5000000&post_type=product)
+* [10,000,000](https://www.leftovercurrency.com/?s=10000000&post_type=product)
 
 ## Shopping Links
 
