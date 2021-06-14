@@ -92,6 +92,8 @@ This is also an object lesson in just how fictional money really is.
 * https://www.spurlock.illinois.edu/blog/p/1920s-hyperinflation-in/283
 * https://www.banknoteworld.com/blog/largest-and-smallest-banknote-denominations/
 * https://www.banknoteworld.com/blog/oh-no-here-we-go-again-new-hyperinflation-banknotes/
+* https://www.cato.org/sites/cato.org/files/pubs/pdf/workingpaper-8_1.pdf
+* https://www.investopedia.com/articles/personal-finance/122915/worst-hyperinflations-history.asp
 
 ## Leftover Notes Research
 
