@@ -31,9 +31,11 @@ This is also an object lesson in just how fictional money really is.
 
 > TODO
 
-## Hungary 1946
+## Hungary 1945-1946
 
 > TODO
+
+* [Investopedia](https://www.investopedia.com/articles/personal-finance/122915/worst-hyperinflations-history.asp)
 
 ## China 1949
 
@@ -55,9 +57,11 @@ This is also an object lesson in just how fictional money really is.
 
 * https://www.leftovercurrency.com/exchange/polish-zloty/old-polish-zloty-banknotes/1000000-old-polish-zloty-banknote-wladyslaw-reymont/
 
-## Yugoslavia 1993
+## Yugoslavia 1992-1994
 
 > TODO
+
+* [Investopedia](https://www.investopedia.com/articles/personal-finance/122915/worst-hyperinflations-history.asp)
 
 ## Krajina 1993
 
@@ -93,13 +97,14 @@ This is also an object lesson in just how fictional money really is.
 * https://www.banknoteworld.com/blog/largest-and-smallest-banknote-denominations/
 * https://www.banknoteworld.com/blog/oh-no-here-we-go-again-new-hyperinflation-banknotes/
 * https://www.cato.org/sites/cato.org/files/pubs/pdf/workingpaper-8_1.pdf
-* https://www.investopedia.com/articles/personal-finance/122915/worst-hyperinflations-history.asp
+
 
 ## Leftover Notes Research
 
 * [1,000,000](https://www.leftovercurrency.com/?s=1000000&post_type=product)
 * [5,000,000](https://www.leftovercurrency.com/?s=5000000&post_type=product)
 * [10,000,000](https://www.leftovercurrency.com/?s=10000000&post_type=product)
+
 
 ## Shopping Links
 
