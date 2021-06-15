@@ -8,7 +8,9 @@ summary: Money is Fictional
 
 > Money is Fictional
 
-On first glance, a single bill that says "millions" or "billions" on it is just novel. And how cool to have something like that. Of course, that means an entire nation had a really rough patch. An economy was in shambles, at least for a short time.
+> TODO: Insert photo of Zimbabwe 100 Trillion Dollar bill
+
+On first glance, a single bill that says "millions" or "billions" on it is novel. And how cool is it to own something like that. Of course, that means an entire nation had a really rough patch. TGhere was an economy was in shambles, at least for a time.
 
 This is also an object lesson in just how fictional money really is.
 
