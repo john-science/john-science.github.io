@@ -19,33 +19,49 @@ This is also an object lesson in just how fictional money really is.
 
 > TODO
 
+* [Bidding Corner](https://biddingcorner.blogspot.com/2013/10/CollectionofhighestBanknotes.html)
+
 ## Germany 1923
 
 > TODO
 
 * [Business Insider](https://www.businessinsider.com/weimar-germany-hyperinflation-explained-2013-9#meanwhile-goods-were-flying-off-the-shelves-of-shops-as-people-tried-to-protect-themselves-against-the-falling-value-of-the-currency-12)
+* [Illinois.edu](https://www.spurlock.illinois.edu/blog/p/1920s-hyperinflation-in/283)
+* [Bidding Corner](https://biddingcorner.blogspot.com/2013/10/CollectionofhighestBanknotes.html)
 
 ## Japan 1930
 
 > TODO
 
+* [Bidding Corner](https://biddingcorner.blogspot.com/2013/10/CollectionofhighestBanknotes.html)
+
 ## Greece 1944
 
 > TODO
+
+* [Bidding Corner](https://biddingcorner.blogspot.com/2013/10/CollectionofhighestBanknotes.html)
 
 ## Hungary 1945-1946
 
 > TODO
 
 * [Investopedia](https://www.investopedia.com/articles/personal-finance/122915/worst-hyperinflations-history.asp)
+* [Bidding Corner](https://biddingcorner.blogspot.com/2013/10/CollectionofhighestBanknotes.html)
+* [Edmonton Collections](https://www.edmontoncollections.com/list-of-unique-and-weird-banknotes/)
+* [Banknote World](https://www.banknoteworld.com/blog/largest-and-smallest-banknote-denominations/)
 
 ## China 1949
 
 > TODO
 
+* [Bidding Corner](https://biddingcorner.blogspot.com/2013/10/CollectionofhighestBanknotes.html)
+
+
 ## Bosnia Herzegovina 1992
 
 > TODO
+
+* [Bidding Corner](https://biddingcorner.blogspot.com/2013/10/CollectionofhighestBanknotes.html)
 
 ## Peru 1990-1991
 
@@ -64,10 +80,14 @@ This is also an object lesson in just how fictional money really is.
 > TODO
 
 * [Investopedia](https://www.investopedia.com/articles/personal-finance/122915/worst-hyperinflations-history.asp)
+* [Bidding Corner](https://biddingcorner.blogspot.com/2013/10/CollectionofhighestBanknotes.html)
+* [Edmonton Collections](https://www.edmontoncollections.com/list-of-unique-and-weird-banknotes/)
 
 ## Krajina 1993
 
 > TODO
+
+* [Bidding Corner](https://biddingcorner.blogspot.com/2013/10/CollectionofhighestBanknotes.html)
 
 ## Turkey 1999-2005
 
@@ -80,6 +100,7 @@ This is also an object lesson in just how fictional money really is.
 > TODO
 
 * https://www.leftovercurrency.com/exchange/romanian-old-lei/obsolete-old-romanian-lei-banknotes/1000000-romanian-old-lei-banknote-luca-caragiale/
+* [Bidding Corner](https://biddingcorner.blogspot.com/2013/10/CollectionofhighestBanknotes.html)
 
 ## Zimbabwe 2008-2009
 
@@ -87,18 +108,17 @@ This is also an object lesson in just how fictional money really is.
 
 * [Wikipedia](https://en.wikipedia.org/wiki/Hyperinflation_in_Zimbabwe)
 * [YouTube video on Mugabe](https://youtu.be/N2iSUlLD374?t=138)
+* [Investopedia](https://www.investopedia.com/articles/personal-finance/122915/worst-hyperinflations-history.asp)
+* [Bidding Corner](https://biddingcorner.blogspot.com/2013/10/CollectionofhighestBanknotes.html)
+* [Banknote World](https://www.banknoteworld.com/blog/largest-and-smallest-banknote-denominations/)
+* [Edmonton Collections](https://www.edmontoncollections.com/list-of-unique-and-weird-banknotes/)
 
 
 ## References
 
-* https://www.atlasobscura.com/articles/zeroes-after-zeroes-the-worlds-highest-currencies
-* https://biddingcorner.blogspot.com/2013/10/CollectionofhighestBanknotes.html
-* https://www.edmontoncollections.com/list-of-unique-and-weird-banknotes/
-* https://www.collectorscurrency.com/collections/inflation-notes
-* https://www.spurlock.illinois.edu/blog/p/1920s-hyperinflation-in/283
-* https://www.banknoteworld.com/blog/largest-and-smallest-banknote-denominations/
-* https://www.banknoteworld.com/blog/oh-no-here-we-go-again-new-hyperinflation-banknotes/
-* https://www.cato.org/sites/cato.org/files/pubs/pdf/workingpaper-8_1.pdf
+* General  -  https://www.atlasobscura.com/articles/zeroes-after-zeroes-the-worlds-highest-currencies
+* Pictures!  -  https://www.collectorscurrency.com/collections/inflation-notes
+* White paper  -  https://www.cato.org/sites/cato.org/files/pubs/pdf/workingpaper-8_1.pdf
 
 
 ## Leftover Notes Research
