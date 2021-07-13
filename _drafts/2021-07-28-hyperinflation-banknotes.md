@@ -14,18 +14,22 @@ srcset="/assets/images/Zimbabwe-One-Hundred-Trillion-Dollars.jpg 1000w,
 sizes="(max-width: 38em) 100vw, 50vw"
 alt="A 100 Trillion Dollar Bill">
 
-On first glance, a single bill that says "millions" or "billions" on it is novel. And how cool is it to own something like that. Of course, that means an entire nation had a really rough patch. TGhere was an economy was in shambles, at least for a time.
+The first time I saw the Zimbabwe 100 trillion dollar bill, I just had to have one. There was something exciting and fun at getting to hold a billion in my hand that said "Trillion" on it. How cool.
 
-This is also an object lesson in just how fictional money really is.
+I still enjoy having a piece of that history. But you don't have to dig very deep to learn that the bill above represents real hardships for people in the real world. I now feel a bit guilty for having thought it was hilarious to own such a thing. Inflation is a normal part of any economy, but the kind of hyperinflation that goes on to create such a thing is quite rare. And it signals a hard time for an entire nation of people.
 
+As best as I can tell real "hyperinflation" has happened 14 times in history, and while Zimbabwe's was the most recent, it wasn't the most extreme. That dubious honor goes to Hungary, which after World War II printed single banknotes 100 quintillion. That number is so mind-boggling large few people rarely have good cause to use it.
 
+Below is the full list of every country that has printed single banknotes of 1 million units.
+
+In some way, all money is fake. But the list below really makes that more clear.
 
 | Nation              | Year(s)   | Largest Denomination        | References |
 | ------------------- | --------- | --------------------------- | ---------- |
-| Poland              | 1991-1994 | 1,000,000                   | [LC](https://www.leftovercurrency.com/exchange/polish-zloty/old-polish-zloty-banknotes/1000000-old-polish-zloty-banknote-wladyslaw-reymont/) |
 | Romania             | 2001-2005 | 1,000,000                   | [LC](https://www.leftovercurrency.com/exchange/romanian-old-lei/obsolete-old-romanian-lei-banknotes/1000000-romanian-old-lei-banknote-luca-caragiale/) [BC](https://biddingcorner.blogspot.com/2013/10/CollectionofhighestBanknotes.html) |
+| Poland              | 1991-1994 | 2,000,000                   | [LC](https://www.leftovercurrency.com/exchange/polish-zloty/old-polish-zloty-banknotes/2000000-old-polish-zloty-banknote-ignacy-jan-paderewski/) |
 | Peru                | 1990-1991 | 5,000,000                   | [LC](https://www.leftovercurrency.com/exchange/peruvian-soles/demonetized-peruvian-inti-banknotes/5000000-peruvian-intis-banknote/) |
-| Turkey              | 1999-2005 | 10,000,000                  | [LC](https://www.leftovercurrency.com/exchange/turkish-old-lira/obsolete-old-turkish-lira-banknotes/10000000-turkish-old-lira-banknote-7th-emission-group-1970/) |
+| Turkey              | 1999-2005 | 20,000,000                  | [LC](https://www.leftovercurrency.com/exchange/turkish-old-lira/obsolete-old-turkish-lira-banknotes/20000000-turkish-old-lira-banknote-7th-emission-group-1970/) |
 | Bosnia Herzegovina  | 1992      | 100,000,000                 | [BC](https://biddingcorner.blogspot.com/2013/10/CollectionofhighestBanknotes.html) |
 | China               | 1949      | 6,000,000,000               | [BC](https://biddingcorner.blogspot.com/2013/10/CollectionofhighestBanknotes.html) |
 | Free City of Danzig | 1920      | 10,000,000,000              | [BC](https://biddingcorner.blogspot.com/2013/10/CollectionofhighestBanknotes.html) |
