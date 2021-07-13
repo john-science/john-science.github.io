@@ -22,6 +22,7 @@ Only a handful of times in history have governments gotten desparate enough to p
 
 | Nation              | Year(s)   | Largest Denomination        | References |
 | ------------------- | --------- | --------------------------- | ---------- |
+| Georgia             | 1993      | 1,000,000                   | [WI](https://en.wikipedia.org/wiki/Georgian_lari) |
 | Romania             | 2001-2005 | 1,000,000                   | [LC](https://www.leftovercurrency.com/exchange/romanian-old-lei/obsolete-old-romanian-lei-banknotes/1000000-romanian-old-lei-banknote-luca-caragiale/) [BC](https://biddingcorner.blogspot.com/2013/10/CollectionofhighestBanknotes.html) |
 | Poland              | 1991-1994 | 2,000,000                   | [LC](https://www.leftovercurrency.com/exchange/polish-zloty/old-polish-zloty-banknotes/2000000-old-polish-zloty-banknote-ignacy-jan-paderewski/) |
 | Peru                | 1990-1991 | 5,000,000                   | [LC](https://www.leftovercurrency.com/exchange/peruvian-soles/demonetized-peruvian-inti-banknotes/5000000-peruvian-intis-banknote/) |
