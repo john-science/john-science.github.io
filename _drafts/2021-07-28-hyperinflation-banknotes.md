@@ -8,7 +8,11 @@ summary: Money is Fictional
 
 > Money is Fictional
 
-> TODO: Insert photo of Zimbabwe 100 Trillion Dollar bill
+<img src="/assets/images/Zimbabwe-One-Hundred-Trillion-Dollars_600px.jpg"
+srcset="/assets/images/Zimbabwe-One-Hundred-Trillion-Dollars.jpg 1000w,
+/assets/images/Zimbabwe-One-Hundred-Trillion-Dollars_600px.jpg 640w" 
+sizes="(max-width: 38em) 100vw, 50vw"
+alt="A 100 Trillion Dollar Bill">
 
 On first glance, a single bill that says "millions" or "billions" on it is novel. And how cool is it to own something like that. Of course, that means an entire nation had a really rough patch. TGhere was an economy was in shambles, at least for a time.
 
