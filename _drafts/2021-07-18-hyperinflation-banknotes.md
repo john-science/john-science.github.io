@@ -14,11 +14,11 @@ srcset="/assets/images/Zimbabwe-One-Hundred-Trillion-Dollars.jpg 1000w,
 sizes="(max-width: 38em) 100vw, 50vw"
 alt="A 100 Trillion Dollar Bill">
 
-The first time I saw the Zimbabwe 100 trillion dollar bill, I just had to have one. There was something exciting and fun at getting to hold a banknote in my hand that said "Trillion" on it. How cool.
+The first time I saw the Zimbabwe 100 trillion dollar bill, I just had to have one. There was something exciting and fun about holding a banknote that said "Trillion" on it. How cool.
 
-I still enjoy having a piece of that history. But, of course, as part of enjoying the item I decided I had to learn more about how it came into existence. That immediately squashed the fun, of course. Inflation is a normal part of a healthy economy, but this kind of hyperinflation signals a hard time for a lot of people.
+I still enjoy having that little piece of that history. But. As part of enjoying the item I decided I had to learn more about how it came into existence. Of course, it didn't come into existence because anyone was having fun. Inflation is a normal part of a healthy economy, but this kind of hyperinflation signals a hard time for a lot of people.
 
-Only a handful of times in history have governments gotten desparate enough to print a single banknote of over a million units:
+Only a handful of times in history have governments been desparate enough to print a single banknote of over a million units:
 
 | Nation              | Year(s)   | Largest Denomination        | References |
 | ------------------- | --------- | --------------------------- | ---------- |
@@ -38,4 +38,4 @@ Only a handful of times in history have governments gotten desparate enough to p
 | Zimbabwe            | 2008-2009 | 100,000,000,000,000         | [WI](https://en.wikipedia.org/wiki/Hyperinflation_in_Zimbabwe) [YT](https://youtu.be/N2iSUlLD374?t=138) [IN](https://www.investopedia.com/articles/personal-finance/122915/worst-hyperinflations-history.asp) [EC](https://www.edmontoncollections.com/list-of-unique-and-weird-banknotes/) |
 | Hungary             | 1945-1946 | 100,000,000,000,000,000,000 | [BC](https://biddingcorner.blogspot.com/2013/10/CollectionofhighestBanknotes.html) [IN](https://www.investopedia.com/articles/personal-finance/122915/worst-hyperinflations-history.asp) [EC](https://www.edmontoncollections.com/list-of-unique-and-weird-banknotes/) [BW](https://www.banknoteworld.com/blog/largest-and-smallest-banknote-denominations/) |
 
-In some way, of course, all money is fake. It has value because people believe it has value. But you can't help believe that is more true above - for those places and times in the world.
+In some way, of course, all money is fake. It only has value because people believe it has value. If you think that is just hyperbole, try holding a billion dollar bill.
