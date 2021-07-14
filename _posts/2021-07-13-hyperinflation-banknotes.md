@@ -8,7 +8,7 @@ summary: Money is Fictional
 
 > Money is Fictional
 
-<img src="/assets/images/Zimbabwe-One-Hundred-Trillion-Dollars.jpg"
+<img src="/assets/images/Zimbabwe-One-Hundred-Trillion-Dollars_600px.jpg"
 srcset="/assets/images/Zimbabwe-One-Hundred-Trillion-Dollars.jpg 1000w,
 /assets/images/Zimbabwe-One-Hundred-Trillion-Dollars_600px.jpg 640w" 
 sizes="(max-width: 38em) 100vw, 50vw"
