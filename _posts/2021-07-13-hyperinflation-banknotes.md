@@ -8,11 +8,10 @@ summary: Money is Fictional
 
 > Money is Fictional
 
+<a href="/assets/images/Zimbabwe-One-Hundred-Trillion-Dollars.jpg">
 <img src="/assets/images/Zimbabwe-One-Hundred-Trillion-Dollars_600px.jpg"
-srcset="/assets/images/Zimbabwe-One-Hundred-Trillion-Dollars.jpg 1000w,
-/assets/images/Zimbabwe-One-Hundred-Trillion-Dollars_600px.jpg 640w" 
-sizes="(max-width: 38em) 100vw, 50vw"
 alt="A 100 Trillion Dollar Banknote">
+</a>
 
 The first time I saw the Zimbabwe 100 trillion dollar bill, I just had to have one. There was something exciting and fun about holding a banknote that said "Trillion" on it. How cool.
 
