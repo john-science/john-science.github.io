@@ -10,10 +10,10 @@ highlighter: rouge
 title : Antineutrino
 tagline : A blog of minor obsessions
 author :
-  github : theJollySin
+  github : john-science
   stackoverflow : thejollysin
 
-production_url : http://thejollysin.github.io
+production_url : http://john-science.github.io
 gems: ["jekyll-sitemap"]
 
 # All Jekyll-Bootstrap specific configurations are namespaced into this hash

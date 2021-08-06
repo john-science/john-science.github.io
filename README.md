@@ -18,4 +18,4 @@ This blog-ish thing is based on [Jekyll Boostrap](http://jekyllbootstrap.com), w
 
 The CSS theme I am using started life as [the-minimum](http://themes.jekyllbootstrap.com/preview/the-minimum/), also under the [MIT License](http://opensource.org/licenses/MIT). I appologize for what I did to your beautiful theme.
 
-The code for this project itself has the [Apache 2 License](https://github.com/theJollySin/thejollysin.github.io/blob/master/LICENSE). And I hold full copyright privileges to the written content (blog posts).  
+The code for this project itself has the [Apache 2 License](https://github.com/john-science/john-science.github.io/blob/master/LICENSE). And I hold full copyright privileges to the written content (blog posts).  
