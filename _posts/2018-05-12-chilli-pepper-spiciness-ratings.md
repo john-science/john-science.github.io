@@ -43,5 +43,4 @@ Scoville Heat Units | Chilli Pepper
 350,000 - 577,000 | Red Savina Habanero
 850,000 - 1,000,000 | Naga (Bhut) Jolokia
 1,569,300 - 2,200,000 | Carolina Reaper
-~2,480,000 | Dragon's Breath
 
