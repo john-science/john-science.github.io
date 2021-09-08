@@ -1,5 +1,0 @@
-table.sortable { border-collapse: collapse; }
-table.sortable th, table.sortable td { padding: 10px; }
-table.sortable thead { background-color: #AD0703; color: #fff; }
-table.sortable th:hover { cursor: pointer; }
-table.sortable tbody tr:nth-child(even) { background: #f2f2f2; }
