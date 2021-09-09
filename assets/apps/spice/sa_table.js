@@ -11,7 +11,7 @@ var createTable = function (target, data, css) {
       sflag.key = skey;
       sflag.direction = true;
     }
-    
+
     // (A2) MAP ARRAY TO BE SORTED
     var mapped = data[this.innerHTML].map(function(v, i) {
       return { i: i, v: v };
@@ -30,15 +30,15 @@ var createTable = function (target, data, css) {
         return 0;
       });
     }
-    
+
     // (A4) NEW SORT ORDER
     sorder = [];
     for (var idx in mapped) { sorder.push(mapped[idx].i); }
-    
+
     // (A5) REDRAW TABLE
     tdraw();
   };
-  
+
   // (B) DEAL WITH HTML TABLE
   target = document.getElementById(target);
   let etable = null,
@@ -53,25 +53,25 @@ var createTable = function (target, data, css) {
     ehead = etable.getElementsByTagName("thead")[0];
     ehrow = ehead.getElementsByTagName("tr")[0];
     ebody = etable.getElementsByTagName("tbody")[0];
-    
+
     // Adapt data - get keys + attach click to sort
     data = {};
     let keys = [];
-    ii = 0;
+    let ii = 0;
     for (let i of ehead.getElementsByTagName("th")) {
       keys.push(i.innerHTML);
       data[i.innerHTML] = [];
-      if (ii != 4) {
+      if (ii < 5) {
         i.addEventListener("click", tsort);
       }
       ii += 1;
     }
-    
+
     // Adapt data - get values
     let j = 0;
     for (let i of ebody.getElementsByTagName("td")) {
       if (j >= keys.length) { j = 0; }
-      if (j == 2 || j == 3){
+      if (j >= 2 && j <= 4){
         data[keys[j]].push(Number(i.innerHTML));
       } else {
         data[keys[j]].push(i.innerHTML);
@@ -79,7 +79,7 @@ var createTable = function (target, data, css) {
       j++;
     }
   }
-  
+
   // (B2) CREATE NEW TABLE
   else {
     etable = document.createElement("table");
@@ -92,12 +92,12 @@ var createTable = function (target, data, css) {
     target.appendChild(etable);
   }
   if (css) { etable.classList.add(css); }
-  
+
   // (C) DRAW TABLE ROWS
   let tdraw = function () {
     // (C1) REMOVE OLD SORT ORDER
     ebody.innerHTML = "";
-    
+
     // (C2) DRAW NEW SORT ORDER
     let row = null, cell = null;
     for (let i=0; i<sorder.length; i++) {
@@ -121,7 +121,7 @@ var createTable = function (target, data, css) {
       cell.addEventListener("click", tsort);
       ehrow.appendChild(cell);
     }
-    
+
     // (D2) DRAW TABLE ROWS
     for (let i=0; i<data[title].length; i++) { sorder.push(i); }
     tdraw();
