@@ -5,9 +5,10 @@ This is a blog-ish thing about my minor obsessions. Every day I come across thin
 **Topics of Interest:**
 
 * Physics
-* Software
-* Math
 * The Environment
+* Software
+* Rock Climbing
+* Trees
 * Science Fiction
 * anything else
 
