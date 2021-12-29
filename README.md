@@ -1,12 +1,12 @@
-# Antineutrino
+# Antineutrino.net
 
 This is a blog-ish thing about my minor obsessions. Every day I come across things that I find totally engrossing. For five minutes or five weeks I am completely absorbed and can't think of anything else. If, during the course of these minor obsessions, I generate any useful information or tools, I might share them here.
 
 **Topics of Interest:**
 
-* Physics
 * The Environment
 * Software
+* Physics
 * Rock Climbing
 * Trees
 * Science Fiction
