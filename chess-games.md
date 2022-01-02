@@ -33,7 +33,7 @@ title: "Great Chess Games"
 
 ## Game of the Century
 
-**Byrne vs. Fischer, 1956  (1-0)** A 13-year-old Bobby Fischer defeats a grandmaster...
+**Byrne vs. Fischer, 1956  (1-0)** A 13-year-old Bobby Fischer defeats a grandmaster.
 
 * [Chess.com](https://www.chess.com/article/view/game-of-the-century-chess)
 * [YouTuber Sam Copeland](https://www.youtube.com/watch?v=A48B5r8dRTs)
@@ -41,7 +41,7 @@ title: "Great Chess Games"
 
 ## Judith Polgar Defeats Kasparov
 
-**Polgar vs. Kasparov, 2003  (1-0)** TODO
+**Polgar vs. Kasparov, 2003  (1-0)** Polgar defeats Grandmaster Kasparov after he says women can't play chess.
 
 * [on ChessGames.com](https://www.chessgames.com/perl/chessgame?gid=1254283)
 * [Chess.com](https://www.chess.com/players/judit-polgar#kasparov)
