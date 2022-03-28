@@ -142,11 +142,16 @@ git init --help
 
 ## The Git Workflow
 
+1. Explain the Git staging area / index, and how we save changes via commit
+2. Show a worked example
+
 
 ## References
 
-* [git](https://git-scm.com/) - Official Docs
+* [Official Git Docs](https://git-scm.com/)
 * [Getting Started with the Git Command Line](https://git-scm.com/book/en/v2/Getting-Started-The-Command-Line)
 * [What is GitHub.com?](https://en.wikipedia.org/wiki/GitHub)
-* [git config](https://git-scm.com/docs/git-config)
-* [git init](https://git-scm.com/docs/git-init)
+* [git staging area](https://git-scm.com/about/staging-area)
+* git commands
+  * [git config](https://git-scm.com/docs/git-config)
+  * [git init](https://git-scm.com/docs/git-init)
