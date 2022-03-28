@@ -113,6 +113,35 @@ git config --global user.email enoether@brynmawr.edu
 ```
 Done! That was easy. Optionally, you can also specify your default editor at this stage, but that is a very machine-specific and user-specific setting, so I will leave that as an exercise for the reader.
 
+To get more information about `git config`, you can also type one of these on the command line:
+
+```shell
+git config --help
+
+git config -h
+```
+
+## Initializing a Repository
+
+You may not create a new Git repository (repo) very often, but we will practice it here because (a) it's important, and (b) it servers as a good place to start talking about Git workflows.
+
+First, we need to create an empty folder (let's call it `OceanCleanup`) and nagivate into it. Then, to create a fresh, new Git repo, we simply type:
+
+```shell
+git init
+```
+
+After doing that, you will find a new (albeit hidden) folder gets created named `.git`. This folder is the database that Git uses to track the history of a codebase. It is not meant to be human-readable, and it is not meant to be hand-edited. A good rule-of-thumb for new Git users is to never delete this folder, or even navigate into it. Just let Git manage it for you.
+
+Again, for more information on [git init](https://git-scm.com/docs/git-init), type on the command line:
+
+```shell
+git init --help
+```
+
+
+## The Git Workflow
+
 
 ## References
 
@@ -120,3 +149,4 @@ Done! That was easy. Optionally, you can also specify your default editor at thi
 * [Getting Started with the Git Command Line](https://git-scm.com/book/en/v2/Getting-Started-The-Command-Line)
 * [What is GitHub.com?](https://en.wikipedia.org/wiki/GitHub)
 * [git config](https://git-scm.com/docs/git-config)
+* [git init](https://git-scm.com/docs/git-init)
