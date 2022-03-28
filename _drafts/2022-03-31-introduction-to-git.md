@@ -83,6 +83,15 @@ Why did Git get so popular? Aside from being the first really popular decentrali
 There are alternatives to GitHub; GitLab and BitBucket are both popular.
 
 
+## The Git Commandline
+
+Git is easy to use from the [command line](https://en.wikipedia.org/wiki/Command-line_interface) in Windows, Linux, MacOS, and all major operating systems. If you don't want to use the command line, don't worry! Every major IDE in the world has tools built in (or plugins available) to help you use Git.
+
+But, no matter what interface you use, you will still have to understand the same basic concepts about Git.
+
+For the purposes of this introduction, I will use the command line, as it is a universal inteface that everyone can use the same everywhere.
+
+
 ## Configuring Git
 
 TODO
