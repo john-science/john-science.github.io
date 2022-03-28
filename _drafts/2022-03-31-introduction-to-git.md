@@ -94,10 +94,29 @@ For the purposes of this introduction, I will use the command line, as it is a u
 
 ## Configuring Git
 
-TODO
+The first time we use Git on a new computer, we should configure two important things about you:
 
+* your name
+* your email
+
+These configurations can be done on three levels:
+
+1. System - This applies to all users on this computer (not recommended).
+2. Global - All repositories for this user (recommended).
+3. Local - Done on a repository-by-repository basic (can be helpful situationally).
+
+Here are some quick examples of how I would set my user name and email on the global level:
+
+```shell
+git config --global user.name "Emmy Noether"
+git config --global user.email enoether@brynmawr.edu
+```
+Done! That was easy. Optionally, you can also specify your default editor at this stage, but that is a very machine-specific and user-specific setting, so I will leave that as an exercise for the reader.
 
 
 ## References
 
-TODO
+* [git](https://git-scm.com/) - Official Docs
+* [Getting Started with the Git Command Line](https://git-scm.com/book/en/v2/Getting-Started-The-Command-Line)
+* [What is GitHub.com?](https://en.wikipedia.org/wiki/GitHub)
+* [git config](https://git-scm.com/docs/git-config)
