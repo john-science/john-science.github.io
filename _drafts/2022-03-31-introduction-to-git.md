@@ -7,7 +7,8 @@ summary: A Gentle, if Technical, Introduction to Git
 {% include JB/setup %}
 
 
-This guide will not cover installation or security issues, as they are heavily situationally dependent. Instead, this guide focuses on providing an introduction to the Git comamnd line.
+This guide will not cover installation, security issues, or the beautiful mathematical groundwork inside Git. Instead, this guide is an introduction in how to use Git.
+
 
 ## What is Git?
 
@@ -142,8 +143,29 @@ git init --help
 
 ## The Git Workflow
 
-1. Explain the Git staging area / index, and how we save changes via commit
-2. Show a worked example
+Now let's talk about the day-to-day Git workflow.
+
+### The Commit
+
+Every day, as part of our work, we will be making changes to the code in our project directory. (Remember that inside our project directory is the hidden `.git` directory that contains our repository database.
+
+Every day, if we make changes to one or more files, we might come upon a good stopping point or saveable state for our code. Maybe we fixed a bug or built a feature, but maybe this is just a good state where the code works, and we want to save the working code state before continue working and start breaking things again.
+
+At this point we will take a snapshot of the entire code database and store it in the code repository. This snapshot is called a [commit](https://git-scm.com/docs/git-commit). Commits are definitely how people work with Git. They find a good place to save their code, and they take a snapshot of the entire codebase at this point in time. And Git saves an entire copy of the codebase at each commit. (In other VCS, a commit might just be a "diff" showing the changes between two commits, but by clever use of mathematics saving an entire copy of the repo at each commit makes Git MUCH faster to use than other VCS tools.)
+
+### The Staging Area
+
+Git has a special "staging area" (or "index") that doesn't exist in most other VCS tools. It is essentially a preview of the changes we are proposing for the next snapshot (the next commit).
+
+<img src="https://git-scm.com/images/about/index1@2x.png" alt="Git Workflow">
+
+The idea is that you make changes to the code, and they are temporary. But when you have a collection of changes you want to 
+
+3. (Optionally) push those changes to a remote repo
+4. Show a worked example or two
+
+
+
 
 
 ## References
@@ -152,6 +174,12 @@ git init --help
 * [Getting Started with the Git Command Line](https://git-scm.com/book/en/v2/Getting-Started-The-Command-Line)
 * [What is GitHub.com?](https://en.wikipedia.org/wiki/GitHub)
 * [git staging area](https://git-scm.com/about/staging-area)
+* The beautiful mathematics behind Git
+  * [hash functions](https://en.wikipedia.org/wiki/Hash_function)
+  * [graph theory](https://en.wikipedia.org/wiki/Graph_theory)
 * git commands
   * [git config](https://git-scm.com/docs/git-config)
   * [git init](https://git-scm.com/docs/git-init)
+  * [git add](https://git-scm.com/docs/git-add)
+  * [git commit](https://git-scm.com/docs/git-commit)
+* [Think Like a Git](http://think-like-a-git.net/) - Popular website for understand Git the hard way.
