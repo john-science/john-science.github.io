@@ -190,7 +190,7 @@ If we review these stages and decide we like them, we can take a snapshot, and p
 git commit -m "First commit"
 ```
 
-The comment we add to this commit is important. If two years from now you or someone else needs to look back at these changes, this commit comment will be the only documentation anyone has about why these changes were made. Please keep these comments short, but make them clear. If you have a single-line comment, try to keep it under 50 characters. If you need to say more, multi-line comments are great!
+The comment we add to this commit is important. Make the goal of the changes as clear as you can, but be brief.
 
 At this point it is important to understand that the Staging Area still has both `file1` and `file2` in it. It is a common source of confusion that since we have made a commit, the Staging Area is empty. It's not.
 
@@ -226,7 +226,70 @@ We now have three commits in our repository:
 * Fixed a bug in file1
 * First Commit
 
-## Staging Files
+## Git Commit
+
+The commit is so central to our Git workflow, let's look at it a little more.
+
+### Commit Messages
+
+When we made this commit above:
+
+```shell
+git commit -m "Fixed a bug in file1"
+```
+
+We only made a short, one-line comment. And if we can completely describe the situation in one line, that's great. Let's keep it brief. But try to keep it under 50 characters. If you need more than 50 characters in your commit comment, let's make a multi-line commit message. To do this, we will leave off the `-m`:
+
+```shell
+git commit
+```
+
+Now Git will open up some sort of text editor. And you can type in a good, multi-line commit message. If you need to make a multi-line commit message, the best practice is to make the first line short, and leave the second line blank:
+
+```
+Fixed a bug in file1.
+
+This bug was really tricky. Let me tell you about it. Oh boy.
+It caused these funny problems:
+- Problem One
+- Problem Two
+- And so on.
+```
+
+Which text editor it opens is configurable using `git config --global core.editor "something --wait"`. But, Git will always provide you with a simple text editor as default. In Mac, Linux, and Unix, it will be a command line editor like VIM or EMACS by default. 
+
+> When writing commit messages: remember your audience.
+
+It may be that you need to look back this commit two years from now, and you have entirely forgotten about it, and you need a good, quick refresher. Or it might be that some stranger needs to figure out what was going on here 4 years from now, and they are looking at 100 other commits in the commit history too. Try to keep your explanations clear, but also concise enough that busy people have time to read them.
+
+### Commit Best Practices
+
+We should aim to make a commit every time we have done one _thing_ as a unit: we solved one bug, we built one small feature, something you can describe as logically separate. If you find yourself describing multiple changes that happened in a commit, your commit might be too big.
+
+Ideally, every commit in an estabilished project would leave the project in a working state. (That's not always possible, but it's nice when it is.)
+
+Also, try never to commit any file over 5MB. Do not confuse Git with a hard drive backup program. There actually _is_ a tool out there, called "Git Large File System" that allows for larger files in Git. But that's not recommended, or even maybe a good idea to ever use. Git is to store _code_, not _data_.
+
+### Skipping the Staging Area
+
+If you want to bipass the Staging Area workflow, you can `git commit --all` or:
+
+```shell
+git commit -a -m "Commiting all changes - skipping the Staging Area"
+```
+
+But this is definitely meant as a convenience method, for people who know exactly what is going on and want to move fast and be dangerous. This is also a good time for us to talk about the `.gitignore` file.
+
+
+## gitignore
+
+TODO
+
+## Removing Files
+
+TODO
+
+## Renaming or Moving Files
 
 TODO
 
@@ -245,12 +308,14 @@ Most new Git users will think this is the point where we have to talk about `git
 * [Getting Started with the Git Command Line](https://git-scm.com/book/en/v2/Getting-Started-The-Command-Line)
 * [What is GitHub.com?](https://en.wikipedia.org/wiki/GitHub)
 * [git staging area](https://git-scm.com/about/staging-area)
+* [gitignore](https://git-scm.com/docs/gitignore)
 * The beautiful mathematics behind Git
-  * [hash functions](https://en.wikipedia.org/wiki/Hash_function)
-  * [graph theory](https://en.wikipedia.org/wiki/Graph_theory)
+  * [Hash Functions](https://en.wikipedia.org/wiki/Hash_function)
+  * [Graph Theory](https://en.wikipedia.org/wiki/Graph_theory)
 * git commands
-  * [git config](https://git-scm.com/docs/git-config)
-  * [git init](https://git-scm.com/docs/git-init)
   * [git add](https://git-scm.com/docs/git-add)
   * [git commit](https://git-scm.com/docs/git-commit)
+  * [git config](https://git-scm.com/docs/git-config)
+  * [git init](https://git-scm.com/docs/git-init)
+  * [git status](https://git-scm.com/docs/git-status)
 * [Think Like a Git](http://think-like-a-git.net/) - Popular website for understand Git the hard way.
