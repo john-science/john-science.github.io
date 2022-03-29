@@ -153,19 +153,90 @@ Every day, if we make changes to one or more files, we might come upon a good st
 
 At this point we will take a snapshot of the entire code database and store it in the code repository. This snapshot is called a [commit](https://git-scm.com/docs/git-commit). Commits are definitely how people work with Git. They find a good place to save their code, and they take a snapshot of the entire codebase at this point in time. And Git saves an entire copy of the codebase at each commit. (In other VCS, a commit might just be a "diff" showing the changes between two commits, but by clever use of mathematics saving an entire copy of the repo at each commit makes Git MUCH faster to use than other VCS tools.)
 
+This snapshot / commit will include several things:
+
+* your name
+* your email
+* the datetime of the snapshot
+* a short message from you, describing the change
+* a unique ID defining your snapshot
+* a link back to the previous snapshot
+* a complete snapshot of the repo at this point
+
+
 ### The Staging Area
 
 Git has a special "staging area" (or "index") that doesn't exist in most other VCS tools. It is essentially a preview of the changes we are proposing for the next snapshot (the next commit).
 
 <img src="https://git-scm.com/images/about/index1@2x.png" alt="Git Workflow">
 
-The idea is that you make changes to the code, and they are temporary. But when you have a collection of changes you want to 
+The idea is that you make changes to the code, and they are temporary. But when you have a collection of changes you like, you make a snapshot of the current state of the project directory. Any files with changes need to be added to your snapshot (commit) using `git add`. Then, when you have a collection of staged files that have been added, you can `git commit` them, which saves your project snapshot to the repository.
 
-3. (Optionally) push those changes to a remote repo
-4. Show a worked example or two
+### A Worked Example
+
+First, we will create two files in our repository, with some content: `file1.txt` and `file2.py`.
+
+Now, we want to add these two files to the staging area:
+
+```shell
+git add file1.txt file2.py
+```
+
+Now that these two files are in the staging area, this is the project state we are proposing for the next commit.
+
+If we review these stages and decide we like them, we can take a snapshot, and permanently store these changes in the repository:
+
+```shell
+git commit -m "First commit"
+```
+
+The comment we add to this commit is important. If two years from now you or someone else needs to look back at these changes, this commit comment will be the only documentation anyone has about why these changes were made. Please keep these comments short, but make them clear. If you have a single-line comment, try to keep it under 50 characters. If you need to say more, multi-line comments are great!
+
+At this point it is important to understand that the Staging Area still has both `file1` and `file2` in it. It is a common source of confusion that since we have made a commit, the Staging Area is empty. It's not.
+
+We continue hacking at our code. Let's say we make a change to `file1.txt`. Those changes are not staged. In order to stage them we need to:
+
+```shell
+git add file1.txt
+```
+
+Now, in order to save a snapshot of the repository in this new state, we need to make a second commit:
+
+```shell
+git commit -m "Fixed a bug in file1"
+```
+
+Our repository now has two commits in it.
+
+We continue hacking at our code. Let's say we decide to delete `file1.txt`. So we delete it. But then we need to notify git of the changes:
+
+```shell
+git add file1.txt
+```
+
+It is a little confusing here that we are "adding" something, when really we are "removing" a file. But remember, what we are doing is "adding a change to the staging area". Okay, so now we commit our snapshot to the repository again:
+
+```shell
+git commit -m "Removing a non-code text file"
+```
+
+We now have three commits in our repository:
+
+* Removing a non-code text file
+* Fixed a bug in file1
+* First Commit
+
+## Staging Files
+
+TODO
 
 
 
+## TODO
+
+### Pushing Your Changes (Optional)
+
+Most new Git users will think this is the point where we have to talk about `git push`. But, really, there is always a full and complete Git repository on your computer, in that little `.git` sub-directory. However, if you are working on GitHub or with some other centralized repository for your team, it may be the time to use `git push`, which we will talk about in more detail later.
 
 
 ## References
