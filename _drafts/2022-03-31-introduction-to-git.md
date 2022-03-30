@@ -288,8 +288,31 @@ TODO
 
 ## Renaming or Moving Files
 
-TODO
+Let's say we move `file2.py` to `main.py` (using a non-Git command like `mv file2.py main.py`). In order to make this change in Git, we need to add both of these file paths to our Staging Area:
 
+```shell
+mv file2.py main.py  # not a Git command
+
+git add file2.py
+git add main.py
+```
+
+Now we can commit the changes:
+
+```shell
+git commit -m "Renaming file2 to main"
+```
+
+At this point, Git will check and quickly find out that we didn't remove `file2.py` and add some branch new `main.py`. Git will know that we just renamed the file. Which will be really helpful when looking through the history later.
+
+Just to save typing, Git provides a little helper command to rename (or "move") files: `git mv`. So, what we could have typed instead of the two `git add` statements above:
+
+```shell
+git mv file2.py main.py
+git commit -m "Renaming file2 to main"
+```
+
+The helper command `git mv` saves some typing, but can also hide how we are interacting with the staging area.
 
 
 ## TODO
