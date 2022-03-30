@@ -174,23 +174,26 @@ Each snapshot / commit will include several things:
 
 ### The Staging Area
 
-Git has a special "staging area" (or "index") that doesn't exist in most other VCS tools. It is essentially a preview of the changes we are proposing for the next snapshot (the next commit).
+Git has a special "staging area" (or "index") that doesn't exist in most other VCS tools. It is essentially a preview of the changes we are proposing for the next snapshot (commit).
 
 <img src="https://git-scm.com/images/about/index1@2x.png" alt="Git Workflow">
 
-The idea is that you make changes to the code, and they are temporary. But when you have a collection of changes you like, you make a snapshot of the current state of the project directory. Any files with changes need to be added to your snapshot (commit) using `git add`. Then, when you have a collection of staged files that have been added, you can `git commit` them, which saves your project snapshot to the repository.
+The idea is that you make changes to the code, and they are temporary. But when you have a collection of changes you like, you make a snapshot of the current state of the Staging Area. Any files with changes need to be added to your snapshot (commit) using `git add`. Then, when you have a collection of staged files that have been added, you can `git commit` them, which saves your project snapshot to the repository.
+
+**NOTE**: Git used to called the Staging Area the Index, so you may still see that term a lot in the documentation and online.
+
 
 ### A Worked Example
 
-First, we will create two files in our repository, with some content: `file1.txt` and `file2.py`.
+First, we will create two files in our repository, with any arbitrary content: `file1.txt` and `file2.py`.
 
-Now, we want to add these two files to the staging area:
+To add these two files to the staging area:
 
 ```shell
 git add file1.txt file2.py
 ```
 
-Now that these two files are in the staging area, this is the project state we are proposing for the next commit.
+With these files in the staging area, this is the project state we are proposing for the next commit.
 
 If we review these stages and decide we like them, we can take a snapshot, and permanently store these changes in the repository:
 
@@ -198,11 +201,11 @@ If we review these stages and decide we like them, we can take a snapshot, and p
 git commit -m "First commit"
 ```
 
-The comment we add to this commit is important. Make the goal of the changes as clear as you can, but be brief.
+The comment we add to this commit is important; make the comment short but clear.
 
-At this point it is important to understand that the Staging Area still has both `file1` and `file2` in it. It is a common source of confusion that since we have made a commit, the Staging Area is empty. It's not.
+At this point, it is important to understand that the Staging Area still has both `file1` and `file2` in it. It is a common source of confusion that since we have made a commit, the Staging Area is empty. It is not.
 
-We continue hacking at our code. Let's say we make a change to `file1.txt`. Those changes are not staged. In order to stage them we need to:
+Let's say we make a change to `file1.txt`. Those changes are not staged. In order to stage them we need to:
 
 ```shell
 git add file1.txt
@@ -219,10 +222,12 @@ Our repository now has two commits in it.
 We continue hacking at our code. Let's say we decide to delete `file1.txt`. So we delete it. But then we need to notify git of the changes:
 
 ```shell
+rm file1.txt
+
 git add file1.txt
 ```
 
-It is a little confusing here that we are "adding" something, when really we are "removing" a file. But remember, what we are doing is "adding a change to the staging area". Okay, so now we commit our snapshot to the repository again:
+It is a little confusing here that we are "adding" something, when really we are "removing" a file. But remember, what we are doing is "adding a change to the staging area". Now we can commit our snapshot to the repository again:
 
 ```shell
 git commit -m "Removing a non-code text file"
@@ -233,6 +238,7 @@ We now have three commits in our repository:
 * Removing a non-code text file
 * Fixed a bug in file1
 * First Commit
+
 
 ## Git Commit
 
