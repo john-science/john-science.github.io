@@ -10,7 +10,7 @@ summary: A Gentle, if Technical, Introduction to Git
 This guide will not cover installation, security issues, or the beautiful mathematical groundwork inside Git. Instead, this guide is an introduction in how to use Git.
 
 
-## What is Git?
+# What is Git?
 
 First things first, what is [Git](https://en.wikipedia.org/wiki/Git)?
 
@@ -83,6 +83,8 @@ Why did Git get so popular? Aside from being the first really popular decentrali
 
 There are alternatives to GitHub; GitLab and BitBucket are both popular.
 
+
+# The Local Repository Workflow
 
 ## The Git Commandline
 
@@ -468,20 +470,254 @@ A  noether.txt
 
 The `A` next to `noether.txt` here is because we "added" a new file.
 
+### What changes have been staged?
 
-## TODO
+The `git status` commands above are great, but they only show which files have been changed. To get a line-by-line comparison of what has been changed used:
 
-### Pushing Your Changes (Optional)
+```shell
+git diff
+```
 
-Most new Git users will think this is the point where we have to talk about `git push`. But, really, there is always a full and complete Git repository on your computer, in that little `.git` sub-directory. However, if you are working on GitHub or with some other centralized repository for your team, it may be the time to use `git push`, which we will talk about in more detail later.
+And, probably more importantly, to review the actual line-by-line changes that have been staged, you can use:
+
+```shell
+git diff --staged
+```
+
+The outputs here can be pretty verbose, and probably too much to view for any large changes. But it's good to know these tools exist.
 
 
-## References
+## Viewing the History
+
+To view all the recent git commits, we type `git log`:
+
+```shell
+$ git log
+commit f3bd84594b3087ad8d063e63fe208e01d352413c (HEAD -> main)
+Author: Emmy Noether <enoether@brynmawr.edu>
+Date:   Wed Mar 30 08:13:08 2022 -0400
+
+    Adding super awesome new feature
+
+commit e41be631394c6806a50d7ebe6c7b303ce84d42db
+Author: Emmy Noether <enoether@brynmawr.edu>
+Date:   Wed Mar 30 08:12:08 2022 -0400
+
+    Adding my first gitignore file!
+
+commit bdd6dc3b2819929077ca1f4cbbc4bfae53dc5cc5
+Author: Emmy Noether <enoether@brynmawr.edu>
+Date:   Wed Mar 30 08:11:13 2022 -0400
+
+    Renaming file2 to main
+
+commit 20275337d0f032fd5cf67b270c3aa9d454d243d1
+Author: Emmy Noether <enoether@brynmawr.edu>
+Date:   Wed Mar 30 08:10:37 2022 -0400
+
+    Removing a non-code text file
+
+commit 14b2753defb3f232905ff6e4fc141a95ad491552
+Author: Emmy Noether <enoether@brynmawr.edu>
+Date:   Wed Mar 30 08:10:05 2022 -0400
+
+    First commit
+```
+
+This is pretty verbose, but useful. First off, we finally see these strange commit IDs that Git uses. These are called [hash values]() and we won't talk much about _why_ they look so funny. All you really need to know is they are unique IDs for each commit.
+
+The rest of the information is what we have put into the commit: author name and email, the datetime the commit was made, and the commit message we wrote.
+
+If you want a quicker view of the commit history, you can use the flag `git commit --oneline`:
+
+```shell
+$ git log --oneline
+f3bd845 (HEAD -> main) Adding super awesome new feature
+e41be63 Adding my first gitignore file!
+bdd6dc3 Renaming file2 to main
+2027533 Removing a non-code text file
+14b2753 First commit
+```
+
+This is particularly useful if you are trying to find a particular change. Of course, this is _only_ as useful as the first line of the commit message. So hopefully you've been writing good messages!
+
+
+## Viewing a Commit
+
+To look at a particular commit in great detail, we use the `git show` command, and point at the unique ID of the commit we want:
+
+```shell
+$ git show bdd6dc3
+commit bdd6dc3b2819929077ca1f4cbbc4bfae53dc5cc5
+Author: Emmy Noether <enoether@brynmawr.edu>
+Date:   Wed Mar 30 08:11:13 2022 -0400
+
+    Renaming file2 to main
+
+diff --git a/file2.py b/main.py
+similarity index 100%
+rename from file2.py
+rename to main.py
+```
+
+The `git show` command will give a full diff of every change made in the commit. So it can be very long. In this case, all we did was rename a file, so the print-out is short.
+
+If typing that strange commit ID is a pain, we can also start with the `HEAD` commit (the current commit from the `git log` command above), and count back a few commits:
+
+```shell
+$ git show HEAD~2
+commit bdd6dc3b2819929077ca1f4cbbc4bfae53dc5cc5
+Author: Emmy Noether <enoether@brynmawr.edu>
+Date:   Wed Mar 30 08:11:13 2022 -0400
+
+    Renaming file2 to main
+
+diff --git a/file2.py b/main.py
+similarity index 100%
+rename from file2.py
+rename to main.py
+```
+
+
+## Unstaging Changes
+
+Let's say we make a change to `main.py` and then we `git add main.py`. But then we decide that change was wrong, and we want to rever it. Unfortunately, we have already staged this change for the commit.
+
+We can un-stage this change using `git restore`:
+
+```shell
+git restore --staged main.py
+```
+
+There, our staging area is clean again. The file `main.py` will still have all of those changes, but they won't be staged for the next commit.
+
+
+## Discarding Changes
+
+If we want to remove all of the unstaged changes in `main.py` and fully revert it back to the last commit, we can use `git restore` again but without the `--staged` flag:
+
+```shell
+git restore main.py
+```
+
+This checks out a fresh copy of the file from the previous commit. And now our working area is clean again:
+
+```shell
+$ git status
+On branch main
+nothing to commit, working tree clean
+```
+
+
+# The Remote Repository Workflow
+
+Thus far, all the work we've done in Git has only been using a "local" repository. That is, we have only been using our own `.git` directory.
+
+## Cloning a Repository
+
+It is very common to want to work with other people, and to store a shared version of the repository somewhere helpfully central for everyone to us.
+
+For this example, we're going to pretend we work at GitHub, and we are going to pretend to make a (stupid) change to the GitHub team's gitignore repo. First, we need to check out a full copy of the remote repository (that includes the entire project history):
+
+```shell
+$git clone https://github.com/github/gitignore
+
+Cloning into 'gitignore'...
+remote: Enumerating objects: 9724, done.
+remote: Counting objects: 100% (1/1), done.
+remote: Total 9724 (delta 0), reused 0 (delta 0), pack-reused 9723
+Receiving objects: 100% (9724/9724), 2.29 MiB | 5.60 MiB/s, done.
+Resolving deltas: 100% (5289/5289), done.
+
+$ cd gitignore
+```
+
+This will create the directory `gitignore`, which we can navigate into. Inside this directory, we will see our local copy of the repository inside the hidden `.git` directory.
+
+Just to make sure everything is okay, let's check the status:
+
+```shell
+On branch main
+Your branch is up to date with 'origin/main'.
+
+nothing to commit, working tree clean
+```
+
+## Creating a New Branch
+
+We haven't talked about it much, but so far we have been working in the `main` branch of our repositories. This is the default name given to the mainline version of the code.
+
+But imagine you spend two weeks working on a big change to a codebase. It changes dozens of files and while you are working on this big, new "feature" in the codebase, everything is kind of broken. Well, your team mates will want to work in a non-broken codebase for the next two weeks, so you make a complete copy of the code base to work in, and call that copy something short describing your feature.
+
+Now you work in this new copy of the code base until such a time as you are ready to merge your "branch" back into "main" for other people to share.
+
+Let's create a new "feature branch" and call it `python_logs`:
+
+```shell
+$ git checkout -b python_logs
+Switched to a new branch 'python_logs'
+```
+
+Now we can do whatever nonsense we want in our feature branch, without breaking the codebase for our team mates.
+
+
+## Pushing Changes
+
+First, let's make some arbitray change to the codebase and commit it:
+
+```shell
+$ echo "logs/" >> Python.gitignore 
+$
+$ git add Python.gitignore  
+$
+$ git commit -m "Adding log directories to Python .gitignore"
+[python_logs f60fb39] Adding log directories to Python .gitignore
+ 1 file changed, 1 insertion(+)
+$
+$ git status
+On branch python_logs
+nothing to commit, working tree clean
+```
+
+Okay, now that we have a change, let's say we want to push these changes back to our team on GitHub (**Plaese Note**: this will not work exactly as written, because we are NOT members of the GitHub team and do not have permissions to do this):
+
+```shell
+git push origin python_logs
+```
+
+
+## Pulling Changes
+
+If someone on our team makes a change to our `python_logs` branch, we can get all of those new changes to our branch by doing:
+
+```shell
+git pull origin python_logs
+```
+
+
+## Fetching All Branches
+
+If we just want to update all the branches in our local repository to match whatever is in the remote repo, we use `git fetch`:
+
+```shell
+git fetch
+```
+
+# Further Topics
+
+This was by no means a full guide to Git; it was just meant as an easy introduction for new users. In particular, I think there are some other important topics worth learning about:
+
+1. **Merge Conflicts** - The reason `git push`, `git pull`, and `git fetch` above were so short is we didn't talk about what happens when you're version of a branch differs from someone else's version on your team. There are various ways these "merge conflicts" can come about, and various ways to handle fixing them.
+2. **Submodules** - A somewhat more advanced Git topic, Git allows repos to include pointers to completely separate repos. This can be quite useful, but also a bit messy.
+
+
+# References
 
 * [Official Git Docs](https://git-scm.com/)
 * [Getting Started with the Git Command Line](https://git-scm.com/book/en/v2/Getting-Started-The-Command-Line)
 * [What is GitHub.com?](https://en.wikipedia.org/wiki/GitHub)
 * [git staging area](https://git-scm.com/about/staging-area)
+* [undoing things](https://git-scm.com/book/en/v2/Git-Basics-Undoing-Things)
 * [gitignore](https://git-scm.com/docs/gitignore)
   * [gitignore examples]](https://github.com/github/gitignore)
 * git commands
@@ -489,6 +725,11 @@ Most new Git users will think this is the point where we have to talk about `git
   * [git commit](https://git-scm.com/docs/git-commit)
   * [git config](https://git-scm.com/docs/git-config)
   * [git init](https://git-scm.com/docs/git-init)
+  * [git fetch](https://git-scm.com/docs/git-fetch)
+  * [git log](https://git-scm.com/docs/git-log)
+  * [git pull](https://git-scm.com/docs/git-pull)
+  * [git push](https://git-scm.com/docs/git-push)
+  * [git show](https://git-scm.com/docs/git-show)
   * [git status](https://git-scm.com/docs/git-status)
 * The beautiful mathematics behind Git
   * [Hash Functions](https://en.wikipedia.org/wiki/Hash_function)
