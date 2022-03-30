@@ -306,13 +306,13 @@ Most new Git users will think this is the point where we have to talk about `git
 * [What is GitHub.com?](https://en.wikipedia.org/wiki/GitHub)
 * [git staging area](https://git-scm.com/about/staging-area)
 * [gitignore](https://git-scm.com/docs/gitignore)
-* The beautiful mathematics behind Git
-  * [Hash Functions](https://en.wikipedia.org/wiki/Hash_function)
-  * [Graph Theory](https://en.wikipedia.org/wiki/Graph_theory)
 * git commands
   * [git add](https://git-scm.com/docs/git-add)
   * [git commit](https://git-scm.com/docs/git-commit)
   * [git config](https://git-scm.com/docs/git-config)
   * [git init](https://git-scm.com/docs/git-init)
   * [git status](https://git-scm.com/docs/git-status)
+* The beautiful mathematics behind Git
+  * [Hash Functions](https://en.wikipedia.org/wiki/Hash_function)
+  * [Graph Theory](https://en.wikipedia.org/wiki/Graph_theory)
 * [Think Like a Git](http://think-like-a-git.net/) - Popular website for understand Git the hard way.
