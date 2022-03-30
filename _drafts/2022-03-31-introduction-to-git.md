@@ -285,9 +285,6 @@ But this is definitely meant as a convenience method, for people who know exactl
 
 TODO
 
-## Removing Files
-
-TODO
 
 ## Renaming or Moving Files
 
