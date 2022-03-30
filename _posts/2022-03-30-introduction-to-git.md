@@ -7,7 +7,7 @@ summary: A Gentle, if Technical, Introduction to Git
 {% include JB/setup %}
 
 
-This guide will not cover installation, security issues, or the beautiful mathematical groundwork inside Git. Instead, this guide is an introduction in how to use Git.
+This guide will not cover installation, security issues, or the beautiful mathematical groundwork inside Git. This is meant only as an introduction in how to use Git.
 
 
 # What is Git?
@@ -16,20 +16,20 @@ First things first, what is [Git](https://en.wikipedia.org/wiki/Git)?
 
 Git is, by a wide margin, the most popular [version control](https://en.wikipedia.org/wiki/Version_control) system in the world.
 
-A "version control system" (VCS) is a tool that tracks all the changes made to our code over time, in a special database called a "repository".
+A "version control system" (VCS) is a tool that tracks all the changes made to a codebase over time. This tracking is done in a special database called a "repository".
 
-This gives us the ability to easily see the entire history of our project. So we can look back to see who made what changes when. And if someone introduces broken code into our codebase, we can find out who and when. And, if necessary, easily revert our project back to an earlier state.
+A VCS gives users the ability to easily see the entire history of our project. Users can look back to see who made what changes when. And, if necessary, users can easily revert the project back to an earlier state.
 
-In short, a Version Control System allows us to:
+In short, a Version Control System allows users to:
 
-1. Track the history of our code base
-2. Work together easily
+1. Track the history of the codebase
+2. Work together more easily
 
 ### Centralized vs Distributed VCS
 
 There are two kinds of Version Control Systems:
 
-1. Centralized
+1. [Centralized](https://en.wikipedia.org/wiki/Version_control)
 2. [Distributed](https://en.wikipedia.org/wiki/Distributed_version_control)
 
 #### Centralized VCS
@@ -48,12 +48,12 @@ The two most common Centralized VCS are:
 * Subversion
 * Microsoft Foundation Server
 
-The problem with this centralized model is the single point of failure. If the server goes down, the entire time is haulted and cannot work. They can not upload any progress they have made, or grab the latest version of the codebase.
+The problem with this centralized model is the single point of failure. If the server goes down, the entire team is haulted and cannot work.
 
 
 #### Distributed VCS
 
-In a [Distributed version control system](https://en.wikipedia.org/wiki/Distributed_version_control), every team member has a full copy of the project on their machine. (That is, they also have a local copy of the project history.) This means team members can synchronize their work with each other, even if the central server is offline. It also means the VCS is typically must Faster for developers to use, as most actions can be undertaken locally, and don't require network communication.
+In a [Distributed version control system](https://en.wikipedia.org/wiki/Distributed_version_control), every team member has a full copy of the repository on their machine. (That is, they also have a local copy of the history.) This means team members can synchronize their work with each other, even if the central server is offline. It also means the VCS is much faster for developers to use, as most actions can be undertaken locally, and don't require network communication.
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/P2P_network.svg/551px-P2P_network.svg.png"
 srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/P2P_network.svg/882px-P2P_network.svg.png 882w,
@@ -84,20 +84,21 @@ Why did Git get so popular? Aside from being the first really popular decentrali
 There are alternatives to GitHub; GitLab and BitBucket are both popular.
 
 
+<br/><br/>
 # The Local Repository Workflow
 
 ## The Git Commandline
 
-Git is easy to use from the [command line](https://en.wikipedia.org/wiki/Command-line_interface) in Windows, Linux, MacOS, and all major operating systems. If you don't want to use the command line, don't worry! Every major IDE in the world has tools built in (or plugins available) to help you use Git.
+Git is easy to use from the same [command line](https://en.wikipedia.org/wiki/Command-line_interface) in Windows, Linux, MacOS. If you don't want to use the command line, don't worry! Every major IDE has Git tools built right in.
 
-But, no matter what interface you use, you will still have to understand the same basic concepts about Git.
+No matter what interface you use, you will still have to understand the same basic concepts about Git.
 
-For the purposes of this introduction, I will use the command line, as it is a universal inteface that everyone can use the same everywhere.
+For the purposes of this introduction, I will use the command line, as it is a universal inteface; the same everywhere.
 
 
 ## Configuring Git
 
-The first time we use Git on a new computer, we should configure two important things about you:
+The first time you use Git on a computer, you should configure two important things about yourself:
 
 * your name
 * your email
@@ -108,13 +109,16 @@ These configurations can be done on three levels:
 2. Global - All repositories for this user (recommended).
 3. Local - Done on a repository-by-repository basic (can be helpful situationally).
 
-Here are some quick examples of how I would set my user name and email on the global level:
+Here are some quick examples of how I would set your user name and email on the global level:
 
 ```shell
 git config --global user.name "Emmy Noether"
 git config --global user.email enoether@brynmawr.edu
 ```
-Done! That was easy. Optionally, you can also specify your default editor at this stage, but that is a very machine-specific and user-specific setting, so I will leave that as an exercise for the reader.
+
+Done! That was easy.
+
+(Optionally, you can also specify your default editor at this stage, but that is a very machine-specific and user-specific setting, so I will leave that as an exercise for the reader.)
 
 To get more information about `git config`, you can also type one of these on the command line:
 
@@ -126,17 +130,17 @@ git config -h
 
 ## Initializing a Repository
 
-You may not create a new Git repository (repo) very often, but we will practice it here because (a) it's important, and (b) it servers as a good place to start talking about Git workflows.
+You may not create a new Git repository (repo) very often, but we will practice it here because (a) it's important, and (b) it serves as a good place to start talking about Git workflows.
 
-First, we need to create an empty folder (let's call it `OceanCleanup`) and nagivate into it. Then, to create a fresh, new Git repo, we simply type:
+First, we need to create an empty folder (let's call it `OceanCleanup`) and nagivate into it. Then, to create a new Git repo, we simply type:
 
 ```shell
 git init
 ```
 
-After doing that, you will find a new (albeit hidden) folder gets created named `.git`. This folder is the database that Git uses to track the history of a codebase. It is not meant to be human-readable, and it is not meant to be hand-edited. A good rule-of-thumb for new Git users is to never delete this folder, or even navigate into it. Just let Git manage it for you.
+After doing that, you will find a new (albeit hidden) folder gets created, named `.git`. This folder is the database that Git uses to track the history of a codebase. It is not meant to be human-readable, and it is not meant to be hand-edited. A good rule-of-thumb for new Git users is to never delete this folder, or even navigate into it. Just let Git manage it for you.
 
-Again, for more information on [git init](https://git-scm.com/docs/git-init), type on the command line:
+Again, for more information on [git init](https://git-scm.com/docs/git-init), type:
 
 ```shell
 git init --help
@@ -149,21 +153,23 @@ Now let's talk about the day-to-day Git workflow.
 
 ### The Commit
 
-Every day, as part of our work, we will be making changes to the code in our project directory. (Remember that inside our project directory is the hidden `.git` directory that contains our repository database.
+Every day, as part of our work, we will be making changes to the code in our project directory. (Remember that inside our project directory is the hidden `.git` directory that contains our repository database.)
 
-Every day, if we make changes to one or more files, we might come upon a good stopping point or saveable state for our code. Maybe we fixed a bug or built a feature, but maybe this is just a good state where the code works, and we want to save the working code state before continue working and start breaking things again.
+On any given day, if we make changes to one or more files, we might come upon a good, saveable state for our codebase. Maybe we fixed a bug, maybe we built a new feature, but maybe this is just a good state where the code works, and we want to save the working code state before continue working and breaking everything again.
 
-At this point we will take a snapshot of the entire code database and store it in the code repository. This snapshot is called a [commit](https://git-scm.com/docs/git-commit). Commits are definitely how people work with Git. They find a good place to save their code, and they take a snapshot of the entire codebase at this point in time. And Git saves an entire copy of the codebase at each commit. (In other VCS, a commit might just be a "diff" showing the changes between two commits, but by clever use of mathematics saving an entire copy of the repo at each commit makes Git MUCH faster to use than other VCS tools.)
+At this point we will take a snapshot of the entire code database and store it in the code repository. This snapshot is called a [commit](https://git-scm.com/docs/git-commit).
 
-This snapshot / commit will include several things:
+(In other VCS, a commit might just be a "diff" showing the changes between two commits, but by clever use of mathematics saving an entire copy of the repo at each commit makes Git MUCH faster to use than other VCS tools.)
 
-* your name
-* your email
+Each snapshot / commit will include several things:
+
+* name of the author
+* email of the author
 * the datetime of the snapshot
-* a short message from you, describing the change
-* a unique ID defining your snapshot
+* a short message, describing the change
+* a unique ID defining the snapshot
 * a link back to the previous snapshot
-* a complete snapshot of the repo at this point
+* a complete snapshot of the repo at that point
 
 
 ### The Staging Area
@@ -609,6 +615,7 @@ nothing to commit, working tree clean
 ```
 
 
+<br/><br/>
 # The Remote Repository Workflow
 
 Thus far, all the work we've done in Git has only been using a "local" repository. That is, we have only been using our own `.git` directory.
@@ -703,6 +710,8 @@ If we just want to update all the branches in our local repository to match what
 git fetch
 ```
 
+
+<br/><br/>
 # Further Topics
 
 This was by no means a full guide to Git; it was just meant as an easy introduction for new users. In particular, I think there are some other important topics worth learning about:
@@ -711,6 +720,7 @@ This was by no means a full guide to Git; it was just meant as an easy introduct
 2. **Submodules** - A somewhat more advanced Git topic, Git allows repos to include pointers to completely separate repos. This can be quite useful, but also a bit messy.
 
 
+<br/><br/>
 # References
 
 * [Official Git Docs](https://git-scm.com/)
