@@ -203,7 +203,7 @@ git commit -m "First commit"
 
 The comment we add to this commit is important; make the comment short but clear.
 
-At this point, it is important to understand that the Staging Area still has both `file1` and `file2` in it. It is a common source of confusion that since we have made a commit, the Staging Area is empty. It is not.
+At this point, it is important to understand that the staging area still has both `file1` and `file2` in it. It is a common source of confusion that since we have made a commit, the staging area is empty. It is not.
 
 Let's say we make a change to `file1.txt`. Those changes are not staged. In order to stage them we need to:
 
@@ -211,7 +211,7 @@ Let's say we make a change to `file1.txt`. Those changes are not staged. In orde
 git add file1.txt
 ```
 
-Now, in order to save a snapshot of the repository in this new state, we need to make a second commit:
+Then, in order to save a snapshot of the repository in this new state, we need to make a second commit:
 
 ```shell
 git commit -m "Fixed a bug in file1"
@@ -219,7 +219,7 @@ git commit -m "Fixed a bug in file1"
 
 Our repository now has two commits in it.
 
-We continue hacking at our code. Let's say we decide to delete `file1.txt`. So we delete it. But then we need to notify git of the changes:
+Let's say we decide to delete `file1.txt`. So we delete it. But then we need to notify git of the changes:
 
 ```shell
 rm file1.txt
@@ -227,7 +227,7 @@ rm file1.txt
 git add file1.txt
 ```
 
-It is a little confusing here that we are "adding" something, when really we are "removing" a file. But remember, what we are doing is "adding a change to the staging area". Now we can commit our snapshot to the repository again:
+It might be confusing here that we are "adding" something, when really we are "removing" a file. But remember, what we are doing is "adding a change to the staging area". Now we can commit our snapshot to the repository again:
 
 ```shell
 git commit -m "Removing a non-code text file"
@@ -235,14 +235,18 @@ git commit -m "Removing a non-code text file"
 
 We now have three commits in our repository:
 
-* Removing a non-code text file
-* Fixed a bug in file1
-* First Commit
+```shell
+$ git log --oneline
+\
+f3bd845 (HEAD -> main) Removing a non-code text file
+2027533 Fixed a bug in file1
+14b2753 First commit
+```
 
 
 ## Git Commit
 
-The commit is so central to our Git workflow, let's look at it a little more.
+The commit is so central to our Git workflow, it is worth a closer look.
 
 ### Commit Messages
 
@@ -252,18 +256,19 @@ When we made this commit above:
 git commit -m "Fixed a bug in file1"
 ```
 
-We only made a short, one-line comment. And if we can completely describe the situation in one line, that's great. Let's keep it brief. But try to keep it under 50 characters. If you need more than 50 characters in your commit comment, let's make a multi-line commit message. To do this, we will leave off the `-m`:
+We only made a short, one-line comment. And if we can completely describe the situation in one line, that's great. But try to keep it under 50 characters. If you need more than 50 characters in your commit message, mskr iy a multi-line message. To do this, we will leave off the `-m`:
 
 ```shell
 git commit
 ```
 
-Now Git will open up some sort of text editor. And you can type in a good, multi-line commit message. If you need to make a multi-line commit message, the best practice is to make the first line short, and leave the second line blank:
+Then Git will open up some sort of text editor. And you can type in a multi-line commit message that is as long as you like. If you need to make a multi-line commit message, the best practice is to make the first line short, and leave the second line blank:
 
 ```
 Fixed a bug in file1.
 
-This bug was really tricky. Let me tell you about it. Oh boy.
+This bug was really tricky. This and that were happening.
+So we had to do this and that to fix it.
 It caused these funny problems:
 - Problem One
 - Problem Two
@@ -274,36 +279,39 @@ Which text editor it opens is configurable using `git config --global core.edito
 
 > When writing commit messages: remember your audience.
 
-It may be that you need to look back this commit two years from now, and you have entirely forgotten about it, and you need a good, quick refresher. Or it might be that some stranger needs to figure out what was going on here 4 years from now, and they are looking at 100 other commits in the commit history too. Try to keep your explanations clear, but also concise enough that busy people have time to read them.
+It may be that you need to look back this commit two years from now. Maybe you will have entirely forgotten about this work, and you need a good, quick refresher. Or it might be that some stranger needs to figure out what you did here 4 years from now, and they are looking at 100 other commits in the commit history too. Try to keep your explanations clear, but also concise enough that busy people have time to read them.
+
 
 ### Commit Best Practices
 
-We should aim to make a commit every time we have done one _thing_ as a unit: we solved one bug, we built one small feature, something you can describe as logically separate. If you find yourself describing multiple changes that happened in a commit, your commit might be too big.
+We should aim to make a commit every time we have done one _thing_ as a unit: we solved one bug, we built one feature, one logical thing. If you find yourself describing multiple changes that happened in a commit, your commit might be too big.
 
-Ideally, every commit in an estabilished project would leave the project in a working state. (That's not always possible, but it's nice when it is.)
+Ideally, every commit in an estabilished project would leave the project in a functional state.
 
-Also, try never to commit any file over 5MB. Do not confuse Git with a hard drive backup program. There actually _is_ a tool out there, called "Git Large File System" that allows for larger files in Git. But that's not recommended, or even maybe a good idea to ever use. Git is to store _code_, not _data_.
+Also, try never to commit any file over 5MB. Do not confuse Git with a hard drive backup. Git is used to store _code_ not _data_.
+
 
 ### Skipping the Staging Area
 
-If you want to bipass the Staging Area workflow, you can `git commit --all` or:
+If you want to bipass the staging area workflow, you can `git commit --all` or:
 
 ```shell
 git commit -a -m "Commiting all changes - skipping the Staging Area"
 ```
 
-But this is definitely meant as a convenience method, for people who know exactly what is going on and want to move fast and be dangerous. This is also a good time for us to talk about the `.gitignore` file.
+But this is meant as a convenience method, for people who know exactly what is going on and want to move fast and be dangerous. This is also a good time for us to talk about the `.gitignore` file.
+
 
 ### But... That's not how I learned it!
 
-Perhaps you have been using Git for a while and you have a slightly different workflow from the two listed above. Sure, that's possible. Git has all kinds of little helper features built it to make your life easier, and to help save you typing precious key strokes. What I am outlining here in this guide is not EVERY way to do things in Git, but the original way Git provided. The idea is to provide a clear understanding of the Staging Area interactions. If you want to use a short cut, great! As long as you understand what Git is doing.
+Perhaps you have been using Git for a while and you have a slightly different workflow from the two listed above. Sure, that's possible. Git has all kinds of helper features built it to make your life easier, mostly to help save you precious key strokes. This guide does not attempt to show EVERY way to do things in Git, but an original way that provides a clear understanding of how we interact with the staging area.
 
 
 ## .gitignore
 
-In most code bases there are files that get created while using the code that we don't want to add to our repository.
+In most code bases there are files that get created while using the code that you don't want to add to your repository.
 
-For instance, if your code base generates log files, we don't need to share or synchronize those with othe team members. Similarly, depeneding on your programming language, compiled binary files are not included in a Git repository. Since another person on your team might be developing in a slightly different environment, compiled binaries are typically left out of Git repos.
+For instance, if your code base generates log files, you won't need to share or synchronize those with othe team members. Similarly, depeneding on your programming language, compiled binary files are not included in a Git repository.
 
 > Git repositories are only meant for code: not log files or compiled binaries.
 
@@ -315,7 +323,7 @@ We want to tell Git to ignore all log files in this directory. To do that, we wi
 logs/
 ```
 
-If, for some reason, we might want to put code in the `/logs/` dir, but we want to specifically only want to have Git ignore the log files in that directory:
+If, for some reason, we might want to put code in the `/logs/` dir, but we want to specifically only want to have Git ignore only the log files in that directory:
 
 ```
 logs/*.log
@@ -339,7 +347,7 @@ Easy!
 
 > The `.gitignore` is so important, that it is usually the first file added to a Git repository.
 
-Since so many people have been using Git for so long, there are great community examples of `.gitignore` files for various programming langauges on [github](https://github.com/github/gitignore). Just pick the correct one for your language: [python](https://github.com/github/gitignore/blob/main/Python.gitignore), [C++](https://github.com/github/gitignore/blob/main/C%2B%2B.gitignore), or whatever. The examples on this page have been used by millions of people and are a great place to start.
+Since so many people have been using Git for so long, there are great collection of example `.gitignore` files for various programming langauges on [github](https://github.com/github/gitignore). Just pick the correct one for your language: [python](https://github.com/github/gitignore/blob/main/Python.gitignore), [C++](https://github.com/github/gitignore/blob/main/C%2B%2B.gitignore), or whatever. The examples on this page have been used by millions of people and are a great place to start.
 
 
 ## Renaming or Moving Files
