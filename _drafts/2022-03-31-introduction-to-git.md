@@ -280,10 +280,52 @@ git commit -a -m "Commiting all changes - skipping the Staging Area"
 
 But this is definitely meant as a convenience method, for people who know exactly what is going on and want to move fast and be dangerous. This is also a good time for us to talk about the `.gitignore` file.
 
+### But... That's not how I learned it!
 
-## gitignore
+Perhaps you have been using Git for a while and you have a slightly different workflow from the two listed above. Sure, that's possible. Git has all kinds of little helper features built it to make your life easier, and to help save you typing precious key strokes. What I am outlining here in this guide is not EVERY way to do things in Git, but the original way Git provided. The idea is to provide a clear understanding of the Staging Area interactions. If you want to use a short cut, great! As long as you understand what Git is doing.
 
-TODO
+
+## .gitignore
+
+In most code bases there are files that get created while using the code that we don't want to add to our repository.
+
+For instance, if your code base generates log files, we don't need to share or synchronize those with othe team members. Similarly, depeneding on your programming language, compiled binary files are not included in a Git repository. Since another person on your team might be developing in a slightly different environment, compiled binaries are typically left out of Git repos.
+
+> Git repositories are only meant for code: not log files or compiled binaries.
+
+Let's say we've run our code and there is now a big, ugly log file at `OceanCleanup/logs/dev.log`.
+
+We want to tell Git to ignore all log files in this directory. To do that, we will create a new file in our project: `.gitignore`. To ignore everythiing inside this `/logs/` directory, the `.gitignore` file only needs to have one line:
+
+```
+logs/
+```
+
+If, for some reason, we might want to put code in the `/logs/` dir, but we want to specifically only want to have Git ignore the log files in that directory:
+
+```
+logs/*.log
+```
+
+Or maybe we just want to be safe:
+
+```
+logs/
+*.log
+```
+
+So, let's commit our new file:
+
+```shell
+git add .gitignore
+git commit -m "Creating my first gitignore file!"
+```
+
+Easy!
+
+> The `.gitignore` is so important, that it is usually the first file added to a Git repository.
+
+Since so many people have been using Git for so long, there are great community examples of `.gitignore` files for various programming langauges on [github](https://github.com/github/gitignore). Just pick the correct one for your language: [python](https://github.com/github/gitignore/blob/main/Python.gitignore), [C++](https://github.com/github/gitignore/blob/main/C%2B%2B.gitignore), or whatever. The examples on this page have been used by millions of people and are a great place to start.
 
 
 ## Renaming or Moving Files
@@ -315,6 +357,118 @@ git commit -m "Renaming file2 to main"
 The helper command `git mv` saves some typing, but can also hide how we are interacting with the staging area.
 
 
+## Git Status
+
+> `git status` is the Git command I type most.
+
+To make this interesting, we will make two changes to our working area:
+
+1. Adding a new file `noether.txt`, and adding some text to it.
+2. Changing one line in `main.py`.
+
+Now we will run:
+
+```shell
+git status
+```
+
+And the result will look something like:
+
+```shell
+On branch main
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   main.py
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	noether.txt
+
+no changes added to commit (use "git add" and/or "git commit -a")
+```
+
+Let's look at this, piece by piece.
+
+The first line says we are on branch `main`:
+
+```shell
+On branch main
+```
+
+Next it says our changes to `main.py` have not been staged yet:
+
+```shell
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   main.py
+```
+
+Then it says we have one untracked (new) file in the working area:
+
+```shell
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	noether.txt
+```
+Finally, since we haven't used `git add` on any of these changes yet, it says we don't have any changes staged:
+
+```shell
+no changes added to commit (use "git add" and/or "git commit -a")
+```
+
+Let's add both of our changes to the Staging Area:
+
+```shell
+git add main.py noether.txt
+```
+
+And check the git status again using `git status`:
+
+```shell
+On branch main
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+	modified:   main.py
+	new file:   noether.txt
+```
+
+That is a clean staging area, ready for a commit:
+
+```shell
+git commit -m "Adding super awesome new feature"
+```
+
+Before I do most anything in Git, I first do a `git status`, just to make sure I know what's going on and there aren't any surprises waiting for me. This is a good habit to get into.
+
+### Short Status
+
+As it happens, `git status` is a bit verbose. If you want something shorter to quickly glance at, you migth be interested in the "short status".
+
+In the situation above, after we modified `main.py` and added the new file `noether.txt`, this would have shown:
+
+```shell
+git status -s
+ M main.py
+?? noether.txt
+```
+
+Notice that there are two columns of identifiers to the left of each file.
+
+We "Modified" `main.py` we see ` M main.py`. But that `M` is on the right, to indicate the change is not staged yet. If we `git add main.py` at this point, we would instead see `M  main.py`, where the `M` is in the left column, meaning it is staged.
+
+We also added a brand new file, but hadn't added it to the staging area, which is why both the left and right columns show `?` on this line: `?? noether.txt`. If we had added `git add noether.txt` at this point, we would have seen:
+
+```shell
+git status -s
+M  main.py
+A  noether.txt
+```
+
+The `A` next to `noether.txt` here is because we "added" a new file.
+
+
 ## TODO
 
 ### Pushing Your Changes (Optional)
@@ -329,6 +483,7 @@ Most new Git users will think this is the point where we have to talk about `git
 * [What is GitHub.com?](https://en.wikipedia.org/wiki/GitHub)
 * [git staging area](https://git-scm.com/about/staging-area)
 * [gitignore](https://git-scm.com/docs/gitignore)
+  * [gitignore examples]](https://github.com/github/gitignore)
 * git commands
   * [git add](https://git-scm.com/docs/git-add)
   * [git commit](https://git-scm.com/docs/git-commit)
