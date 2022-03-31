@@ -283,6 +283,7 @@ Which text editor it opens is configurable using `git config --global core.edito
 
 It may be that you need to look back this commit two years from now. Maybe you will have entirely forgotten about this work, and you need a good, quick refresher. Or it might be that some stranger needs to figure out what you did here 4 years from now, and they are looking at 100 other commits in the commit history too. Try to keep your explanations clear, but also concise enough that busy people have time to read them.
 
+<img src="https://imgs.xkcd.com/comics/git_commit.png" alt="Commit Messages">
 
 ### Commit Best Practices
 
