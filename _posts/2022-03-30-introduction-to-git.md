@@ -367,9 +367,9 @@ Now we can commit the changes:
 git commit -m "Renaming file2 to main"
 ```
 
-At this point, Git will check and quickly find out that we didn't remove `file2.py` and add some branch new `main.py`. Git will know that we just renamed the file. Which will be really helpful when looking through the history later.
+At this point, Git will check and quickly find out that moved one file, we didn't delete one and add a totally new one. Git will know that we just renamed the file. Which will be really helpful when looking through the history later.
 
-Just to save typing, Git provides a little helper command to rename (or "move") files: `git mv`. So, what we could have typed instead of the two `git add` statements above:
+Just to save typing, Git provides a little helper command to rename (or "move") files: `git mv`. So, what we could have typed the following instead of the two `git add` statements above:
 
 ```shell
 git mv file2.py main.py
@@ -385,7 +385,7 @@ The helper command `git mv` saves some typing, but can also hide how we are inte
 
 To make this interesting, we will make two changes to our working area:
 
-1. Adding a new file `noether.txt`, and adding some text to it.
+1. Adding a new file `noether.txt`, with some arbitrary content.
 2. Changing one line in `main.py`.
 
 Now we will run:
@@ -417,6 +417,8 @@ The first line says we are on branch `main`:
 ```shell
 On branch main
 ```
+
+Each repository can have multiple "branches" of the code, which are completely separate copies of the project directory/file structure. Branches are designed so that people can work independently without interferring with each other. The most common workflow is to create a feature branch, and work in it until your like your product, and then "merge" or "pull request" that branch back into the "main" branch.
 
 Next it says our changes to `main.py` have not been staged yet:
 
@@ -462,11 +464,12 @@ That is a clean staging area, ready for a commit:
 git commit -m "Adding super awesome new feature"
 ```
 
-Before I do most anything in Git, I first do a `git status`, just to make sure I know what's going on and there aren't any surprises waiting for me. This is a good habit to get into.
+Before I do most anything in Git, I first do a `git status` just to make sure I know what's going on and there aren't any surprises waiting for me. I think this is a good habit to get into.
+
 
 ### Short Status
 
-As it happens, `git status` is a bit verbose. If you want something shorter to quickly glance at, you migth be interested in the "short status".
+As it happens, `git status` is a bit verbose. If you want something shorter to quickly glance at, you might be interested in the "short status".
 
 In the situation above, after we modified `main.py` and added the new file `noether.txt`, this would have shown:
 
@@ -504,7 +507,7 @@ And, probably more importantly, to review the actual line-by-line changes that h
 git diff --staged
 ```
 
-The outputs here can be pretty verbose, and probably too much to view for any large changes. But it's good to know these tools exist.
+The outputs here can be pretty verbose, and can be pretty clunky for hand-checking very large changes.
 
 
 ## Viewing the History
@@ -544,11 +547,11 @@ Date:   Wed Mar 30 08:10:05 2022 -0400
     First commit
 ```
 
-This is pretty verbose, but useful. First off, we finally see these strange commit IDs that Git uses. These are called [hash values]() and we won't talk much about _why_ they look so funny. All you really need to know is they are unique IDs for each commit.
+This is pretty verbose, but useful. First off, we can finally see these strange commit IDs that Git uses. These are called [hash values](https://en.wikipedia.org/wiki/Hash_function) and we won't talk much about _why_ they look so funny. All you really need to know is they are unique IDs for each commit.
 
 The rest of the information is what we have put into the commit: author name and email, the datetime the commit was made, and the commit message we wrote.
 
-If you want a quicker view of the commit history, you can use the flag `git commit --oneline`:
+For a quicker view of the commit history, you can use the flag `git commit --oneline`:
 
 ```shell
 $ git log --oneline
