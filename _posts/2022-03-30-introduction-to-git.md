@@ -237,7 +237,7 @@ We now have three commits in our repository:
 
 ```shell
 $ git log --oneline
-\
+
 f3bd845 (HEAD -> main) Removing a non-code text file
 2027533 Fixed a bug in file1
 14b2753 First commit
