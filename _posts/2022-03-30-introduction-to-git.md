@@ -14,6 +14,8 @@ This guide will not cover installation, security issues, or the beautiful mathem
 
 First things first, what is [Git](https://en.wikipedia.org/wiki/Git)?
 
+<img src="https://imgs.xkcd.com/comics/git.png" alt="What is Git?">
+
 Git is, by a wide margin, the most popular [version control](https://en.wikipedia.org/wiki/Version_control) system in the world.
 
 A "version control system" (VCS) is a tool that tracks all the changes made to a codebase over time. This tracking is done in a special database called a "repository".
