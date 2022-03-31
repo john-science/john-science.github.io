@@ -481,7 +481,7 @@ git status -s
 
 Notice that there are two columns of identifiers to the left of each file.
 
-We "Modified" `main.py` we see ` M main.py`. But that `M` is on the right, to indicate the change is not staged yet. If we `git add main.py` at this point, we would instead see `M  main.py`, where the `M` is in the left column, meaning it is staged.
+We "Modified" `main.py` we see `.M` next to `main.py`. But that `M` is on the right, to indicate the change is not staged yet. If we `git add main.py` at this point, we would instead see `M.` next to `main.py`, where the `M` is in the left column, meaning it is staged.
 
 We also added a brand new file, but hadn't added it to the staging area, which is why both the left and right columns show `?` on this line: `?? noether.txt`. If we had added `git add noether.txt` at this point, we would have seen:
 
