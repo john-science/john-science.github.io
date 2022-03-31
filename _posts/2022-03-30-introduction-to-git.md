@@ -691,13 +691,13 @@ First, let's make some arbitray change to the codebase and commit it:
 
 ```shell
 $ echo "logs/" >> Python.gitignore 
-$
+
 $ git add Python.gitignore  
-$
+
 $ git commit -m "Adding log directories to Python .gitignore"
 [python_logs f60fb39] Adding log directories to Python .gitignore
  1 file changed, 1 insertion(+)
-$
+
 $ git status
 On branch python_logs
 nothing to commit, working tree clean
@@ -729,6 +729,7 @@ git fetch
 
 
 <br/><br/>
+
 # Further Topics
 
 This was by no means a full guide to Git; it was just meant as an easy introduction for new users. In particular, I think there are some other important topics worth learning about:
@@ -738,6 +739,7 @@ This was by no means a full guide to Git; it was just meant as an easy introduct
 
 
 <br/><br/>
+
 # References
 
 * [Official Git Docs](https://git-scm.com/)
