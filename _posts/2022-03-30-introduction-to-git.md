@@ -671,6 +671,8 @@ nothing to commit, working tree clean
 
 We haven't talked about it much, but so far we have been working in the `main` branch of our repositories. This is the default name given to the mainline version of the code.
 
+<img src="https://git-scm.com/book/en/v2/images/head-to-master.png" alt="Git Branches">
+
 But imagine you spend two weeks working on a big change to a codebase. It changes dozens of files and while you are working on this big, new "feature" in the codebase, everything is kind of broken. Well, your team mates will want to work in a non-broken codebase for the next two weeks, so you make a complete copy of the code base to work in, and call that copy something short describing your feature.
 
 Now you work in this new copy of the code base until such a time as you are ready to merge your "branch" back into "main" for other people to share.
@@ -747,6 +749,8 @@ This was by no means a full guide to Git; it was just meant as an easy introduct
 * [What is GitHub.com?](https://en.wikipedia.org/wiki/GitHub)
 * [git staging area](https://git-scm.com/about/staging-area)
 * [undoing things](https://git-scm.com/book/en/v2/Git-Basics-Undoing-Things)
+* [git branches](https://git-scm.com/book/en/v2/Git-Branching-Branches-in-a-Nutshell)
+* [git branching and merging](https://git-scm.com/book/en/v2/Git-Branching-Basic-Branching-and-Merging)
 * [gitignore](https://git-scm.com/docs/gitignore)
   * [gitignore examples]](https://github.com/github/gitignore)
 * git commands
