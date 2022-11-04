@@ -6,20 +6,17 @@ summary: Good tests help you, and good code is testable.
 ---
 {% include JB/setup %}
 
+This is really just about how to design a good test, so the main take-aways will work for any language. But in order to have a meaningful discussion, we need working examples, so the tech stack for this talk is: `python` and `pytest`.
 
-> TODO
 
+# Why test?
 
-# Why test? / What's a test? (Finds bugs, sure.)
-
-* They are there to save you heart ache and time in the future.
-* Also, to catch bugs.
-* They keep your code stable over the years, without you having to watch it like a hawk.
+* To catch bugs.
+* To save you heart ache and time in the future.
+* To keep your code stable over the years.
 
 
 # What is a "Good" Unit Test?
-
-<img src="https://imgs.xkcd.com/comics/random_number.png" alt="What is a Good test?">
 
 1. covers _all_ important concepts
 2. is short
@@ -31,6 +28,10 @@ summary: Good tests help you, and good code is testable.
 # Code coverage!
 
 TODO
+
+> Fun Fact: I can write a very short test that always passes for this function:
+
+<img src="https://imgs.xkcd.com/comics/random_number.png" alt="What is a Good test?">
 
 
 # Making Code Testable
