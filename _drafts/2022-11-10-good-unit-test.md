@@ -108,7 +108,7 @@ Well, that was easy. We wrote a single unit test, and we got 100% code coverage.
 
 ## 1. covers _all_ important concepts
 
-TODO
+TODO: [obvious notes](https://www.mechamath.com/algebra/20-quadratic-equation-examples-with-answers/)
 
 ## 2. is short
 
