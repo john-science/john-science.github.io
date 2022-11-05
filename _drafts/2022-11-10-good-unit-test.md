@@ -32,7 +32,6 @@ Let's say we want to test this simple code (`quad.py`):
 ```python
 import math
 
-
 def quadratic_equation(a, b, c):
     term = math.sqrt(b * b - 4 * a * c)
 
@@ -46,9 +45,7 @@ And here is our test file (`test_quad.py`):
 
 ```python
 import unittest
-
 from quad import quadratic_equation
-
 
 class TestQuadEqn(unittest.TestCase):
     def test_quan_eqn(self):
@@ -60,7 +57,6 @@ class TestQuadEqn(unittest.TestCase):
 
         self.assertEqual(vals[0], -3)
         self.assertEqual(vals[1], -2)
-
 
 if __name__ == "__main__":
     unittest.main()
@@ -80,7 +76,7 @@ test_quad.py .                  [100%]
 
 > Success!
 
-Our tests pass, so our code must be good. Hurray.  This would even be a good time to run code coverage on our unit tests, so see how much of our code is actually tested by our tests. Luckily, `pytest` makes this really easy to do:
+Our tests pass, so our code must be good. Hurray. This would be a good time to run code coverage on our unit tests, so see how much of our code is actually tested. Luckily, `pytest-cov` makes this really `pytest -cov=quad test_quad.py`:
 
 ```
 λ pytest --cov=quad test_quad.py
@@ -106,26 +102,209 @@ Well, that was easy. We wrote a single unit test, and we got 100% code coverage.
 > Ship it!
 
 
-## 1. covers _all_ important concepts
+## 1. Covers _all_ Important Concepts
 
-TODO: [obvious notes](https://www.mechamath.com/algebra/20-quadratic-equation-examples-with-answers/)
+If you remmeber elementary school, you probably spot a few different issues with the code above.
 
-## 2. is short
+What _are_ the important concepts with the quadratic equation?
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Quadratic_eq_discriminant.svg/220px-Quadratic_eq_discriminant.svg.png" alt="Number of Intercepts">
+
+An important concept about the [quadratic equation](https://en.wikipedia.org/wiki/Quadratic_equation) is the [discriminant](https://en.wikipedia.org/wiki/Quadratic_equation#Discriminant) (`disc = b*b - 4ac`):
+
+* If `disc` is positive, there are two roots.
+* If `disc` is zero, there is one root.
+* If `disc` is negative, there are no real roots.
+
+And what happens when we give our `quad` method inputs so that the discriminant is negative?  Let's try that in `test_quad.py`:
+
+```python
+import unittest
+from quad import quadratic_equation
+
+class TestQuadEqn(unittest.TestCase):
+    def test_quan_eqn(self):
+        a = 10
+        b = 1
+        c = 10
+
+        vals = quadratic_equation(a, b, c)
+
+        self.assertEqual(vals[0], -3)
+        self.assertEqual(vals[1], -2)
+
+if __name__ == "__main__":
+    unittest.main()
+```
+
+And run it:
+
+```
+$ pytest test_quad.py 
+============ test session starts ============
+platform linux -- Python 3.9.14, pytest-7.2.0
+collected 1 item
+
+test_quad.py F                  [100%]
+
+============ FAILURES ============
+____________ TestQuadEqn.test_quan_eqn ____________
+self = <test_quad.TestQuadEqn testMethod=test_quan_eqn>
+
+    def test_quan_eqn(self):
+        a = 10
+        b = 1
+        c = 10
+    
+>       vals = quadratic_equation(a, b, c)
+
+test_quad.py:12: 
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+
+a = 10, b = 1, c = 10
+
+    def quadratic_equation(a, b, c):
+>       term = math.sqrt(b * b - 4 * a * c)
+E       ValueError: math domain error
+
+quad.py:5: ValueError
+============ short test summary info ============
+FAILED test_quad.py::TestQuadEqn::test_quan_eqn - ValueError: math domain error
+============ 1 failed in 0.03s ============
+```
+
+Right, so we had a unit test and we had 100% "code coverage". But we failed to test 3 important concepts in our code, so we missed a couple of different bugs.
+
+### Fixing this Mess: Test-Driven Development
+
+Okay, so our code is broken. Let's re-write it to acutally work with these three discriminant options:
+
+```python
+import math
+
+def quadratic_equation(a, b, c):
+    disc = b * b - 4 * a * c
+
+    if disc < 0:
+        return []
+
+    term = math.sqrt(disc)
+    max_x = (-b + term) / 2 * a
+    if disc == 0:
+        return [max_x]
+
+    min_x = (-b - term) / 2 * a
+    return [min_x, max_x]
+```
+
+And now we can re-write our test:
+
+```python
+import unittest
+from quad import quadratic_equation
+
+class TestQuadEqn(unittest.TestCase):
+    def test_quan_eqn(self):
+        vals = quadratic_equation(10, 1, 10)
+        self.assertEqual(len(vals), 0)
+
+        vals = quadratic_equation(1, -10, 25)
+        self.assertEqual(vals[0], 5)
+
+        vals = quadratic_equation(1, 5, 6)
+        self.assertEqual(vals[0], -3)
+        self.assertEqual(vals[1], -2)
+
+if __name__ == "__main__":
+    unittest.main()
+```
+
+Awesome, and now we run it:
+
+```
+λ pytest --cov=quad test_quad.py
+============ test session starts ============
+platform win32 -- Python 3.9.7, pytest-7.0.1
+collected 1 item
+
+test_quad.py .                  [100%]
+
+----------- coverage: platform win32, python 3.9.7-final-0 -----------
+Name      Stmts   Miss  Cover
+-----------------------------
+quad.py       6      0   100%
+-----------------------------
+TOTAL         6      0   100%
+============ 1 passed in 0.18s ============
+```
+
+Awesome.
+
+> Test-Driven Development: We used tests to write better code.
+
+We rewrote our code to be correct after writing tests that cover all the important concepts our code should have. This is called "test-driven development", and it's a great tool to have under your belt.
+
+### Did we forget anything?
+
+Did we forget to test anything in our quadratic function?
+
+
+## 2. Understandable - by Strangers New to the Code
+
+Okay, so, would someone who has never seen this code before understand just how good our test is? Probably not, we don't explain about the discriminant, and the three cases we are testing.  So, essentially, that test is useless to anyone but us. (And probably in 5 years, it will be useless to us too.) So, let's fix it:
+
+```python
+import unittest
+from quad import quadratic_equation
+
+class TestQuadEqn(unittest.TestCase):
+    def test_quan_neg_disc(self):
+        """
+        There are no solutions to the quadratic equation if
+        the discriminant is negative.
+        """
+        a = 10
+        b = 1
+        c = 10
+        vals = quadratic_equation(a, b, c)
+        self.assertEqual(len(vals), 0)
+
+    def test_quan_zero_disc(self):
+        """
+        There is one solution to the quadratic equation if
+        the discriminant is exactly zero.
+        """
+        a = 1
+        b = -10
+        c = 25
+        vals = quadratic_equation(a, b, c)
+        self.assertEqual(vals[0], 5)
+
+    def test_quan_pos_disc(self):
+        """
+        There are two solutions to the quadratic equation if
+        the discriminant is positive.
+        """
+        a = 1
+        b = 5
+        c = 6
+        vals = quadratic_equation(a, b, c)
+        self.assertEqual(vals[0], -3)
+        self.assertEqual(vals[1], -2)
+
+if __name__ == "__main__":
+    unittest.main()
+```
+
+Okay, we now have three tests, and they are three times as long as the first one, but only accomplish the same thing. But there's no points for writing unreable code in as few lines as possible. We now have three, easy-to-read tests which explain themselves.
+
+
+
+
+
+## 4. Covers as small a part of the code as possible
 
 TODO
-
-## 3. is readable / understandable by strangers seeing the code for the first time
-
-TODO
-
-## 4. not fragile
-
-TODO
-
-## 5. Covers as small a part of the code as possible
-
-TODO
-
 
 
 # Code coverage!
