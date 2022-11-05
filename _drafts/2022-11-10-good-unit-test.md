@@ -8,11 +8,12 @@ summary: Good tests help you, and good code is testable.
 
 This is really just about how to design a good test, so the main take-aways will work for any language. But in order to have a meaningful discussion, we need working examples, so the tech stack for this talk is: [python]([https://pythongeeks.org/python-unit-testing/](https://github.com/john-science/python_for_scientists/blob/main/classes/17_testing_projects/lecture_17.md)) and [pytest](https://docs.pytest.org/en/7.2.x/how-to/usage.html).
 
-Before we start, install `pytest` and `pytest-cov`:
+Before we start, install `pytest`, `pytest-cov`, and `requests`:
 
 ```bash
 pip install pytest
 pip install pytest-cov
+pip install requests
 ```
 
 
@@ -65,9 +66,9 @@ if __name__ == "__main__":
 If we put these files both in the same folder, we can run them with `pytest test_quad.py`:
 
 ```
-λ pytest test_quad.py
+$ pytest test_quad.py
 ============ test session starts ============ 
-platform win32 -- Python 3.9.7, pytest-7.0.1
+platform linux -- Python 3.9.7, pytest-7.0.1
 collected 1 item
 
 test_quad.py .                  [100%]
@@ -79,9 +80,9 @@ test_quad.py .                  [100%]
 Our tests pass, so our code must be good. Hurray. This would be a good time to run code coverage on our unit tests, so see how much of our code is actually tested. Luckily, `pytest-cov` makes this really `pytest -cov=quad test_quad.py`:
 
 ```
-λ pytest --cov=quad test_quad.py
+$ pytest --cov=quad test_quad.py
 ============ test session starts ============
-platform win32 -- Python 3.9.7, pytest-7.0.1
+platform linux -- Python 3.9.7, pytest-7.0.1
 collected 1 item
 
 test_quad.py .                  [100%]
@@ -222,9 +223,9 @@ if __name__ == "__main__":
 Awesome, and now we run it:
 
 ```
-λ pytest --cov=quad test_quad.py
+$ pytest --cov=quad test_quad.py
 ============ test session starts ============
-platform win32 -- Python 3.9.7, pytest-7.0.1
+platform linux -- Python 3.9.7, pytest-7.0.1
 collected 1 item
 
 test_quad.py .                  [100%]
@@ -299,35 +300,99 @@ if __name__ == "__main__":
 Okay, we now have three tests, and they are three times as long as the first one, but only accomplish the same thing. But there's no points for writing unreable code in as few lines as possible. We now have three, easy-to-read tests which explain themselves.
 
 
-
-
-
-## 4. Covers as small a part of the code as possible
-
-TODO
-
-
-# Code coverage!
-
-TODO
-
-> Fun Fact: I can write a very short test that always passes for this function:
-
-<img src="https://imgs.xkcd.com/comics/random_number.png" alt="What is a Good test?">
-
-
 # Making Code Testable
 
-Poorly-Written Code isn't testable
+Poorly-Written Code isn't testable:
 
-* funtions are too long
-* mixing important logic in the same method with: DB calls, IO, web comm, or external EXEs / processes
+* functions are too long
+* important logic is mixed with file I/O
+* important logic is mixed with external processes
+* hard-coded variables hide important information
+* inflexible code is less useful
+
+## 1. Poorly-written code can be refactored
+
+As yet another example of test-driven development, let's look at a funny little funcion that finds the total population of the world by looking on Wikipedia; `world_pop.py`:
+
+```python
+import requests
+
+def get_world_pop():
+    # get world population data from Wikipedia
+    url = "https://en.wikipedia.org/wiki/List_of_countries_by_population_(United_Nations)"
+
+    r = requests.get(url)
+
+    rows = str(r.content).split("<table")[1].split("table>")[0].split("<tr")[2:-1]
+
+    pops = {}
+    for row in rows:
+        country = row.split("<td")[1].split("</a>")[0].split(">")[-1]
+        pop = int(row.split("<td")[5].split("<")[0].split(">")[1].replace(",",""))
+        pops[country] = pop
+
+    # write population of each country to a CSV file
+    csv_file = "world_pop.csv"
+    with open(csv_file, "w") as f:
+        f.write("Country,Population\n")
+        for country, pop in pops.items():
+            f.write(",".join([country, str(pop)]) + "\n")
+
+    # return world total population
+    total_pop = sum(pops.values())
+    return total_pop
+```
+
+(At the time of this writing, this function works and has no errors.)
+
+As you can see from the comments, this function is a three-step process:
+
+1. get world population data from Wikipedia
+2. write population of each country to a CSV file
+3. return world total population
+
+And, we can test this function with a simple test:
+
+```python
+import unittest
+from world_pop import get_world_pop
+
+class TestWorldPop(unittest.TestCase):
+    def test_world_pop(self):
+        self.assertEqual(get_world_pop(), 7710537362)
+
+if __name__ == "__main__":
+    unittest.main()
+```
+
+Running this test (with code coverage):
+
+```
+$ pytest --cov=world_pop test_world_pop.py 
+============ test session starts ============
+platform linux -- Python 3.9.14, pytest-7.2.0,
+collected 1 item 
+
+test_world_pop.py .                             [100%]
+
+---------- coverage: platform linux, python 3.9.14-final-0 -----------
+Name           Stmts   Miss  Cover
+----------------------------------
+world_pop.py      27      9    67%
+----------------------------------
+TOTAL             27      9    67%
+============ 1 passed in 0.35s ============
+```
 
 
-# TODO: Ideas for code to test:
 
-* maybe just show one test for each thing above?
-* Maybe `monte_carlo_pi` with printing to a file every 1,000 lines.
+## 2. Good tests should test very small parts of the Codes alone
+
+> TODO
+
+## 3. Good tests shouldn't be fragile
+
+> TODO
 
 
 ## TODO: Surpise Second Post? 
