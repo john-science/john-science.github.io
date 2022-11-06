@@ -419,11 +419,56 @@ def get_world_pop(url=WIKI_POP_URL, csv_path=CSV_PATH):
     return sum_values(pops)
 ```
 
+We also pulled out some constants, so we aren't hiding important information deep in the code. Remember that the next person who looks at your code will also be busy, and you should value their time.
+
+Okay, so a more complete version of our program might look like (`world_pop.py`):
+
+```python
+import requests
+
+CSV_HEADER = "Country,Population\n"
+CSV_PATH = "world_pop.csv"
+WIKI_POP_URL = "https://en.wikipedia.org/wiki/List_of_countries_by_population_(United_Nations)"
+
+def get_world_pop(url=WIKI_POP_URL, csv_path=CSV_PATH):
+    pops = get_world_pop_wikipedia(url)
+    write_pops_csv(pops, csv_path)
+    return sum_values(pops)
+
+def get_world_pop_wikipedia(url):
+    """NOTE: This is a terrible way to parse HTML. Use BeautifulSoup."""
+    r = requests.get(url)
+    rows = str(r.content).split("<table")[1].split("table>")[0].split("<tr")[2:-1]
+
+    pops = {}
+    for row in rows:
+        country = row.split("<td")[1].split("</a>")[0].split(">")[-1]
+        pop = int(row.split("<td")[5].split("<")[0].split(">")[1].replace(",",""))
+        pops[country] = pop
+    
+    return pops
+
+def write_pops_csv(pops, csv_path):
+    """write population of each country to a CSV file"""
+    with open(csv_path, "w") as f:
+        f.write(CSV_HEADER)
+        for country, pop in pops.items():
+            f.write(",".join([country, str(pop)]) + "\n")
+
+def sum_values(dct):
+    """Return the sum of all the values in a dictionary
+    (assuming all values are numerical).
+    """
+    total = sum(dct.values())
+    return total
+```
+
+And if you check, our unit test still passes.
 
 
-## 2. Good tests should test very small parts of the Codes alone
+## 2. Good Unit Tests Cover the Smallest Possible Unit of Code
 
-> TODO
+Let's add some new tests to match our refactored code.
 
 
 ## 3. Good tests shouldn't be fragile
