@@ -310,7 +310,7 @@ Poorly-Written Code isn't testable:
 * hard-coded variables hide important information
 * inflexible code is less useful
 
-## 1. Poorly-written code can be refactored
+## 0. The Counter Example
 
 As yet another example of test-driven development, let's look at a funny little funcion that finds the total population of the world by looking on Wikipedia; `world_pop.py`:
 
@@ -351,6 +351,8 @@ As you can see from the comments, this function is a three-step process:
 2. write population of each country to a CSV file
 3. return world total population
 
+> :warning: This is a silly little example meant to motivate a discussion of testing. NEVER scrape Wikipedia for data, they offer a simple, easy, complete download of any-and-all of their data [here](https://en.wikipedia.org/wiki/Wikipedia:Database_download).
+
 And, we can test this function with a simple test:
 
 ```python
@@ -378,10 +380,43 @@ test_world_pop.py .                             [100%]
 ---------- coverage: platform linux, python 3.9.14-final-0 -----------
 Name           Stmts   Miss  Cover
 ----------------------------------
-world_pop.py      27      9    67%
+world_pop.py      27      9   100%
 ----------------------------------
-TOTAL             27      9    67%
+TOTAL             27      9   100%
 ============ 1 passed in 0.35s ============
+```
+
+Success! We ran a single unit test and our code passed!
+
+(Kidding, that code is a mess and the test is a symptom.)
+
+
+## 1. Poorly-Written Code can Always be Refactored
+
+Here are some questions about the above code:
+
+1. What happens if/when Wikipedia changes the exact alyout of their web page?
+2. What happens _when_ the Earth's population changes?
+3. How do we test the edge cases of the CSV writer in this function?
+4. How do we test the edge cases of the HTML parser in this function?
+5. How do we test that the total population is calculated correctly?
+
+To a novice programmer, the above function "works" because it ran once. To a more seasoned programmer, the above function is really three different functions all Frankensteined together. There are three completely different pieces of functionality here that all have there own edge cases. But glued together like this, these edge cases aren't testable. Also, two of the three sub-functions here could be helpful in other places and reused. But not if they are all part of one mega function.
+
+So, what would a [refactor](https://en.wikipedia.org/wiki/Code_refactoring) of this code look like?
+
+First, let's break the main method down into three methods:
+
+```python
+import requests
+
+CSV_PATH = "world_pop.csv"
+WIKI_POP_URL = "https://en.wikipedia.org/wiki/List_of_countries_by_population_(United_Nations)"
+
+def get_world_pop(url=WIKI_POP_URL, csv_path=CSV_PATH):
+    pops = get_world_pop_wikipedia(url)
+    write_pops_csv(pops, csv_path)
+    return sum_values(pops)
 ```
 
 
@@ -389,6 +424,7 @@ TOTAL             27      9    67%
 ## 2. Good tests should test very small parts of the Codes alone
 
 > TODO
+
 
 ## 3. Good tests shouldn't be fragile
 
