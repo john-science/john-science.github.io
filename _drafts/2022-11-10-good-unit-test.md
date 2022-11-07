@@ -459,8 +459,7 @@ def sum_values(dct):
     """Return the sum of all the values in a dictionary
     (assuming all values are numerical).
     """
-    total = sum(dct.values())
-    return total
+    return sum(dct.values())
 ```
 
 And if you check, our unit test still passes.
