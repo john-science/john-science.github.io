@@ -6,9 +6,9 @@ summary: Good tests help you, and good code is testable.
 ---
 {% include JB/setup %}
 
-This is really just about how to design a good test, so the main take-aways will work for any language. But in order to have a meaningful discussion, we need working examples, so the tech stack for this talk is: [python]([https://pythongeeks.org/python-unit-testing/](https://github.com/john-science/python_for_scientists/blob/main/classes/17_testing_projects/lecture_17.md)) and [pytest](https://docs.pytest.org/en/7.2.x/how-to/usage.html).
+This post is about how to design a good test, so the main take-aways will work for any language. But in order to have a meaningful discussion we need working examples, so the tech stack for this talk is: [python]([https://pythongeeks.org/python-unit-testing/](https://github.com/john-science/python_for_scientists/blob/main/classes/17_testing_projects/lecture_17.md)) and [pytest](https://docs.pytest.org/en/7.2.x/how-to/usage.html).
 
-Before we start, install `pytest`, `pytest-cov`, and `requests`:
+Before we start, install `pytest` and `pytest-cov` for testing, and `requests` for example code:
 
 ```bash
 pip install pytest
@@ -22,11 +22,10 @@ pip install requests
 The goal here is to review a few key concepts about good unit tests:
 
 * Good tests cover all the important concepts in the code.
-* Good unit tests cover the smallest possible unit of code
-* Good tests help people understand the code.
-* Good tests are understandable by strangers new to the code
-* Good tests shouldn't be fragile
-* Poorly-written code can always be refactored
+* Good unit tests cover the smallest possible unit of code.
+* Good tests are understandable by strangers new to the code.
+* Good tests shouldn't be fragile.
+* Poorly-written code can always be refactored.
 * Test-Driven Development: Use test to help you write better code.
 
 
@@ -34,7 +33,7 @@ The goal here is to review a few key concepts about good unit tests:
 
 ## 0. The Counter Example
 
-Let's say we want to test this simple code (`quad.py`):
+Let's say we want to test this simple function (`quad.py`):
 
 ```python
 import math
@@ -83,7 +82,9 @@ test_quad.py .                  [100%]
 
 > Success!
 
-Our tests pass, so our code must be good. Hurray. This would be a good time to run code coverage on our unit tests, so see how much of our code is actually tested. Luckily, `pytest-cov` makes this really `pytest -cov=quad test_quad.py`:
+Our tests pass, so our code must be solid.
+
+This would be a good time to run code coverage on our unit tests, to see how much of our code is actually tested. Luckily, `pytest-cov` makes this really easy with `pytest -cov=quad test_quad.py`:
 
 ```
 $ pytest --cov=quad test_quad.py
@@ -616,9 +617,8 @@ And now we have 4 unit tests for 4 functions. They unit tests have 100% code cov
 So, what are the important take-aways? What should we keep in mind when writing tests to make them "good" tests, and not hot garbage?
 
 * Good tests cover all the important concepts in the code.
-* Good unit tests cover the smallest possible unit of code
-* Good tests help people understand the code.
-* Good tests are understandable by strangers new to the code
-* Good tests shouldn't be fragile
-* Poorly-written code can always be refactored
+* Good unit tests cover the smallest possible unit of code.
+* Good tests are understandable by strangers new to the code.
+* Good tests shouldn't be fragile.
+* Poorly-written code can always be refactored.
 * Test-Driven Development: Use test to help you write better code.
