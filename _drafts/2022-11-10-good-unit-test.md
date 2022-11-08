@@ -17,11 +17,17 @@ pip install requests
 ```
 
 
-# Why test?
+# Important Concepts to Learn
 
-* To catch bugs.
-* To save you heart ache and time in the future.
-* To keep your code stable over the years.
+The goal here is to review a few key concepts about good unit tests:
+
+* Good tests cover all the important concepts in the code.
+* Good unit tests cover the smallest possible unit of code
+* Good tests help people understand the code.
+* Good tests are understandable by strangers new to the code
+* Good tests shouldn't be fragile
+* Poorly-written code can always be refactored
+* Test-Driven Development: Use test to help you write better code.
 
 
 # What is a "Good" Unit Test?
@@ -465,11 +471,98 @@ def sum_values(dct):
 And if you check, our unit test still passes.
 
 
-## 2. Good tests shouldn't be fragile
+## 2. Good Unit Tests Cover the Smallest Possible Unit of Code
 
-> TODO
+Now that our code is broken into pieces, we can actually test each piece. Let's start from the bottom, with testing the simplest function (`sum_values()`):
 
-Okay, and this isn't TODO....
+```python
+def test_sum_values(self):
+    # Test Case: empty dict
+    d = {}
+    self.assertEqual(world_pop.sum_values(d), 0)
+
+    # Test Case: integers and floats
+    d = {"a": 1, "b": 2.2}
+    self.assertEqual(world_pop.sum_values(d), 3.2)
+
+    # Test Case: large set of values
+    d = {}
+    for i in range(100):
+        d[str(i)] = i
+    self.assertEqual(world_pop.sum_values(d), 4950)
+```
+
+Well, that is how we would _want_ our function `sum_values()` to work, but it doesn't quite. Right now if we pass an empty `dict` to `sum_values()`, we get an error. So, based on our testing, we will modify our function to handle this edge case better:
+
+```python
+def sum_values(dct):
+    """Return the sum of all the values in a dictionary
+    (assuming all values are numerical).
+    """
+    if len(dct):
+        return sum(dct.values())
+    else:
+        return 0
+```
+
+Cool. Now let's test the `write_pops_csv()` method, by passing it one empty `dict` and one full one, and verifying that the function (a) creates an output file by name we give it, and (b) the file has the correct number of lines:
+
+```python
+def test_write_pops_csv(self):
+    # Test Case: no data = no file
+    pops = {}
+    csv_path = "no_data.csv"
+    with self.assertRaises(ValueError):
+        world_pop.write_pops_csv(pops, csv_path)
+
+    self.assertFalse(os.path.exists(csv_path))
+
+    # Test Case: arbitrary data
+    pops = {}
+    n = 100
+    for i in range(n):
+        pops[str(i)] = 1
+
+    csv_path = "data100.csv"
+    world_pop.write_pops_csv(pops, csv_path)
+
+    self.assertTrue(os.path.exists(csv_path))
+    num_lines = len(open(csv_path, "r").readlines())
+    self.assertEqual(num_lines, n + 1)
+    os.remove(csv_path)  # cleanup
+```
+
+Again, we find this test fails, so we need to add a little safety catch for our empty `dict` case to the top of the function:
+
+```python
+def write_pops_csv(pops, csv_path):
+    if not len(pops):
+        raise ValueError("There is no population data to write to CSV.")
+    # ...
+```
+
+
+## 3. Good Tests Shouldn't be Fragile
+
+The last function we have to test is the one that: 
+
+* gets the HTML from Wikipedia
+* parses the primary data table for population
+* and builds a population dictionary by country.
+
+For the moment, let's ignore that this function is a "bad idea", and just think about the testing. This test is fragile in a couple ways, what happens if:
+
+1. we try to run the test and don't have an internet connection?
+2. the the number of people in the world goes up?
+
+Well, in both of those cases our test would fail even though our code still runs. 
+
+To fix this, we need to:
+
+1. Fake an internet connection and the webpage.
+2. Fake some HTML data with a static world population.
+
+Well, luckily for us Python provides a great way to fake any internet connection, database connection, external process location or practically anything else with `unittest.mock.MagicMock`. (If you don't want to learn HOW I did this, fine. But it's important to know WHY.)
 
 ```python
 import os
@@ -498,82 +591,7 @@ if __name__ == "__main__":
     unittest.main()
 ```
 
-TODO, TODO, in reality this is probably terrible code, so cleaning it up, etc.
-
-
-## 3. Good Unit Tests Cover the Smallest Possible Unit of Code
-
-Let's add some new tests to match our refactored code.
-
-TODO
-
-
-```python
-def test_sum_values(self):
-    # Test Case: empty dict
-    d = {}
-    self.assertEqual(world_pop.sum_values(d), 0)
-
-    # Test Case: integers and floats
-    d = {"a": 1, "b": 2.2}
-    self.assertEqual(world_pop.sum_values(d), 3.2)
-
-    # Test Case: large set of values
-    d = {}
-    for i in range(100):
-        d[str(i)] = i
-    self.assertEqual(world_pop.sum_values(d), 4950)
-```
-
-TODO
-
-```python
-def sum_values(dct):
-    """Return the sum of all the values in a dictionary
-    (assuming all values are numerical).
-    """
-    if len(dct):
-        return sum(dct.values())
-    else:
-        return 0
-```
-
-TODO
-
-```python
-def test_write_pops_csv(self):
-    # Test Case: no data = no file
-    pops = {}
-    csv_path = "no_data.csv"
-    with self.assertRaises(ValueError):
-        world_pop.write_pops_csv(pops, csv_path)
-
-    self.assertFalse(os.path.exists(csv_path))
-
-    # Test Case: arbitrary data
-    pops = {}
-    n = 100
-    for i in range(n):
-        pops[str(i)] = 1
-
-    csv_path = "data100.csv"
-    world_pop.write_pops_csv(pops, csv_path)
-
-    self.assertTrue(os.path.exists(csv_path))
-    num_lines = len(open(csv_path, "r").readlines())
-    self.assertEqual(num_lines, n + 1)
-```
-
-TODO
-
-```python
-def write_pops_csv(pops, csv_path):
-    if not len(pops):
-        raise ValueError("There is no population data to write to CSV.")
-```
-
-TODO
-
+So that is the end-to-end test, and now (finally) we can add another little unit test for the first little function:
 
 ```python
 @patch('world_pop.requests')
@@ -590,9 +608,17 @@ def test_get_world_pop_wikipedia(self, mock_requests):
     self.assertIn("Bac", pops)
 ```
 
-TODO
+And now we have 4 unit tests for 4 functions. They unit tests have 100% code coverage, yes, but more importnaly they cover all the major features of our code separately. And we can read the tests to convince ourselves of exactly how our code functions.
 
 
-## TODO: Here, or Second Post? 
+# Important Take-Aways
 
-> The High Cost of Unused Code
+So, what are the important take-aways? What should we keep in mind when writing tests to make them "good" tests, and not hot garbage?
+
+* Good tests cover all the important concepts in the code.
+* Good unit tests cover the smallest possible unit of code
+* Good tests help people understand the code.
+* Good tests are understandable by strangers new to the code
+* Good tests shouldn't be fragile
+* Poorly-written code can always be refactored
+* Test-Driven Development: Use test to help you write better code.
