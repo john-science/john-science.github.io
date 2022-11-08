@@ -367,35 +367,6 @@ if __name__ == "__main__":
     unittest.main()
 ```
 
-Buuuuu... TODO, explain:
-
-```python
-import os
-import unittest
-from unittest.mock import MagicMock, patch
-import world_pop
-
-EX_HTML = """<!DOCTYPE html><html><head></head><body><table>
-<thead><th></th><th>Country</th><th>region</th><th>subregion</th><th>pop1</th><th>pop2</th><th>Change</th></thead><tr></tr>
-<tr>::before<td><a>Aba</a></td><td>Asia</td><td>East Asia</td><td>400</td><td>401</td><td>+0.25%</td></tr>
-<tr>::before<td><a>Bac</a></td><td>Asia</td><td>East Asia</td><td>100</td><td>101</td><td>+1.0%</td></tr>
-<tr></tr></table></body></html>"""
-
-class TestWorldPop(unittest.TestCase):
-    @patch('world_pop.requests')
-    def test_world_pop_end2end(self, mock_requests):
-        # mock the response return value of the get() method
-        mock_response = MagicMock()
-        mock_response.status_code = 200
-        mock_response.content = EX_HTML
-        mock_requests.get.return_value = mock_response
-
-        self.assertEqual(world_pop.get_world_pop(csv_path="end2end.csv"), 502)
-
-if __name__ == "__main__":
-    unittest.main()
-```
-
 Running this test (with code coverage):
 
 ```
@@ -494,7 +465,43 @@ def sum_values(dct):
 And if you check, our unit test still passes.
 
 
-## 2. Good Unit Tests Cover the Smallest Possible Unit of Code
+## 2. Good tests shouldn't be fragile
+
+> TODO
+
+Okay, and this isn't TODO....
+
+```python
+import os
+import unittest
+from unittest.mock import MagicMock, patch
+import world_pop
+
+EX_HTML = """<!DOCTYPE html><html><head></head><body><table>
+<thead><th></th><th>Country</th><th>region</th><th>subregion</th><th>pop1</th><th>pop2</th><th>Change</th></thead><tr></tr>
+<tr>::before<td><a>Aba</a></td><td>Asia</td><td>East Asia</td><td>400</td><td>401</td><td>+0.25%</td></tr>
+<tr>::before<td><a>Bac</a></td><td>Asia</td><td>East Asia</td><td>100</td><td>101</td><td>+1.0%</td></tr>
+<tr></tr></table></body></html>"""
+
+class TestWorldPop(unittest.TestCase):
+    @patch('world_pop.requests')
+    def test_world_pop_end2end(self, mock_requests):
+        # mock the response return value of the get() method
+        mock_response = MagicMock()
+        mock_response.status_code = 200
+        mock_response.content = EX_HTML
+        mock_requests.get.return_value = mock_response
+
+        self.assertEqual(world_pop.get_world_pop(csv_path="end2end.csv"), 502)
+
+if __name__ == "__main__":
+    unittest.main()
+```
+
+TODO, TODO, in reality this is probably terrible code, so cleaning it up, etc.
+
+
+## 3. Good Unit Tests Cover the Smallest Possible Unit of Code
 
 Let's add some new tests to match our refactored code.
 
@@ -585,13 +592,7 @@ def test_get_world_pop_wikipedia(self, mock_requests):
 
 TODO
 
-## 3. Good tests shouldn't be fragile
 
-> TODO
-
-
-## TODO: Surpise Second Post? 
+## TODO: Here, or Second Post? 
 
 > The High Cost of Unused Code
-
-Probably a different post?
