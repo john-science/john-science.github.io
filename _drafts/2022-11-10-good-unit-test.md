@@ -367,6 +367,35 @@ if __name__ == "__main__":
     unittest.main()
 ```
 
+Buuuuu... TODO, explain:
+
+```python
+import os
+import unittest
+from unittest.mock import MagicMock, patch
+import world_pop
+
+EX_HTML = """<!DOCTYPE html><html><head></head><body><table>
+<thead><th></th><th>Country</th><th>region</th><th>subregion</th><th>pop1</th><th>pop2</th><th>Change</th></thead><tr></tr>
+<tr>::before<td><a>Aba</a></td><td>Asia</td><td>East Asia</td><td>400</td><td>401</td><td>+0.25%</td></tr>
+<tr>::before<td><a>Bac</a></td><td>Asia</td><td>East Asia</td><td>100</td><td>101</td><td>+1.0%</td></tr>
+<tr></tr></table></body></html>"""
+
+class TestWorldPop(unittest.TestCase):
+    @patch('world_pop.requests')
+    def test_world_pop_end2end(self, mock_requests):
+        # mock the response return value of the get() method
+        mock_response = MagicMock()
+        mock_response.status_code = 200
+        mock_response.content = EX_HTML
+        mock_requests.get.return_value = mock_response
+
+        self.assertEqual(world_pop.get_world_pop(csv_path="end2end.csv"), 502)
+
+if __name__ == "__main__":
+    unittest.main()
+```
+
 Running this test (with code coverage):
 
 ```
@@ -469,6 +498,92 @@ And if you check, our unit test still passes.
 
 Let's add some new tests to match our refactored code.
 
+TODO
+
+
+```python
+def test_sum_values(self):
+    # Test Case: empty dict
+    d = {}
+    self.assertEqual(world_pop.sum_values(d), 0)
+
+    # Test Case: integers and floats
+    d = {"a": 1, "b": 2.2}
+    self.assertEqual(world_pop.sum_values(d), 3.2)
+
+    # Test Case: large set of values
+    d = {}
+    for i in range(100):
+        d[str(i)] = i
+    self.assertEqual(world_pop.sum_values(d), 4950)
+```
+
+TODO
+
+```python
+def sum_values(dct):
+    """Return the sum of all the values in a dictionary
+    (assuming all values are numerical).
+    """
+    if len(dct):
+        return sum(dct.values())
+    else:
+        return 0
+```
+
+TODO
+
+```python
+def test_write_pops_csv(self):
+    # Test Case: no data = no file
+    pops = {}
+    csv_path = "no_data.csv"
+    with self.assertRaises(ValueError):
+        world_pop.write_pops_csv(pops, csv_path)
+
+    self.assertFalse(os.path.exists(csv_path))
+
+    # Test Case: arbitrary data
+    pops = {}
+    n = 100
+    for i in range(n):
+        pops[str(i)] = 1
+
+    csv_path = "data100.csv"
+    world_pop.write_pops_csv(pops, csv_path)
+
+    self.assertTrue(os.path.exists(csv_path))
+    num_lines = len(open(csv_path, "r").readlines())
+    self.assertEqual(num_lines, n + 1)
+```
+
+TODO
+
+```python
+def write_pops_csv(pops, csv_path):
+    if not len(pops):
+        raise ValueError("There is no population data to write to CSV.")
+```
+
+TODO
+
+
+```python
+@patch('world_pop.requests')
+def test_get_world_pop_wikipedia(self, mock_requests):
+    # mock the response return value of the get() method
+    mock_response = MagicMock()
+    mock_response.status_code = 200
+    mock_response.content = EX_HTML
+    mock_requests.get.return_value = mock_response
+
+    pops = world_pop.get_world_pop_wikipedia(world_pop.WIKI_POP_URL)
+    self.assertEqual(len(pops), 2)
+    self.assertIn("Aba", pops)
+    self.assertIn("Bac", pops)
+```
+
+TODO
 
 ## 3. Good tests shouldn't be fragile
 
