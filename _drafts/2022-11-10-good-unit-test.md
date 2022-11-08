@@ -112,9 +112,11 @@ Well, that was easy. We wrote a single unit test, and we got 100% code coverage.
 
 ## 1. Covers _all_ Important Concepts
 
-If you remmeber elementary school, you probably spot a few different issues with the code above.
+If you rememeber elementary school math, you probably spot a few issues with the `quad` function above.
 
-What _are_ the important concepts with the quadratic equation?
+Whenever we write tests, the first question is always the same:
+
+> What _are_ the important concepts here?
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Quadratic_eq_discriminant.svg/220px-Quadratic_eq_discriminant.svg.png" alt="Number of Intercepts">
 
@@ -181,7 +183,8 @@ FAILED test_quad.py::TestQuadEqn::test_quan_eqn - ValueError: math domain error
 ============ 1 failed in 0.03s ============
 ```
 
-Right, so we had a unit test and we had 100% "code coverage". But we failed to test 3 important concepts in our code, so we missed a couple of different bugs.
+Whoops. We had a unit test. And we had 100% "code coverage". But we failed to test the 3 important concepts in our code, so we missed that our function had multiple bugs.
+
 
 ### Fixing this Mess: Test-Driven Development
 
@@ -205,6 +208,11 @@ def quadratic_equation(a, b, c):
     return [min_x, max_x]
 ```
 
+Notice that we fixed two bugs:
+
+1. Negative discriminants no longer result in error.
+2. When `discriminant == 0`, we now get one returned intercept, not two.
+
 And now we can re-write our test:
 
 ```python
@@ -227,7 +235,7 @@ if __name__ == "__main__":
     unittest.main()
 ```
 
-Awesome, and now we run it:
+And we run can run it (with coverage):
 
 ```
 $ pytest --cov=quad test_quad.py
@@ -250,16 +258,18 @@ Awesome.
 
 > Test-Driven Development: We used tests to write better code.
 
-We rewrote our code to be correct after writing tests that cover all the important concepts our code should have. This is called "test-driven development", and it's a great tool to have under your belt.
+Another way people use [test-driven development](https://www.agilealliance.org/glossary/tdd/) is they write the important unit tests _before_ they write their code. It is a just another way for people to draw out a blueprint for their new code, before they start writing.
+
+This is just another tool to have under your belt.
 
 ### Did we forget anything?
 
 Did we forget to test anything in our quadratic function?
 
 
-## 2. Understandable - by Strangers New to the Code
+## 2. Good Tests are Understandable by Strangers New to the Code
 
-Okay, so, would someone who has never seen this code before understand just how good our test is? Probably not, we don't explain about the discriminant, and the three cases we are testing.  So, essentially, that test is useless to anyone but us. (And probably in 5 years, it will be useless to us too.) So, let's fix it:
+Brass tacks: would someone who has never seen this code before understand just how good our test is? Probably not, we don't explain about the discriminant, and the three cases we are testing.  So, essentially, that test is useless to anyone but us. (And probably in 2 years, it would be useless to us, too.) So, let's fix it:
 
 ```python
 import unittest
@@ -304,7 +314,9 @@ if __name__ == "__main__":
     unittest.main()
 ```
 
-Okay, we now have three tests, and they are three times as long as the first one, but only accomplish the same thing. But there's no points for writing unreable code in as few lines as possible. We now have three, easy-to-read tests which explain themselves.
+Okay, we now have three tests. They are three times as long as the first one, but only accomplish the same thing. But that's okay. You don't win any points for writing tests in as few lines as possible.
+
+> We now have three, easy-to-read tests which explain themselves.
 
 
 # Making Code Testable
@@ -312,14 +324,13 @@ Okay, we now have three tests, and they are three times as long as the first one
 Poorly-Written Code isn't testable:
 
 * functions are too long
+* hidden constants hide important information
 * important logic is mixed with file I/O
 * important logic is mixed with external processes
-* hard-coded variables hide important information
-* inflexible code is less useful
 
 ## 0. The Counter Example
 
-As yet another example of test-driven development, let's look at a funny little funcion that finds the total population of the world by looking on Wikipedia; `world_pop.py`:
+As yet another example of test-driven development, let's look at a funny little funcion that finds the total population of the world by looking on Wikipedia (`world_pop.py`):
 
 ```python
 import requests
@@ -327,7 +338,6 @@ import requests
 def get_world_pop():
     # get world population data from Wikipedia
     url = "https://en.wikipedia.org/wiki/List_of_countries_by_population_(United_Nations)"
-
     r = requests.get(url)
 
     rows = str(r.content).split("<table")[1].split("table>")[0].split("<tr")[2:-1]
@@ -358,7 +368,7 @@ As you can see from the comments, this function is a three-step process:
 2. write population of each country to a CSV file
 3. return world total population
 
-> :warning: This is a silly little example meant to motivate a discussion of testing. NEVER scrape Wikipedia for data, they offer a simple, easy, complete download of any-and-all of their data [here](https://en.wikipedia.org/wiki/Wikipedia:Database_download).
+> :warning: This is a silly little example meant to motivate a discussion of testing. NEVER scrape Wikipedia for data, they offer an easy, complete download of any-and-all of their data [here](https://en.wikipedia.org/wiki/Wikipedia:Database_download).
 
 And, we can test this function with a simple test:
 
@@ -402,7 +412,7 @@ Success! We ran a single unit test and our code passed!
 
 Here are some questions about the above code:
 
-1. What happens if/when Wikipedia changes the exact alyout of their web page?
+1. What happens if/when Wikipedia changes the exact layout of that page?
 2. What happens _when_ the Earth's population changes?
 3. How do we test the edge cases of the CSV writer in this function?
 4. How do we test the edge cases of the HTML parser in this function?
@@ -412,7 +422,7 @@ To a novice programmer, the above function "works" because it ran once. To a mor
 
 So, what would a [refactor](https://en.wikipedia.org/wiki/Code_refactoring) of this code look like?
 
-First, let's break the main method down into three methods:
+First, let's break the function down into three sub-functions:
 
 ```python
 import requests
@@ -426,7 +436,7 @@ def get_world_pop(url=WIKI_POP_URL, csv_path=CSV_PATH):
     return sum_values(pops)
 ```
 
-We also pulled out some constants, so we aren't hiding important information deep in the code. Remember that the next person who looks at your code will also be busy, and you should value their time.
+**NOTE**: We also pulled out two constants, so we aren't hiding important information deep in the code. Remember that the next person who looks at your code will also be busy, and you should value their time.
 
 Okay, so a more complete version of our program might look like (`world_pop.py`):
 
@@ -438,6 +448,7 @@ CSV_PATH = "world_pop.csv"
 WIKI_POP_URL = "https://en.wikipedia.org/wiki/List_of_countries_by_population_(United_Nations)"
 
 def get_world_pop(url=WIKI_POP_URL, csv_path=CSV_PATH):
+    """get the world population from Wikipedia"""
     pops = get_world_pop_wikipedia(url)
     write_pops_csv(pops, csv_path)
     return sum_values(pops)
@@ -469,7 +480,7 @@ def sum_values(dct):
     return sum(dct.values())
 ```
 
-And if you check, our unit test still passes.
+And if we run the test, it still passes.
 
 
 ## 2. Good Unit Tests Cover the Smallest Possible Unit of Code
