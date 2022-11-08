@@ -6,7 +6,7 @@ summary: Good tests help you, and good code is testable.
 ---
 {% include JB/setup %}
 
-This post is about how to design a good test, so the main take-aways will work for any language. But in order to have a meaningful discussion we need working examples, so the tech stack for this talk is: [python]([https://pythongeeks.org/python-unit-testing/](https://github.com/john-science/python_for_scientists/blob/main/classes/17_testing_projects/lecture_17.md)) and [pytest](https://docs.pytest.org/en/7.2.x/how-to/usage.html).
+This post is about how to design a good test, so the main take-aways will work for any language. But, in order to have a meaningful discussion we need working examples. So the tech stack for this talk is: [python]([https://pythongeeks.org/python-unit-testing/](https://github.com/john-science/python_for_scientists/blob/main/classes/17_testing_projects/lecture_17.md)) and [pytest](https://docs.pytest.org/en/7.2.x/how-to/usage.html).
 
 Before we start, install `pytest` and `pytest-cov` for testing, and `requests` for example code:
 
@@ -19,21 +19,21 @@ pip install requests
 
 # Important Concepts to Learn
 
-The goal here is to review a few key concepts about good unit tests:
+The goal here is to understand a few key concepts about good unit tests:
 
-* Good tests cover all the important concepts in the code.
+* Good unit tests cover all the important concepts of the code.
 * Good unit tests cover the smallest possible unit of code.
-* Good tests are understandable by strangers new to the code.
-* Good tests shouldn't be fragile.
+* Good unit tests are understandable by strangers new to the code.
+* Good unit tests shouldn't be fragile.
 * Poorly-written code can always be refactored.
-* Test-Driven Development: Use test to help you write better code.
+* Test-Driven Development: Use tests to help you write better code.
 
 
 # What is a "Good" Unit Test?
 
 ## 0. The Counter Example
 
-Let's say we want to test this simple function (`quad.py`):
+Let's say we want to test this simple function to calculate the roots of the quadratic equation (`quad.py`):
 
 ```python
 import math
@@ -47,7 +47,7 @@ def quadratic_equation(a, b, c):
     return [min_x, max_x]
 ```
 
-And here is our test file (`test_quad.py`):
+Here is an example test file (`test_quad.py`):
 
 ```python
 import unittest
@@ -68,7 +68,7 @@ if __name__ == "__main__":
     unittest.main()
 ```
 
-If we put these files both in the same folder, we can run them with `pytest test_quad.py`:
+If we put these files both in the same folder, we can run the test with `pytest test_quad.py`:
 
 ```
 $ pytest test_quad.py
@@ -80,11 +80,9 @@ test_quad.py .                  [100%]
 ============ 1 passed in 0.05s ============
 ```
 
-> Success!
+> Success! Our test passes!
 
-Our tests pass, so our code must be solid.
-
-This would be a good time to run code coverage on our unit tests, to see how much of our code is actually tested. Luckily, `pytest-cov` makes this really easy with `pytest -cov=quad test_quad.py`:
+This would be a good time to run code coverage on our unit tests, to see how much of our code is actually tested. Luckily, `pytest-cov` makes this really easy with `pytest --cov=quad test_quad.py`:
 
 ```
 $ pytest --cov=quad test_quad.py
@@ -94,7 +92,7 @@ collected 1 item
 
 test_quad.py .                  [100%]
 
------------ coverage: platform win32, python 3.9.7-final-0 -----------
+----------- coverage: platform linux, python 3.9.7-final-0 -----------
 Name      Stmts   Miss  Cover
 -----------------------------
 quad.py       6      0   100%
@@ -110,13 +108,13 @@ Well, that was easy. We wrote a single unit test, and we got 100% code coverage.
 > Ship it!
 
 
-## 1. Covers _all_ Important Concepts
+## 1. Covers All Important Concepts
 
 If you rememeber elementary school math, you probably spot a few issues with the `quad` function above.
 
 Whenever we write tests, the first question is always the same:
 
-> What _are_ the important concepts here?
+> What are the important concepts here?
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Quadratic_eq_discriminant.svg/220px-Quadratic_eq_discriminant.svg.png" alt="Number of Intercepts">
 
@@ -126,7 +124,7 @@ An important concept about the [quadratic equation](https://en.wikipedia.org/wik
 * If `disc` is zero, there is one root.
 * If `disc` is negative, there are no real roots.
 
-And what happens when we give our `quad` method inputs so that the discriminant is negative?  Let's try that in `test_quad.py`:
+What happens when we give our `quad` method inputs so that the discriminant is negative?  Let's try that in `test_quad.py`:
 
 ```python
 import unittest
@@ -245,7 +243,7 @@ collected 1 item
 
 test_quad.py .                  [100%]
 
------------ coverage: platform win32, python 3.9.7-final-0 -----------
+----------- coverage: platform linux, python 3.9.7-final-0 -----------
 Name      Stmts   Miss  Cover
 -----------------------------
 quad.py       6      0   100%
@@ -258,9 +256,8 @@ Awesome.
 
 > Test-Driven Development: We used tests to write better code.
 
-Another way people use [test-driven development](https://www.agilealliance.org/glossary/tdd/) is they write the important unit tests _before_ they write their code. It is a just another way for people to draw out a blueprint for their new code, before they start writing.
+Another way people use [test-driven development](https://www.agilealliance.org/glossary/tdd/) is they write the important unit tests _before_ they write their code. It is likely drawing out a blueprint for all your important features before you start writing. (Just another tool to have under your belt.)
 
-This is just another tool to have under your belt.
 
 ### Did we forget anything?
 
@@ -269,7 +266,7 @@ Did we forget to test anything in our quadratic function?
 
 ## 2. Good Tests are Understandable by Strangers New to the Code
 
-Brass tacks: would someone who has never seen this code before understand just how good our test is? Probably not, we don't explain about the discriminant, and the three cases we are testing.  So, essentially, that test is useless to anyone but us. (And probably in 2 years, it would be useless to us, too.) So, let's fix it:
+**Brass Tacks**: Would someone who has never seen this code before understand how good our test is? Probably not: we don't explain about the discriminant and our three cases.  So, essentially, that test is useless to anyone but us. (And probably in 2 years it would be useless to us, too.) But that's easy to fix:
 
 ```python
 import unittest
@@ -314,19 +311,20 @@ if __name__ == "__main__":
     unittest.main()
 ```
 
-Okay, we now have three tests. They are three times as long as the first one, but only accomplish the same thing. But that's okay. You don't win any points for writing tests in as few lines as possible.
+Okay, we now have three tests. They are three times as long as the first one, and do the same thing. But that's okay. You don't win points for writing tests in as few lines as possible.
 
 > We now have three, easy-to-read tests which explain themselves.
 
 
 # Making Code Testable
 
-Poorly-Written Code isn't testable:
+Poorly-written code isn't testable:
 
 * functions are too long
 * hidden constants hide important information
 * important logic is mixed with file I/O
 * important logic is mixed with external processes
+
 
 ## 0. The Counter Example
 
@@ -368,9 +366,9 @@ As you can see from the comments, this function is a three-step process:
 2. write population of each country to a CSV file
 3. return world total population
 
-> :warning: This is a silly little example meant to motivate a discussion of testing. NEVER scrape Wikipedia for data, they offer an easy, complete download of any-and-all of their data [here](https://en.wikipedia.org/wiki/Wikipedia:Database_download).
+> :warning: This is a silly little example meant to motivate a discussion of testing. NEVER scrape Wikipedia for data; they provide an easy download of all of their data [here](https://en.wikipedia.org/wiki/Wikipedia:Database_download).
 
-And, we can test this function with a simple test:
+And we can test this function with a simple test:
 
 ```python
 import unittest
@@ -418,7 +416,7 @@ Here are some questions about the above code:
 4. How do we test the edge cases of the HTML parser in this function?
 5. How do we test that the total population is calculated correctly?
 
-To a novice programmer, the above function "works" because it ran once. To a more seasoned programmer, the above function is really three different functions all Frankensteined together. There are three completely different pieces of functionality here that all have there own edge cases. But glued together like this, these edge cases aren't testable. Also, two of the three sub-functions here could be helpful in other places and reused. But not if they are all part of one mega function.
+To a novice programmer, the above function "works" because it ran once. To a more seasoned programmer, the above function is really three different functions all Frankensteined together. There are three completely different pieces of functionality here that all have there own edge cases. But glued together like this, those edge cases aren't testable. Also, two of the three sub-functions here could be helpful/reused in other places. But not if they are all part of one mega function.
 
 So, what would a [refactor](https://en.wikipedia.org/wiki/Code_refactoring) of this code look like?
 
@@ -498,9 +496,7 @@ def test_sum_values(self):
     self.assertEqual(world_pop.sum_values(d), 3.2)
 
     # Test Case: large set of values
-    d = {}
-    for i in range(100):
-        d[str(i)] = i
+    d = {str(i): i for i in range(100)}
     self.assertEqual(world_pop.sum_values(d), 4950)
 ```
 
@@ -530,11 +526,8 @@ def test_write_pops_csv(self):
     self.assertFalse(os.path.exists(csv_path))
 
     # Test Case: arbitrary data
-    pops = {}
     n = 100
-    for i in range(n):
-        pops[str(i)] = 1
-
+    pops = {str(i): i for i in range(n)}
     csv_path = "data100.csv"
     world_pop.write_pops_csv(pops, csv_path)
 
@@ -625,11 +618,11 @@ And now we have 4 unit tests for 4 functions. They unit tests have 100% code cov
 
 # Important Take-Aways
 
-So, what are the important take-aways? What should we keep in mind when writing tests to make them "good" tests, and not hot garbage?
+What should we keep in mind when writing "good" tests?
 
-* Good tests cover all the important concepts in the code.
+* Good unit tests cover all the important concepts of the code.
 * Good unit tests cover the smallest possible unit of code.
-* Good tests are understandable by strangers new to the code.
-* Good tests shouldn't be fragile.
+* Good unit tests are understandable by strangers new to the code.
+* Good unit tests shouldn't be fragile.
 * Poorly-written code can always be refactored.
-* Test-Driven Development: Use test to help you write better code.
+* Test-Driven Development: Use tests to help you write better code.
