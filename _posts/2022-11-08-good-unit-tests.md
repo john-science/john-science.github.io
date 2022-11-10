@@ -6,9 +6,9 @@ summary: Good tests help you, and good code is testable.
 ---
 {% include JB/setup %}
 
-This post is about how to design a good test, so the main take-aways will work for any language. But, in order to have a meaningful discussion we need working examples. So the tech stack for this talk is: [python]([https://pythongeeks.org/python-unit-testing/](https://github.com/john-science/python_for_scientists/blob/main/classes/17_testing_projects/lecture_17.md)) and [pytest](https://docs.pytest.org/en/7.2.x/how-to/usage.html).
+This post is about how to design a good test, so the main take-aways will work for any language. But in order to have a meaningful discussion we need working examples. So the tech stack for this talk is: [python]([https://pythongeeks.org/python-unit-testing/](https://github.com/john-science/python_for_scientists/blob/main/classes/17_testing_projects/lecture_17.md)) and [pytest](https://docs.pytest.org/en/7.2.x/how-to/usage.html).
 
-Before we start, install `pytest` and `pytest-cov` for testing, and `requests` for example code:
+Before we start, install `pytest` and `pytest-cov` for testing, and `requests` for an example:
 
 ```bash
 pip install pytest
@@ -19,14 +19,14 @@ pip install requests
 
 # Important Concepts to Learn
 
-The goal here is to understand a few key concepts about good unit tests:
+The goal here is to review a few key concepts:
 
 * Good unit tests cover all the important concepts of the code.
 * Good unit tests cover the smallest possible unit of code.
 * Good unit tests are understandable by strangers new to the code.
-* Good unit tests shouldn't be fragile.
+* Good unit tests aren't fragile.
 * Poorly-written code can always be refactored.
-* Test-Driven Development: Use tests to help you write better code.
+* Test-Driven Development
 
 
 # What is a "Good" Unit Test?
@@ -256,7 +256,7 @@ Awesome.
 
 > Test-Driven Development: We used tests to write better code.
 
-Another way people use [test-driven development](https://www.agilealliance.org/glossary/tdd/) is they write the important unit tests _before_ they write their code. It is likely drawing out a blueprint for all your important features before you start writing. (Just another tool to have under your belt.)
+Another way people use [test-driven development](https://www.agilealliance.org/glossary/tdd/) is they write the important unit tests _before_ they write their code. It is like drawing out a blueprint for all your important features before you start writing. (Just another tool to have under your belt.)
 
 
 ### Did we forget anything?
@@ -321,14 +321,14 @@ Okay, we now have three tests. They are three times as long as the first one, an
 Poorly-written code isn't testable:
 
 * functions are too long
-* hidden constants hide important information
+* constants in functions hide important information
 * important logic is mixed with file I/O
 * important logic is mixed with external processes
 
 
 ## 0. The Counter Example
 
-As yet another example of test-driven development, let's look at a funny little funcion that finds the total population of the world by looking on Wikipedia (`world_pop.py`):
+As another example of test-driven development, let's look at a funny little funcion that finds the total population of the world by looking on Wikipedia (`world_pop.py`):
 
 ```python
 import requests
@@ -366,9 +366,9 @@ As you can see from the comments, this function is a three-step process:
 2. write population of each country to a CSV file
 3. return world total population
 
-> :warning: This is a silly little example meant to motivate a discussion of testing. NEVER scrape Wikipedia for data; they provide an easy download of all of their data [here](https://en.wikipedia.org/wiki/Wikipedia:Database_download).
+> **WARNING**: This is a silly little example meant to motivate a discussion of testing. NEVER scrape Wikipedia for data; they provide an easy download of all of their data [here](https://en.wikipedia.org/wiki/Wikipedia:Database_download).
 
-And we can test this function with a simple test:
+We can test this function with a single line:
 
 ```python
 import unittest
@@ -491,7 +491,7 @@ def test_sum_values(self):
     d = {}
     self.assertEqual(world_pop.sum_values(d), 0)
 
-    # Test Case: integers and floats
+    # Test Case: mixed integers and floats
     d = {"a": 1, "b": 2.2}
     self.assertEqual(world_pop.sum_values(d), 3.2)
 
@@ -546,6 +546,8 @@ def write_pops_csv(pops, csv_path):
     # ...
 ```
 
+This little CSV writer function is dead simple, so there weren't many edge cases to test. But you could easily imagine a more complicated version that required a few more edge cases to test.
+
 
 ## 3. Good Tests Shouldn't be Fragile
 
@@ -560,14 +562,12 @@ For the moment, let's ignore that this function is a "bad idea", and just think 
 1. we try to run the test and don't have an internet connection?
 2. the the number of people in the world goes up?
 
-Well, in both of those cases our test would fail even though our code still runs. 
-
 To fix this, we need to:
 
 1. Fake an internet connection and the webpage.
 2. Fake some HTML data with a static world population.
 
-Well, luckily for us Python provides a great way to fake any internet connection, database connection, external process location or practically anything else with `unittest.mock.MagicMock`. (If you don't want to learn HOW I did this, fine. But it's important to know WHY.)
+Well, luckily for us Python provides a great way to fake any internet connection, database connection, external process, or practically anything else with `unittest.mock.MagicMock`. (If you don't want to learn HOW I did this, fine. But it's important to know WHY.)
 
 ```python
 import os
@@ -596,7 +596,7 @@ if __name__ == "__main__":
     unittest.main()
 ```
 
-So that is the end-to-end test, and now (finally) we can add another little unit test for the first little function:
+So that is the end-to-end test, and now (finally) we can add a unit test for the first little function:
 
 ```python
 @patch('world_pop.requests')
@@ -613,7 +613,7 @@ def test_get_world_pop_wikipedia(self, mock_requests):
     self.assertIn("Bac", pops)
 ```
 
-And now we have 4 unit tests for 4 functions. They unit tests have 100% code coverage, yes, but more importnaly they cover all the major features of our code separately. And we can read the tests to convince ourselves of exactly how our code functions.
+And now we have 4 unit tests for 4 functions. The unit tests have 100% code coverage, yes, but more importnaly they cover all the major features of our code separately. And we can read the tests to convince ourselves of exactly how our code functions.
 
 
 # Important Take-Aways
@@ -623,6 +623,6 @@ What should we keep in mind when writing "good" tests?
 * Good unit tests cover all the important concepts of the code.
 * Good unit tests cover the smallest possible unit of code.
 * Good unit tests are understandable by strangers new to the code.
-* Good unit tests shouldn't be fragile.
+* Good unit tests aren't fragile.
 * Poorly-written code can always be refactored.
-* Test-Driven Development: Use tests to help you write better code.
+* Test-Driven Development
