@@ -755,7 +755,7 @@ This was by no means a full guide to Git; it was just meant as an easy introduct
 * [git branches](https://git-scm.com/book/en/v2/Git-Branching-Branches-in-a-Nutshell)
 * [git branching and merging](https://git-scm.com/book/en/v2/Git-Branching-Basic-Branching-and-Merging)
 * [gitignore](https://git-scm.com/docs/gitignore)
-  * [gitignore examples]](https://github.com/github/gitignore)
+  * [gitignore examples](https://github.com/github/gitignore)
 * git commands
   * [git add](https://git-scm.com/docs/git-add)
   * [git commit](https://git-scm.com/docs/git-commit)
