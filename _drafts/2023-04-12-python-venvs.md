@@ -16,6 +16,11 @@ summary: A quick introduction to Python Virtual Environments.
 
 TODO
 
+<img src="https://numpy.org/doc/stable/_static/numpylogo.svg" alt="numpy logo" style="width:100px;display:inline;border:0px">
+<img src="https://scipy.org/images/logo.svg" alt="scipy logo" style="width:100px;display:inline;border:0px">
+<img src="https://docs.pytest.org/en/7.3.x/_static/pytest_logo_curves.svg" alt="pytest logo" style="width:100px;display:inline;border:0px">
+<img src="https://matplotlib.org/_static/images/logo_dark.svg" alt="matplotlib logo" style="width:100px;display:inline;border:0px">
+<img src="https://www.gstatic.com/devrel-devsite/prod/vb33fefd4f475972d9db8a48eb99721b7e7821d5a39de2b21c4f6caf579ea0944/tensorflow/images/lockup.svg" alt="tensorflow logo" style="width:100px;display:inline;border:0px">
 
 ## What is a Virtual Environment?
 
