@@ -14,7 +14,7 @@ summary: A quick introduction to Python Virtual Environments.
 
 ## What problem are we trying to solve?
 
-TODO
+Nearly every time we use Python (or any modern programming langauge), we will want third-party dependencies. That is, we will want to use NumPy, Pandas, SciPy, or other helpful Python tools for math, plotting, web development, and the like. We nearly always want to use tools that don't come pre-packaged with the Python programming language.
 
 <img src="https://numpy.org/doc/stable/_static/numpylogo.svg" alt="numpy logo" style="width:100px;display:inline;border:0px">
 <img src="https://scipy.org/images/logo.svg" alt="scipy logo" style="width:100px;display:inline;border:0px">
