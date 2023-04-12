@@ -14,12 +14,12 @@ summary: A quick introduction to Python Virtual Environments.
 
 ## What problem are we trying to solve?
 
-Nearly every time we use Python (or any modern programming langauge), we will want third-party dependencies. That is, we will want to use NumPy, Pandas, SciPy, or other helpful Python tools for math, plotting, web development, and the like. We nearly always want to use tools that don't come pre-packaged with the Python programming language.
+Nearly every time we use Python (or any modern programming langauge), we will want third-party dependencies. That is, we will want to use Python tools that don't come pre-packaged with the Python programming language.
 
 <span style="display:inline;border:0px"><img src="https://numpy.org/doc/stable/_static/numpylogo.svg" alt="numpy logo" style="width:100px;display:inline;border:0px">
 <img src="https://scipy.org/images/logo.svg" alt="scipy logo" style="width:100px;display:inline;border:0px">
 <img src="https://docs.pytest.org/en/7.3.x/_static/pytest_logo_curves.svg" alt="pytest logo" style="width:100px;display:inline;border:0px">
-<img src="https://matplotlib.org/_static/images/logo_dark.svg" alt="matplotlib logo" style="width:100px;display:inline;border:0px">
+<img src="https://cdn.hackr.io/uploads/posts/attachments/1661435997Dn3JeIBdJo.webp" alt="scikit learn logo" style="width:100px;display:inline;border:0px">
 <img src="https://www.gstatic.com/devrel-devsite/prod/vb33fefd4f475972d9db8a48eb99721b7e7821d5a39de2b21c4f6caf579ea0944/tensorflow/images/lockup.svg" alt="tensorflow logo" style="width:100px;display:inline;border:0px"></span>
 
 
@@ -29,21 +29,21 @@ The important question here is really:
 
 > What is a Python Path?
 
-When Python code is running, how does the Python interpretter know where to look when you do an import?
+How does the Python interpretter know where to look when you do an import?
 
 * ```import math```
 * ```import numpy```
 * ```from my_script import my_function```
 
-It turns out, understanding this problem and how Python solves it is pivitol to understanding Python programs.  For instance, let's say you have installed in your Python the third-party math library `numpy`.  But then, for whatever reason, you create a file called `numpy.py` in your current directory.  What happens in your script if you type "`import numpy`"? 
+It turns out, understanding this problem and how Python solves it is pivitol to understanding Python programs.  For instance, let's say you have installed `numpy`; the world's most popular Python math library.  But then, for whatever reason, you create a file called `numpy.py` in your current directory.  What happens in your script if you type "`import numpy`"? 
 
-This is called "dendency resolution".  And the Python interpretter solves this using a defined order of operations:
+This, and other similar problems, is called "dendency resolution".  And the Python interpretter solves this using a defined order of operations:
 
-1. Try to import local files first
-2. Try to import from the Standard Library
-3. Try to import from various installed libraries.
+1. First, Python tries to import local files
+2. Then, it tries to import from the Standard Library
+3. Then, it tries to import from various installed libraries.
 
-Now, understanding that order of operations for all Python imports is super important to understanding Python.  Though we are glossing over a lot of details in number 3 there. But it _can_ gloss over those details because you can always get an exact list of the ordered list of directories Python will look for an import by looking at `sys.path`.
+Now, understanding that order of operations is important to predicting what your Python program wil do.  Though we are glossing over a lot of details in number 3 above.  But we _can_ gloss over those details because you can always get an exact list of the ordered list of directories Python will look for an import by looking at `sys.path`.
 
 Okay, that's all cute, but:
 
@@ -51,21 +51,21 @@ Okay, that's all cute, but:
 
 That was the question, right?
 
-Well, imagine you are working on three different projects on your laptop. Some days you work on one project, other days you work on another. You keep switching back and forth. But each project uses a different version of `numpy`.  Uh oh. You are no in "dependency hell", just like the cartoon above. The Python interpretter can't resolve this problem for you.
+Well, imagine you are working on three different projects on your laptop. Some days you work on one project, other days you work on another. You keep switching back and forth. But each project uses a different version of `numpy`.  Uh oh. You are now in "dependency hell", just like the cartoon above. The Python interpretter can't resolve this problem for you.
 
 > The solution is to use Python virtual environments.
 
-In fact, it is a good practice to create an use a virtual enviornment for _every_ Python project you work on.  (Don't worry, it's super easy!)
+In fact, it is a good practice to create and use a virtual enviornment for _every_ Python project you work on.  (Don't worry, it's super easy!)
 
 
 ## Creating a venv
 
-To experiment with virtual environments, let's first create a little Python script (and call it `whats_a_path.py`):
+To experiment with virtual environments, we need some Python code. Let's create a little Python script and call it `whats_a_path.py`:
 
 ```python
 import sys
 
-for path in sorted(sys.path):
+for path in sys.path:
     print(path)
 ```
 
@@ -75,18 +75,18 @@ Now, from the commandline, we can run this script (in Windows or 'Nix):
 λ python whats_a_path.py
 
 C:\Users\USER_NAME\codes\scratch
-C:\Users\USER_NAME\tools\Python3.9.7
+C:\Users\USER_NAME\tools\Python3.9.7\python39.zip
 C:\Users\USER_NAME\tools\Python3.9.7\DLLs
 C:\Users\USER_NAME\tools\Python3.9.7\lib
+C:\Users\USER_NAME\tools\Python3.9.7
 C:\Users\USER_NAME\tools\Python3.9.7\lib\site-packages
-C:\Users\USER_NAME\tools\Python3.9.7\python39.zip
 ```
 
 Now, your path may look a little different, but you will see a lot of similarities. By default, in the path you will see:
 
 * The directory you are currently in.
 * The directory your Python is installed in.
-* Some extra directories Python uses to store libraries (like `lib`).
+* Some extra directories Python uses to store third-party libraries.
 
 Okay! Finally! Let's create a virtual environment:
 
@@ -112,12 +112,13 @@ And now, we should see our command prompt has changed and it says "`(my_venv)`".
 (my_venv) λ python whats_a_path.py
 
 C:\Users\USER_NAME\codes\scratch
-C:\Users\USER_NAME\codes\scratch\my_venv
-C:\Users\USER_NAME\codes\scratch\my_venv\lib\site-packages
-C:\Users\USER_NAME\tools\Python3.9.7
+C:\Users\USER_NAME\tools\Python3.9.7\python39.zip
 C:\Users\USER_NAME\tools\Python3.9.7\DLLs
 C:\Users\USER_NAME\tools\Python3.9.7\lib
-C:\Users\USER_NAME\tools\Python3.9.7\python39.zip
+C:\Users\USER_NAME\tools\Python3.9.7
+C:\Users\USER_NAME\tools\Python3.9.7\lib\site-packages
+C:\Users\USER_NAME\codes\scratch\my_venv
+C:\Users\USER_NAME\codes\scratch\my_venv\lib\site-packages
 ```
 
 Notice the important change here, the `my_venv` folders are now in the path. And they come BEFORE the Python system libraries. This tells us that when we run Python code inside our venv, it will look in a special set of directories in that venv for third-party libraries. This is how we keep the third-party libraries in our various projects separate.
