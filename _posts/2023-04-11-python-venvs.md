@@ -16,11 +16,13 @@ summary: A quick introduction to Python Virtual Environments.
 
 Nearly every time we use Python (or any modern programming langauge), we will want third-party dependencies. That is, we will want to use Python tools that don't come pre-packaged with the Python programming language.
 
-<span style="display:inline;border:0px"><img src="https://numpy.org/doc/stable/_static/numpylogo.svg" alt="numpy logo" style="width:100px;display:inline;border:0px">
+<span style="display:inline;border:0px">
+<img src="https://numpy.org/doc/stable/_static/numpylogo.svg" alt="numpy logo" style="width:100px;display:inline;border:0px">
 <img src="https://scipy.org/images/logo.svg" alt="scipy logo" style="width:100px;display:inline;border:0px">
 <img src="https://docs.pytest.org/en/7.3.x/_static/pytest_logo_curves.svg" alt="pytest logo" style="width:100px;display:inline;border:0px">
 <img src="https://cdn.hackr.io/uploads/posts/attachments/1661435997Dn3JeIBdJo.webp" alt="scikit learn logo" style="width:100px;display:inline;border:0px">
-<img src="https://www.gstatic.com/devrel-devsite/prod/vb33fefd4f475972d9db8a48eb99721b7e7821d5a39de2b21c4f6caf579ea0944/tensorflow/images/lockup.svg" alt="tensorflow logo" style="width:100px;display:inline;border:0px"></span>
+<img src="https://www.gstatic.com/devrel-devsite/prod/vb33fefd4f475972d9db8a48eb99721b7e7821d5a39de2b21c4f6caf579ea0944/tensorflow/images/lockup.svg" alt="tensorflow logo" style="width:100px;display:inline;border:0px">
+</span>
 
 
 ## What is a Virtual Environment?
@@ -82,7 +84,7 @@ C:\Users\USER_NAME\tools\Python3.9.7
 C:\Users\USER_NAME\tools\Python3.9.7\lib\site-packages
 ```
 
-Now, your path may look a little different, but you will see a lot of similarities. By default, in the path you will see:
+Now, your path will look a little different, but you will see a lot of similarities. By default, in the path you will see:
 
 * The directory you are currently in.
 * The directory your Python is installed in.
@@ -106,7 +108,7 @@ source my_venv/bin/activate
 (my_venv) λ
 ```
 
-And now, we should see our command prompt has changed and it says "`(my_venv)`". This will signify that inside this command prompt, from here on out, when we run Python commands, they will use our "virtual enviroment. For example:
+And now, we should see our command prompt has changed and it says "`(my_venv)`". This will signify that inside this command prompt, from here on out, when we run Python commands, they will use our "virtual enviroment". For example:
 
 ```bash
 (my_venv) λ python whats_a_path.py
@@ -121,7 +123,7 @@ C:\Users\USER_NAME\codes\scratch\my_venv
 C:\Users\USER_NAME\codes\scratch\my_venv\lib\site-packages
 ```
 
-Notice the important change here, the `my_venv` folders are now in the path. And they come BEFORE the Python system libraries. This tells us that when we run Python code inside our venv, it will look in a special set of directories in that venv for third-party libraries. This is how we keep the third-party libraries in our various projects separate.
+Notice the important change here, the `my_venv` folders are now in the path. And they come after the Python standard libraries. This tells us that when we run Python code inside our venv, it will look in a special set of directories in that venv for third-party libraries. This is how we keep the third-party libraries in our various projects separate.
 
 ### Bonus Round: Python versions
 
@@ -135,10 +137,12 @@ If you have multiple versions of Python installed on your computer, you can also
 λ python3.9 -m venv venv_39
 ```
 
+This is super handy. For instance, this is how I quickly and easily test my code in different versions of Python.
+
 
 ## Adding a Library
 
-Okay, but so far, we haven't really _used_ the virtual env for anything.  Let's install something:
+Okay, but so far, we haven't really _used_ the virtual env for much.  Let's install something:
 
 ```bash
 (my_venv) λ pip install numpy==1.24.2
@@ -156,7 +160,7 @@ Type "help", "copyright", "credits" or "license" for more information.
 
 > Huzzah!
 
-Now, if we leave our virtual env, we can show that this did what we thought it did: installed NumPy only into our venv.
+Now, if we leave our virtual env by type `deactivate`, we can show that this did what we thought it did: installed NumPy only into our venv.
 
 ```bash
 (my_venv) λ deactivate
