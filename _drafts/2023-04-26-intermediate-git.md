@@ -38,14 +38,20 @@ The point of `git merge` is to get your commits into the `main` branch (or any o
 
 ### fast foward: the best case scenario
 
-Let's start with the easiest case first: your feature branch is one (or more) commits ahead of main:
+Let's start with the easiest case first: your feature branch is one (or more) commits ahead of main.  In this case, the merge is just a "fast forward" where your branch can be merged into `main` with no problems:
 
-<img src="https://wac-cdn.atlassian.com/dam/jcr:d90f2536-7951-4e5e-ab79-f45a502fb4c8/03-04%20Fast%20forward%20merge.svg?cdnVersion=971" alt="your branch" >
+```bash
+git checkout main
+git pull origin main
 
-TODO
+git merge new-feature
+```
+
+It's great when this happens:
 
 <img src="https://wac-cdn.atlassian.com/dam/jcr:d90f2536-7951-4e5e-ab79-f45a502fb4c8/03-04%20Fast%20forward%20merge.svg?cdnVersion=971" alt="fast forward merge" >
 
+TODO
 
 
 ### the merge commit
