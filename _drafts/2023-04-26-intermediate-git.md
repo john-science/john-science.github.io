@@ -2,7 +2,7 @@
 layout: post
 title: "Intermediate Git"
 tags: [Software, Git]
-summary: An Introduction to Merging and Submodules
+summary: An Introduction to Merging, Rebasing, and Submodules
 ---
 {% include JB/setup %}
 
@@ -86,6 +86,64 @@ And, broadly, our problem is solved; our feature branch is up-to-date with the `
 Okay, so the solution around adding a million merge commits into your git history is to use the [`git rebase`](https://www.atlassian.com/git/tutorials/rewriting-history/git-rebase) command.  
 
 Using `git rebase` can actually get you quite a lot. Broadly, it can collapse many commits into one. And that is kind of a super power in the git world.
+
+Okay, let's imagine you are two commits ahead of the `main` branch but the first commit was just a half-complete placeholder of your work. You really only _want_ to have one commit, so it would be better if you could collapse your branch into two commits:
+
+```bash
+λ git log --oneline -n 3
+c15b3ff (HEAD -> new-feature) Okay, my feature is complete
+6808678 placeholder... it's almost working
+26bda05 (origin/main, origin/HEAD, main) The last commit in the `main` branch.
+```
+
+Well, if you want to squash those last two commit into one you would do:
+
+```git
+git rebase -i HEAD~2
+```
+
+And you would get thrown into a screen that looked like this:
+
+```git
+pick 6808678 placeholder... it's almost working
+pick c15b3ff (HEAD -> new-feature) Okay, my feature is complete
+
+# a bunch of stuff
+```
+
+To squash these two files into one, change all but the first want from saying "pick" to saying "s" or "squash":
+
+```git
+pick 6808678 placeholder... it's almost working
+s c15b3ff (HEAD -> new-feature) Okay, my feature is complete
+
+# a bunch of stuff
+```
+
+Then it will let you make a new commit message for your new, combined commit:
+
+```git
+# This is a combination of 2 commits.
+# This is the 1st commit message:
+
+placeholder... it's almost working
+
+# This is the commit message 2:
+
+Okay, my feature is complete
+```
+
+Just comment out the text you don't want, or write something new in. Your commit message will be whatever is left uncommented.
+
+Your two commits are now squashed down into one:
+
+```bash
+λ git log --oneline -n 2
+3c7af50 (HEAD -> new-feature) Okay, my feature is complete
+26bda05 (origin/main, origin/HEAD, main) The last commit in the `main` branch.
+```
+
+This is a useful tool for fixing merge 
 
 
 #### rebase warning
