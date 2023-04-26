@@ -135,7 +135,7 @@ CONFLICT (content): Merge conflict in setup.py
 Automatic merge failed; fix conflicts and then commit the result.
 ```
 
-So we just need to go through each `CONFLICT` file, open them in _any_ text editor and fix the conflicts. The conflicts will be REALLY clearly identified by git:
+So we just need to go through each `CONFLICT` file, open them in _any_ text editor and fix the conflicts. The conflicts will be REALLY clearly identified by Git, for example:
 
 ```
     long_description=README,
@@ -186,7 +186,7 @@ Changes to be committed:
 	modified:   setup.py
 ```
 
-If there are conflicts for more than one file, you do it for all of them. Then tell git the conflicts are all resolved by making a merge commit:
+If there are conflicts for more than one file, you do it for all of them. Then tell Git the conflicts are all resolved by making a merge commit:
 
 ```bash
 $ git commit -am "Merging in the main branch"
@@ -203,17 +203,19 @@ Awesome, success.
 
 So, what did we learn?
 
-1. A merge conflict happens when you try to merge another branch into yours, but both branches have commits that affect the same line differently, and git will make you resolve that issue.
-2. Resolving a merge conflict is as easy as opening the code in _any_ text editor and picking the changes you like best.
+1. A merge conflict happens when you try to merge another branch into yours, but both branches have commits that affect the same line differently, and Git needs a human to resolve that issue.
+2. Resolving a merge conflict is as easy as opening the code in _any_ text editor and picking the changes you want.
 
 
 # git rebase
 
-Okay, so the solution around adding a million merge commits into your git history is to use the [`git rebase`](https://www.atlassian.com/git/tutorials/rewriting-history/git-rebase) command.  
+Imagine you are working for a few weeks on something tricky. You keep making little commits as you make progress, or as placeholders. You add things and then remove them. The commits are mixed and all over the place. In the end, the code works and is _right_, but you also added 100 commits to the history that are a complete mess and no one would ever want to see them. In the future, this should all be one or two clean commits.
 
-Using `git rebase` can actually get you quite a lot. Broadly, it can collapse many commits into one. And that is kind of a super power in the git world.
+The solution to avoid adding a million useless commits into your Git history is to use the [`git rebase`](https://www.atlassian.com/git/tutorials/rewriting-history/git-rebase) command.  
 
-Okay, let's imagine you are two commits ahead of the `main` branch but the first commit was just a half-complete placeholder of your work. You really only _want_ to have one commit, so it would be better if you could collapse your branch into two commits:
+Using `git rebase` can actually get you quite a lot. Broadly, it can collapse many commits into one. And that is a super power in the Git world.
+
+Okay, let's imagine you are two commits ahead of the `main` branch but the first commit was just a half-complete placeholder of your work. You really only _want_ to have one commit, so it would be better if you could collapse your branch from two commits into one:
 
 ```bash
 λ git log --oneline -n 3
@@ -274,25 +276,25 @@ This is a useful tool for fixing merge
 
 ## Rebase Warning
 
-> NEVER rebase the git history on the `main` branch.
+> NEVER rebase the Git history on the `main` branch.
 
-Say you and your team are working on a github repository together. The rule here is that you NEVER rebase commits that other people on your team already have. That is, leave the `main` branch alone. For instance, if the GitHub repo permissions are set too loose, you could use `git rebase` to wipe the entire history of your teams project down to one commit.  This would be a disaster.  Even just squashing a few commits in the `main` branch would cause _super_ nasty merge conflicts for your team mates. So: NEVER rebase commits that are already on your `main` branch.
+Say you and your team are working on a GitHub repository together. The rule here is that you NEVER rebase commits that other people on your team might already have. That is, leave the `main` branch alone. For instance, if the GitHub repo permissions are set too loose, you could use `git rebase` to wipe the entire history of your teams project down to one commit.  This would be a disaster.  Even just squashing a few commits in the `main` branch would cause _super_ nasty merge conflicts for your team mates. So: NEVER rebase commits that are already on your `main` branch.
 
 
 # Merge Tools
 
-There are SO many great tools for helping people with the above workflows, it would be impossible to show them all. The first, and most important, tool you can use to do _anything_ in git is the command line.  As shown above, you can do any merge operation with the git command line. But also, there are also a ton of graphical (GUI) front ends for git, like [TortoiseGit](https://tortoisegit.org/) that attempt to make these things easier. Also, all modern IDEs will have git workflows built right in to help make these things easier: [XCode Git Support](https://code.visualstudio.com/docs/sourcecontrol/overview) or [Eclipse EGit](https://www.eclipse.org/egit/).
+There are SO many great tools for helping people with the above workflows, it would be impossible to show them all. The first, and most important, tool you can use to do _anything_ in Git is the Git command line.  As shown above, you can do any merge operation with the Git command line. But also, there are also a ton of graphical (GUI) front ends for Git, like [TortoiseGit](https://tortoisegit.org/) that attempt to make these things easier. Also, all modern IDEs will have Git workflows built right in to help make these things easier: [XCode Git Support](https://code.visualstudio.com/docs/sourcecontrol/overview) or [Eclipse EGit](https://www.eclipse.org/egit/).
 
-For this example, we're going to look at the tools Git provides for merges, conflicts, and rebasing. GitHub's tools are clear, and super common.
+For this example, we're going to look at the tools GitHub provides for merges, conflicts, and rebasing. GitHub's tools are clear, and super common.
 
 
 ## GitHub Merge Tool: The Pull Request
 
-Let's say we have a simplt one-line commit that in a branch named `new-feature`. If we want to `git merge` this branch in the `main` branch of our repo, GitHub provides a Pull Request (PR):
+Let's say we have a simple one-line commit that in a branch named `new-feature`. If we want to `git merge` this branch in the `main` branch of our repo, GitHub provides a Pull Request (PR):
 
 <img src="/assets/images/git/0_make_pr.png" alt="Creating a GitHub PR">
 
-This is how we can get our commit into the `main` branch. And it also allows everyone on our team to easily view the change, comment on it, and review it. Great stuff. We can enter a description (which is super important) and maybe assign reviewers (if we have that power):
+This is how we can get our commit into the `main` branch. And it also allows everyone on our team to easily view the change, comment on it, and review it. Great stuff. We can enter a description (which is super important) and assign reviewers (if we have that power):
 
 <img src="/assets/images/git/1_open_pr.png" alt="Opening a PR">
 
@@ -304,8 +306,8 @@ Now, your PR reviewers may have comments. They may ask for explanation and clari
 
 <img src="/assets/images/git/3_git_merge_type.png" alt="Options for merging the PR">
 
-1. **"Create a merge commit"** - If you can avoid it, I highly recommend never selecting this option. In fact, I recommend turning this AS an option in all your Git repositories. Merge commits clutter up your git history and make doing lots of things (like "git rebase") significantly harder, and sometimes impossible. 
-2. **"Squash and merge"** - This will take your entire PR and "squash" it down to one commit which gets added to the `main` branch. (You get a chance to re-write the commit message if you want.) This is the default option I like best, if it's possible. If your PR has one-and-only-one idea in it, then it makes sense to fully squash all the commit history of you working through the solution and make the git history a lot simpler and more clear.
+1. **"Create a merge commit"** - If you can avoid it, I highly recommend never selecting this option. In fact, I recommend turning this AS an option in all your GitHub repositories. Merge commits clutter up your Git history and make doing lots of things (like "git rebase") significantly harder.
+2. **"Squash and merge"** - This will take your entire PR and "squash" it down to one commit which gets added to the `main` branch. (You get a chance to re-write the commit message if you want.) This is the default option I like best, if it's possible. If your PR has one-and-only-one idea in it, then it makes sense to fully squash all the commit history of you working through the solution and make the Git history a lot more clear.
 3. **"Rebase and merge"** - If your PR has multiple commits, this feature will add those multiple commits to the history of the `main` branch. The only time this is useful is when your PR has multiple ideas and goals, and it can't be squashed. In that scenario, "Rebase and merge" is a great option. Though, again, is is usually a sign of a sloppy PR if it has more than one purpose.
 
 
