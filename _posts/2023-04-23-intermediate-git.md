@@ -2,31 +2,29 @@
 layout: post
 title: "Intermediate Git Topics"
 tags: [Software, Git]
-summary: An Introduction to Branch Merging, Conflicts, Rebasing, and Submodules
+summary: An Introduction to Merging, Conflicts, Rebasing, and Submodules
 ---
 {% include JB/setup %}
 
-[Last time](https://antineutrino.net/2022/03/30/introduction-to-git) we discussed the basics of Git how git records the history of changes to a codebase using commits, and we learned about different "branches" of a Git repo. But that's all just ground work for a basic understanding of what git is and how to use it. 
+[Last time](https://antineutrino.net/2022/03/30/introduction-to-git) we discussed the basics of how Git records the history of changes to a codebase using commits, and we learned about different "branches" of a Git repo. In order to understand this lecture, you're going to need a solid grasp of those topics.
 
 > How do people actually _use_ git in the real world?
 
-While you _can_ use git by yourself to track a project (as I have many times), the real power and complexity of using Git is learning the workflows necessary for multiple people to work on the same repository.
+While you _can_ use Git by yourself to track a project (as I have done many times), the real power and complexity of using Git is learning the workflows necessary for multiple people to work on the same repository.
 
-The example workflow I will outline here is:
+While the intermediate topics below will be generally useful to everyone who uses Git, I am going to talk about most of them through the lens of a really common Git team workflow:
 
 * Your team has a repository on GitHub (or similar).
 * You repo has a `main` branch.
 * Everyone works in a feature branch when they are coding.
 * Feature branches get merged into the `main` branch when they are ready.
 
-This is a solid, dependable workflow for you to pull from. This is also a great jumping off point for understanding git team workflows.
-
-And we'll throw in some more intermediate git topics like `git rebase` and git submodules.
+We'll also cover some more intermediate Git topics like `git rebase` and `submodules`.
 
 
 # git merge
 
-Let's say you are working on some code and need to add a feature. Your first step is to create a feature branch to work on:
+Let's say you are working a new feature for your teams codebase. Your first step is to create a feature branch to work in:
 
 ```bash
 # make sure your 'main' branch is up-to-date
@@ -62,7 +60,7 @@ It's great when this happens:
 
 <img src="https://wac-cdn.atlassian.com/dam/jcr:d90f2536-7951-4e5e-ab79-f45a502fb4c8/03-04%20Fast%20forward%20merge.svg?cdnVersion=971" alt="fast forward merge" >
 
-However, if you are using GitHub, you may want to use a [Pull Request](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests) (PR) here instead of `git merge`. Under the hood, the PR uses the `git merge`, actually. So this is good to know. And don't worry, we'll cover the GitHub PR process a bit later.
+However, if you are using GitHub, you will want to use a [Pull Request](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests) (PR) here instead of `git merge`. Under the hood, the PR uses the `git merge`, actually. So this is good to understand. And don't worry, we'll cover the GitHub PR process later.
 
 
 ## the merge commit
@@ -71,7 +69,7 @@ BUT, and here's the kicker, what if while you were working on your feature branc
 
 <img src="https://wac-cdn.atlassian.com/dam/jcr:7afd8460-b7bf-4c42-b997-4f5cf24f21e8/01%20Branch-2%20kopiera.png?cdnVersion=969" alt="Two branches" >
 
-This happens all the time. And at first, you might stub your toe on it pretty hard. But we have the tools to solve it. The first solution, and the most clunky, is to create a merge commit, that combines the two branches:
+This happens all the time. And it is a common place for new Git users to stub their toe. But we have the tools to solve it. The first solution, and the most clunky, is to create a "merge commit" to combine the two branches:
 
 ```bash
 # grab the new commits from the 'main' branch
@@ -87,14 +85,16 @@ This will create a merge commit:
 
 <img src="https://wac-cdn.atlassian.com/dam/jcr:c6db91c1-1343-4d45-8c93-bdba910b9506/02%20Branch-1%20kopiera.png?cdnVersion=969" alt="Two merged branches" >
 
-And, broadly, our problem is solved; our feature branch is up-to-date with the `main` branch. We can do better than this though, generally, since this merge commit will sit in your history forever. Aside from just junking up the git history of your project, it will also make it hard for you to do many git operations within your commit history.
+And, broadly, our problem is solved; our feature branch is up-to-date with the `main` branch.
+
+We can do better though. That merge commit will sit in your history forever, and your history will looked "forked" and not a straight line. Aside from just junking up the git history of your project, it will also make it hard for you to do many Git operations within your commit history.
 
 
 ## merge conflicts
 
-> The above git merges were either "fast forward" merges or we created a "merge commmit". There is another, less nice, possibility: **merge conflicts**.
+> The above Git merges were either "fast forward" merges or we created a "merge commmit". There is another, less nice, possibility: **merge conflicts**.
 
-Merge conflicts are a common stumbling block for new git users. But it only takes a little effort to:
+Merge conflicts are a common stumbling block for new Git users. But it only takes a little effort to:
 
 1. Understand what a merge conflict is.
 2. Learn a tool to handle the merge conflict.
@@ -112,21 +112,21 @@ Automatic merge failed; fix conflicts and then commit the result.
 
 The merge failed! Oh noes! But why?
 
-Essentially, git does a great job at merging different commits from different branches. It's quite a beautiful mathematical solution, so most of the time git can just auto-magically combine commits for you. But there is one scenario where git won't (by default) be able to know how to resolve the merge:
+Essentially, Git does a great job at merging different commits from different branches. It's quite a beautiful mathematical solution, so most of the time Git can just auto-magically combine commits for you. But there is one scenario where Git won't (by default) be able to know how to resolve the merge:
 
 > What if both your feature branch and the `main` branch change the same line?
 
-The problem is clear. If you make a change to a particular line, say in the `setup.py` as shown above, but that SAME line has a totally different change in the `main` branch, git won't know how to combine the two changes. So it says "Yeah, there is a conflict here, you figure it out."  And, frankly, most of the time this is where automation fails, and you DO need a real human to see if the changes are compatible. 
+The problem is clear. If you make a change to a particular line, say in the `setup.py` as shown above, but that SAME line has a totally different change in the `main` branch, Git won't know how to combine the two changes. So it says "Yeah, there is a conflict here, you figure it out."  And, frankly, most of the time you DO need a real human to solve that problem.
 
 So that's what a "merge conflict" is, and why you just got burnt.
 
-(For more advanced git users, git provides [merge strategies](https://www.atlassian.com/git/tutorials/using-branches/merge-strategy) to attempt to automate this process. But those strategies can be REAL dangerous if you don't know exactly what changes have been made in both branches, so we will ignore them here.)
+(For more advanced Git users, Git provides [merge strategies](https://www.atlassian.com/git/tutorials/using-branches/merge-strategy) to attempt to automate this process. But those strategies can be REAL dangerous if you don't know exactly what changes have been made in both branches, so we will ignore them here.)
 
 ### Resolving Merge Conflicts
 
-> Okay, now that we know WHY we got a merge conflict, how do we resolve them?
+> Okay, now that we know WHY we got a merge conflict, how do we resolve it?
 
-This is actually easier than you might think. In the merge conflict message above, git explicitly lists the files that have conflicts:
+This is actually easier than you might think. In the merge conflict message above, Git explicitly lists the files that have conflicts:
 
 ```bash
 $ git merge main
