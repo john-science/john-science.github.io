@@ -330,14 +330,18 @@ Just like on the command line, you will see the `<<<<<<< new-feature` and `>>>>>
 
 # Submodules
 
-For our last topic, let's do something completely different. Instead of talking about Git tools that teams use to interact within a repo let's talk about git tools teams use to work _between_ repos: [git submodules](https://www.atlassian.com/git/tutorials/git-submodule).
+And now for something completely different.
 
-Now, why would you use "`git submodule`" instead of just installing another piece of software like normal? Typical reason people resort to using submodules are:
+<img src="https://upload.wikimedia.org/wikipedia/en/e/ee/ANFSCD_poster.jpg" alt="Movie Poster">
 
-* The other git repo you depend on changes it's API too fast for you to want to bother trying to keep up.
-* The other git repo doesn't release an easily-installable version of itself, but it _is_ open source.
+So far, all the Git workflows we have covered have been designed to help teams work inside a repo, but let's switch gears and talk about how teams can work _between_ repos: [git submodules](https://www.atlassian.com/git/tutorials/git-submodule).
 
-Essentially, a git "submodule" is a link from your repo to another git repo, pointed at a very specific commit (or less-commonly branch). Submodules are definitely and "intermediate" and not a "beginner" Git feature, as they can get confusing for new Git users. If at all possible, use git submodules sparingly.
+Now, why would you use "`git submodule`" instead of just installing another piece of software like normal? Typical reasons people resort to using submodules are:
+
+* The other repo you depend on changes it's API too fast for you, and you don't want to keep up.
+* The other repo doesn't release an easily-installable version of itself, but it _is_ open source.
+
+Essentially, a Git "submodule" is a link from your repo to another. A submodule usually points to a specific commit, or less commonly a branch head. Submodules are definitely and "intermediate" and not a "beginner" Git feature. If at all possible, use Git submodules sparingly.
 
 <img src="/assets/images/git/9_submodules.jpg" alt="Submodules are a Sometimes Tool">
 
@@ -370,9 +374,9 @@ Changes to be committed:
  new file:   awesomelibrary
 ```
 
-If you want, you can no go into the "awesomelibrary" folder on the command line and checkout the exact commit you want from the other repo with "git checkout ababa0101".
+If you want, you can now go into the "awesomelibrary" folder on the command line and checkout the exact commit you want from the other repo with "`git checkout ababa0101`".
 
-So, add both of these to commit the submodule to your repo:
+First, `git add` both of these to commit the submodule to your repo:
 
 ```bash
 $ git add .gitmodules awesomelibrary/
@@ -383,13 +387,13 @@ $ git commit -m "added submodule"
  create mode 160000 awesomelibrary
 ```
 
-If you aren't adding your submodule, but just checking out a repo that already has submodules, you'll want to type this to grab the submodule code and update it to the write commit:
+If you aren't starting from scratch, but just checking out a repo that already has submodules, you'll want to grab the submodule code and update it to the right commit:
 
 ```bash
 $ git submodule update --init --recursive
 ```
 
-Once submodules are initialized, they can be used like any other repository. That is, submoduels have their own branches and history. Let's try a simple submodule workflow:
+Once submodules are initialized, they can be used like any other repository. That is, submodules have their own branches and history. Let's try a simple submodule workflow:
 
 ```bash
 $ cd awesomelibrary/
@@ -432,6 +436,12 @@ Changes not staged for commit:
 no changes added to commit (use "git add" and/or "git commit -a")
 ```
 
-Running `git status` shows the parent repository is aware of the new commits to the `awesomelibrary` submodule. It doesn't go into detail about the specific updates because that is the submodule repositories responsibility. The parent repository is only concerned with pinning the submodule to a commit. Now we can update the parent repository again by doing a `git add` and `git commit` on the submodule. This will put everything into a good state with the local content. If you are working in a team environment it is critical that you then `git push` the submodule updates, and the parent repository updates.
+Running `git status` shows the your repository is aware of the new commits to the `awesomelibrary` submodule. It doesn't go into detail about the specific updates because that is the submodules responsibility. The parent repository is only concerned with pinning the submodule to a commit.
 
-When working with submodules, a common pattern of confusion and error is forgetting to push updates for remote users. If we revisit the `awesomelibrary` work we just did, we pushed only the updates to the parent repository. Another developer would go to pull the latest parent repository and it would be pointing at a commit of `awesomelibrary` that they were unable to pull because we had forgotten to push the submodule. This would break the remote developers local repo. To avoid this failure scenario make sure to always commit and push the submodule and parent repository.
+Now we can update the parent repository by doing a `git add` and `git commit` on the submodule.
+
+```bash
+$ git commit awesomelibrary -m "Did an awesome thing"
+```
+
+When working with submodules, the trick is to remember which repository you are commiting to (parent or child) and commit/merge/PR into the correct repository. At that point, you just have two separate repos and you can use all the tools we have developed above.
