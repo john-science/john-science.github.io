@@ -20,7 +20,7 @@ Git is, by a wide margin, the most popular [version control](https://en.wikipedi
 
 A "version control system" (VCS) is a tool that tracks all the changes made to a codebase over time. This tracking is done in a special database called a "repository".
 
-A VCS gives users the ability to easily see the entire history of our project. Users can look back to see who made what changes when. And, if necessary, users can easily revert the project back to an earlier state.
+A VCS gives users the ability to easily see the entire history of their code project. Users can look back to see who made what changes when. And, if necessary, users can easily revert the project back to an earlier state.
 
 In short, a Version Control System allows users to:
 
