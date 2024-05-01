@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "My Most Common BASH Commands"
-tags: [Linux]
-summary: Getting Started with the BASH Commandline
+tags: [Linux, BASH]
+summary: A long list of useful BASH command line tools.
 ---
 {% include JB/setup %}
 
