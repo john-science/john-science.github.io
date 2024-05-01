@@ -7,56 +7,35 @@ summary: A beginners guide to navigating the Linux file system with BASH.
 {% include JB/setup %}
 
 
-[Linux](https://en.wikipedia.org/wiki/Linux) is a type of operating system, and by far the most popular type of command line (shell) is [BASH](https://en.wikipedia.org/wiki/Bash_(Unix_shell)). So, one of the first things that a new Linux user willl have to learn is how to use the BASH command line. And probably the best place to start learning any Linux command line is how to nagivate around the file system. To that end, this is a quick, beginners guide to navigating a Linux file sytems using BASH.
+[Linux](https://en.wikipedia.org/wiki/Linux) is a family of operating systems, and by far the most popular type of command line (shell) is [BASH](https://en.wikipedia.org/wiki/Bash_(Unix_shell)). So, one of the first things that a new Linux user will have to learn is how to use the BASH command line. And probably the best place to start learning any Linux command line is how to nagivate around the file system. To that end, this is a quick, beginners guide to navigating a Linux file sytem using BASH.
 
 
 ## Linux File System
 
-Before we can learn to navigate a Linux fyle system, first let's build a mental image of a Linux file system:
+Before we can learn to navigate a Linux fyle system, first let's build a mental image of one:
 
-![Linux file system](/assets/images/software/linux_file_system.png)
+<img style="max-width:100%" src="/assets/images/software/linux_file_system.png" alt="Linux file system">
 
-The Linux file system is a tree, where there is one top-level directory (`/`), with a common set of sub-directories (don't worry, you don't have to memorize these):
-
-* `/bin/`
-* `/boot/`
-* `/etc/`
-* `/home/`
-* `/lib/`
-* `/media/`
-* `/mnt/`
-* `/opt/`
-* `/root/`
-* `/sbin/`
-* `/tmp/`
-* `/usr/`
-* `/var/`
-
-There are two important take-aways from all of this:
-
-1. There is a the top-level directory is `/`, and that has sub-directories, which have sub-directories of their own, and so on.
-2. If you are on the BASH command line, you are _somewhere_ in this directory tree.
+The Linux file system is a tree, where there is one top-level directory (`/`), that has sub-directories, which have their own sub-directories, and so on. When you are on the BASH command line, you are _somewhere_ in this directory tree.
 
 > Fun Fact: In Windows they are called "folders", but in every other operating system they are called "directories".
 
 
 ## Special Characters
 
-It might sound odd to start this guide with special cases, but we need to start somewhere. You will want to regularly use these special characers mix-and-match style with nearly all BASH commands. With that out of the way, here they are:
+It might sound odd to start this guide with special cases, but we need to start somewhere. You will want to regularly use these special characers mix-and-match style with nearly all BASH commands. They represent:
 
-* `.` (prounounced "dot") - Represents the current directory in the filesystem.
-* `..` (prounounced "dot-dot") - Represents one level above the current directory.
-* `/` (prounounced "forward slash") - Represents the "root" of the filesystem.
-* `~` (prounounced "tilde") - Represents the home directory of the current user.
+* `.` (prounounced "dot") - the current directory in the filesystem.
+* `..` (prounounced "dot-dot") - one level above the current directory.
+* `/` (prounounced "forward slash") - the "root" of the filesystem.
+* `~` (prounounced "tilde") - the home directory of the current user.
 
 We will see these in practice below, which should help clarify them.
 
 
 ## Print Working Directory (pwd)
 
-![print working directory](/assets/images/software/pwd.jpeg)
-
-Above, we said that if you are on the BASH command line, you are always _somewhere_ in the file tree. So our first question is "Where?", and this is what the `pwd` command gives us:
+Above, we said that if you are on the BASH command line, you are always _somewhere_ in the file tree. So our first question is "Where?", which is what the `pwd` command is for. Go to a BASH terminal and type:
 
 ```shell
 $ pwd
@@ -68,18 +47,18 @@ While navigating around a file system, I frequently use the `pwd` command to che
 
 ### Absolute and Relative Paths
 
-As an aside, we should take a closer look at the path that `pwd` gave us: `/home/aeinstein`. The first thing to notice is that it starts with a `/`. A path that starts with a `/` is an "absolute path", fully defining the directory/file path starting at the root of the file tree.
+As an aside, we should take a closer look at the path that `pwd` gave us: `/home/aeinstein`. The first thing to notice is that it starts with a `/`. A path that starts with a `/` is an "absolute path", fully defining the path to a directory/file starting at the root of the file tree.
 
 Sometimes, you will see people write files paths in the "relative path" format, like `photos/mine/`. Since this path doesn't start with a `/` we take the path to mean "starting here, go into a directory called photos, then inside another directory called mine".
 
 All file/directory paths in a Linux system can be absolute or relative.
 
-> Fun Fact: In Windows, directory paths use `\` as separators but every other operating system use `/`.
+> Fun Fact: In Windows, directory paths use `\` as separators, but every other operating system uses `/`.
 
 
 ## List Files and Directories (ls)
 
-Knowing where you are in the file tree is important, but probably the most common thing you will want to ask BASH is "What is in this directory?":
+A common thing you will want to ask BASH is "What is in this directory?":
 
 
 ```shell
@@ -87,9 +66,9 @@ $ ls
 dir2 file1.txt
 ```
 
-In this example, we see this directory has one sub-directory (`dir2`) and one file (`file1.txt`).
+In the above example, we see this directory has one sub-directory (`dir2`) and one file (`file1.txt`).
 
-But what's in that sub-directory? Well we can find out:
+But what's in that sub-directory? We can find out:
 
 ```shell
 $ ls dir2
@@ -117,7 +96,7 @@ I use `ls` all the time while on the BASH terminal.
 
 ## Change Directory (cd)
 
-So far, we haven't done much actual _nagivating_ of the Linux file tree. We haven't actually _changed_ the directory we are in:
+So far, we haven't done much actual _nagivating_ of the Linux file tree. To actually _change_ the directory we are in:
 
 ```shell
 $ ls
@@ -135,7 +114,7 @@ $ ls
 bin boot etc home lib lib64 media mnt opt root sbin sys tmp usr var
 ```
 
-The `cd` command also has a special argument that will "go back to the last directory I was in":
+The `cd` command also has a special argument that will "go back to the last directory I was in" (`cd -`):
 
 ```shell
 $ cd /
@@ -152,7 +131,7 @@ In short, we use the `cd` command to move around the file tree.
 
 ## Learning More about a Linux Command
 
-So far, we have covered a few Linux / BASH tools: `pwd`, `cd`, and `ls`. But these tools can actually take a lot more parameters and optional arguments. For instance, we can _list_ the name of a file, or we can list detailed information on a file:
+So far, we have covered a few Linux / BASH tools: `pwd`, `cd`, and `ls`. But these tools can actually take a lot more parameters and optional arguments. For instance, we can _list_ the name of a file, or we can list detailed information on that file with `ls -lh`:
 
 ```shell
 $ ls file1.txt
@@ -161,7 +140,7 @@ $ ls -lh file1.txt
 -rw-r--r-- 1 aeinstein domain users 0 Apr 10 15:01 file1.txt
 ```
 
-Now `ls -lsh` is a useful command flag to know about. But since nearly all command tools have optional flags and arguments, the really important thing here is to know how to learn about all these options. There are two standard ways to get a help menu or manual for a command:
+Now `ls -lh` is a useful command flag to know about. But since nearly all command tools have optional flags and arguments, the really important thing here is to know how to learn about all these options. In Linux, there are two standard ways to get a help menu or manual for a command:
 
 ```shell
 man something
@@ -169,4 +148,4 @@ man something
 something --help
 ```
 
-This is your "teach a person to fish" moment. To learn to use the BASH command line, you need to learn more and more commands, for things other than just navigating the file system. And Linux provides you the tools you need to teach yourself.
+This is your "teach a person to fish" moment. To learn to use the BASH command line, you need to learn more commands, for things other than just navigating the file system. Happily, Linux provides you the tools you need to teach yourself.
