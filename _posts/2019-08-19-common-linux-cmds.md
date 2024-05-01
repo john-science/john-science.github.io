@@ -1,12 +1,12 @@
 ---
 layout: post
-title: "The Most Common Linux Commands"
+title: "My Most Common BASH Commands"
 tags: [Linux]
-summary: Getting Started with the Linux Commandline
+summary: Getting Started with the BASH Commandline
 ---
 {% include JB/setup %}
 
-So you're learning your way around the Linux commandline and there are *all* these commands you have to know. It turns out, all of those commands are programs that you can find in:
+So you're learning your way around the BASH commandline and there are *all* these commands you have to know. It turns out, all of those commands are programs that you can find in:
 
 * `/bin/`
 * `/usr/bin/`
@@ -19,11 +19,11 @@ man something
 something --help
 ```
 
-## The Most Common Commands
+## My Most Common Commands
 
 > Don't Panic
 
-Okay, this list may seem a little long. It is. But each of these tools is likely to be on every Linux computer you see for the rest of your life. They can become the toolbox you use to build practically anything.
+Okay, this list may seem too long. It is. These are the most common BASH command utilities I use every day. But each of these tools is likely to be on every Linux computer you see for the rest of your life. They can become the toolbox you use to build practically anything.
 
 * [\|](https://www.geeksforgeeks.org/piping-in-unix-or-linux/) - "pipe" the outputs of one command into another
 * [>](https://ryanstutorials.net/linuxtutorial/piping.php) - "pipe" the outputs of a command into a file
