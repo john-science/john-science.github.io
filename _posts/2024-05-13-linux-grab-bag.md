@@ -2,7 +2,7 @@
 layout: post
 title: "Linux Grab Bag"
 tags: [Linux, BASH, Python]
-summary: A grab bag of random Linux concepts for beginners.
+summary: A grab bag of important Linux concepts for beginners.
 ---
 {% include JB/setup %}
 
@@ -11,11 +11,11 @@ There is no way to make this list "complete". And this will not be a deep dive i
 The problem we want to solve is the classic "I don't know what I don't know" problem of a Windows user transitioning to Linux for the first time.
 
 
-## Environment Variables
+## Shell Variables
 
-Linux, like Windows, has the idea of an [environment variable](https://linuxize.com/post/how-to-set-and-list-environment-variables-in-linux/). The idea isn't hard to understand:
+Linux, like Windows, has the idea of a [shell variable](https://linuxize.com/post/how-to-set-and-list-environment-variables-in-linux/). The idea isn't hard to understand:
 
-> While you are on the [command line](https://antineutrino.net/2024/05/01/navigating-linux-file-system) there can be shell variables set that you can use, or that can be used by programs you run.
+> While you are on the [command line](https://antineutrino.net/2024/05/01/navigating-linux-file-system) there can be variables set that you can use, or that can be used by programs you run.
 
 For instance, we can create and use shell variables quite easily:
 
@@ -31,6 +31,9 @@ stuff and things
 Easy, right?
 
 Be warned, `THING` and `WHAT` above will disappear when you log out or close the shell.
+
+
+## Environment Variables
 
 There are really special shell variables called "enviornment variables" that are like shell variables but they are system-wide and are inherited by all child processes and shells.
 
@@ -275,7 +278,9 @@ Oh, wait, let's say we want to do this same thing to everything in a whole direc
 $ chmod 744 -r Dir2
 ```
 
-But, watch out! Linux will let you make mistakes. Do NOT do this:
+> DO NOT TYPE THIS EXAMPLE!
+
+But, watch out! Linux will let you make mistakes. Do NOT type this:
 
 ```shell
 $ chmod 000 hello_world.sh
@@ -353,6 +358,8 @@ Hi, Mom
 ```
 
 More importantly, you can put any executable in that shebang line. For instance, Python or Perl are common shebang targets.
+
+<img style="max-width:100%" src="/assets/images/somthing_completely_different.jpg" alt="And now for something completely different">
 
 
 ## Activating a Python Virtual Env
