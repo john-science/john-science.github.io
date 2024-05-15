@@ -85,7 +85,7 @@ How does BASH know what `pwd` or `which` are? Well, it goes through all the dire
 Sometimes, you will want to use programs that are in your own area, and that means adding your program's directory to the `PATH`:
 
 ```shell
-$ export /home/aeinstein/xyz:$PATH
+$ export PATH=/home/aeinstein/xyz:$PATH
 $ echo $PATH
 /home/aeinstein/xyz:/home/aeinstein/bin:/home/aeinstein/.local/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/snap/bin
 ```
@@ -275,7 +275,7 @@ $ chmod 744 hello_world.sh
 Oh, wait, let's say we want to do this same thing to everything in a whole directory. That's probably something we want to do every now and then:
 
 ```shell
-$ chmod 744 -r Dir2
+$ chmod 744 -R Dir2
 ```
 
 > DO NOT TYPE THIS EXAMPLE!
