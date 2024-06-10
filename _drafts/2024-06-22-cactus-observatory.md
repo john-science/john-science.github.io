@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The CACTUS Observatory"
-tags: [Physics, Story]
+tags: [Physics, Story, Science Fact]
 summary: Alone in the decaying industrial ruins of a high-energy physics observatory.
 ---
 {% include JB/setup %}
@@ -27,3 +27,7 @@ Goal: narrative. Short Vignettes.
 * not gonna fight off a pack of wild dogs
 * melting a truck
 * site truck stolen, copper pillaged, observatory shut down
+
+
+<br/><br/><br/>
+Copyright © 2024, John Stilley
