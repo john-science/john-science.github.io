@@ -19,7 +19,9 @@ Our story starts on December 29, 1566, and Tycho Brahe is 20 years old. And drun
 
 What are they fighting over? The love of a good woman? No. Power? Money? Honor? No. No. Nope. Remember, the two men are family, close family, and friends. They are students at the same school, the Univeristy of Rostock. They have lives of immense wealth and power and luxury ahead of them. And what are they willing to risk this all for? On what matter of honor or philosophy does the future of our world hang? They are going to dual, to the death, over which one of them is the better mathematician.
 
-A quick, historical side note, basically any time a rich man is willing to dual another man, you can place good money on the ultimate cause for the dual being stupid. But this is the real world, not a story. You were promised eccentric geniuses, not heros. But this dual is happening, and the fate of our future is at stake.
+<div style="background-color: #e7f3fe;border-left:5px solid #ffeb3b;"><strong>Historical Side Note:</strong> Contrary to what you may have seen in fiction, in real life when two rich, young men dualed it was probably for a stupid reason.</div>
+
+But this is the real world, not a story. You were promised eccentric geniuses, not heros. But this dual is happening, and the fate of our future is at stake.
 
 Tycho loses the dual.
 
