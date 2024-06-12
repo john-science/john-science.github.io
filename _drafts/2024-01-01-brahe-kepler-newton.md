@@ -10,7 +10,7 @@ Perhaps my favorite story in science is also what I think of as the birth of the
 
 This is a story about the lives of three people. Eccentric, reclusive geniuses. Working independently and, frequenly, at odds from each. But in the end, their lives and works came together to discover gravity.
 
-<h2 style="text-align: center;">Tycho Brahe</h2>
+<h2 style="text-align: center;">Tycho Brahe: the Data</h2>
 
 > Everything starts somewhere, though many physicists disagree.
 >                                  -Terry Pratchett
@@ -25,18 +25,27 @@ But this is the real world, not a story. You were promised eccentric geniuses, n
 
 Tycho loses the dual.
 
-Obviously, Tycho doesn't die. But his nose gets cut off. Maybe he was a later bloomer and became a genius later in life. Because at this point, he is bleeding in the dark. And we are some hundreds [?] of years before modern hospitals or germ theory. So young Tycho loses the nose, and for the next 34 years of his life he has to walk around without it. Prone to infections, and probably hard to look at, Tycho has a brass nose made. On special occassions he breaks out a silver or a gold one.
+Obviously, Tycho doesn't die. But his nose is cut completely off. Maybe he was a later bloome and became a genius later in life. Maybe the the moral here is that everyone is an idiot when they're young. But at this point, he is bleeding in the dark. And we are some hundreds [?] of years before modern hospitals or germ theory. So young Tycho loses the nose, and for the the rest of his short life he has to walk around without it. Prone to infections [?], and probably hard to look at, Tycho has a brass nose made. On special occassions he straps a silver or even a gold nose onto his face.
+
+* Father dies 1571
+* 1576-1580 - Uraniborg was built: an observatory on the island of Ven (~18km or 11 miles from Copenhagen)
+    * Uraniborg didn't have telescopes!
+    * His sister Sophie helped him.
+* 1572 Tycho sees a super nova (the heavens are not unchanging) - Using parallax he could say it was farther away from the Earth than the Moon
+* 1575 Tycho turns down castles and lordships from the Danish King. He wants to remain a scholar
+* 50 families lived on Ven, but he became their lord. Made them farm double what they had, and conscripted them into forced labor to build his beautiful castle to astronomy (not war)
+* from 1576 to 1597, he had over 100 students and artisans. He had a printing press and various alchemy equipment.
 
 * [Tycho Brahe](https://en.wikipedia.org/wiki/Tycho_Brahe) spent his life collecting data on the positions of the planets in the sky.
 
 
-<h2 style="text-align: center;">Johannes Kepler</h2>
+<h2 style="text-align: center;">Johannes Kepler: the Patterns</h2>
 
 * [Johannes Kepler](https://en.wikipedia.org/wiki/Johannes_Kepler) found patterns in that data, in the [Laws of Planetary Motion](https://en.wikipedia.org/wiki/Kepler%27s_laws_of_planetary_motion).
     * https://en.wikipedia.org/wiki/Maulbronn_Monastery
 
 
-<h2 style="text-align: center;">Isaac Newton</h2>
+<h2 style="text-align: center;">Isaac Newton: the Theory</h2>
 
 * [Issac Newton](https://en.wikipedia.org/wiki/Isaac_Newton) found the underlying laws of nature from those patterns: Graviation.
 
