@@ -22,25 +22,37 @@ Goal: narrative. Short Vignettes.
 * 110F in the shade
 * alone, no hospital
 
+## Main Story
+
+* My summer at the Observatory
+  * I graduate and make the trip (need the money, everything I own in my car)
+  * I get there; just a maintanence guy
+  * I call the new prof, get orders, and start fixing things
+  * Professor drops in, gets drunk
+  * Crazy things happen
+  * I leave to go to grad school
+  * epilogue: meth heads
+
+
+### Side Stories
+
+* None, just all the wacky things that happened.
+
 ## Events
 
-### black widows and rattlesnakes --> engine degreaser, I love rattlesnakes
+### black widows and engine degreaser
 
 TODO
 
-### stuck in the elevator
+<!--
+
+### M is an alcholic
 
 TODO
 
-### not gonna fight off a pack of wild dogs
-
-TODO
+-->
 
 ### melting a truck
-
-TODO
-
-### site truck stolen, copper pillaged, observatory shut down
 
 TODO
 
@@ -92,10 +104,15 @@ It turned out later, I was right. They were married within a year. They only kep
 
 I found it was hard to sleep in a round bed. And I found the pillow also smelled like dog. But it could not have mattered less; I slept like the dead.
 
-<!--
-### M is an alcholic
+### I actually love rattlesnakes
 
 TODO
+
+### stuck in the elevator
+
+TODO
+
+<!--
 
 ### car accident: dehydration, no water, boxed wine, sleepy, put me in a car, woke up in a ditch
 
@@ -103,26 +120,19 @@ TODO
 
 -->
 
-## Main Story
+### not gonna fight off a pack of wild dogs
 
-* My summer at the Observatory
-  * I graduate and make the trip (need the money, everything I own in my car)
-  * I get there; just a maintanence guy
-  * I call the new prof, get orders, and start fixing things
-  * Professor drops in, gets drunk
-  * Crazy things happen
-  * I leave to go to grad school
-  * epilogue: meth heads
+I was driving from the motel to the 
 
 
-### Side Stories
+### site truck stolen, copper pillaged, observatory shut down
 
-* None, just all the wacky things that happened.
+TODO
 
 
 ## References
 
-* [weather](https://www.usclimatedata.com/climate/barstow/california/united-states/usca0069)
+* [weather](https://weatherspark.com/h/s/1924/2005/1/Historical-Weather-Summer-2005-in-Barstow-California-United-States)
 
 
 <br/><br/><br/>
