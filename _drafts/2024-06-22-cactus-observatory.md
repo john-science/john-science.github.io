@@ -44,6 +44,10 @@ Goal: narrative. Short Vignettes.
 
 TODO
 
+### Local Meth Town?
+
+TODO
+
 <!--
 
 ### M is an alcholic
@@ -78,7 +82,7 @@ I was silent for a minute. For the next three months, he was my only employment.
 
 "It's not optional. The meeting is at 9:30AM on Friday. Be there. Bye," he said and hung up.
 
-I looked around. I was alone on an industrial site, probably 7km from the nearest living person. Grad school would start in three months and I already had an advisor on the hook; this was good for me. In a better run universe a tumbleweed would have blown by. But I looked over and the chain link fence that surrounded the facility was still covered in tumbleweeds that had blown across the desert and had gotten stuck in the links. Shit. There was nothing for it, I would have to make the drive.
+I looked around. I was alone on an industrial site, probably 7km (4 miles) from the nearest living person. Grad school would start in three months and I already had an advisor on the hook; this was good for me. In a better run universe a tumbleweed would have blown by. But I looked over and the chain link fence that surrounded the facility was still covered in tumbleweeds that had blown across the desert and had gotten stuck in the links. Shit. There was nothing for it, I would have to make the drive.
 
 The next two days were about the same as usual. I killed a couple dozen black widows, but I ran out of bug spray so I was using the engine degreaser I used on the big motors that ran the mirrors. It orange and foamed up when you sprayed it, and it had a distinctly toxic smell to it. I was really happy with my discovery. Unlike bug spray that killed the bugs _eventually_, with the engine degreaser you would see the spiders disolve right before your eyes.
 
@@ -112,6 +116,8 @@ TODO
 
 TODO
 
+TODO: Add-in: swatting black widows by hand
+
 <!--
 
 ### car accident: dehydration, no water, boxed wine, sleepy, put me in a car, woke up in a ditch
@@ -122,7 +128,103 @@ TODO
 
 ### not gonna fight off a pack of wild dogs
 
-I was driving from the motel to the 
+It was early, but already sunny and warm. It was perfect weather, which isn't a good sign for 6AM; you could tell it was going to be a hot day. But the 25-minute commute from the motel to the observatory was painless. There was never any rush hour traffic way out here. I had been doing the same routine for three months, and was going through my morning on auto pilot. I stopped, got out of the car, unlocked the gates, drove in, stopped, locked the gates behind me, got back in the car, and drove to the central control building. Auto pilot.
+
+When I drove up main door (the only door) to the control building there was a pack of wild dogs sitting out front.
+
+I thought, "Okay, that's new. But how did they get past the gate? Okay there must be a hole in the chain link fence that surrounds the observatory. That's not a surprise, the facility is old and poorly maintained and has at least 4 km of chain link fence that have been sitting in the desert for 20 years. But, okay, I really like dogs. Not a big deal."
+
+I honked my car horn, once, briefly.
+
+All fifteen dogs completely failed to jump up and run away. Most of them continued napping.
+
+So I drove a few feet closer to them and honked again, this time for longer.
+
+One of the dogs that were pacing around looked at my briefly while pacing.
+
+Okay. I remembered that there was definitely not a single other living soul with 7km (4 miles). I could lay on that horn all day an no one would notice.
+
+So I drove a bit closer to them, careful not to run any of them over. And I really leaned on that car horn. It went on a really, really obnoxiously long time.
+
+I expected them to run. They were feral though, maybe they would bark or snap or growl. Maybe their hackles would raise.
+
+Nothing. The dogs did a great impression of pretending they couldn't hear me. Several of them were still pretending to be sleeping.
+
+I was stumped.
+
+They were clearly dogs. They were not wolves or coyotes.
+
+I looked around. Maybe some meth head had brought a big pack of dogs into the facilty? I did not see any other cars around, and you would have to drive to get this far out into the desert.
+
+I thought, "I could just get out and go to work. It would probably be fine. And I really need this job."
+
+I thought some more. Mostly about how I was 35 km (20 miles) from the nearest hospital, and I was locked alone in a gated facility.
+
+I absent-mindedly pressed the horn some more, but my heart wasn't really in it.
+
+Then I remembered I could call the site maintenance guy. Great. Maybe this happened all the time, and he would have a better idea. So I got out my phone and called him.
+
+Eventually he picked up.
+
+"Hey Jon, it's John, out at Solar 2," I said, suddenly chipper.
+
+"Oh, hey Jon. What's up? You burn the place down while I was gone?" he responded.
+
+"Not yet. But, hey, I got out to here today and there is a pack of wild dogs blocking the entrance to the control building. Have you seen that before? I asked, more casual than I felt?
+
+He laughed. "What? Like Coyotes?" he asked.
+
+"No, no, just dogs. But there are like 15 of them, and I'm still in the car becuase they just aren't running off," I said. And waited for a response.
+
+"Did you try honking the horn?"
+
+"Yep. A lot, actually," I said. And laid on the horn as evidence. One dog might have noticed, but he also might have just been scratching himself.
+
+"Huh. Nope, that's a new one on me," he said. My hopes sank.
+
+"Okay, well, when you get in today, you'll get to see it for yourself," I said.
+
+"Oh, sorry. No. I won't be coming in today. Or tomorrow. I'm in the city for a couple days," he said. I never found out if "the city" was Las Vegas or Los Angeles.
+
+"Shit. Okay. Well, I'll figure something out. Sorry to bother you. Have a good time in the city," I said.
+
+"No problem. No problem. I'm sure they'll run off sooner or later," he said. I took a look at the dogs, and they seemed pretty comfortable in the shade. I had my doubts.
+
+We said our various good byes and hung up.
+
+I honked the horn again while I was thinking.
+
+The problem was I did not know where the hole in the fence was. I had spent 50-60 hours per week here for three months and I had never seen it. Maybe they just dug a new hole underneathe the fence. Either way, even if I could get them to run away, they were trapped in the facility with me. And they would need to decide to run out of the fence line. They could just as easily run far away from me and hide behind some equipment a few kilometers away where I could not see them.
+
+I guess I could drive around the fence line, and look for the whole. Unless it was really obvious, that would take a couple of hours. Then, if I could find a way to chase them off, I just had to chase them toward the hole, and then block it behind them with something heavy.
+
+I pictured what it would look like to try and chase 15 different dogs at the same time. Even in my imagination I looked stupid trying.
+
+I hit the horn once for emphasis.
+
+Eventually, I decided I would just call my advisor and tell him I am taking the morning off. I could come back after lunch, and hopefully they would have gotten bored and run off. I called the professor.
+
+After four or five rings, he picked up. "Hello," he said. He sounded annoyed.
+
+I made my tone as friendly and casual as I could, and said "Hey, Mani! It's John. I'm trying to get into the control room, but there is a pack of wild dogs gaurding the entrance. They aren't running off when I get close to them with the car or honk the horn. And Jon the maintenance guy isn't coming in for a couple days. So I think I'm going to take the morning off, and come back after lunch. If that's all right."
+
+"Absolutely not. You are getting paid to work. Work," he said.
+
+I thought about how I was getting paid for 20 hours a week and working 60 or 70, and was probably making about two dollars an hour. But I kept it to myself.
+
+"Well, it's a pack of wild dogs. There's 15 of them. I'm not going to fight a pack of wild dogs," I said, in an appeal to reason.
+
+"Run them over with the car, for all I care. But stop bothering me, I am a busy man. Go to work," he said, and hung up.
+
+My thoughts were unprintable.
+
+I looked at the dogs again, and thought I was probably over-reacting. It certainly seemed like they planned on ignoring me.
+
+Then I thought about the summer I had spent working for Professor Asshole.
+
+I decided to leave.
+
+I turned the car around, and left. I did not have any money, but I had some books I could read back at the motel I could read. It would not be an exciting day, but in a week I would be leaving forever and making the seven hour drive to Davis one last time. I would be starting graduate school in physics, and my life would be totally different.
 
 
 ### site truck stolen, copper pillaged, observatory shut down
