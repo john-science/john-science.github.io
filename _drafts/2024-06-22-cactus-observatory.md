@@ -48,6 +48,10 @@ TODO
 
 TODO
 
+### The Site Truck
+
+TODO
+
 <!--
 
 ### M is an alcholic
@@ -229,7 +233,13 @@ I turned the car around, and left. I did not have any money, but I had some book
 
 ### site truck stolen, copper pillaged, observatory shut down
 
-TODO
+For reasons passing explaination, the observatory could only run in summer. In winter, the conditions just weren't right. So I went to class for the winter months, and spent my time in the lab preparing for the next summer. We ran simulations and models, and prepared for our next summer in observation. But towards the end of the summer we got the news.
+
+The observatory had been destroyed.
+
+You see, the observatory was outside the town of Daggett, California (population about 200), which was outside the city of Barstow, California (population about 20,000). But even further in the desert there was a little town called Yermo, California where the population might be anywhere from 100 to 1,000, depending on the time of year. Apparently, Yermo famously had a couple of transient communities known for producing methamphetamines.
+
+And we left the site essentially unguarded for 6 months every year, and the locals all knew that. So, at some point during the winter, ...
 
 
 ## References
