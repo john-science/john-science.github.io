@@ -33,22 +33,30 @@ Goal: narrative. Short Vignettes.
   * I leave to go to grad school
   * epilogue: meth heads
 
-
 ### Side Stories
 
-* None, just all the wacky things that happened.
+* None: just all the wacky things that happened.
+
 
 ## Events
+
+### Arriving
+
+TODO: The drive, and the excited optimism youth
 
 ### black widows and engine degreaser
 
 TODO
 
-### Local Meth Town?
+### The Site Truck
 
 TODO
 
-### The Site Truck
+### Zombie paranoia?
+
+TODO: maybe
+
+### Local Meth Town?
 
 TODO
 
@@ -231,7 +239,7 @@ I decided to leave.
 I turned the car around, and left. I did not have any money, but I had some books I could read back at the motel I could read. It would not be an exciting day, but in a week I would be leaving forever and making the seven hour drive to Davis one last time. I would be starting graduate school in physics, and my life would be totally different.
 
 
-### site truck stolen, copper pillaged, observatory shut down
+### copper pillaged, observatory shut down
 
 For reasons passing explaination, the observatory could only run in summer. In winter, the conditions just weren't right. So I went to class for the winter months, and spent my time in the lab preparing for the next summer. We ran simulations and models, and prepared for our next summer in observation. But towards the end of the summer we got the news.
 
@@ -239,12 +247,23 @@ The observatory had been destroyed.
 
 You see, the observatory was outside the town of Daggett, California (population about 200), which was outside the city of Barstow, California (population about 20,000). But even further in the desert there was a little town called Yermo, California where the population might be anywhere from 100 to 1,000, depending on the time of year. Apparently, Yermo famously had a couple of transient communities known for producing methamphetamines.
 
-And we left the site essentially unguarded for 6 months every year, and the locals all knew that. So, at some point during the winter, ...
+And we left the site essentially unguarded for 6 months every year, and the locals all knew that. So, at some point during the winter, some meth heads got into the facility and spent at least days pulling out all the copper wiring. They particularly went for the big copper wires in the ground that ran from the control building to the mirrors.
+
+They destroyed a 20 million dollar facility, and in the end only made a few hundred dollars.
+
+It would have cost at least a million dollars to repair all the damage, since they just tore things apart at random to get the copper out. And our little project did not have the money.
+
+I immediately realized that I had spent a year in a graduate program on a project that did not exist any more. So it would take me at least another year to graduate; I lost a year of my life.
+
+Professor T took it pretty hard. The project was his baby, and it was gone. The second time in his career he had sufferred a serious blow. He did not come to campus much at all that summer. He drank himself into a heart attack at 48.
 
 
 ## References
 
 * [weather](https://weatherspark.com/h/s/1924/2005/1/Historical-Weather-Summer-2005-in-Barstow-California-United-States)
+* https://www.nps.gov/moja/learn/nature/reptiles.htm
+* https://en.wikipedia.org/wiki/Crotalus_scutulatus
+* https://en.wikipedia.org/wiki/Salvadora_hexalepis
 
 
 <br/><br/><br/>
