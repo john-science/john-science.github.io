@@ -8,7 +8,7 @@ summary: Alone in the decaying industrial ruins of a high-energy physics observa
 
 Goal: narrative. Short Vignettes.
 
-[Wikipedia](https://en.wikipedia.org/wiki/CACTUS)
+[CACTUS on Wikipedia](https://en.wikipedia.org/wiki/CACTUS)
 
 * Summer, 2005
 
@@ -28,7 +28,7 @@ Goal: narrative. Short Vignettes.
   * I graduate and make the trip (need the money, everything I own in my car)
   * I get there; just a maintanence guy
   * I call the new prof, get orders, and start fixing things
-  * Professor drops in, gets drunk
+  * Professor A drops in, gets drunk
   * Crazy things happen
   * I leave to go to grad school
   * epilogue: meth heads
@@ -44,13 +44,52 @@ Goal: narrative. Short Vignettes.
 
 TODO: The drive, and the excited optimism youth
 
+> Earth, 2005
+
+I had just graduated college in Texas, and was moving off to physics graduate school in California. I was excited to learn the deep secrets of the universe that I could not learn with mere undergraduate physics classes.
+
+I was packing eveything I owned into a compact-sized car to move to California. My little Ford Probe was 15 years old and did not really have a trunk. So I folded the back seats down and played a 4-hour game of Tetris, getting as many things as possible into the car.
+
+It was a 21-hour drive from Austin to the observatory in Barstow and my car had no air conditioning. It was June, and I would be crossing the Chihuahuan Desert, the Sonoran Desert, and the Mojave Desert.
+
+I determined that I could make the drive in two days. And I was too broke to pay for a hotel, so I would just sleep in my car for one night. I would find somewhere off the highway, in the desert, and just sleep in the driver's seat. The other seats would be full, of course. I was not looking forward to the drive. The only thing I had to look forward to was Carlsbad Caverns. They were eight hours from Austin, so I should be able to see them on the first day, and then find somewhere nearby to sleep.
+
+I packed the car the night before, and crashed at a friend's place.
+
+I woke up bright and early, to get started driving before it got hot. As I drove out of Austin I was sad to see it go. And I felt homeless and unanchored. But excited too.
+
+The first eight hours of the drive were through West Texas. If you have never done this, imagine one of those scenes in an old Western movie with the tumbleweeds rolling across a dry barren landscape. Now imagine that for eight hours.
+
+It was a long first day on the road, but as soon as I left Texas I saw signs for Carlsbad Caverns National Park. Suddenly I was excited again. I was on vacation. I had never been in a big cave, and these were supposed to be some of the most beautiful caves in the world. And, more importantly, they should be cold and dark. A welcome change over the desert heat blasting me in the car all day.
+
+
+# TODO: Carlsbad Caverns
+
+# TODO: Sleeping a car too full to lean the seat back
+
+# TODO: Meeting in the Walmart partking lot in 110F weather
+
+
 ### black widows and engine degreaser
 
 TODO
 
 ### The Site Truck
 
-TODO
+The observatory has something we called the "site truck". If you were on site, and you needed to haul equipment around, you used the truck. It was just an old, white Ford truck. It was kind of small, and not fancy in any way. It also didn't have license plates. Or locks on the doors. And it had been permanently hot-wired so you didn't need a key to drive it. You just jumped in, turned the ignition by hand, and off you went.
+
+It was really convenient for getting around the site. We treated it like a large golf cart, you just jumped in and off you went.
+
+Of course, even golf carts usually have keys. And turn signals.
+
+The students were told not to take the site truck off site for any reason. We were told, and all certainly believed, it could not get up to highway speeds, and it would be dangerous to try. Of course, the truck was not street legal, and we all wondered if it was stolen. I looked one day, and the VIN number had been scratched off.
+
+
+### Meet the Prof
+
+TODO: He gets drunk and I have to drive him back.
+
+TODO: I did get the odd other student to help out now and then.
 
 ### Zombie paranoia?
 
@@ -58,15 +97,8 @@ TODO: maybe
 
 ### Local Meth Town?
 
-TODO
+TODO: Maybe
 
-<!--
-
-### M is an alcholic
-
-TODO
-
--->
 
 ### melting a truck
 
@@ -74,7 +106,7 @@ TODO
 
 ### Force me to drive 7 hours (each way) for a 5-minute meeting
 
-It was 43C (110F) in the shade, because of course it was. I had sweat completely through my t-shirt. It was black, cotton, and said "Talk Nerdy to Me" on it. On better days it was my favorite t-shirt, that day it was disgusting. It was the end of a long day of fixing engines and electronics and I was tired. My phone rang and when I checked the little screen on the outside it said Professor M was calling. I got excited to tell him about the day's progress and answered quickly.
+It was 43C (110F) in the shade, because of course it was. I had sweat completely through my t-shirt. It was black, cotton, and said "Talk Nerdy to Me" on it. On better days it was my favorite t-shirt, that day it was disgusting. It was the end of a long day of fixing engines and electronics and I was tired. My phone rang and when I checked the little screen on the outside it said Professor A was calling. I got excited to tell him about the day's progress and answered quickly.
 
 "Ah, you're there, good," he said when I picked up the phone.
 
@@ -255,7 +287,7 @@ It would have cost at least a million dollars to repair all the damage, since th
 
 I immediately realized that I had spent a year in a graduate program on a project that did not exist any more. So it would take me at least another year to graduate; I lost a year of my life.
 
-Professor T took it pretty hard. The project was his baby, and it was gone. The second time in his career he had sufferred a serious blow. He did not come to campus much at all that summer. He drank himself into a heart attack at 48.
+Professor A took it pretty hard. The project was his baby, and it was gone. The second time in his career he had sufferred a serious blow. He did not come to campus much at all that summer. He drank himself into a heart attack at 48.
 
 
 ## References
