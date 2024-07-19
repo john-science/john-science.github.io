@@ -65,6 +65,8 @@ It was a long first day on the road, but as soon as I left Texas I saw signs for
 
 # TODO: Carlsbad Caverns
 
+* 13 C (56 F) and humid
+
 # TODO: Sleeping a car too full to lean the seat back
 
 # TODO: Meeting in the Walmart partking lot in 110F weather
