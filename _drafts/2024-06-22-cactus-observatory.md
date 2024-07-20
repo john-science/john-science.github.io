@@ -42,7 +42,7 @@ Goal: narrative. Short Vignettes.
 
 ### Arriving
 
-TODO: The drive, and the excited optimism youth
+TODO: Edit: The story isn't mean to be about ME. Maybe this isn't where it starts. Maybe it should start in Barstow.
 
 > Earth, 2005
 
@@ -60,14 +60,15 @@ I woke up bright and early, to get started driving before it got hot. As I drove
 
 The first eight hours of the drive were through West Texas. If you have never done this, imagine one of those scenes in an old Western movie with the tumbleweeds rolling across a dry barren landscape. Now imagine that for eight hours.
 
-It was a long first day on the road, but as soon as I left Texas I saw signs for Carlsbad Caverns National Park. Suddenly I was excited again. I was on vacation. I had never been in a big cave, and these were supposed to be some of the most beautiful caves in the world. And, more importantly, they should be cold and dark. A welcome change over the desert heat blasting me in the car all day.
+It was a long first day on the road, but as soon as I left Texas I saw signs for Carlsbad Caverns National Park. Suddenly I was excited again. I was on vacation. I had never been in a big cave, and these were supposed to be some of the most beautiful caves in the world. And, more importantly, they should be cold and dark after the desert heat baking me all day.
 
+I got to the caverns for the last tour of the day. I was sweaty, tired, thirsty, and my eyes were dry, but I got there. I stood in line to buy my tickets, looking at the amazing, otherworldly photos of strange rock spires. I realized my eyes were actually really dry and bothering me. But I powered through and got a ticket. And I took the elevator down 230 m (750 ft) down, with my small tourist group.
 
-# TODO: Carlsbad Caverns
+The first thing that happened when the long elevator ride was over is both my contacts popped out. And the park ranger wouldn't take me back up the elevator. So I was stuck, blind, in the dark. Eventually, two little old ladies took me by the hand and lead in a half hour tour of the caverns. I couldn't see anything, and tripped a couple times, but they really tried their best. Eventually, when they were done with their own tour, they took me back up the elevator and we left. My glasses were in the car.
 
-* 13 C (56 F) and humid
+The caverns were closed for the day behind me, and I had a long drive the next day, so I never got to see the Carlsbad Caverns.
 
-# TODO: Sleeping a car too full to lean the seat back
+I drove out of the national park and a bit down the highway until it got dark, and I pull off on a dirt road and slept. The car was too full to put the driver's seat down at all, so I slept sitting up.
 
 # TODO: Meeting in the Walmart partking lot in 110F weather
 
