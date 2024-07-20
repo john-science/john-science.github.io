@@ -40,11 +40,11 @@ Goal: narrative. Short Vignettes.
 
 ## Events
 
-### Arriving
+### Traveling to Barstow
 
 TODO: Edit: The story isn't mean to be about ME. Maybe this isn't where it starts. Maybe it should start in Barstow.
 
-> Earth, 2005
+> Earth, 2004
 
 I had just graduated college in Texas, and was moving off to physics graduate school in California. I was excited to learn the deep secrets of the universe that I could not learn with mere undergraduate physics classes.
 
@@ -70,8 +70,9 @@ The caverns were closed for the day behind me, and I had a long drive the next d
 
 I drove out of the national park and a bit down the highway until it got dark, and I pull off on a dirt road and slept. The car was too full to put the driver's seat down at all, so I slept sitting up.
 
-# TODO: Meeting in the Walmart partking lot in 110F weather
+### Arriving in Barstow
 
+TODO: Meeting in the Walmart partking lot in 110F weather
 
 ### black widows and engine degreaser
 
