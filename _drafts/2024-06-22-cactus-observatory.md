@@ -74,22 +74,23 @@ I drove out of the national park and a bit down the highway until it got dark, a
 
 > TODO: Clean up audio notes
 
-It was June, 2004 when I graduated from college.  physics, I was excited. I was living in Austin, Texas, but I'd gotten a graduate school position in California. School didn't start until September though. So I had three months to kill. I also needed money in a job to get through those three months and I was thrilled.
+In 2004 I got my undergradatue in physics in Texas and got into a graduate school in California. I needed a job for the summer, and found one at an observatory a professor in my new graduate department ran. I was thrilled. Sure, I really needed the money to get through the summer, but I was starting graduate research before I had even started graduate school.
 
-00:22
-I found an advisor physics. Professor At my graduate program who was running an experiment, a high energy physics, Observatory all summer long, in Barstow California. So I had a job and I was getting started in grad school before classes even started already had an advisor and had research And Prospects, I couldn't have been happier.
+The observatory was a strange high energy physics experiment, built out of an old experimental solar power plant in the desert outside Barstow. I had never heard of anything like it. And that was exciting. Moving off to physics graduate school surely meant learning deep truths about the universe that you just could not learn in undergraduate. And here was this strange experiment that made no sense; I was going to be learning strange new things. I could not have been happier.
 
-00:46
-I mean I could have been a little happier, I had to make a 21-hour drive from Austin, Texas to Barstow California in June in a compact sized car with no air conditioning. I had to drive through three deserts to get there. But I was thrilled anyway and I did the drive in a car with no air conditioner and every possession I owned in a compact sized vehicle, I was feeling kind of homeless and sad and tired.
+I mean I could have been a little happier; I had to make the 21-hour drive from Austin, Texas to Barstow, California in June in a car with no air conditioning. I had to drive through the Chihuahuan Desert, the Sonoran Desert, and the Mojave Desert to get there.
 
-01:13
-And But I was excited about graduate school, about learning more deep physics than I've ever gotten a chance to learn and just undergraduate physics. Learning the secrets of the Universe. I thought. So, I made the drive in summer by myself. And when I got there and I got to Barstow, the observatory was empty and I couldn't get in and I called my princess, my advisor and Professor a told me now, he wouldn't be there for two or three weeks, but the maintenance guy was on staff and he'd show me some of the work that needed to get done the next two or three weeks before we got there.
+Excited as I was, I still felt kind of homeless as I packed everything I owned into a compact car and set out on the drive.
 
-01:48
-So, I thought great. I got the maintenance guys. John, I got his phone number. And I called him and he said to meet me in the Super Walmart in town. So I drove the 20 minutes from the 30 minutes from The Observatory of the Super Walmart in Barstow and Met him in the parking lot and after an hour or two he showed up And an old pickup truck kind of older maybe middle-aged man.
+When I got to Barstow, the observatory gate was locked, so I called Professor A who said he would not be there for two or three weeks. He told me to call the maintenance guy, who would show me what needed to get done in the mean time.
 
-02:16
-Clearly been working out as a maintenance guide observatory for a long time. Clearly a native We made our small talk in our greetings. He had me follow him in my car out to the observatory again. And he unlocked the gate and he gave me a spare key to the front gate surrounded the facility and I saw the cactus Observatory for the first time And it's not like any other Observatory in the world.
+In high spirts, I called the maintenance guy, Jon, and he told me to meet him at the Super Walmart in town. So I drove the 30 minutes back from the observatory, and waiting in the parking lot. A couple hours later Jon showed up in an old pick-up truck. He was clearly a retired man, who only did maintenance on the observatory to keep busy. In new jeans and an old t-shirt, he was drinking Coke from a Big Gulp. As the Summer went on, I noticed he drank four Big Gulp's a day.
+
+We made our introductions and small talk. He had me follow him in my car back out to the observatory. He unlocked the gate and gave me a key. I was amazed that on my first day I would have one of the only keys to a several million-dollar facility. I swelled with pride. Later on, I considered this a red flag. Not the first.
+
+I saw the CACTUS observatory for the first time, and it was not like any other observatory in the world. 
+
+> TODO: continue description
 
 02:48
 It is. At the center of a two mile perimeter converted to kilometers. Fence. Uh, steel Tower 100 millimeters, tall, all metal, scaffolding and surrounding that, for a couple of kilometers in every direction. Or giant mirrors. 20 foot by 20 foot square mirrors. All of them on pivots. 15 feet, tall convert to kilometers.
