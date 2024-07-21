@@ -84,6 +84,8 @@ Excited as I was, I still felt kind of homeless as I packed everything I owned i
 
 When I got to Barstow, the observatory gate was locked, so I called Professor A who said he would not be there for two or three weeks. He told me to call the maintenance guy, who would show me what needed to get done in the mean time.
 
+> TODO: SKip Jon's intro here
+
 In high spirts, I called the maintenance guy, Jon, and he told me to meet him at the Super Walmart in town. So I drove the 30 minutes back from the observatory, and waiting in the parking lot. A couple hours later Jon showed up in an old pick-up truck. He was clearly a retired man, who only did maintenance on the observatory to keep busy. In new jeans and an old t-shirt, he was drinking Coke from a Big Gulp. As the Summer went on, I noticed he drank four Big Gulp's a day.
 
 We made our introductions and small talk. He had me follow him in my car back out to the observatory. He unlocked the gate and gave me a key. I was amazed that on my first day I would have one of the only keys to a several million-dollar facility. I swelled with pride. Later on, I considered this a red flag. Not the first.
@@ -99,6 +101,13 @@ At least, that was the goal. The mirrors had been rotting in the desert for 30 y
 I quickly found out this was going to be a long summer full of manual labor, alone in the desert heat. It was not what I thought learning the deep secrets of the universe looked like. It seemed like I would not do any studying over the summer. But I had to start somewhere, so that was fine.
 
 And I had a few weeks to learn the ropes, and make as much progress as I coule before the rest of the research group showed up to start helping.
+
+### Jon
+
+Jon was in his late middle ages and always wore brand new jeans and a black t-shirt. Middle aged or not, he had thick, dark hair, which was usually a total mess. He was not super friendly or out-going, but he was nice enough. He had worked for Southern California Edision for decades, and had worked at the site when it was still a power plant. He was retired now, and just worked at the observatory for one day a week as kind of a hobby. He loved his pick-up truc, and every time I ever saw him he had a 7-Eleven Big Gulp of Coca-Cola in his front seat. He drank at least four of them every day. He once told me, "I try not to drink water," which must be hard what you live in the desert.
+
+> TODO: Working alone? What I learned over the next few weeks though, was that John was not a full-time employee. He wasn't there, 40 or 60 hours by a week. Like, I was now he was just there, occasionally 20 hours a week, probably less one day a week. They didn't pay him to be full time and he didn't want to work full time.
+
 
 ### black widows and engine degreaser
 
@@ -123,10 +132,7 @@ The students were told not to take the site truck off site for any reason. We we
 
 > TODO: Clean up audio notes
 
-John the maintenance guy I had learned later. Have been there 30 years, Southern California, Edison, the power company had moved him there 30 years before him so he could Would be one of the many people who worked on the project when it was active.
-
-00:25
-But now, everyone else had left and the company just needed one person to stay behind to Make sure the place wasn't. Brand's actor, robbed to keep the fence and all the To do basic maintenance and watch over it and he was semi-retired. So that seemed fine for him because he had a house and a family nearby.
+> TODO: John the maintenance guy I had learned later. Have been there 30 years, Southern California, Edison, the power company had moved him there 30 years before him so he could Would be one of the many people who worked on the project when it was active. By now, everyone else had left and the company just needed one person to stay behind to Make sure the place wasn't. Brand's actor, robbed to keep the fence and all the To do basic maintenance and watch over it and he was semi-retired. So that seemed fine for him because he had a house and a family nearby.
 
 00:48
 What I learned over the next few weeks though, was that John was not a full-time employee. He wasn't there, 40 or 60 hours by a week. Like, I was now he was just there, occasionally 20 hours a week, probably less one day a week. They didn't pay him to be full time and he didn't want to work full time.
