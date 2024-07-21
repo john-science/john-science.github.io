@@ -88,34 +88,21 @@ In high spirts, I called the maintenance guy, Jon, and he told me to meet him at
 
 We made our introductions and small talk. He had me follow him in my car back out to the observatory. He unlocked the gate and gave me a key. I was amazed that on my first day I would have one of the only keys to a several million-dollar facility. I swelled with pride. Later on, I considered this a red flag. Not the first.
 
-I saw the CACTUS observatory for the first time, and it was not like any other observatory in the world. 
+I saw the CACTUS observatory for the first time, and it was not like any other observatory in the world.
 
-> TODO: continue description
+At the center there, there is a 100 meter (300 foot) tower, all simple metal grating staircases with a single white room on top. Around that, for a couple kilometers (1 mile) in every direction are 6m x 6m (20 ft x 20 ft) mirrors on big pedestals. Originally, the site was a solar power research facility, where they would focus the blistering desert sunlight on a water tank at the top of the tower to generate electricity. But, apparently, that research did not pan out. So it had been converted into a giant telescope. It was run at night, using the 2,000 mirrors to focus on a giant telescope in the top of the tower.
 
-02:48
-It is. At the center of a two mile perimeter converted to kilometers. Fence. Uh, steel Tower 100 millimeters, tall, all metal, scaffolding and surrounding that, for a couple of kilometers in every direction. Or giant mirrors. 20 foot by 20 foot square mirrors. All of them on pivots. 15 feet, tall convert to kilometers.
+But they were not studying astronomy. But high energy particles that from deep space that hit the upper atmosphere and cause a thing called a Chernkov Shower.
 
-03:20
-So that they could focus the sunlight. On the tower, it had been Experimental solar power facility meant to focus the massive heat, the nasty heat of the Mojave Desert onto a water tank at the top of the tower. But after 20 years, they'd abandoned it the experiment didn't pan out and we had taken it over.
+At least, that was the goal. The mirrors had been rotting in the desert for 30 years; baking in the heat. And everything was broken. Each giant mirror was driving by a giant motor that needed maintenance. And every pedestal that held up a mirror was just a tall, steel tube with an access panel to an electronics control box. Every control box needed to be checked, and all of them needed repairs from minor maintenance, to a good hour soldering on replacement components.
 
-03:47
-And my professor had taken it over and Professor a and his team had taken it over. And instead of running it during the day, they ran all these big mirrors at night and they focused them on a giant telescope. The top of the tower. They were focusing the light from all the stars, the top of the tower and it A completely unique and weird telescope not meant to study astronomy.
+I quickly found out this was going to be a long summer full of manual labor, alone in the desert heat. It was not what I thought learning the deep secrets of the universe looked like. It seemed like I would not do any studying over the summer. But I had to start somewhere, so that was fine.
 
-04:11
-But to study astrophysics to watch high energy particles that collided with the upper atmosphere explode at night. Or at least that was the goal. The mirrors had been rotting in the desert for 30 years baking Under the Heat and everything was broken. Every giant motor that moved. The giant mirrors was had problems and needed repair and inside each pedestal that the mirror stood on top of was an electronic control box and all of them were rotting baked under the heat had electrical problems and needed repair in each pedestal was of course just a steel tube sitting out in the desert.
-
-04:50
-So it was basically a wildlife preserve. Every time you opened a tube, I learned therapy snakes or spider nests. The most common snakes and spiders. I'd see on site the black widows and rattlesnakes. I was told And so I got working and for a few hours, the maintenance guy showed me all the various ins and outs of fixing the electronics and the mechanical Motors that moved the arms.
-
-05:15
-I learned that this was going to be a long hard summer of manual. Labor out in 110 degree heat. Not. Maybe what I thought physics would look like. Maybe not Learning about Deep secrets of the universe that I thought physics would be studying, but I had to start somewhere.
-
-05:35
-And I had two or three weeks to make as much progress as I could before, the rest of the research group showed up to start helping.
+And I had a few weeks to learn the ropes, and make as much progress as I coule before the rest of the research group showed up to start helping.
 
 ### black widows and engine degreaser
 
-TODO
+> TODO: The observatory was basically a wildlife preserve. Every time you opened a tube, I learned therapy snakes or spider nests. The most common snakes and spiders. I'd see on site the black widows and rattlesnakes. I was told And so I got working and for a few hours, the maintenance guy showed me all the various ins and outs of fixing the electronics and the mechanical Motors that moved the arms.
 
 ### The Site Truck
 
@@ -209,6 +196,10 @@ I considered suggesting to him that stopping halfway up. To have a cigarette. Pr
 
 08:36
 And even though,...
+
+> TODO: The rest of the summer I had help, on and off. Undergrads and grads.
+> TODO: The undergrad was a body builder who wouldn't lift anything heavier than a textbook, because "it would ruin my training".
+> TODO: One of the grad students was the horniest Spanish man in the world.
 
 ### Zombie paranoia?
 
