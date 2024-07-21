@@ -72,7 +72,45 @@ I drove out of the national park and a bit down the highway until it got dark, a
 
 ### Arriving in Barstow
 
-TODO: Meeting in the Walmart partking lot in 110F weather
+> TODO: Clean up audio notes
+
+It was June, 2004 when I graduated from college.  physics, I was excited. I was living in Austin, Texas, but I'd gotten a graduate school position in California. School didn't start until September though. So I had three months to kill. I also needed money in a job to get through those three months and I was thrilled.
+
+00:22
+I found an advisor physics. Professor At my graduate program who was running an experiment, a high energy physics, Observatory all summer long, in Barstow California. So I had a job and I was getting started in grad school before classes even started already had an advisor and had research And Prospects, I couldn't have been happier.
+
+00:46
+I mean I could have been a little happier, I had to make a 21-hour drive from Austin, Texas to Barstow California in June in a compact sized car with no air conditioning. I had to drive through three deserts to get there. But I was thrilled anyway and I did the drive in a car with no air conditioner and every possession I owned in a compact sized vehicle, I was feeling kind of homeless and sad and tired.
+
+01:13
+And But I was excited about graduate school, about learning more deep physics than I've ever gotten a chance to learn and just undergraduate physics. Learning the secrets of the Universe. I thought. So, I made the drive in summer by myself. And when I got there and I got to Barstow, the observatory was empty and I couldn't get in and I called my princess, my advisor and Professor a told me now, he wouldn't be there for two or three weeks, but the maintenance guy was on staff and he'd show me some of the work that needed to get done the next two or three weeks before we got there.
+
+01:48
+So, I thought great. I got the maintenance guys. John, I got his phone number. And I called him and he said to meet me in the Super Walmart in town. So I drove the 20 minutes from the 30 minutes from The Observatory of the Super Walmart in Barstow and Met him in the parking lot and after an hour or two he showed up And an old pickup truck kind of older maybe middle-aged man.
+
+02:16
+Clearly been working out as a maintenance guide observatory for a long time. Clearly a native We made our small talk in our greetings. He had me follow him in my car out to the observatory again. And he unlocked the gate and he gave me a spare key to the front gate surrounded the facility and I saw the cactus Observatory for the first time And it's not like any other Observatory in the world.
+
+02:48
+It is. At the center of a two mile perimeter converted to kilometers. Fence. Uh, steel Tower 100 millimeters, tall, all metal, scaffolding and surrounding that, for a couple of kilometers in every direction. Or giant mirrors. 20 foot by 20 foot square mirrors. All of them on pivots. 15 feet, tall convert to kilometers.
+
+03:20
+So that they could focus the sunlight. On the tower, it had been Experimental solar power facility meant to focus the massive heat, the nasty heat of the Mojave Desert onto a water tank at the top of the tower. But after 20 years, they'd abandoned it the experiment didn't pan out and we had taken it over.
+
+03:47
+And my professor had taken it over and Professor a and his team had taken it over. And instead of running it during the day, they ran all these big mirrors at night and they focused them on a giant telescope. The top of the tower. They were focusing the light from all the stars, the top of the tower and it A completely unique and weird telescope not meant to study astronomy.
+
+04:11
+But to study astrophysics to watch high energy particles that collided with the upper atmosphere explode at night. Or at least that was the goal. The mirrors had been rotting in the desert for 30 years baking Under the Heat and everything was broken. Every giant motor that moved. The giant mirrors was had problems and needed repair and inside each pedestal that the mirror stood on top of was an electronic control box and all of them were rotting baked under the heat had electrical problems and needed repair in each pedestal was of course just a steel tube sitting out in the desert.
+
+04:50
+So it was basically a wildlife preserve. Every time you opened a tube, I learned therapy snakes or spider nests. The most common snakes and spiders. I'd see on site the black widows and rattlesnakes. I was told And so I got working and for a few hours, the maintenance guy showed me all the various ins and outs of fixing the electronics and the mechanical Motors that moved the arms.
+
+05:15
+I learned that this was going to be a long hard summer of manual. Labor out in 110 degree heat. Not. Maybe what I thought physics would look like. Maybe not Learning about Deep secrets of the universe that I thought physics would be studying, but I had to start somewhere.
+
+05:35
+And I had two or three weeks to make as much progress as I could before, the rest of the research group showed up to start helping.
 
 ### black widows and engine degreaser
 
@@ -91,22 +129,98 @@ The students were told not to take the site truck off site for any reason. We we
 
 ### Meet the Prof
 
-TODO: He gets drunk and I have to drive him back.
+> TODO: He gets drunk and I have to drive him back.
 
-TODO: I did get the odd other student to help out now and then.
+> TODO: I did get the odd other student to help out now and then.
+
+> TODO: Clean up audio notes
+
+John the maintenance guy I had learned later. Have been there 30 years, Southern California, Edison, the power company had moved him there 30 years before him so he could Would be one of the many people who worked on the project when it was active.
+
+00:25
+But now, everyone else had left and the company just needed one person to stay behind to Make sure the place wasn't. Brand's actor, robbed to keep the fence and all the To do basic maintenance and watch over it and he was semi-retired. So that seemed fine for him because he had a house and a family nearby.
+
+00:48
+What I learned over the next few weeks though, was that John was not a full-time employee. He wasn't there, 40 or 60 hours by a week. Like, I was now he was just there, occasionally 20 hours a week, probably less one day a week. They didn't pay him to be full time and he didn't want to work full time.
+
+01:05
+He was semi-retired So, most days I learned, I would be out there alone. Just me. Seven miles, I'm sorry, seven kilometers from the nearest living person in any One Direction you could see just open desert. From the facility. But I would be out there. Tuning Motors. Pulling heavy equipment above my head.
+
+01:29
+So I could work on the motors because the motors were 15 feet up, five meters up. I'd be working on the electronics, need to make sure that I turned off the power before I did that. And it was just me out there alone and a place that felt increasingly like a post-apocalyptic and a post-apocalyptic Movie.
+
+01:49
+In a place that felt more post-apocalyptic with each passing day because all the equipment was old and ignored, there were signs that people had been here decades beforehand. But no, it had been since everything was decaying and rotting and the paint plagued in the Sun. Cactuses and plants grew up around things.
+
+02:08
+Nothing was well maintained, it was all decaying and old in the heat, especially anything the observatory didn't actually need. I pictured. Zombies walking out from behind. The mirror pillars or zombies attacking me while I was in the control building alone, which is funny. It's funny that I was worried about zombies because There were actual dangers out of this out of the site.
+
+02:41
+I ran into black widows and rattlesnakes every day. Every time I opened up one of the five meter tall, 15 feet, steel pillars, that house, the electronics that run the motor, the motor that the mirrors were set on top of every single time, there was something new inside of it, usually a black widow nest, usually a black widow, but sometimes rattlesnakes sometimes snake nests.
+
+03:06
+Sometimes rats nests but not rarely rats. Didn't do well in the heat. Sometimes there were snakes I'd never seen before. Spiders, had never seen before the occasional Brown recluse. Sometimes these things popped out at you, the moment you owned the little maintenance panel on the side of the steel pillar.
+
+03:24
+But sometimes not sometimes you'd have to put your hand in there and shine a flashlight around to see the snakes, the bottom or to see where the weird black widow's nests were. They're shaped like a little golf balls made of. Brown cotton candy. And sometimes the Black Widow nest would be dead and would be opened and empty and you wouldn't see anything.
+
+03:49
+But on a couple of occasions, I'd open up one of these little steel patches and there would be hundreds of little baby black widows waiting for me. Or I'd open up a panel and immediately hear the hiss like rattle of a rattlesnake. Sometimes things popped out at me but sometimes I'd open up a panel and there'd be nothing.
+
+04:08
+And then I'd pull out the electronics, main, the electronics control box, and open that and there'd be something inside the control box. Usually only spiders lived in the control box. At first, I'd never seen a black widow before aren't there. Angular kind of terrifying. Looking spiders, full of pure black.
+
+04:30
+Spiders with a red hourglass on them, like a super villain in a movie. Like a super villain in a comic book. But, And so at first, I I asked John the maintenance guy if we had any bug spray and he looked at me kind of surprised and said, oh, you know, Probably.
+
+04:48
+He went into one of the warehouse buildings that I'd never seen opened before and probably never so opened again and he found the only can of bug spray in the entire site. And in the first week, I used to talk about it because I was trying to kill these black widows.
+
+05:01
+When I opened the box, But they didn't die immediately and I had to get work done. So I had spray too much. Bug poison on them, trying to kill them and eventually they'd die. But after a while, of course, I ran out of the bug spray. But I did have engine Degreaser to fix the big motors engines.
+
+05:21
+The size of the size of a small car motor that was on the top of the 15 foot pillar. And sometimes I need to use engine Degreaser to get those parts moving. And so one day, I tried spraying a little engine Degreaser. Uh, control box panel that had a black widow on it and the Black Widow dissolved.
+
+05:41
+Dissolved in front of my eyes inside the orange foam that the engine Degreaser created. And that was an exciting Discovery for me because I would never run an of engine Degreaser. We always needed it around to fix the engines. I'm told people can get used to anything. What surprised me out there alone in the middle of the Blazing hot heat suddenly becoming An engine mechanic.
+
+06:07
+Fighting black widows and running away from rattlesnakes and learning all the different snakes, the Mojave Desert, and spending my time alone in some post-apocalyptic decayed industrial facility, What I learned, what I was surprised to learn was that you get used to anything pretty quickly. The first day Professor a arrived at the observatory was exciting for me.
+
+06:30
+I was finally going to meet someone who worked at the observatory Other than the maintenance guy and I was told he got there a day before ever. I was told everyone else was going to get there. The restroom I was told the rest of the team would get there the following day.
+
+06:44
+So the first day was just me and him. He showed me around how to, actually run the controls that moved the mirrors from the control tower, and he talked about physics. It was all really exciting and I showed him the progress, I'd made and I, I showed him the big list of which mirrors work and which didn't, and which ones I had done maintenance for this season and which ones I hadn't and what our progress was looking like, and what made a timeline would be, like, take the whole facility running, it wouldn't happen this summer?
+
+07:10
+I said, And uh, we did a little work together. He, he worked long hard hours. He was a middle-aged Indian, man. Two thin smoked like a chimney. Every time we and on the first day, I took him, he took me to the top to the Tower for the first time because there was a special key to get into the Telescope room at the top of the tower and he finally had the key and let me in But it's 300.
+
+07:39
+It was 100 meters from the desert floor to the top of this Tower and it was all steel. Grating staircases that wound around you could see straight down to the the ground underneath you. It was windy and cool up there though, which I liked In the in the hundred meters to the stop.
+
+07:57
+And when he finally took me up to the top of the oh man. Uh, go back and fix all this phrasing. When he took me to the top of When he took me to the top of the tower, for the first time he had to stop halfway up to have a cigarette.
+
+08:16
+I considered suggesting to him that stopping halfway up. To have a cigarette. Probably wasn't actually helping since the problem was. He wasn't able to breathe well enough to do this. Do the hike up to the stairs, the stairs. But I decided I didn't tell him. Even though he couldn't breathe that well.
+
+08:36
+And even though,...
 
 ### Zombie paranoia?
 
-TODO: maybe
+> TODO: maybe
 
 ### Local Meth Town?
 
-TODO: Maybe
+> TODO: Maybe
 
 
 ### melting a truck
 
-TODO
+> TODO
 
 ### Force me to drive 7 hours (each way) for a 5-minute meeting
 
@@ -158,11 +272,11 @@ I found it was hard to sleep in a round bed. And I found the pillow also smelled
 
 ### I actually love rattlesnakes
 
-TODO
+> TODO
 
 ### stuck in the elevator
 
-TODO
+> TODO
 
 TODO: Add-in: swatting black widows by hand
 
@@ -170,7 +284,7 @@ TODO: Add-in: swatting black widows by hand
 
 ### car accident: dehydration, no water, boxed wine, sleepy, put me in a car, woke up in a ditch
 
-TODO
+> TODO
 
 -->
 
@@ -276,6 +390,8 @@ I turned the car around, and left. I did not have any money, but I had some book
 
 
 ### copper pillaged, observatory shut down
+
+> Correction: I actually went back out to Barstow a second summer. It was not the first winter but the second Took it all.
 
 For reasons passing explaination, the observatory could only run in summer. In winter, the conditions just weren't right. So I went to class for the winter months, and spent my time in the lab preparing for the next summer. We ran simulations and models, and prepared for our next summer in observation. But towards the end of the summer we got the news.
 
