@@ -104,12 +104,19 @@ And I had a few weeks to learn the ropes, and make as much progress as I coule b
 
 ### Jon
 
-Jon was in his late middle ages and always wore brand new jeans and a black t-shirt. Middle aged or not, he had thick, dark hair, which was usually a total mess. He was not super friendly or out-going, but he was nice enough. He had worked for Southern California Edision for decades, and had worked at the site when it was still a power plant. He was retired now, and just worked at the observatory for one day a week as kind of a hobby. He loved his pick-up truc, and every time I ever saw him he had a 7-Eleven Big Gulp of Coca-Cola in his front seat. He drank at least four of them every day. He once told me, "I try not to drink water," which must be hard what you live in the desert.
+Jon was in his late middle ages and always wore brand new jeans and an old black t-shirt. Middle aged or not, he had thick, dark hair, which was usually a total mess. He was never talkative, but he was never rude either. And he was retired, so he never cared enough to get frustrated at work. He had worked for Southern California Edision for decades, back when the site was still a power plant. He drove a new pick-up truck, and every time I ever saw him he had a 7-Eleven Big Gulp of Coca-Cola in his front seat. He drank at least four of them a day, every day. He once told me, "I try not to drink water," which I thought must be a challenge when you live in the desert.
 
-> TODO: Working alone? What I learned over the next few weeks though, was that John was not a full-time employee. He wasn't there, 40 or 60 hours by a week. Like, I was now he was just there, occasionally 20 hours a week, probably less one day a week. They didn't pay him to be full time and he didn't want to work full time.
-
+I learned that Jon would only be on site one day a week. He was retired, and only worked one day a week as a sort of hobby. That meant that of the 70 hours a week I was working, I would be alone for all but 8 of them.
 
 ### black widows and engine degreaser
+
+That first day, Jon taught me a lot about working at the observatory. He taught me that I should use the site truck to drive around the facility, instead of walking. Because of the snakes. He taught me how to do electrical and mechanical repairs on all the mirrors, but first he taught me that every steel pedestal a mirror sat on was filled with Black Widow spiders or snakes, or both. The site was essentially a nature preserve.
+
+We showed me around the control room at the big map of all the mirrors that were not working yet. It was nearly all of them. So he drove me out to a particular mirror. It was huge, up close. A 6m x 6m square mirror, rotating on a heavy steel tube. At the top of the tube was a motor that could move the multi-ton mirror. And, at chest height on the side of the tue as a little access panel to the electronic controls for the mirror. These all needed to be inspected, and most of them needed serious maintenance; replacing components that required a little soldering back in the control building.
+
+And that was my job for the summer; to go through and fix mirror after mirror. Until I could prove from the control room that it was moving as it should.
+
+The steel tubes that held up the mirrors were not air tight though, there was a big gap near the ground where things could get in. So Jon showed me that every time he approached a mirror the first thing he did was bang on the steel tube hard. 
 
 > TODO: The observatory was basically a wildlife preserve. Every time you opened a tube, I learned therapy snakes or spider nests. The most common snakes and spiders. I'd see on site the black widows and rattlesnakes. I was told And so I got working and for a few hours, the maintenance guy showed me all the various ins and outs of fixing the electronics and the mechanical Motors that moved the arms.
 
@@ -411,9 +418,7 @@ Professor A took it pretty hard. The project was his baby, and it was gone. The 
 ## References
 
 * [weather](https://weatherspark.com/h/s/1924/2005/1/Historical-Weather-Summer-2005-in-Barstow-California-United-States)
-* https://www.nps.gov/moja/learn/nature/reptiles.htm
-* https://en.wikipedia.org/wiki/Crotalus_scutulatus
-* https://en.wikipedia.org/wiki/Salvadora_hexalepis
+* http://digital-desert.com/wildlife/snakes/
 
 
 <br/><br/><br/>
