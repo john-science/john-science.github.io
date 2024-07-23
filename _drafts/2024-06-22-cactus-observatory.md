@@ -10,7 +10,7 @@ Goal: narrative. Short Vignettes.
 
 [CACTUS on Wikipedia](https://en.wikipedia.org/wiki/CACTUS)
 
-* Summer, 2005
+* Summer, 2004
 
 ## Themes
 
@@ -116,7 +116,15 @@ We showed me around the control room at the big map of all the mirrors that were
 
 And that was my job for the summer; to go through and fix mirror after mirror. Until I could prove from the control room that it was moving as it should.
 
-The steel tubes that held up the mirrors were not air tight though, there was a big gap near the ground where things could get in. So Jon showed me that every time he approached a mirror the first thing he did was bang on the steel tube hard. 
+The steel tubes that held up the mirrors were not air tight though, there was a big gap near the ground where things could get in. So Jon showed me that every time he approached a mirror the first thing he did was bang hard on the steel tube. If there were snakes inside, you would nearly always hear them move around. And if there were rattlesnakes around, you would immediately hear that undulating, hissing, rattle sound.
+
+There are many species of snake in the Mojava. Some are not venomous, and are not a problem. The Mountain Kingsnakes are big, and look like a cartoon drawing of a horrifying snake, but are harmless. The Rosy Boa is slimy and disgusting, but also harmless. But there are three species of rattlesnake, and they are all venomous. The Mojave also has the Sidewinder, which is venomous, but unfortunately also quite inconspicous. Jon showed me picture after picture, but I couldn't tell the Sidewinder from the Coachwhip Snake. And that was a real problem. If you are alone in the desert for three months, surrounded by snakes, you really need to know what snakes will kill you.
+
+At least the Rattlesnake warned you, that was what Jon taught me. You did not need to be able to tell the three species of Mohave rattlesnakes apart from any of the other non-venomous snakes, because they would rattle and warn you. Just stay the Hell away from anything that rattles. Easy. Done. I am probably alive because Jon spent more time training me about the snakes I would find on site than he did about the electronics.
+
+> TODO: JOHN, YOU'RE HERE
+
+
 
 > TODO: The observatory was basically a wildlife preserve. Every time you opened a tube, I learned therapy snakes or spider nests. The most common snakes and spiders. I'd see on site the black widows and rattlesnakes. I was told And so I got working and for a few hours, the maintenance guy showed me all the various ins and outs of fixing the electronics and the mechanical Motors that moved the arms.
 
@@ -138,8 +146,6 @@ The students were told not to take the site truck off site for any reason. We we
 > TODO: I did get the odd other student to help out now and then.
 
 > TODO: Clean up audio notes
-
-> TODO: John the maintenance guy I had learned later. Have been there 30 years, Southern California, Edison, the power company had moved him there 30 years before him so he could Would be one of the many people who worked on the project when it was active. By now, everyone else had left and the company just needed one person to stay behind to Make sure the place wasn't. Brand's actor, robbed to keep the fence and all the To do basic maintenance and watch over it and he was semi-retired. So that seemed fine for him because he had a house and a family nearby.
 
 00:48
 What I learned over the next few weeks though, was that John was not a full-time employee. He wasn't there, 40 or 60 hours by a week. Like, I was now he was just there, occasionally 20 hours a week, probably less one day a week. They didn't pay him to be full time and he didn't want to work full time.
