@@ -122,6 +122,10 @@ There are many species of snake in the Mojava. Some are not venomous, and are no
 
 At least the Rattlesnake warned you, that was what Jon taught me. You did not need to be able to tell the three species of Mohave rattlesnakes apart from any of the other non-venomous snakes, because they would rattle and warn you. Just stay the Hell away from anything that rattles. Easy. Done. I am probably alive because Jon spent more time training me about the snakes I would find on site than he did about the electronics.
 
+And then Jon left, and I spent a couple of weeks alone at the observatory. I did not know anyone in Barstow, and there was nothing to do in the little town, so I basically just worked as long as I was awake. Weekdays and weekends blurred together.
+
+I saw a few snakes every day. Eventually, I came to love rattlesnakes; at least they gave a warning. Most of the time, I would hear the whirring rattle noise before I walked anywhere near a rattlesnake. Other snakes, I would be nearly on top of before before I would see them. Bleary eyed, one morning, I stepped on a Kingsnake in the dark. 
+
 > TODO: JOHN, YOU'RE HERE
 
 
