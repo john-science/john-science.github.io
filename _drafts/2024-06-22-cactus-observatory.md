@@ -124,38 +124,11 @@ At least the Rattlesnake warned you, that was what Jon taught me. You did not ne
 
 And then Jon left, and I spent a couple of weeks alone at the observatory. I did not know anyone in Barstow, and there was nothing to do in the little town, so I basically just worked as long as I was awake. Weekdays and weekends blurred together.
 
-I saw a few snakes every day. Eventually, I came to love rattlesnakes; at least they gave a warning. Most of the time, I would hear the whirring rattle noise before I walked anywhere near a rattlesnake. Other snakes, I would be nearly on top of before before I would see them. Bleary eyed, one morning, I stepped on a Kingsnake in the dark. 
 
-> TODO: JOHN, YOU'RE HERE
+### TODO: Random
 
+> Random notes
 
-
-> TODO: The observatory was basically a wildlife preserve. Every time you opened a tube, I learned therapy snakes or spider nests. The most common snakes and spiders. I'd see on site the black widows and rattlesnakes. I was told And so I got working and for a few hours, the maintenance guy showed me all the various ins and outs of fixing the electronics and the mechanical Motors that moved the arms.
-
-### The Site Truck
-
-The observatory has something we called the "site truck". If you were on site, and you needed to haul equipment around, you used the truck. It was just an old, white Ford truck. It was kind of small, and not fancy in any way. It also didn't have license plates. Or locks on the doors. And it had been permanently hot-wired so you didn't need a key to drive it. You just jumped in, turned the ignition by hand, and off you went.
-
-It was really convenient for getting around the site. We treated it like a large golf cart, you just jumped in and off you went.
-
-Of course, even golf carts usually have keys. And turn signals.
-
-The students were told not to take the site truck off site for any reason. We were told, and all certainly believed, it could not get up to highway speeds, and it would be dangerous to try. Of course, the truck was not street legal, and we all wondered if it was stolen. I looked one day, and the VIN number had been scratched off.
-
-
-### Meet the Prof
-
-> TODO: He gets drunk and I have to drive him back.
-
-> TODO: I did get the odd other student to help out now and then.
-
-> TODO: Clean up audio notes
-
-00:48
-What I learned over the next few weeks though, was that John was not a full-time employee. He wasn't there, 40 or 60 hours by a week. Like, I was now he was just there, occasionally 20 hours a week, probably less one day a week. They didn't pay him to be full time and he didn't want to work full time.
-
-01:05
-He was semi-retired So, most days I learned, I would be out there alone. Just me. Seven miles, I'm sorry, seven kilometers from the nearest living person in any One Direction you could see just open desert. From the facility. But I would be out there. Tuning Motors. Pulling heavy equipment above my head.
 
 01:29
 So I could work on the motors because the motors were 15 feet up, five meters up. I'd be working on the electronics, need to make sure that I turned off the power before I did that. And it was just me out there alone and a place that felt increasingly like a post-apocalyptic and a post-apocalyptic Movie.
@@ -169,11 +142,10 @@ Nothing was well maintained, it was all decaying and old in the heat, especially
 02:41
 I ran into black widows and rattlesnakes every day. Every time I opened up one of the five meter tall, 15 feet, steel pillars, that house, the electronics that run the motor, the motor that the mirrors were set on top of every single time, there was something new inside of it, usually a black widow nest, usually a black widow, but sometimes rattlesnakes sometimes snake nests.
 
-03:06
-Sometimes rats nests but not rarely rats. Didn't do well in the heat. Sometimes there were snakes I'd never seen before. Spiders, had never seen before the occasional Brown recluse. Sometimes these things popped out at you, the moment you owned the little maintenance panel on the side of the steel pillar.
+03:06Sometimes there were snakes I'd never seen before. Spiders, had never seen before the occasional Brown recluse. Sometimes these things popped out at you, the moment you owned the little maintenance panel on the side of the steel pillar.
 
 03:24
-But sometimes not sometimes you'd have to put your hand in there and shine a flashlight around to see the snakes, the bottom or to see where the weird black widow's nests were. They're shaped like a little golf balls made of. Brown cotton candy. And sometimes the Black Widow nest would be dead and would be opened and empty and you wouldn't see anything.
+Sometimes you'd have to put your hand in there and shine a flashlight around to see the snakes, the bottom or to see where the weird black widow's nests were. They're shaped like a little golf balls made of. Brown cotton candy. And sometimes the Black Widow nest would be dead and would be opened and empty and you wouldn't see anything.
 
 03:49
 But on a couple of occasions, I'd open up one of these little steel patches and there would be hundreds of little baby black widows waiting for me. Or I'd open up a panel and immediately hear the hiss like rattle of a rattlesnake. Sometimes things popped out at me but sometimes I'd open up a panel and there'd be nothing.
@@ -191,19 +163,30 @@ He went into one of the warehouse buildings that I'd never seen opened before an
 When I opened the box, But they didn't die immediately and I had to get work done. So I had spray too much. Bug poison on them, trying to kill them and eventually they'd die. But after a while, of course, I ran out of the bug spray. But I did have engine Degreaser to fix the big motors engines.
 
 05:21
-The size of the size of a small car motor that was on the top of the 15 foot pillar. And sometimes I need to use engine Degreaser to get those parts moving. And so one day, I tried spraying a little engine Degreaser. Uh, control box panel that had a black widow on it and the Black Widow dissolved.
+The size of a small car motor that was on the top of the 15 foot pillar. And sometimes I need to use engine Degreaser to get those parts moving. And so one day, I tried spraying a little engine Degreaser. Uh, control box panel that had a black widow on it and the Black Widow dissolved.
 
 05:41
 Dissolved in front of my eyes inside the orange foam that the engine Degreaser created. And that was an exciting Discovery for me because I would never run an of engine Degreaser. We always needed it around to fix the engines. I'm told people can get used to anything. What surprised me out there alone in the middle of the Blazing hot heat suddenly becoming An engine mechanic.
 
 06:07
-Fighting black widows and running away from rattlesnakes and learning all the different snakes, the Mojave Desert, and spending my time alone in some post-apocalyptic decayed industrial facility, What I learned, what I was surprised to learn was that you get used to anything pretty quickly. The first day Professor a arrived at the observatory was exciting for me.
+Fighting black widows and running away from rattlesnakes and learning all the different snakes, the Mojave Desert, and spending my time alone in some post-apocalyptic decayed industrial facility, What I learned, what I was surprised to learn was that you get used to anything pretty quickly. 
 
-06:30
-I was finally going to meet someone who worked at the observatory Other than the maintenance guy and I was told he got there a day before ever. I was told everyone else was going to get there. The restroom I was told the rest of the team would get there the following day.
 
-06:44
-So the first day was just me and him. He showed me around how to, actually run the controls that moved the mirrors from the control tower, and he talked about physics. It was all really exciting and I showed him the progress, I'd made and I, I showed him the big list of which mirrors work and which didn't, and which ones I had done maintenance for this season and which ones I hadn't and what our progress was looking like, and what made a timeline would be, like, take the whole facility running, it wouldn't happen this summer?
+
+
+### Meet the Prof
+
+> TODO: He gets drunk and I have to drive him back.
+
+After a couple weeks, finally, the professor was going to arrive. I was excited to finally meet someone who worked at the observatory other than the maintenance guy. I was excited to meet the professor, to see if he could become my thesis advisor. Also, I hadn't really spoken to anyone in a couple weeks, and I was just excited to talk to someone.
+
+I was told Professor A would arrive a day before everybody else. The team was driving in from Davis, seven hours to the North, but he was driving in from Las Vegas, only two hours East of the observatory. [TODO: wordy]
+
+So the first day was just me and him. He showed me around how to actually run the controls that moved the mirrors from the control tower, and he talked about physics. I was excited to show him all the progress I had made. I showed him the big map on the wall of all the mirrors, and how I had color coded the ones which had been inspected and worked. Most were broken. And I showed him the timeline to get all 2,000 mirrors running. I wouldn't happen this summer, I told him.
+
+I was surprised that he was going to get his hands dirty with me. He worked a long, hard day in the heat right alongside me. He did not seem to know much about fixing or maintaining the big motors that drove the mirrors. But he knew a lot more than Jon did about the electronics that controlled everything. [TODO: insert cold soldering?]
+
+He was a thin.... TODO: JOHN
 
 07:10
 I said, And uh, we did a little work together. He, he worked long hard hours. He was a middle-aged Indian, man. Two thin smoked like a chimney. Every time we and on the first day, I took him, he took me to the top to the Tower for the first time because there was a special key to get into the Telescope room at the top of the tower and he finally had the key and let me in But it's 300.
@@ -223,6 +206,26 @@ And even though,...
 > TODO: The rest of the summer I had help, on and off. Undergrads and grads.
 > TODO: The undergrad was a body builder who wouldn't lift anything heavier than a textbook, because "it would ruin my training".
 > TODO: One of the grad students was the horniest Spanish man in the world.
+
+
+### Others come for a week or two
+
+> TODO: I did get the odd other student to help out now and then.
+
+* Paul
+* horniest Spanish man
+
+
+### The Site Truck
+
+The observatory has something we called the "site truck". If you were on site, and you needed to haul equipment around, you used the truck. It was just an old, white Ford truck. It was kind of small, and not fancy in any way. It also didn't have license plates. Or locks on the doors. And it had been permanently hot-wired so you didn't need a key to drive it. You just jumped in, turned the ignition by hand, and off you went.
+
+It was really convenient for getting around the site. We treated it like a large golf cart, you just jumped in and off you went.
+
+Of course, even golf carts usually have keys. And turn signals.
+
+The students were told not to take the site truck off site for any reason. We were told, and all certainly believed, it could not get up to highway speeds, and it would be dangerous to try. Of course, the truck was not street legal, and we all wondered if it was stolen. I looked one day, and the VIN number had been scratched off.
+
 
 ### Zombie paranoia?
 
@@ -287,7 +290,7 @@ I found it was hard to sleep in a round bed. And I found the pillow also smelled
 
 ### I actually love rattlesnakes
 
-> TODO
+> TODO: I saw a few snakes every day. Eventually, I came to love rattlesnakes; at least they gave a warning. Most of the time, I would hear the whirring rattle noise before I walked anywhere near a rattlesnake. Other snakes, I would be nearly on top of before before I would see them. Bleary eyed, one morning, I stepped on a Kingsnake in the dark. 
 
 ### stuck in the elevator
 
