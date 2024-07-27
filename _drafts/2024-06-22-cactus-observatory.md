@@ -216,7 +216,7 @@ Luckily, they both panicked, got in their car and drove away.
 
 I guess they thought the site would be empty.
 
-I called Jon the maintenance guy, and he sounded a little worried. He drove out an hour later and put a hand gun in the glove compartment of the site truck. I checked after he left, and the serial number on the gun had been filed off.
+I called Jon the maintenance guy, and he sounded a little worried. He drove out an hour later and put a hand gun in a cabinet in the control building. I checked after he left, and the serial number on the gun had been filed off.
 
 ### Paul, the undergrad
 
