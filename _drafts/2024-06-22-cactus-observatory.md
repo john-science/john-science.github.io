@@ -186,31 +186,32 @@ So the first day was just me and him. He showed me around how to actually run th
 
 I was surprised that he was going to get his hands dirty with me. He worked a long, hard day in the heat right alongside me. He did not seem to know much about fixing or maintaining the big motors that drove the mirrors. But he knew a lot more than Jon did about the electronics that controlled everything. [TODO: insert cold soldering?]
 
-He was a thin.... TODO: JOHN
+Professor A was a middle-aged, Indian man. He looked like he used to be thin. And he smoked like a chimney.
 
-07:10
-I said, And uh, we did a little work together. He, he worked long hard hours. He was a middle-aged Indian, man. Two thin smoked like a chimney. Every time we and on the first day, I took him, he took me to the top to the Tower for the first time because there was a special key to get into the Telescope room at the top of the tower and he finally had the key and let me in But it's 300.
+Toward the end of the day, he took me to the top of the tower. He was the only one who had the keys, so I had not been able to visit for the past few weeks. The tower was about 100m (300 ft) of steel grating stairs. There were no walls, so you could feel the breeze. Some days, if the wind was strong enough, you could feel the whole tower gently sway in the breeze. At the top was a metal box that housed a few rooms, all our photomultipler tubes, and assorted equipment to run the observatory.
 
-07:39
-It was 100 meters from the desert floor to the top of this Tower and it was all steel. Grating staircases that wound around you could see straight down to the the ground underneath you. It was windy and cool up there though, which I liked In the in the hundred meters to the stop.
+Half way up the tower, Professor A stopped because he was winded and needed a cigarette.
 
-07:57
-And when he finally took me up to the top of the oh man. Uh, go back and fix all this phrasing. When he took me to the top of When he took me to the top of the tower, for the first time he had to stop halfway up to have a cigarette.
+We worked right up until it got dark.
 
-08:16
-I considered suggesting to him that stopping halfway up. To have a cigarette. Probably wasn't actually helping since the problem was. He wasn't able to breathe well enough to do this. Do the hike up to the stairs, the stairs. But I decided I didn't tell him. Even though he couldn't breathe that well.
+Then he asked me, "Hey, do you want to go get a beer? There is a little dive bar in Daggett." He stopped, and looked me up and down. "I think they have Guiness."
 
-08:36
-And even though,...
+"Awesome, yeah, I'm in," I said, genuinely excited with how well things were going with my new boss. We locked the doors to the control building and he drove us to the Lee's Tavern, which was about 16 km (10 miles) away, out in the middle of the desert.
 
-> TODO: The rest of the summer I had help, on and off. Undergrads and grads.
-> TODO: The undergrad was a body builder who wouldn't lift anything heavier than a textbook, because "it would ruin my training".
-> TODO: One of the grad students was the horniest Spanish man in the world.
+As soon as we walked in the door, Professor A called the bartender by name and ordered two Guiness. We sat at the bar, and the bartender opened two bottles of Guiness and put them in front of us. I was dehydrated and hungry after a full day of work, and asked the bartender for some french fries and a glass of water. While I was talking, the bartender was opening another Guiness. He passed it to Professor A, who was finishing his first beer.
+
+"You're behind," he said, and took another pull on his beer, finishing half of it. "And all that food will just slow you down," he said putting his beer on the bar. I noticed the bartender dig a case of Guiness out from somewhere, and he started unloading it into a mini fridge.
+
+By the time my french fries came, the professor was on his fourth Guiness. By the time I had finished my french fries and my Guiness, he was on beer number six and cigarette number four. It was 8:30pm. It occurred to me that Professor A could not have eaten anything since breakfast, since I was with him for lunch and dinner. He never did have dinner that night, though the bartender offerred a few times. Around midnight, the professor had finished a whole pack of cigarettes and the bartender was politely asking us to leave.
+
+I helped Professor A into his white minivan, and drove him back to the motel we were both staying out. On the way back, he asked me several times to stop at a liquor store he knew about. He got sulky and started grumbling when I said no. I parked his car directly in front of his motel room, so he could find it in the morning and handed him his keys. He was still sulking when I left to get into his room himself. From inside my motel room it sounded like it took him a while to work the key into the lock of his motel room door. And I could hear him muttering and swearing to himself about me the whole time.
 
 
 ### Others come for a week or two
 
 > TODO: I did get the odd other student to help out now and then.
+> TODO: The undergrad was a body builder who wouldn't lift anything heavier than a textbook, because "it would ruin my training".
+> TODO: One of the grad students was the horniest Spanish man in the world.
 
 * Paul
 * horniest Spanish man
