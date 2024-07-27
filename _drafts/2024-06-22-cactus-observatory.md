@@ -6,73 +6,34 @@ summary: Alone in the decaying industrial ruins of a high-energy physics observa
 ---
 {% include JB/setup %}
 
-Goal: narrative. Short Vignettes.
-
-[CACTUS on Wikipedia](https://en.wikipedia.org/wiki/CACTUS)
-
-* Summer, 2004
-
 ## Themes
 
-* not so much about me, but about the craziness out there
-* science on the frontier
-* not quite science fiction
+> Goal: narrative. Short Vignettes.
+
+* This is not about me, but about the observatory and its crazziness
+  * science on the frontier
+  * not science fiction
 * What's OSHA?
-* No drinking water
-* 110F in the shade
-* alone, no hospital
+  * No drinking water
+  * 110F in the shade
+  * alone, no hospital
 
-## Main Story
+## Story
 
-* My summer at the Observatory
-  * I graduate and make the trip (need the money, everything I own in my car)
-  * I get there; just a maintanence guy
-  * I call the new prof, get orders, and start fixing things
-  * Professor A drops in, gets drunk
-  * Crazy things happen
-  * I leave to go to grad school
-  * epilogue: meth heads
+> My first summer at the Observatory
 
-### Side Stories
+* I get there; just a maintanence guy
+* I work alone for two weeks
+* Professor A drops in, gets drunk, it feels like a real project
+* Crazy things happen
+* I leave to go to grad school
+* epilogue: meth heads
 
-* None: just all the wacky things that happened.
-
-
-## Events
-
-### Traveling to Barstow
-
-TODO: Edit: The story isn't mean to be about ME. Maybe this isn't where it starts. Maybe it should start in Barstow.
-
-> Earth, 2004
-
-I had just graduated college in Texas, and was moving off to physics graduate school in California. I was excited to learn the deep secrets of the universe that I could not learn with mere undergraduate physics classes.
-
-I was packing eveything I owned into a compact-sized car to move to California. My little Ford Probe was 15 years old and did not really have a trunk. So I folded the back seats down and played a 4-hour game of Tetris, getting as many things as possible into the car.
-
-It was a 21-hour drive from Austin to the observatory in Barstow and my car had no air conditioning. It was June, and I would be crossing the Chihuahuan Desert, the Sonoran Desert, and the Mojave Desert.
-
-I determined that I could make the drive in two days. And I was too broke to pay for a hotel, so I would just sleep in my car for one night. I would find somewhere off the highway, in the desert, and just sleep in the driver's seat. The other seats would be full, of course. I was not looking forward to the drive. The only thing I had to look forward to was Carlsbad Caverns. They were eight hours from Austin, so I should be able to see them on the first day, and then find somewhere nearby to sleep.
-
-I packed the car the night before, and crashed at a friend's place.
-
-I woke up bright and early, to get started driving before it got hot. As I drove out of Austin I was sad to see it go. And I felt homeless and unanchored. But excited too.
-
-The first eight hours of the drive were through West Texas. If you have never done this, imagine one of those scenes in an old Western movie with the tumbleweeds rolling across a dry barren landscape. Now imagine that for eight hours.
-
-It was a long first day on the road, but as soon as I left Texas I saw signs for Carlsbad Caverns National Park. Suddenly I was excited again. I was on vacation. I had never been in a big cave, and these were supposed to be some of the most beautiful caves in the world. And, more importantly, they should be cold and dark after the desert heat baking me all day.
-
-I got to the caverns for the last tour of the day. I was sweaty, tired, thirsty, and my eyes were dry, but I got there. I stood in line to buy my tickets, looking at the amazing, otherworldly photos of strange rock spires. I realized my eyes were actually really dry and bothering me. But I powered through and got a ticket. And I took the elevator down 230 m (750 ft) down, with my small tourist group.
-
-The first thing that happened when the long elevator ride was over is both my contacts popped out. And the park ranger wouldn't take me back up the elevator. So I was stuck, blind, in the dark. Eventually, two little old ladies took me by the hand and lead in a half hour tour of the caverns. I couldn't see anything, and tripped a couple times, but they really tried their best. Eventually, when they were done with their own tour, they took me back up the elevator and we left. My glasses were in the car.
-
-The caverns were closed for the day behind me, and I had a long drive the next day, so I never got to see the Carlsbad Caverns.
-
-I drove out of the national park and a bit down the highway until it got dark, and I pull off on a dirt road and slept. The car was too full to put the driver's seat down at all, so I slept sitting up.
+## Science on the Frontier
 
 ### Arriving in Barstow
 
-> TODO: Clean up audio notes
+> June, 2004
 
 In 2004 I got my undergradatue in physics in Texas and got into a graduate school in California. I needed a job for the summer, and found one at an observatory a professor in my new graduate department ran. I was thrilled. Sure, I really needed the money to get through the summer, but I was starting graduate research before I had even started graduate school.
 
@@ -176,8 +137,6 @@ Fighting black widows and running away from rattlesnakes and learning all the di
 
 ### Meet the Prof
 
-> TODO: He gets drunk and I have to drive him back.
-
 After a couple weeks, finally, the professor was going to arrive. I was excited to finally meet someone who worked at the observatory other than the maintenance guy. I was excited to meet the professor, to see if he could become my thesis advisor. Also, I hadn't really spoken to anyone in a couple weeks, and I was just excited to talk to someone.
 
 I was told Professor A would arrive a day before everybody else. The team was driving in from Davis, seven hours to the North, but he was driving in from Las Vegas, only two hours East of the observatory. [TODO: wordy]
@@ -202,40 +161,66 @@ As soon as we walked in the door, Professor A called the bartender by name and o
 
 "You're behind," he said, and took another pull on his beer, finishing half of it. "And all that food will just slow you down," he said putting his beer on the bar. I noticed the bartender dig a case of Guiness out from somewhere, and he started unloading it into a mini fridge.
 
-By the time my french fries came, the professor was on his fourth Guiness. By the time I had finished my french fries and my Guiness, he was on beer number six and cigarette number four. It was 8:30pm. It occurred to me that Professor A could not have eaten anything since breakfast, since I was with him for lunch and dinner. He never did have dinner that night, though the bartender offerred a few times. Around midnight, the professor had finished a whole pack of cigarettes and the bartender was politely asking us to leave.
+By the time my french fries came, the professor was on his fourth Guiness. By the time I had finished my french fries and my Guiness, he was on beer number six and cigarette number four. It was 8:30pm. I realized I had spent the whole day with the professor, so he could not have had anything to eat since breakfast. He never did have dinner that night, though the bartender offerred a few times.
 
-I helped Professor A into his white minivan, and drove him back to the motel we were both staying out. On the way back, he asked me several times to stop at a liquor store he knew about. He got sulky and started grumbling when I said no. I parked his car directly in front of his motel room, so he could find it in the morning and handed him his keys. He was still sulking when I left to get into his room himself. From inside my motel room it sounded like it took him a while to work the key into the lock of his motel room door. And I could hear him muttering and swearing to himself about me the whole time.
+Around midnight, the bartender managed to steal Professor A's keys while passing him a beer. Then he passed me the keys and politely suggested we leave.
+
+I helped Professor A out of the bar and into his white minivan, and drove him back to the motel. On the way back, he asked me several times to stop at a liquor store he knew about. He got sulky and started grumbling when I said no. I parked his car directly in front of his motel room, so he could find it in the morning and handed him his keys. He was still sulking when I left to get into his room himself. From inside my motel room it sounded like it took him a while to work the key into the lock of his motel room door. And I could hear him muttering and swearing to himself about me the whole time.
 
 
 ### Others come for a week or two
 
 > TODO: I did get the odd other student to help out now and then.
-> TODO: The undergrad was a body builder who wouldn't lift anything heavier than a textbook, because "it would ruin my training".
+> TODO: Paul. The undergrad was a body builder who wouldn't lift anything heavier than a textbook, because "it would ruin my training".
 > TODO: One of the grad students was the horniest Spanish man in the world.
 
-* Paul
-* horniest Spanish man
+The next day the other graduate students arrived around lunch. Both of the graduate students had worked for Professor A for a few years. They had already spent a couple of summers out at the observatory, and were nearing graduating. They even had an associate professor in tow. Suddenly, the entire observatory was alive and busy.
 
+Repairs went much faster for the next couple days, and I was finally able to use the control room and the observation tower. We were able to split into teams of two people, one person in the field standing next to a mirror, and another in the control room. We could test if the mirrors were moving correctly, if they were calibrated correctly, and if they had full range of motion. Suddenly, hundreds of mirrors were fully operational.
+
+I was actually talking to other graduate students about physics, I was thrilled. Though after a couple of weeks alone in the desert, it was good just to talk to anyone about anything. I learned everything about the observatory and its research goals from them that summer, the professor never bothered to explain.
+
+By the end of that first week, we were even started observing at night. We barely had 300 of the 2000 mirrors running, but it was enough to fully test the entire system. And we got some worthwhile data, just not much of it.
 
 ### The Site Truck
 
-The observatory has something we called the "site truck". If you were on site, and you needed to haul equipment around, you used the truck. It was just an old, white Ford truck. It was kind of small, and not fancy in any way. It also didn't have license plates. Or locks on the doors. And it had been permanently hot-wired so you didn't need a key to drive it. You just jumped in, turned the ignition by hand, and off you went.
+The observatory has something we called the "site truck". It is what we used to haul tools and heavy equipment around the site. Which we needed to do basically all day long. It is what we used to haul tools and heavy equipment around the site. Which we needed to do basically all day long. It was an old Ford truck, that was mostly white, where the sun hadn't worn away the paint. Also, it didn't have license plates. And the doors did not lock. And it had been permanently hot-wired so you didn't need a key to start it. You just jumped in, turned the ignition by hand, and off you went.
 
 It was really convenient for getting around the site. We treated it like a large golf cart, you just jumped in and off you went.
 
-Of course, even golf carts usually have keys. And turn signals.
+Of course, even golf carts have keys. And turn signals.
 
-The students were told not to take the site truck off site for any reason. We were told, and all certainly believed, it could not get up to highway speeds, and it would be dangerous to try. Of course, the truck was not street legal, and we all wondered if it was stolen. I looked one day, and the VIN number had been scratched off.
-
+The students were told not to take the site truck off site for any reason. We were told, and all certainly believed, it could not get up to highway speeds, and it would be dangerous to try. Of course, the truck was not street legal, and we all wondered if it was stolen. I looked one day, and the VIN number had been filed off.
 
 ### Zombie paranoia?
 
-> TODO: maybe
+After a week or two, the professor and the other students drove back to the univesity and it was just me again. But this time, I knew what was important to fix and what wasn't. And I had the keys to all the facilities on site, and could test run the mirrors by myself. I was much more independent.
+
+The weather somehow managed to get even hotter in July. And that fact that there was no clean drinking water at the observatory became even harder to live with. The other graduate students had split the cost of a few cases of bottled water with me though, so I had that to live on for a while.
+
+Every metal surface at the observatory was covered in cheap, factory-grade paint that blistered and cracked in the summer heat. Nothing had been repainted in 20 years, and everything had an aged, post-apocolyptic look to it.
+
+Sometimes I would imagine zombies roaming the strange forest of metal pillars. And I imagined how I could fight them off with all my tools and knowledge of the site. I could run them down with the site truck and use the tower as a final stand. Eventually I learned that the more detailed my day dreams got, the more I needed to stop working and drink some water in the shade.
+
+Doing hard, manual labor in 43C (110 F) weather was something I was not taking seriously enough and I found myself lying under the truck for shade a couple of times. I never passed out, but I got light-headed enough to see zombies once or twice.
 
 ### Local Meth Town?
 
-> TODO: Maybe
+Of course, zombies were not my biggest danger. According to the other students, my biggest danger was Yermo, a tiny villiage nearby. Even the professor said I should never go there under any circumstances. It was far out in the middle of the desert and had no buisnesses of any kind except meth labs. But the stories coming out of Yermo was strange; it seemed like meth addicts were moving there so they could make their own meth in piece.
 
+One day, while I was working alone, a rusted out Pontiac drove up the main gates and two shirtless guys got out of the car. I could just barely see them through the maze of mirrors, on the opposite site of the facility. One of them started shaking the main gate chainlink gates while the other went around the car and opened the trunk.
+
+I did the only thing I could think of, and honked the horn of the site truck.
+
+Luckily, they both panicked, got in their car and drove away.
+
+I guess they thought the site would be empty.
+
+I called Jon the maintenance guy, and he sounded a little worried. He drove out an hour later and put a hand gun in the glove compartment of the site truck. I checked after he left, and the serial number on the gun had been filed off.
+
+### Paul, the undergrad
+
+> TODO
 
 ### melting a truck
 
@@ -432,6 +417,7 @@ Professor A took it pretty hard. The project was his baby, and it was gone. The 
 ## References
 
 * [weather](https://weatherspark.com/h/s/1924/2005/1/Historical-Weather-Summer-2005-in-Barstow-California-United-States)
+* [CACTUS on Wikipedia](https://en.wikipedia.org/wiki/CACTUS)
 * http://digital-desert.com/wildlife/snakes/
 
 
