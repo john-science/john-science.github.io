@@ -220,11 +220,50 @@ I called Jon the maintenance guy, and he sounded a little worried. He drove out 
 
 ### Paul, the undergrad
 
-> TODO
+One day, the professor called out of the blue. He said a new student would be coming to the observatory and would be helping me out for the rest of the summer. I was, of course, thrilled. Not only would the work get done faster, but there were a lot of things that were just plain hard to do myself. Testing the mirrors movement went 100 times faster if you had one person standing by the mirror on a walkie-talkie and another operating it in the control room. And doing any real repairs on the 1-ton motors that moved the mirrors was hard alone, because they were so high up.
 
-### melting a truck
+A few days later, the new guy arrived. I quickly learned he was not a physics graduate student, but an electrical engineering undergraduate. I also quickly learned he was in a fraternity, because he brought it up every five minutes.
 
-> TODO
+He was a young Chinese-American guy, and I learned he was really into bodybuilding. Which I thought was great; we had a lot of heavy lifting to do.
+
+But a couple hours after he arrived the problem started. I asked him to help me carry a ladder and he said no. He informed me that he only worked each muscle group twice a week, and he would not use that muscle group in between "lifting days" so he would not "over-train the muscle". I quickly realized that meant he would never carry anything heavier than a textbook, for fear of over training his precious muscles.
+
+Unsurprisingly, I also learned that he would not touch anything dirty or greasy. That really put the nail in the coffin for almost any other work that needed to be done.
+
+Then I remembered why Professor A had given me this delicate flower of a young man; he was an electrical engineering student.
+
+I had spent weeks identifying electrical control boxes for various mirrors that needed repair. So I grabbed a few of them, and took them into the control buildingt to show Paul. I showed him that the boxes were built in the 1980s, so they were designed to be repaired. And we had plenty of spare parts around. So I broke out a soldering iron and fixed one for him.
+
+It had taken all morning, but I was thrilled. Here were some basic circuits that any electrical engineering student would eat for lunch. I would just got pull a pile of them every morning, and he could spend all day repairing them. We would be a well-oiled machine.
+
+"Oh, I have never seen a soldering iron before," Paul said.
+
+I tried as hard as I could to not visibly wince. I took a deep breath and tried to make sure the next thing I said came out calm and casual.
+
+"You're a Junior in electrical engineering, right?" I asked.
+
+"Oh, sure. Sure. But electrical engineers don't _solder_ things. We don't actually touch wires or circuits or whatever. We _design_ circutis, on computers," he said, in the tones of someone explaining something obvious to an idiot.
+
+Again, I took a deep breath, and centered myself before talking. I could manage this.
+
+"Oh, I did't know that. Cool, man. Well, haven't you ever wanted to get your hands dirty and actually build a circuit?" I asked, all saccharine tones, as encouragingly as I could.
+
+"Not really," he said. Then he let the silence hang.
+
+The silence continued to hang.
+
+It became clear Paul was not going to break the silence.
+
+"Okay, well, let's just try and learn anyway," I said, deciding to plow forward.
+
+Over the next week, Paul never did get the hang of soldering. In the end, everthing he tried to solder ending being cold soldered. I had to redo each and every item he ever attempted, and he burned a few circuit boards as well.
+
+Over the next week, Paul also never lifted anything heavy. Or helped with motor repair in any way that would get his hands greasy. He also refused to open a pedestal first, in case there were snakes or spiders in it. But I kind of agreed with him on that one, so that was fine.
+
+After a week of sharing a motel room with Paul, and working with him every day, I was missing being alone in the desert. But eventually he got bored and left one day. A couple of weeks later I mentioned that to the professor over the phone, and found out that Paul did not quit. He just left, and never told anyone but me. So he ended up being paid for a full month's work.
+
+I never liked Paul. But in his defense, it was a horrible job. He made the right call.
+
 
 ### Force me to drive 7 hours (each way) for a 5-minute meeting
 
@@ -273,6 +312,11 @@ Even this tired, part of me knew it was pointless to walk downstairs and look fo
 It turned out later, I was right. They were married within a year. They only kept the second apartment so their parents did not think they were living together before marriage.
 
 I found it was hard to sleep in a round bed. And I found the pillow also smelled like dog. But it could not have mattered less; I slept like the dead.
+
+### Another observation round
+
+> TODO: melting a truck
+
 
 ### I actually love rattlesnakes
 
