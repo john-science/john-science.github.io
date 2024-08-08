@@ -6,7 +6,7 @@ summary: Being a software lead on a team of scientists who write code.
 ---
 {% include JB/setup %}
 
-## Who is this talk for?
+## Who is this for?
 
 Today we're going to be talking about being a software leader for non-software staff.
 
@@ -37,12 +37,16 @@ Some of them might be nearly professional software Engineers, some of them may b
 
 ## Topics
 
-* Your programming language
-* Best practices
-* Git
-* Testing
-* Documentation
-* linting and style
-* software ideas: API, library, vs applications vs scripts
-* management ideas: technical debt
+* **Your programming language**
+  * If you can use a hammer, you can build a house. This _might_ have been true in the 1700s, but even then you are relying on other people to provide you boards cut to the right length, and you have to pay someone else to paint it. A lot of people will think that they can build a complicated scientific model or data pipeline because they can write a for-loop. It will be your job to convince them there is more to "engineering" software than just "writing code", but it is also your job not to dampen their enthusiasm.
+* **Best practices**
+  * **linting and style**
+* **Git**
+  * Again, expect everyone to come in with different levels of knowledge, from none on up. Also, try to fight the idea that Git is somehow hard to understand (thanks, XKCD), just give them a single, well-defined workflow and you can make it simpler.
+* **Testing**
+  * Some scientists (and their managers) will see this as a waste of time, prove them wrong. (TODO: Write some arguements, show some data, possibly another post.)
+* **Documentation**
+  * Most scientists (and their managers) won't know what this means. And they won't see the real value.
+* **software ideas**: API, library, vs applications vs scripts
+* **management ideas**: technical debt
 
