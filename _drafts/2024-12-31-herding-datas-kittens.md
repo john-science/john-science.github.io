@@ -8,20 +8,30 @@ summary: Being a software lead on a team of scientists who write code.
 
 ## Who is this for?
 
-Today we're going to be talking about being a software leader for non-software staff.
+This is for all those software engineers on software projects filled with scientists and (non-software engineers).
 
-> TODO: I guess it's relevant I have to talk about myself here...     For the last 18 years. I've worked in physics and environmental engineering. Climate change, weather modeling, fire prediction, medical modeling and nuclear, engineering modeling scientific modeling. All kinds I've worked with data Engineers. I've worked with mechanical engineers. It's chemists forest. Firefighters Physicists nuclear Engineers meteorologists and assorted other smart people who, because of the modern world, wrote software every day as part of their job.
+If you work at a FAANG company, building websites, this talk might not apply to you. But in the real world, every engineering company and scientific research group write software. Even at Big Tech companies, a huge amount of software gets produced around the world by data scientists. As time goes on, there is more and more need for a single software engineer who can lead a team of people who output "code", even if though they are experts in another field. Meteorologists build weather models. Aerospace engineers build computational fluid dynamics models. Data scientists dig through computer security data, medical data, and everything else.
+
+There is a whole world out there writing code, outside the software-first companies. And there is a growing need for individual software engineers to be embedded on these teams, to: reduce costs and technical debt, and to improve: software quality and reliability.
+
+> I guess it is relevant, and I have to talk about myself here. For the last 18 years. I have worked in high-energy particle physics modeling at Fermilan and CERN. I have worked in environmental engineering, modeling climate change, and global weather. I have worked in real-time satellite fire detection and wild fire smoke modeling. I have worked in real time medical modeling for neonatal ICU patients. ANd I currently work in nuclear reactor design and safety analysis modeling. I have worked on multi-physics scientific models with physicists, data scientists, chemical engineers, data engineers, forest fire experts, and nuclear engineers. The common thread is that I have been a software lead on a great variety of projects where none of the other people writing software were software engineers.
 
 
 ## Advocacy and Building a Culture
 
-But software was not what they loved. It wasn't what they were educated on. It's not what they knew about. It's not really what they cared about. And so that's what we're here to talk about today. How would it be a leader, official or otherwise and we'll talk about how different kinds of leadership. For an advocate for good software practices for better software.
+You find yourself thrown onto a team with smart people, who are doing interesting things. They write software every day. But software is not what thye love. They have no software education. And they produce so much software you can not just "re-write" all of it for them. How can you, as a software engineer, lead your team in the right direction?
 
-In a community of people who write software but are not software first Engineers, There are different kinds of leadership. Sometimes you can lead by being someone's manager. Having a group of people that work under you and passing down rules about how they need to work, or what they need to do, as part of their job, that's a type of leadership.
+First, we should talk about different kinds of leadership. Sure, sometimes being a "leader" means being in charge and telling people what to do. Well, we may not always get that chance. And in my experience, that does not help solving the main problems you will find anyway: educating the staff, and building a culture.
 
-There are other types of leadership though. You can lead by example which is a great way to be and certainly if you want to be a software leader for non-software staff, you need to lead by example. But I think maybe even a better type of leadership for us to talk about today and the kind that I like the most is lead by helping people with their job, making their lives easier.
+You can greatly influence people just by helping them. A data scientist comes to you with a bug, and you can solve it for them, and show them a "best practice" for their programming language, or a unit testing plan, that would have saved them from ever needing help. If you do this several times, and people keep re-learning the value of unit testing, most people will internalize the lesson and start using what you showed them. This grass roots helping and micro-education is a powerful tool. It is leadership, but not through ordering people around.
 
-And by advocating for the best way to work. And so we're going to talk today about Various things that you can do. In any kind of leadership to help Drive the best quality code, quality software production out of your staff, If you work with smart people who are doing interesting things, and one of the things they do is write code regularly, if not every day. And that code's important because it does something interesting.
+You can also lead by example. If your team is not using a linter or unit testing when you arrive, you will. And smart people on your team will see the difference between your code and theirs, and many will just follow along when they see what "professional code" looks like. This works. Not for every scientist or engineer you work with, but it will work seemlessly and easily for many smart people who are just new to software.
+
+Lastly, direct education and advocacy are helpful. Give like talks about "best practices", and educate the team on code optimization or automated testing. If you have managers who have never managed a software team before, give talks and educate them on core concepts like [technical debt](https://antineutrino.net/2023/01/31/tech-debt) and software maintainance. If you are working with a team of smart people, they _will_ learn. They _can_ be taught. Alternately, if you complain that the management team does not understand something important like software rot or the bus factor, the problem might be yours for not educating them.
+
+I have started on several teams that were all nuclear engineers or climate modelers, who were not particularly interested in software but used it every day like they would math or any other tool. The more you advocate for good software practices, the more you help the team, the more peopel will start to see the value in these things. You can build a group of acolytes to help spread your message. New scientists and non-software engineers who are hired onto the team will see the improved software culture as the status quo and will accept it as the norm.
+
+If done well, the progress will be faster than you expect. Even though you will never be "done".
 
 
 ## Your Team
