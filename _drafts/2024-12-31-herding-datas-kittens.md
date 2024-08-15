@@ -11,6 +11,11 @@ Outlining
 * Who is this talk for?
   * Who am I?
 * Advocacy and Building a Culture
+  * Help people directly (have office hours, even)
+  * Lead by Example
+  * Active Education
+  * Lastly, company policies, procedures, and boring "leader" stuff
+  * This works!
 * Building Educational Resources
 * The Topics
   * Your programming language
@@ -54,18 +59,15 @@ I have joined several teams that were all nuclear engineers or climate modelers,
 If done well, the progress will be faster than you expect. Even though you will never be "done".
 
 
-## Your Team
+## Building Educatiional Resources
 
-> TODO: Is this section defunct?
-> TODO: The only interesting idea here is "everyone will have different levels of software education".
+> This won't be hard: the internet is full of introductory software educational resources.
 
-Maybe you are a software engineer but the people you work with aren't, they produce software as an output and that is because of the modern world. Like, they might produce mathematics when they balance their checkbook. I might use it as a tool, but they may not understand it.
+The trick here is to pull together a set of resources and make them the official "do it this way" system for your team.
 
-And they different members of the smart people on your team might have different levels of understanding. And that's great. We love smart people. We love enthusiasm and energy and ambition. We love when they are doing something interesting. But the first thing to know is that not everyone is going to love software or think it's important.
+You may have to give internal talks to your team, put together internal wike pages, etc etc. You will have to share them actively, not just passively.
 
-So you're going to have to advocate. You're going to have to try to create A real environment where people learn important things about software. Another really important a beep, boop. An important idea to keep in mind. Is that everyone starts off at a different place. If you have a team of 10 or 100, or a thousand, smart people all writing software.
-
-Some of them might be nearly professional software Engineers, some of them may barely know how to write a while loop. Educational topics. Technical debt. Code quality. Bugs. Quality assurance. Testing. Documentation. Building a Grassroots team colon acolytes for your own personal religion. 
+TODO
 
 
 ## Topics
@@ -82,6 +84,7 @@ Some of them might be nearly professional software Engineers, some of them may b
   * https://antineutrino.net/2019/08/11/git-stash-workflows
   * https://antineutrino.net/2023/04/23/intermediate-git
 * **Testing**
+  * Anecdote: basically every time I have added code coverage to an uncovered section of a code base, I have found bugs. Just... every time.
   * Some scientists (and their managers) will see this as a waste of time, prove them wrong. (TODO: Write some arguements, show some data, possibly another post.)
   * https://antineutrino.net/2022/11/08/good-unit-tests
 * **Documentation**
@@ -91,12 +94,22 @@ Some of them might be nearly professional software Engineers, some of them may b
   * library, vs applications vs scripts
 * **management ideas**:
   * technical debt (the start-up problem)
+  * versioned releases
+  * software release life cycle: https://en.wikipedia.org/wiki/Software_release_life_cycle
+  * CI / CD or software development life cycle
 
+Anecdotes to throw in:
+
+  * Anecdote: EPA DB example "calc_emissions_data_2023_v17.py"
+  * Contrary Anecdote: On a 20-year-old software project, I failed to get a team to use Git.
+  * Anecdote: every time someone opened a branch, they would open a PR
+  * Anecdote: We don't put our analysis scripts in git, because they aren't testable (git repo design)
+  * Anecdote: Git repos with 24 git submodules. submodules instead of versioned releases for a large team of scientists, who don't know git well. (Advanced workflow)
 
 ## Keep Learning
 
 The most important thing is to keep learning. Software is a broad topic, and it is constantly evolving. The moment you stop thinking of yourself as a student, your skills will begin to rot. And if you don't consider yourself a student, you will be a bad teacher.
 
-<a href="/assets/images/Zimbabwe-One-Hundred-Trillion-Dollars.jpg">
+<a href="/assets/images/software/hiking_with_books.png">
 <img src="/assets/images/software/hiking_with_books.png" alt="Keep Learning">
 </a>
