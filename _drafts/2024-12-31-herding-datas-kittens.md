@@ -33,9 +33,15 @@ Outlining
 
 ## Who is this for?
 
-This is for all those software engineers on software projects filled with scientists and (non-software engineers).
+This is for all those software engineers on software projects filled with scientists and (non-software) engineers.
 
-If you work at a Big Tech company, building websites, this talk might not apply to you. But in the real world, every engineering company and scientific research group write software. Even at Big Tech companies, a huge amount of software gets produced around the world by data scientists. As time goes on, there is more and more need for a single software engineer who can lead a team of people who output "code", even if though they are experts in another field. Meteorologists build weather models. Aerospace engineers build computational fluid dynamics models. Data scientists dig through computer security data, medical data, and everything else.
+You find yourself thrown onto a team with smart people, who are doing interesting things. They write software every day. But software is not what thye love. They have no software education. And they produce so much software you can not just "re-write" all of it for them.
+
+Your team is filled with data scientists, regular scientists, or non-software enginers, but you are one of the only true software engineers on the team.
+
+You are out there, in every company in the world that builds airplanes and power plants, in every weather prediction agency, in every data science unit in a Big Tech company. You are out there, and you are scene. It is going to be a wild ride.
+
+As time goes on, there is more and more need for a single software engineer who can lead a team of people who output "code", even if though they are experts in another field. Meteorologists build weather models. Aerospace engineers build computational fluid dynamics models. Data scientists dig through computer security data, medical data, and everything else.
 
 There is a whole world out there writing code, outside the software-first companies. And there is a growing need for individual software engineers to be embedded on these teams, to: reduce costs and technical debt, and to improve: software quality and reliability.
 
@@ -44,9 +50,40 @@ There is a whole world out there writing code, outside the software-first compan
 
 ## Advocacy and Building a Culture
 
-You find yourself thrown onto a team with smart people, who are doing interesting things. They write software every day. But software is not what thye love. They have no software education. And they produce so much software you can not just "re-write" all of it for them. How can you, as a software engineer, lead your team in the right direction?
+How can you, as a software engineer, lead your team in the right direction?
 
-First, we should talk about different kinds of leadership. Sure, sometimes being a "leader" means being in charge and telling people what to do. Well, you may not always get that chance. And in my experience, that does not help solving the main problems you will find ni this situation: educating the staff, and building a culture.
+First, we should talk about different kinds of leadership. Sure, sometimes being a "leader" means being in charge and telling people what to do. Well, if you are software engineer, you might not also be a manager, we do not always get the chance to lead by fiat. And the argument I make here is that that type of "leadership" won't be terribly effective for you. If you have a large, varied team of people who are new to a broad, complicated technical field like software, trying to rule by decree probably won't help. What your team will need is education, training, and experience. And none of those can be obtained via the hammer of authority.
+
+Sure, there is a place for rules and policies, and we'll get there. But we won't start there, that comes later.
+
+
+<div class="admonition" style="border-style:solid;border-width:1px;border-color:#448aff;margin:1.5em;padding-top:0;padding-bottom:0;padding-left:0.5em;padding-right:0.5em;">
+  <p class="admonition-title" style="font-weight:bold;background-color: rgba(68,138,255,.1);border:0;margin:0;">Stay Calm</p>
+  <p>Smart people might disagree with you, but they can learn.</p>
+</div>
+
+
+### Help people directly (have office hours, even)
+
+
+
+### Lead by Example
+
+
+
+### Active Education
+
+
+
+### Lastly, company policies, procedures, and boring "leadership"
+
+
+
+### This works!
+
+TODO
+
+
 
 You can greatly influence people just by helping them. A data scientist comes to you with a bug, and you can solve it for them, and show them a "best practice" for their programming language, or a unit testing plan, and show them how that would have prevented their issue. If you do this several times, and people keep re-learning the same lesson, most people will internalize it and start using what you showed them. This grass roots helping and micro-education is a powerful tool. Sure, it is "leadership", but not through ordering people around.
 
