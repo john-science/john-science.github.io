@@ -57,41 +57,41 @@ First, we should talk about different kinds of leadership. Sure, sometimes being
 Sure, there is a place for rules and policies, and we'll get there. But we won't start there, that comes later.
 
 
-<div class="admonition" style="border-style:solid;border-width:1px;border-color:#448aff;margin:1.5em;padding-top:0;padding-bottom:0;padding-left:0.5em;padding-right:0.5em;">
-  <p class="admonition-title" style="font-weight:bold;background-color: rgba(68,138,255,.1);border:0;margin:0;">Stay Calm</p>
+<div class="admonition">
+  <p class="admonition-title">Stay Calm</p>
   <p>Smart people might disagree with you, but they can learn.</p>
 </div>
 
 
 ### Help people directly (have office hours, even)
 
+You can greatly influence people just by helping them. A data scientist comes to you with a bug, and you can solve it for them, and show them a "best practice" for their programming language, or a unit testing plan, and show them how that would have prevented their issue. If you do this several times, and people keep re-learning the same lesson, most people will internalize it and start using what you showed them. This grass roots helping and micro-education is a powerful tool. Sure, it is "leadership", but not through ordering people around.
 
 
 ### Lead by Example
 
 
+You can also lead by example. If your team is not using a linter or unit testing when you arrive, you will. And smart people on your team will see the difference between your code and theirs, and many will just follow along when they see what "professional code" looks like. This works. No, it won't work for 100% of people, but it will work easily for _some_ people, and that's enough of a foothold to start building a culture.
+
 
 ### Active Education
 
+Lastly, direct education and advocacy are helpful. Give like talks about "best practices", and educate the team on code optimization or automated testing. If you have managers who have never managed a software team before, give talks and educate them on core concepts like [technical debt](https://antineutrino.net/2023/01/31/tech-debt) and software maintainance. If you are working with a team of smart people, they _will_ learn. They _can_ be taught. Alternately, if you complain that the management team does not understand something important like software rot or the bus factor, the problem might be yours for not educating them.
+
+### Gather Acolytes
+
+Lastly, direct education and advocacy are helpful. Give like talks about "best practices", and educate the team on code optimization or automated testing. If you have managers who have never managed a software team before, give talks and educate them on core concepts like [technical debt](https://antineutrino.net/2023/01/31/tech-debt) and software maintainance. If you are working with a team of smart people, they _will_ learn. They _can_ be taught. Alternately, if you complain that the management team does not understand something important like software rot or the bus factor, the problem might be yours for not educating them.
 
 
 ### Lastly, company policies, procedures, and boring "leadership"
 
-
+Processes and procedures... 
 
 ### This works!
 
 TODO
 
-
-
-You can greatly influence people just by helping them. A data scientist comes to you with a bug, and you can solve it for them, and show them a "best practice" for their programming language, or a unit testing plan, and show them how that would have prevented their issue. If you do this several times, and people keep re-learning the same lesson, most people will internalize it and start using what you showed them. This grass roots helping and micro-education is a powerful tool. Sure, it is "leadership", but not through ordering people around.
-
-You can also lead by example. If your team is not using a linter or unit testing when you arrive, you will. And smart people on your team will see the difference between your code and theirs, and many will just follow along when they see what "professional code" looks like. This works. No, it won't work for 100% of people, but it will work easily for _some_ people, and that's enough of a foothold to start building a culture.
-
-Lastly, direct education and advocacy are helpful. Give like talks about "best practices", and educate the team on code optimization or automated testing. If you have managers who have never managed a software team before, give talks and educate them on core concepts like [technical debt](https://antineutrino.net/2023/01/31/tech-debt) and software maintainance. If you are working with a team of smart people, they _will_ learn. They _can_ be taught. Alternately, if you complain that the management team does not understand something important like software rot or the bus factor, the problem might be yours for not educating them.
-
-I have joined several teams that were all nuclear engineers or climate modelers, who were not particularly interested in software but used it every day like they would math or any other tool. The more you advocate for good software practices, the more you help the team, the more peopel will start to see the value in these things. You can build a group of acolytes to help spread your message. New scientists and non-software engineers who are hired onto the team will see the improved software culture as the status quo and will accept it as the norm.
+But:
 
 If done well, the progress will be faster than you expect. Even though you will never be "done".
 
