@@ -25,7 +25,7 @@ summary: Being a software lead on a team of scientists who write code.
   * [Testing](#testing)
   * [Documentation](#doc)
   * [Software Concepts](#software-concepts)
-  * [ideas for managers](#software-mgt-concepts)
+  * [Software Management Concepts](#software-mgt-concepts)
 * [Conclusion](#conclusion)
 
 
