@@ -6,6 +6,8 @@ summary: Being a software lead on a team of scientists who write code.
 ---
 {% include JB/setup %}
 
+> TODO: Add images and/or annotations to every subsection below!
+
 ## <a name="outline"></a>Outline
 
 * [Outline](#outline)
@@ -48,11 +50,11 @@ There is a whole world out there writing code, outside the software-first compan
 
 ## <a name="advocacy"></a>Advocacy and Building a Culture
 
-How can you, as a software engineer, lead your team in the right direction?
+How can you, as a software person, lead your team in the right direction?
 
 First, we should talk about different kinds of leadership. Sure, sometimes being a "leader" means being in charge and telling people what to do. Well, if you are software engineer, you might not also be a manager, we do not always get the chance to lead by fiat. And the argument I make here is that that type of "leadership" won't be terribly effective for you. If you have a large, varied team of people who are new to a broad, complicated technical field like software, trying to rule by decree probably won't help. What your team will need is education, training, and experience. And none of those can be obtained via the hammer of authority.
 
-Sure, there is a place for rules and policies, and we'll get there. But we won't start there, that comes later.
+Sure, there is a place for rules and policies, and we'll get there. But we won't start there, and neither should you.
 
 
 <div class="admonition">
@@ -99,18 +101,36 @@ Processes and procedures...
 
 ### <a name="trust-the-system">This works!
 
-TODO
-
-But:
-
 If done well, the progress will be faster than you expect. Even though you will never be "done".
+
+I know, I know. You have that one person on your team who is just too stubborn and it's like a brick wall.
+
+<div class="admonition">
+  <p class="admonition-title">Stay Calm</p>
+  <p>Smart people can learn.</p>
+</div>
+
+Even if you work at a Big Tech software group, or even BiggestTech with the best software engineers in the world, there will always be differences of opinion and people who just can't learn.
 
 
 ## <a name="building-edu-resources">Building Educatiional Resources
 
 > This won't be hard: the internet is full of introductory software educational resources.
 
-The trick here is to pull together a set of resources and make them the official "do it this way" system for your team.
+The trick here is to pull together a set of resources and make them the official "do it this way" system for your team. Teaching a large group of people (or even a single person) everything about software would be very hard. But teaching a small group of people one workflow is much more manageable.
+
+Imagine you join a team that isn't using version control. You decide to convince them to use Git. Now, teaching a large group of people with varrying software backgrounds _everything_ about Git would be pretty daunting. But just deciding on a single workflow and teaching them that is actually quite easy. 
+
+The Git Exampls:
+
+* You show them a `main` branch versus a `feature` branch,
+* then you show them a GitHub Pull Request,
+* then the only tricky thing they have to learn is how to handle merge conflicts and you're done.
+
+Sure, they won't know about GitLab, just GitHub. But you can convince your team to use _one_ and not _both_, and you're done. Sure, they won't know about interactive rebases, but if you let standardize on all GitHub PRs doing "Squash and Merge", they usually won't need to. And so on. You can leave out a lot of detail (like Git's decentralized nature) and it won't affect anyone's ability to do their job.
+
+> Admonition: Choose your Fights
+
 
 You may have to give internal talks to your team, put together internal wike pages, etc etc. You will have to share them actively, not just passively.
 
