@@ -113,11 +113,39 @@ I know, I know. You have that one person on your team who is just too stubborn a
 Even if you work at a Big Tech software group, or even BiggestTech with the best software engineers in the world, there will always be differences of opinion and people who just can't learn.
 
 
+#### Welcome to Adulting
+
+> Let's just get the obvious complaints out of the way.
+
+**But! What if I'm too busy and important a software engineer to spend time on all this "software guru" stuff?**
+
+What is going to take more of your time? 1. Deadling with an ever-increasing amount of spaghetti code, lack of CI, lack of testing, lack of documentation, and an ever-increasing number of bugs. Or (2) helping bringing up the competency of your team?  
+
+**But I did not get into software because of my people skills.**
+
+Welcome to the real world. You will always work on a team, so people skills will always be a part of your job. Even Einstein needed to work with Hilbert and Noether to develop the General Theory of Realitivity. Even Hemingway worked for months with his editors. Shakespeare had a team of 100 people to test out his lines, and he would iterate on them when people read them aloud for the first time. The hard truth is, if you never work on your people skills, you'll never be anything more than a junior engineer, who needs to be told what to do.
+
+**But what if I _don't_ work with smart people?**
+
+If you think your team is too dump to learn software, and you're the only person smart enough to understand it all... you are the problem.
+
+<div class="admonition">
+  <p class="admonition-title">Sorry!</p>
+  <p>Not sorry.</p>
+</div>
+
+
 ## <a name="building-edu-resources">Building Educatiional Resources
 
 > This won't be hard: the internet is full of introductory software educational resources.
 
-The trick here is to pull together a set of resources and make them the official "do it this way" system for your team. Teaching a large group of people (or even a single person) everything about software would be very hard. But teaching a small group of people one workflow is much more manageable.
+The trick to spinning up a team on a new tech stack is the same, even if your team is not software savvy to begin with.
+
+1. Pull together a set of resources and make them the official "do it this way" system for your team.
+    * Teaching a large group of people (or even a single person) everything about software would be very hard. But teaching a small group of people one workflow is much more manageable.
+2. Your job is not to teach computer science, but just the user-level how-to.
+    * You will teach people how to use a Python `list`, but you won't try to tell them it is an auto-resizing, variable length, C-array of pointers to objects. Just show them how to _use_ the `list`. 
+3. TODO: TBD
 
 Imagine you join a team that isn't using version control. You decide to convince them to use Git. Now, teaching a large group of people with varrying software backgrounds _everything_ about Git would be pretty daunting. But just deciding on a single workflow and teaching them that is actually quite easy. 
 
@@ -128,6 +156,8 @@ The Git Exampls:
 * then the only tricky thing they have to learn is how to handle merge conflicts and you're done.
 
 Sure, they won't know about GitLab, just GitHub. But you can convince your team to use _one_ and not _both_, and you're done. Sure, they won't know about interactive rebases, but if you let standardize on all GitHub PRs doing "Squash and Merge", they usually won't need to. And so on. You can leave out a lot of detail (like Git's decentralized nature) and it won't affect anyone's ability to do their job.
+
+No, you will not attempt to teach your team the beautiful graph theory of Git. You will not even spend the time to explain the wonderful de-centralized nature of Git repositories. Because these things are not "how to use git", which is your only goal. If one scientist shows interest in these things, great! Wonderful. Take them out for a `∈ (coffee, beer, boba, whiskey, tea, cake)` and make a new friend.
 
 > Admonition: Choose your Fights
 
