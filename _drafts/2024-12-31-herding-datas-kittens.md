@@ -113,25 +113,40 @@ I know, I know. You have that one person on your team who is just too stubborn a
 Even if you work at a Big Tech software group, or even BiggestTech with the best software engineers in the world, there will always be differences of opinion and people who just can't learn.
 
 
-#### Welcome to Adulting
+#### This Works!
 
-> Let's just get the obvious complaints out of the way.
+You might be sitting there thinking:
 
-**But! What if I'm too busy and important a software engineer to spend time on all this "software guru" stuff?**
+> Boy, this sounds like a lot of work. I just want to write code.
 
-What is going to take more of your time? 1. Deadling with an ever-increasing amount of spaghetti code, lack of CI, lack of testing, lack of documentation, and an ever-increasing number of bugs. Or (2) helping bringing up the competency of your team?  
-
-**But I did not get into software because of my people skills.**
-
-Welcome to the real world. You will always work on a team, so people skills will always be a part of your job. Even Einstein needed to work with Hilbert and Noether to develop the General Theory of Realitivity. Even Hemingway worked for months with his editors. Shakespeare had a team of 100 people to test out his lines, and he would iterate on them when people read them aloud for the first time. The hard truth is, if you never work on your people skills, you'll never be anything more than a junior engineer, who needs to be told what to do.
-
-**But what if I _don't_ work with smart people?**
-
-If you think your team is too dump to learn software, and you're the only person smart enough to understand it all... you are the problem.
+Yeah, this will be a lot of work. At first, this will be like 25-50% of your job, but it will taper off to a low-level hum of like 10% after a while. The truth is, you can not teach a large team of people a complicated technical field with the click of a button. It will take time and effort. Sorry.
 
 <div class="admonition">
-  <p class="admonition-title">Sorry!</p>
-  <p>Not sorry.</p>
+  <p class="admonition-title">Life Advice</p>
+  <p>Anyone who says all your problems are easy to fix is selling something.</p>
+</div>
+
+I promise you, I have done this in multiple different scenarios (government, start-up, enterprise) and it works. It will be slow to start, but smart people will grab on to good ideas and run with them. And it's not like you won't have levers. If you teach a smart person software, you are making them more hirable and filling out there resume. A lot of people will realize that, and learn everything they can.
+
+For some people, there will be eye-opening events. Moments where they see hours of debugging and annoyance waved away the first time they see:
+
+* a unit test catch a bug that would have been invisible in production for months
+* automated CI run unit tests across an ecosystem
+* docstrings or documentation turn tribal knowledge into plain text
+* best practices make an illegible corner of the codebase into just another library
+
+Will every person have one of the above "Ah ha!" moments? No. But smart people will notice. People who are even vaguely interested in software to begin with will love to see what "professional" code looks like. And the poor grunts on your team who have historically spent the most time finding and fixing the hardest problems will see the benefit the soonest.
+
+If you focus on only what matters, and only try to share information with people that makes a tangible difference in their lives, people _will_ learn. When someone asks "but why do we really need a code auto-formatter?" you will be able to SHOW them the difference between messy code and clean code and why it will make everyone's life easier. When people ask "Do I really need good code coverage?" you can remind them that they just spent 2 weeks finding a bug that would have been caught immediately if there had been a 5-line unit test.
+
+If you stay focused on software tools and ideas that will help your team, your team will notice the improvement.
+
+But. All this means that your team has to trust you to provide good ideas to improve their lives. And so you have to trust that they are capable of learning.
+
+
+<div class="admonition">
+  <p class="admonition-title">What if I don't work with smart people?</p>
+  <p>Then you are the problem..</p>
 </div>
 
 
