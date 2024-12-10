@@ -23,7 +23,7 @@ After a while of feasting and talking, you all become aware of another person si
 
 The Dice Goblin looks around the table eagerly, rubbing his hands together.
 
-He leans forward and places [N = number of PCs] velvet bags on the table in front of him.
+He leans forward and places <<N = number of PCs>> velvet bags on the table in front of him.
 
 
 ## Out of Character
@@ -87,7 +87,10 @@ Okay, make sure your character sheets are up-to-date with your in-game winnings.
 ### Dice Goblin Loot Table
 
 <style>
-td {padding-left: 7px;}
+td {
+   padding-left: 5px;
+   padding-right: 3px;
+}
 </style>
 
 | Num | Name | Desc | Extra |
