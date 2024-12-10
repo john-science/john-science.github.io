@@ -19,7 +19,7 @@ You all find yourselves in a very familiar tavern. You are sitting together arou
 
 You eat and drink together. And time paces pleasantly. You notice there are dice of all kinds on the table, in between all the cups and bowls and plates.
 
-After a while of feasting and talking, you all become aware of another person sitting at the table with you. One by one you stop talking and drinking and look at the giant Goblin, with skin made of living mithril, that has been at the table with you this whole time. He is at least (9 + 1d6) feet tall, and totally naked except a <<WINTER: white, fur-lined hat with a fuzzy ball at the end | SUMMER: green leather hat with a tropical feather stuck in a red sash>>. And there is a silver bell tied to the end of his tail.
+After a while of feasting and talking, you all become aware of another person sitting at the table with you. One by one you stop talking and drinking and look at the giant Goblin, with skin made of living mithril, that has been at the table with you this whole time. He is at least (9 + 1d6) feet tall, and totally naked except a <<WINTER: white, fur-lined hat with a fuzzy ball at the end , SUMMER: green leather hat with a tropical feather stuck in a red sash>>. And there is a silver bell tied to the end of his tail.
 
 The Dice Goblin looks around the table eagerly, rubbing his hands together.
 
