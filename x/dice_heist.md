@@ -89,7 +89,7 @@ Okay, make sure your character sheets are up-to-date with your in-game winnings.
 <style>
 td {
    padding-left: 5px;
-   padding-right: 3px;
+   padding-right: 5px;
 }
 </style>
 
@@ -108,10 +108,10 @@ td {
 | 11 | **vials of Drow Poison** | count = (PC level: <5 1, 5-10  1d4, 11-14 1d6, >14 1d8) |   |
 | 12 | **arrows of sleep** | count = (PC level:  <5 1, 5-10  1d4, 11-14 1d6, >14 1d8) |   |
 | 13 | **Potion of Luck** | When drunk, a creature gains the Lucky Feat until its next Long Rest. | Does not stack with the normal Lucky Feat. |
-| 14 | **Ring of Goblin Haggling** | When worn, gives +2 to Persuasion against Goblinoids. |   |
-| 15 | **Ring of Goblin Fear** | When worn, gives +2 to Intimidation against Goblinoids. |   |
-| 16 | **Pendant of Heresy** | When worn, gives +2 to Deception against Celestials. | A silver pendant shaped like a Goblin with angel wings, hung off a simple silver chain. |
+| 14 | **Ring of Goblin Haggling** | When worn, gives +2 to Persuasion against Goblinoids. | <img src="/assets/images/dnd/item_dgs_winter_cloak.png" style="max-width:200px"> |
+| 15 | **Ring of Goblin Fear** | When worn, gives +2 to Intimidation against Goblinoids. | <img src="/assets/images/dnd/item_ring_of_goblin_fear.png" style="max-width:200px"> |
+| 16 | **Pendant of Heresy** | When worn, gives +2 to Deception against Celestials. | <img src="/assets/images/dnd/item_pendant_of_heresy.png" style="max-width:200px"><br/>A silver pendant shaped like a Goblin with angel wings, hung off a simple silver chain. |
 | 17 | **DG's Lucky Coin** | Requires attunement. If the owner flips the coin, they can chose what side they want it to land on before they flip. |   |
-| 18 | **DG's Winter Cloak** | Invisible Cloak.<br/>A warm winter cloak of the highest crafsmanship. It is fur-lined, has two inner pockets, and will keep you warm in Winter. Everyone can still touch and feel the cloak, it has weight. But it is invisible.<br/>You will still be visible beneath it though. |   |
-| 19 | **DG's Winter Hat** | Requires attunement. White, fur-lined hat with a fuzzy ball on top. When wearing the hat, you are fluent it Goblin. |   |
-| 20 | **DG's Bell** | Requires attunement. A small, elegant bell, made of silver. When in possession, you are fluent in Celestial. | <img src="/assets/images/dnd/item_dgs_bell.png"> |
+| 18 | **DG's Winter Cloak** | Invisible Cloak.<br/>A warm winter cloak of the highest crafsmanship. It is fur-lined, has two inner pockets, and will keep you warm in Winter. Everyone can still touch and feel the cloak, it has weight. But it is invisible.<br/>You will still be visible beneath it though. | <img src="/assets/images/dnd/item_dgs_winter_cloak.png" style="max-width:200px"> |
+| 19 | **DG's Winter Hat** | Requires attunement. White, fur-lined hat with a fuzzy ball on top. When wearing the hat, you are fluent it Goblin. | <img src="/assets/images/dnd/item_dgs_winter_hat.png" style="max-width:200px"> |
+| 20 | **DG's Bell** | Requires attunement. A small, elegant bell, made of silver. When in possession, you are fluent in Celestial. | <img src="/assets/images/dnd/item_dgs_bell.png" style="max-width:200px"> |
