@@ -9,13 +9,13 @@ tagline: A secret santa / white elephant-style D&D mini game.
 
 While you are falling asleep your mind wanders. You remember being in a tavern once, a long time ago, and hearing about a minor Goblin diety, Dherm'Gorphyek. The Goblin god of gambling and dreams. But people outside his religion just call him The Dice Goblin. The folklore says that he finds people in their dreams twice a year, at the Summer Solstice and Winter Solstice, and he plays games of chance with them. And when those people awaken, they find they actually have the things they won in their dreams.
 
-As you fall asleep you realize it is the <Summer/Winter> Solstice.
+As you fall asleep you realize it is the <<Summer/Winter>> Solstice.
 
 You here the faint sound of a silver bell ringing once.
 
 ...
 
-You all find yourselves in a very familiar tavern. You are sitting together around a table laid for a feast. The tavern is warm and dark and filled with the sounds of people celebrating the <Summer/Winter> Solstice. But those sounds are dull, like they are coming from another room. You notice all your favorite foods and drinks are on the table, and you tuck into a lively feast.
+You all find yourselves in a very familiar tavern. You are sitting together around a table laid for a feast. The tavern is warm and dark and filled with the sounds of people celebrating the <<Summer/Winter>> Solstice. But those sounds are dull, like they are coming from another room. You notice all your favorite foods and drinks are on the table, and you tuck into a lively feast.
 
 You eat and drink together. And time paces pleasantly. You notice there are dice of all kinds on the table, in between all the cups and bowls and plates.
 
@@ -28,7 +28,7 @@ He leans forward and places <<N = number of PCs>> velvet bags on the table in fr
 
 ## Out of Character
 
-[Bring out the bags, and place them (quietly) on the table in a row.]
+<<Bring out the bags, and place them (quietly) on the table in a row.>>
 
 Most of the usual rules of DnD no not apply here, because this is a dream world. You cannot fight or cast spells. Don't try to talk to the Dice Goblin or each other. You aren't in combat, and you can't start combat in this place. You can win great prizes by playing the Dice Goblin's game, so don't try to break the rules just to be clever. This a dream, you just feel compelled to play the Dice Goblin's game for no reason. There are never any reasons for why we do things in dreams; they just happen.
 
@@ -36,14 +36,14 @@ All you will need to play aris a character sheet to record your winnings, and on
 
 How this will work is, when I say, you will all roll one D20 at the same time. These are straight rolls, no bonuses or modifiers apply. The person with the highest roll will get to pick the first mystery bag. They will take the bag and open it in front of everyone, making sure everyone can see what they have. (Then the Dice Goblin will award that person some in-game loot, as well.)
 
-Then the remaining [N-1] people will roll again. But this time, the winner has two options. They can pick an un-opened bag, or they can steal a bag that someone has already opened. (Then the Dice Goblin will award some in-game look, again.)
+Then the remaining <<N-1>> people will roll again. But this time, the winner has two options. They can pick an un-opened bag, or they can steal a bag that someone has already opened. (Then the Dice Goblin will award some in-game look, again.)
 
 If someone's just had their prize stolen, they get to go again. They can steal or take un-opened bag. But they can't just re-steal what was stolen from them.
 
 The game is over when everyone has a gift.
 
 
-<h3>Details</h3>
+### Details
 
 * Don't roll until I say, and then everyone HAS to roll at the same time, dice visible to everyone else.
 * A single gift can only be stolen twice, then it's locked in.
@@ -51,7 +51,7 @@ The game is over when everyone has a gift.
 * No freely trading gifts until after the game.
 
 
-<h2>In Character - At the End of the Game</h2>
+## In Character - At the End of the Game
 
 When you wake feel as well-rested as you ever have in your entire life. You won't even need breakfast, because it feels as if you've just had a large feast.
 
@@ -59,15 +59,15 @@ If you have any poison, disease, or curse effects you don't want, they are lifte
 
 You all have a vague, dreamlike memory of what happened.
 
-[If one player could not make the session: Their God protected them from the influences of Dherm'Gorphyek.]
+<<If one player could not make the session: Their God protected them from the influences of Dherm'Gorphyek.>>
 
 
-<h2>Out of Character</h2>
+## Out of Character
 
 Okay, make sure your character sheets are up-to-date with your in-game winnings. Your IRL winnings are yours to keep.
 
 
-<h2>For the Dice Goblin's Eyes Only!</h2>
+## For the Dice Goblin's Eyes Only!
 
 * No modifiers or skills can be used on these rolls. (Things like Inspiration do not apply.)
     * The only exception is Halfling "Luck" and the Lucky Feat, those apply even in your dreams.
