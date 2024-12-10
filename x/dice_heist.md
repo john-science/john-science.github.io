@@ -86,12 +86,16 @@ Okay, make sure your character sheets are up-to-date with your in-game winnings.
 
 ### Dice Goblin Loot Table
 
+<style>
+td {padding-left: 7px;}
+</style>
+
 | Num | Name | Desc | Extra |
 |---|---|---|---|
 | 1 | **Set of Dice** | A set of 4 + 1d4 dice, made of (1d8: Goblin teeth, Goblin bone, rock, granite, quartz crystal, copper, silver, gold). |   |
 | 2 | **Potion of Hard Fall** | When drunk, a creature takes double fall damage for the next 1d4 hours. | Made from the tears of a sourcerer who died horribly. |
 | 3 | **Potion of Wild Magic** | When drunk, a creature feels a single surge of [Wild Magic](http://dnd5e.wikidot.com/sorcerer:wild-magic). |   |
-| 4 | **Potion of Goblin size** | When drunk, a creatures height is set to exactly 3 feet, and weight to roughly 45 pounds, for 1d4 hours. | The creatures strength and carry weight do not change. Combat skills and abilities do not change.</br>The creatures clothes might not fit though. |
+| 4 | **Potion of Goblin size** | When drunk, a creatures height is set to exactly 3 feet, and weight to roughly 45 pounds, for 1d4 hours. | The creatures strength and carry weight do not change. Combat skills and abilities do not change.<br/>The creatures clothes might not fit though. |
 | 5 | **Potion of Goblin Strength** | When drunk, a creatures strength is set to 8 for 1d4 hours. |   |
 | 6 | **Potion of Goblin Sloth** | When drunk, a creature gains the effect of the Slow spell for 1d4 minutes (no concentration required). |   |
 | 7 | **Potion of Divine Weakness** | When drunk, a creature becomes vulnerable to Radiant damage for 1d4 hours. |   |
@@ -105,6 +109,6 @@ Okay, make sure your character sheets are up-to-date with your in-game winnings.
 | 15 | **Ring of Goblin Fear** | When worn, gives +2 to Intimidation against Goblinoids. |   |
 | 16 | **Pendant of Heresy** | When worn, gives +2 to Deception against Celestials. | A silver pendant shaped like a Goblin with angel wings, hung off a simple silver chain. |
 | 17 | **DG's Lucky Coin** | Requires attunement. If the owner flips the coin, they can chose what side they want it to land on before they flip. |   |
-| 18 | **DG's Winter Cloak** | Invisible Cloak.</br>A warm winter cloak of the highest crafsmanship. It is fur-lined, has two inner pockets, and will keep you warm in Winter. Everyone can still touch and feel the cloak, it has weight. But it is invisible.</br>You will still be visible beneath it though. |   |
+| 18 | **DG's Winter Cloak** | Invisible Cloak.<br/>A warm winter cloak of the highest crafsmanship. It is fur-lined, has two inner pockets, and will keep you warm in Winter. Everyone can still touch and feel the cloak, it has weight. But it is invisible.<br/>You will still be visible beneath it though. |   |
 | 19 | **DG's Winter Hat** | Requires attunement. White, fur-lined hat with a fuzzy ball on top. When wearing the hat, you are fluent it Goblin. |   |
 | 20 | **DG's Bell** | Requires attunement. A small, elegant bell, made of silver. When in possession, you are fluent in Celestial. |   |
