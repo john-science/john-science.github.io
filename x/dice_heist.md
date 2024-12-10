@@ -5,7 +5,7 @@ tagline: A secret santa / white elephant-style D&D mini game.
 ---
 {% include JB/setup %}
 
-<h2>In Character</h2>
+## In Character
 
 While you are falling asleep your mind wanders. You remember being in a tavern once, a long time ago, and hearing about a minor Goblin diety, Dherm'Gorphyek. The Goblin god of gambling and dreams. But people outside his religion just call him The Dice Goblin. The folklore says that he finds people in their dreams twice a year, at the Summer Solstice and Winter Solstice, and he plays games of chance with them. And when those people awaken, they find they actually have the things they won in their dreams.
 
