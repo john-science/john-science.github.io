@@ -114,4 +114,4 @@ td {
 | 17 | **DG's Lucky Coin** | Requires attunement. If the owner flips the coin, they can chose what side they want it to land on before they flip. |   |
 | 18 | **DG's Winter Cloak** | Invisible Cloak.<br/>A warm winter cloak of the highest crafsmanship. It is fur-lined, has two inner pockets, and will keep you warm in Winter. Everyone can still touch and feel the cloak, it has weight. But it is invisible.<br/>You will still be visible beneath it though. |   |
 | 19 | **DG's Winter Hat** | Requires attunement. White, fur-lined hat with a fuzzy ball on top. When wearing the hat, you are fluent it Goblin. |   |
-| 20 | **DG's Bell** | Requires attunement. A small, elegant bell, made of silver. When in possession, you are fluent in Celestial. |   |
+| 20 | **DG's Bell** | Requires attunement. A small, elegant bell, made of silver. When in possession, you are fluent in Celestial. | <img src="/assets/images/dnd/item_dgs_bell.png"> |
