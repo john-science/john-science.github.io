@@ -19,7 +19,7 @@ You all find yourselves in a very familiar tavern. You are sitting together arou
 
 You eat and drink together. And time paces pleasantly. You notice there are dice of all kinds on the table, in between all the cups and bowls and plates.
 
-After a while of feasting and talking, you all become aware of another person sitting at the table with you. One by one you stop talking and drinking and look at the giant, silver Goblin that has been at the table with you this whole time. He is at least (4 + 1d8) feet tall, and totally naked except a white, fur-lined hat with a fuzzy ball at the end. And there is a silver bell tied to the end of his tail.
+After a while of feasting and talking, you all become aware of another person sitting at the table with you. One by one you stop talking and drinking and look at the giant Goblin, with skin made of living mithril, that has been at the table with you this whole time. He is at least (9 + 1d6) feet tall, and totally naked except a white, fur-lined hat with a fuzzy ball at the end. And there is a silver bell tied to the end of his tail.
 
 The Dice Goblin looks around the table eagerly, rubbing his hands together.
 
@@ -82,6 +82,8 @@ Okay, make sure your character sheets are up-to-date with your in-game winnings.
         * If no one has won it yet, the last person to get an IRL loot bag shall win "DC's Hat".
         * If possible, re-roll instead of giving duplicates of items 14+.
         * For items 17-20 on the list below, describe it as "the Dice Goblin takes off his X and places it on you".
+* Some of the items below are made of a material, based on the level of the PC who recieves it:
+    * <<MATERIAL>> = (PC level: <10 silver, 10-15 platinum, >15 mithril)
 
 
 ### Dice Goblin Loot Table
@@ -108,10 +110,10 @@ td {
 | 11 | **vials of Drow Poison** | count = (PC level: <5 1, 5-10  1d4, 11-14 1d6, >14 1d8) |   |
 | 12 | **arrows of sleep** | count = (PC level:  <5 1, 5-10  1d4, 11-14 1d6, >14 1d8) |   |
 | 13 | **Potion of Luck** | When drunk, a creature gains the Lucky Feat until its next Long Rest. | Does not stack with the normal Lucky Feat. |
-| 14 | **Ring of Goblin Haggling** | When worn, gives +2 to Persuasion against Goblinoids. | <img src="/assets/images/dnd/item_dgs_winter_cloak.png" style="max-width:200px"> |
-| 15 | **Ring of Goblin Fear** | When worn, gives +2 to Intimidation against Goblinoids. | <img src="/assets/images/dnd/item_ring_of_goblin_fear.png" style="max-width:200px"> |
-| 16 | **Pendant of Heresy** | When worn, gives +2 to Deception against Celestials.<br/>A silver pendant shaped like a Goblin with angel wings, hung off a simple silver chain. | <img src="/assets/images/dnd/item_pendant_of_heresy.png" style="max-width:200px"> |
+| 14 | **Ring of Goblin Haggling** | A <<MATERIAL>> ring, when worn, gives +2 to Persuasion against Goblinoids. | <img src="/assets/images/dnd/item_ring_of_goblin_haggling.png" style="max-width:200px"> |
+| 15 | **Ring of Goblin Fear** | A <<MATERIAL>> ring, when worn, gives +2 to Intimidation against Goblinoids. | <img src="/assets/images/dnd/item_ring_of_goblin_fear.png" style="max-width:200px"> |
+| 16 | **Pendant of Heresy** | When worn, gives +2 to Deception against Celestials.<br/>A <<MATERIAL>> pendant shaped like a Goblin with angel wings, hung off a simple <<MATERIAL>> chain. | <img src="/assets/images/dnd/item_pendant_of_heresy.png" style="max-width:200px"> |
 | 17 | **DG's Lucky Coin** | Requires attunement. If the owner flips the coin, they can chose what side they want it to land on while it is in the air. | <img src="/assets/images/dnd/item_dgs_lucky_coin.png" style="max-width:200px"> |
 | 18 | **DG's Winter Cloak** | Invisible Cloak.<br/>A warm winter cloak of the highest crafsmanship. It is fur-lined, has two inner pockets, and will keep you warm in Winter. Everyone can still touch and feel the cloak, it has weight. But it is invisible.<br/>You will still be visible beneath it though. | <img src="/assets/images/dnd/item_dgs_winter_cloak.png" style="max-width:200px"> |
 | 19 | **DG's Winter Hat** | Requires attunement. White, fur-lined hat with a fuzzy ball on top. When wearing the hat, you are fluent it Goblin. | <img src="/assets/images/dnd/item_dgs_winter_hat.png" style="max-width:200px"> |
-| 20 | **DG's Bell** | Requires attunement. A small, elegant bell, made of silver. When in possession, you are fluent in Celestial. | <img src="/assets/images/dnd/item_dgs_bell.png" style="max-width:200px"> |
+| 20 | **DG's Bell** | Requires attunement. A small, elegant bell, made of <<MATERIAL>>. When in possession, you are fluent in Celestial. | <img src="/assets/images/dnd/item_dgs_bell.png" style="max-width:200px"> |
