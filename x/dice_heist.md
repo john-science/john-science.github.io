@@ -67,6 +67,9 @@ You all have a vague, dreamlike memory of what happened.
 Okay, make sure your character sheets are up-to-date with your in-game winnings. Your IRL winnings are yours to keep.
 
 
+--------------------------------------------------------------------------------------------------------------------
+
+
 ## For the Dice Goblin's Eyes Only!
 
 * No modifiers or skills can be used on these rolls. (Things like Inspiration do not apply.)
@@ -98,7 +101,7 @@ td {
 
 | Num | Name | Desc | Extra |
 |---|---|---|---|
-| 1 | **Set of Dice** | A set of 4 + 1d4 dice, made of (1d8: Goblin teeth, Goblin bone, rock, granite, quartz crystal, copper, silver, gold). |   |
+| 1 | **Set of Dice** | A set of 4 + 1d4 dice, made of... 1d8: <br/>1. Goblin teeth <br/>2. bronzed Goblin teeth <br/>3. silver-plated Goblin teeth <br/>4. gold-plated Goblin teeth <br/>5. onyx <br/>6. rose quartz <br/>7. jade <br/>8. opal |   |
 | 2 | **Potion of Hard Fall** | When drunk, a creature takes double fall damage for the next 1d4 hours. | Made from the tears of a sourcerer who died horribly. |
 | 3 | **Potion of Wild Magic** | When drunk, a creature feels a single surge of [Wild Magic](http://dnd5e.wikidot.com/sorcerer:wild-magic). |   |
 | 4 | **Potion of Goblin size** | When drunk, a creatures height is set to exactly 3 feet, and weight to roughly 45 pounds, for 1d4 hours. | The creatures strength and carry weight do not change. Combat skills and abilities do not change.<br/>The creatures clothes might not fit though. |
@@ -123,29 +126,59 @@ td {
 
 <!---
 
-### Dherm'Gorphyek Diety Information
 
-Dherm'Gorphyek is a Goblin God of Gambling and Dreams. The two often go together.
+--------------------------------------------------------------------------------------------------------------------
+
+## Dherm'Gorphyek Diety Information
+
+Dherm'Gorphyek is a God of Gambling and Dreams. The two often go together.
 
 Actually, most of his worshipers aren't Goblins. And those who can't pronounce his name just call him "the Dice Goblin".
 
-> Chaotic Neutral. Lesser Deity.
+* Chaotic Neutral
+* Lesser Deity.
+* Holy days are the Summer and Winter Solstices.
 
 
-#### Holy Days
+### Following Dherm'Gorhyek
 
-The biggest Holy Days of the year, by far, are the Summer and Winter Solstices.
+> DG does not have priests or sermons or holy books. His temples are mostly taverns that allow gambling. Though some are gladitorial arenas and brothels. His followers are encouraged not to waste their lives praying to him, but to live their life as he would want. To Dream and Gamble and take big risks. (And they are encourage to... encourage others to do the same.)
+
+To become an Initiate of Dherm'Gorphyek is easy; gods want followers and getting people hooked is the name of the game. DG might even come looking for you.
+
+All you really have to do is fall asleep thinking about him, and he will visit you in your dreams. Though it will help if you gambled or did something stupidly risky that day.
+
+Every follower starts out as an Initiate. Joining is easy. Once you are an Initiate though, leaving the religion of the Dice Goblin would be a Hell of a risk.
+
+Once you are a follower of the Dice Goblin, he will look favorably on all th risks you take. So he is a friend to gamblers and worse, adventurers. Taking risks of all kinds will increase the chances that you are raised to the next level in the religion.
+ 
+And the Dice Goblin is a lot more interactive than most goblins. He grants boons and gives rewards. Particularly if people are watching. If you are about to roll the dice on a bet for you house, or charge into battle and certain death, shout the Dice Goblin's name for all to hear. He might just make sure you win in the showiest possible display of radiant magic. That's the sort of thing that gets a good more followers.
+
+The Dice Goblin isn't above earthly concerns. A discipline of Dherm'Gorphyek is likely to see the knife they are holding turn into gold at random. 
 
 
-#### Following Dherm'Gorhyek
+Once you have pleased DG enough, you will be raised to the status of Acolyte in a dream, and you will be able to choose between three paths:
 
-TODO: Path of the Bezerker
-TODO: Path of the Sourcerer
-TODO: Path of the Gambler
+* Path of the Gambler - For gifts of gold and riches.
+    * (By far the most common.)
+* Path of the Bezerker - For gifts in battle.
+* Path of the Sourcerer - For gifts of Wild Magic.
+    * (By far the least common.)
 
-TODO: All paths have the same ranks: Initiate, Acolyte, Disciple, Evangelist, Zealot
+DG is more likely to give gifts:
 
-DG does not have priests or sermons or holy books. His temples are mostly taverns that allow gambling. Though some are gladitorial arenas and brothels. His followers are encouraged not to waste their lives praying to him, but to live their life as he would want. To Dream and Gamble and take big risks. (And they are encourage to... encourage others to do the same.)
+* the higher your status in the religion
+* If they have their Holy Symbol on them
+* on the Summer and Winter Solstice 
+* if you invoke his name in front of non-believers 
+
+All Initiates are told, in their first dream with the Dice Goblin, to find an object to imbue as their Holy Symbol. As most people choose the Path of the Gambler, they pick a set of Dice or cards or a coin to toss. But Adventurers and others on the Path of the Bezerker often pick a small weapon, like a knife. Whatever you pick it must be small enough to keep on you at all times.
+
+As your status as a worshipper grows, you will learn more deep secrets. 
+
+Initiate > Acolyte > Disciple > Chosen > Zealot
+
+
 
 
 #### History
