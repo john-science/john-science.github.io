@@ -66,11 +66,11 @@ You all have a vague, dreamlike memory of what happened.
 
 Okay, make sure your character sheets are up-to-date with your in-game winnings. Your IRL winnings are yours to keep.
 
-
 <br/>
+
 --------------------------------------------------------------------------------------------------------------------
-<br/>
 
+<br/>
 
 ## For the Dice Goblin's Eyes Only!
 
@@ -106,7 +106,7 @@ td {
 | 1 | **Set of Dice** | A set of 4 + 1d4 dice, made of... 1d8: <br/>1. Goblin teeth <br/>2. bronzed Goblin teeth <br/>3. silver-plated Goblin teeth <br/>4. gold-plated Goblin teeth <br/>5. onyx <br/>6. rose quartz <br/>7. jade <br/>8. opal |   |
 | 2 | **Potion of Hard Fall** | When drunk, a creature takes double fall damage for the next 1d4 hours. |  |
 | 3 | **Potion of Wild Magic** | When drunk, a creature feels a single surge of [Wild Magic](http://dnd5e.wikidot.com/sorcerer:wild-magic). | Made from the tears of a sourcerer who died horribly.  |
-| 4 | **Potion of Goblin size** | When drunk, a creatures height is set to exactly 3 feet, and weight to roughly 45 pounds, for 1d4 hours. | The creatures strength and carry weight do not change. Combat skills and abilities do not change.<br/>The creatures clothes might not fit though. |
+| 4 | **Potion of Goblin size** | When drunk, a creatures height is set to exactly 3 feet, and weight to roughly 40 pounds, for 1d4 hours. | The creatures strength and carry weight do not change. Combat skills and abilities do not change.<br/>The creatures clothes might not fit though. |
 | 5 | **Potion of Goblin Strength** | When drunk, a creatures strength is set to 8 for 1d4 hours. |   |
 | 6 | **Potion of Goblin Sloth** | When drunk, a creature gains the effect of the Slow spell for 1d4 minutes (no concentration required). |   |
 | 7 | **Potion of Divine Weakness** | When drunk, a creature becomes vulnerable to Radiant damage for 1d4 hours. |   |
@@ -128,7 +128,9 @@ td {
 
 
 <br/>
+
 --------------------------------------------------------------------------------------------------------------------
+
 <br/>
 
 
