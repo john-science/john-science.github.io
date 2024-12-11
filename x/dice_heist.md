@@ -125,27 +125,16 @@ td {
 
 ### Dherm'Gorphyek Diety Information
 
-Dherm'Gorphyek is a chaotic neutral Lesser Deity of Gambling and Dreams.
+Dherm'Gorphyek is a Goblin God of Gambling and Dreams. The two often go together.
 
-Because he appears as a Goblin, people think of him as a "Goblin God", but in fact he has no bias towards his worshipers being Goblins at all.
+Actually, most of his worshipers aren't Goblins. And those who can't pronounce his name just call him "the Dice Goblin".
 
-Non-believers, particularly those that don't speak Goblin, often call him "the Dice Goblin". And this is not sacrilege, or even rude, to the true believers.
-
-
-#### History
-
-Eons ago, Dherm'Gorphyek was born the first, and only, child of two powerful Goblin Wild Magic sourcerers. It is said he was concieved of their Wild Magic. From a very young age it was clear he would be a powerful wizard. Even as an child, he was already extremely advanced in the Illusion and Transmutation schools of magic.
-
-It is believed by historians that he set his goals on deification at a very young age. By his early adolescence he made his skin appear to be made of Mithril to put everyone who same him in awe. He also took advantage of a local gambling epidemic to gain followers. He would find the people who gambled the most and would transmute small items they held into gold. Soon, all gamblers in the area praised him and brought him gifts. It is unknown when, but at some point he made the transition from his skin appearing to be made of Mithril to being actually made of Mithril. And before he was a full grown adult he refined his methods to gain followers, and offered more and richer boons and rewards to anyone that gambled. Even if they gambled with their life, rather than their coin. He found that people who risked the most were more likely to become obsessed with gaining his aid.
-
-Before he was a fully-grown adult, he was deified by his followers. He had a small legion who followed his command and built him a tower from which to continue his "Great Work". The tower was surrounded by the unofficial temples of his followers: mostly taverns and inns that had gambling. But there was also a famous gladitorial arena, a school of Wild Magic, and a great panorama of brothels of all kinds.
-
-It was not until hundreds of years later that Dherm'Gorphyek became a God in truth.
+> Chaotic Neutral. Lesser Deity.
 
 
 #### Holy Days
 
-The biggest Holy Days of the year, by far, are the Summer and Winter Solstices. This usually means that those living underground are less likely to worship DG.
+The biggest Holy Days of the year, by far, are the Summer and Winter Solstices.
 
 
 #### Following Dherm'Gorhyek
@@ -157,5 +146,18 @@ TODO: Path of the Gambler
 TODO: All paths have the same ranks: Initiate, Acolyte, Disciple, Evangelist, Zealot
 
 DG does not have priests or sermons or holy books. His temples are mostly taverns that allow gambling. Though some are gladitorial arenas and brothels. His followers are encouraged not to waste their lives praying to him, but to live their life as he would want. To Dream and Gamble and take big risks. (And they are encourage to... encourage others to do the same.)
+
+
+#### History
+
+> This is all probably hidden from most of the faithful, except perhaps true Zealots.
+
+Eons ago, Dherm'Gorphyek was born the first, and only, child of two powerful Goblin Wild Magic sourcerers. It is said he was concieved of their Wild Magic. From a very young age it was clear he would be a powerful wizard. Even as an child, he was already extremely advanced in the Illusion and Transmutation schools of magic.
+
+It is believed by historians that he set his goals on deification at a very young age. By his early adolescence he made his skin appear to be made of Mithril to put everyone who same him in awe. He also took advantage of a local gambling epidemic to gain followers. He would find the people who gambled the most and would transmute small items they held into gold. Soon, all gamblers in the area praised him and brought him gifts. It is unknown when, but at some point he made the transition from his skin appearing to be made of Mithril to being actually made of Mithril. And before he was a full grown adult he refined his methods to gain followers, and offered more and richer boons and rewards to anyone that gambled. Even if they gambled with their life, rather than their coin. He found that people who risked the most were more likely to become obsessed with gaining his aid.
+
+Before he was a fully-grown adult, he was deified by his followers. He had a small legion who followed his command and built him a tower from which to continue his "Great Work". The tower was surrounded by the unofficial temples of his followers: mostly taverns and inns that had gambling. But there was also a famous gladitorial arena, a school of Wild Magic, and a great panorama of brothels of all kinds.
+
+It was not until hundreds of years later that Dherm'Gorphyek became a God in truth.
 
 --->
