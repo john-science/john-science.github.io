@@ -67,7 +67,9 @@ You all have a vague, dreamlike memory of what happened.
 Okay, make sure your character sheets are up-to-date with your in-game winnings. Your IRL winnings are yours to keep.
 
 
+<br/>
 --------------------------------------------------------------------------------------------------------------------
+<br/>
 
 
 ## For the Dice Goblin's Eyes Only!
@@ -102,8 +104,8 @@ td {
 | Num | Name | Desc | Extra |
 |---|---|---|---|
 | 1 | **Set of Dice** | A set of 4 + 1d4 dice, made of... 1d8: <br/>1. Goblin teeth <br/>2. bronzed Goblin teeth <br/>3. silver-plated Goblin teeth <br/>4. gold-plated Goblin teeth <br/>5. onyx <br/>6. rose quartz <br/>7. jade <br/>8. opal |   |
-| 2 | **Potion of Hard Fall** | When drunk, a creature takes double fall damage for the next 1d4 hours. | Made from the tears of a sourcerer who died horribly. |
-| 3 | **Potion of Wild Magic** | When drunk, a creature feels a single surge of [Wild Magic](http://dnd5e.wikidot.com/sorcerer:wild-magic). |   |
+| 2 | **Potion of Hard Fall** | When drunk, a creature takes double fall damage for the next 1d4 hours. |  |
+| 3 | **Potion of Wild Magic** | When drunk, a creature feels a single surge of [Wild Magic](http://dnd5e.wikidot.com/sorcerer:wild-magic). | Made from the tears of a sourcerer who died horribly.  |
 | 4 | **Potion of Goblin size** | When drunk, a creatures height is set to exactly 3 feet, and weight to roughly 45 pounds, for 1d4 hours. | The creatures strength and carry weight do not change. Combat skills and abilities do not change.<br/>The creatures clothes might not fit though. |
 | 5 | **Potion of Goblin Strength** | When drunk, a creatures strength is set to 8 for 1d4 hours. |   |
 | 6 | **Potion of Goblin Sloth** | When drunk, a creature gains the effect of the Slow spell for 1d4 minutes (no concentration required). |   |
@@ -124,10 +126,11 @@ td {
 | 19 | **DG's Summer Hat** | Requires attunement. A green leather hat with a tropical feather stuck in a red sash. When wearing the hat, you are fluent it Goblin. |  |
 | 20 | **DG's Bell** | Requires attunement. A small, elegant bell, made of <<MATERIAL>>. When in possession, you are fluent in Celestial. | <img src="/assets/images/dnd/item_dgs_bell.png" style="max-width:200px"> |
 
-<!---
 
-
+<br/>
 --------------------------------------------------------------------------------------------------------------------
+<br/>
+
 
 ## Dherm'Gorphyek Diety Information
 
@@ -140,7 +143,7 @@ Actually, most of his worshipers aren't Goblins. And those who can't pronounce h
 * Holy days are the Summer and Winter Solstices.
 
 
-### Following Dherm'Gorhyek
+### Following Dherm'Gorhyek - WIP
 
 > DG does not have priests or sermons or holy books. His temples are mostly taverns that allow gambling. Though some are gladitorial arenas and brothels. His followers are encouraged not to waste their lives praying to him, but to live their life as he would want. To Dream and Gamble and take big risks. (And they are encourage to... encourage others to do the same.)
 
@@ -192,5 +195,3 @@ It is believed by historians that he set his goals on deification at a very youn
 Before he was a fully-grown adult, he was deified by his followers. He had a small legion who followed his command and built him a tower from which to continue his "Great Work". The tower was surrounded by the unofficial temples of his followers: mostly taverns and inns that had gambling. But there was also a famous gladitorial arena, a school of Wild Magic, and a great panorama of brothels of all kinds.
 
 It was not until hundreds of years later that Dherm'Gorphyek became a God in truth.
-
---->
