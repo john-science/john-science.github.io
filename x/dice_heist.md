@@ -125,7 +125,7 @@ td {
 | 18 | **DG's Winter Cloak** | Invisible Cloak.<br/>A warm winter cloak of the highest craftsmanship. It is fur-lined, has two inner pockets, and will keep you warm in Winter. Everyone can still touch and feel the cloak, it has weight. But it is invisible.<br/>You will still be visible beneath it though. | <img src="/assets/images/dnd/item_dgs_winter_cloak.png" style="max-width:200px"> |
 | 18 | **DG's Summer Cloak** | Invisible Cloak.<br/>A light summer cloak of the highest craftsmanship. This cloak will keep even the hardest rains off you, and it has two inner pockets. Everyone can still touch and feel the cloak, it has weight. But it is invisible.<br/>You will still be visible beneath it though. | <img src="/assets/images/dnd/item_dgs_summer_cloak.png" style="max-width:200px"> |
 | 19 | **DG's Winter Hat** | Requires attunement. White, fur-lined hat with a fuzzy ball on top. When wearing the hat, you are fluent it Goblin. | <img src="/assets/images/dnd/item_dgs_winter_hat.png" style="max-width:200px"> |
-| 19 | **DG's Summer Hat** | Requires attunement. A green leather hat with a tropical feather stuck in a red sash. When wearing the hat, you are fluent it Goblin. |  |
+| 19 | **DG's Summer Hat** | Requires attunement. A green leather hat with a tropical feather in the hatband. When wearing the hat, you are fluent it Goblin. | <img src="/assets/images/dnd/item_dgs_summer_hat.png" style="max-width:200px"> |
 | 20 | **DG's Bell** | Requires attunement. A small, elegant bell, made of <<MATERIAL>>. When in possession, you are fluent in Celestial. | <img src="/assets/images/dnd/item_dgs_bell.png" style="max-width:200px"> |
 
 
