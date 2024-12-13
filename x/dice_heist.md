@@ -7,7 +7,7 @@ tagline: A secret santa / white elephant-style D&D mini game.
 
 ## In Character
 
-While you are falling asleep your mind wanders. You remember being in a tavern once, a long time ago, and hearing about a minor Goblin diety, Dherm'Gorphyek. The Goblin god of gambling and dreams. But people outside his religion just call him The Dice Goblin. The folklore says that he finds people in their dreams twice a year, at the Summer Solstice and Winter Solstice, and he plays games of chance with them. And when those people awaken, they find they actually have the things they won in their dreams.
+While you are falling asleep your mind wanders. You remember being in a tavern once, a long time ago, and hearing about the Goblin god of gambling and dreams, Dherm'Gorphyek. But eveeryone just calls him The Dice Goblin. The folklore says that he finds people in their dreams twice a year, at the Summer Solstice and Winter Solstice, and he plays games of chance with them. And when those people awaken, they find they actually have the things they won in their dreams.
 
 As you fall asleep you realize it is the <<Summer/Winter>> Solstice.
 
@@ -15,11 +15,11 @@ You here the faint sound of a silver bell ringing once.
 
 ...
 
-You all find yourselves in a very familiar tavern. You are sitting together around a table laid for a feast. The tavern is warm and dark and filled with the sounds of people celebrating the <<Summer/Winter>> Solstice. But those sounds are dull, like they are coming from another room. You notice all your favorite foods and drinks are on the table, and you tuck into a lively feast.
+You all find yourselves in a private room, at the back of a very familiar inn. You are sitting together around a table laid for a feast. The room is warm and dark and filled with the sounds of people in other rooms celebrating the <<Summer/Winter>> Solstice. You notice all your favorite foods and drinks are on the table, and you tuck into a lively feast.
 
-You eat and drink together. And time paces pleasantly. You notice there are dice of all kinds on the table, in between all the cups and bowls and plates.
+You eat and drink together. And time paces pleasantly. Occassionally, while reaching across the table for a cup or a bowl you notice there are dice of all kinds littered around the table.
 
-After a while of feasting and talking, you all become aware of another person sitting at the table with you. One by one you stop talking and drinking and look at the giant Goblin, with skin made of living mithril, that has been at the table with you this whole time. He is at least (9 + 1d6) feet tall, and totally naked except a <<WINTER: white, fur-lined hat with a fuzzy ball at the end , SUMMER: green leather hat with a tropical feather stuck in a red sash>>. And there is a silver bell tied to the end of his tail.
+After a while of feasting and talking, you all become aware of another person sitting at the table with you. One by one you stop singing and drinking and look at the giant Goblin that has been at the table with you this whole time. His skin seems to be made of living mithril and he is at least (9 + 1d6) feet tall, and totally naked except some jewelry and a <<WINTER: white, fur-lined hat with a fuzzy ball at the end , SUMMER: green leather hat with a tropical feather stuck in a red sash>>. And there is a <<MATERIAL: see below>> bell tied to the end of his tail.
 
 The Dice Goblin looks around the table eagerly, rubbing his hands together.
 
@@ -30,38 +30,37 @@ He leans forward and places <<N = number of PCs>> velvet bags on the table in fr
 
 <<Bring out the bags, and place them (quietly) on the table in a row.>>
 
-Okay, if you've ever done a "Secret Santa" or "White Elephant" gift exchange, that's what this is. But you will get gifts IRL and in-game.
+Okay, if you've ever done a "Secret Santa" or "White Elephant" gift exchange, that's what this is. But you will get gifts in-game and IRL.
 
-Most of the usual rules of DnD no not apply here, because this is a dream world. You cannot fight or cast spells. Don't try to talk to the Dice Goblin or each other. You aren't in combat, and you can't start combat in this place. You can win great prizes by playing the Dice Goblin's game, so don't try to break the rules just to be clever. This a dream, you just feel compelled to play the Dice Goblin's game for no reason. There are never any reasons for why we do things in dreams; they just happen.
+Most of the usual rules of DnD do not apply here, because this is a dream world. You cannot fight or cast spells. Don't try to talk to the Dice Goblin or each other. You aren't in combat, and you can't start combat in this place. But, you can win great prizes by playing the Dice Goblin's game, so don't try to break the rules just to be clever. This a dream, you just feel compelled to play the game for no reason. There are never any reasons in dreams; things just happen.
 
-All you will need to play aris a character sheet to record your winnings, and one D20. (Real, not digital.)
+All you will need to play are a character sheet to record your winnings, and one D20. (Real, not digital.)
 
-How this will work is, when I say, you will all roll one D20 at the same time. These are straight rolls, no bonuses or modifiers apply. The person with the highest roll will get to pick the first mystery bag. They will take the bag and open it in front of everyone, making sure everyone can see what they have. (Then the Dice Goblin will award that person some in-game loot, as well.)
+If you haven't done a White Elephant before, how this will work is, when I say, you will all roll one D20 at the same time. These are straight rolls, no bonuses or modifiers apply. The person with the highest roll will get to pick the first mystery bag. They will take the bag and open it in front of everyone, making sure everyone can see what they have. (Then the Dice Goblin will award that person some in-game loot, as well.)
 
 Then the remaining <<N-1>> people will roll again. But this time, the winner has two options. They can pick an un-opened bag, or they can steal a bag that someone has already opened. (Then the Dice Goblin will award some in-game look, again.)
 
-If someone's just had their prize stolen, they get to go again. They can steal or take un-opened bag. But they can't just re-steal what was stolen from them.
+If someone's just had their prize stolen, they get to go again with no roll. They can steal or take un-opened bag. But they can't just re-steal what was stolen from them.
 
-The game is over when everyone has a gift.
-
+And so on, that repeats until everyone has a gift.
 
 ### Details
 
-* Don't roll until I say, and then everyone HAS to roll at the same time, dice visible to everyone else.
+* Don't roll until I say, and then everyone HAS to roll at the same time, dice visible to everyone.
 * A single gift can only be stolen twice, then it's locked in.
 * The last person to open an un-opened bag HAS to show everyone what they won.
-* No freely trading gifts until after the game.
+* If you want to freely trade gifts without stealing, wait until the game is over.
 
 
 ## In Character - At the End of the Game
 
-When you wake feel as well-rested as you ever have in your entire life. You won't even need breakfast, because it feels as if you've just had a large feast.
+When you wake you feel as well-rested as you ever have in your entire life. You won't even need breakfast, because it feels as if you've just had a large feast.
 
 If you have any poison, disease, or curse effects you don't want, they are lifted.
 
-You all have a vague, dreamlike memory of what happened.
+Even though it was a dream, you each have a solid memory of what happened.
 
-<<If one player could not make the session: Their God protected them from the influences of Dherm'Gorphyek.>>
+<<If one player could not make the session: their God protected them from the influences of Dherm'Gorphyek.>>
 
 
 ## Out of Character
@@ -81,15 +80,15 @@ Okay, make sure your character sheets are up-to-date with your in-game winnings.
 * If, during a roll, the highest number is a tie, the highest rollers do a roll-off until someone wins.
 * Every time someone gets their first bag of IRL loot, the Dice Goblin will give two rewards:
     * One monetary reward:
-        * level <=4 PCs:  1d100 silver
+        * level <=4 PCs:  (PC Level + 1d100) silver
         * level 5-15 PCs: (PC Level + 1d100) gold 
-        * level >= 16s:   1d100 platinum
+        * level >= 16s:   (PC Level + 1d100) platinum
     * One item reward:
         * Roll a D20, and give that item from the Dice Goblin Loot Table below.
         * If no one has won it yet, the last person to get an IRL loot bag shall win "DC's Hat".
         * If possible, re-roll instead of giving duplicates of items 14+.
-        * For items 17-20 on the list below, describe it as "the Dice Goblin takes off his X and places it on you".
-        * Note that items 18 and 19 change based on the season.
+        * For items 17-20 on the list below, describe it as "the Dice Goblin takes off his X and gives it to you".
+        * Items 18 and 19 below have Summer and Winter variations.
 * Some of the items below are made of a material, based on the level of the PC who recieves it:
     * <<MATERIAL>> = (PC level: <10 silver, 10-15 platinum, >15 mithril)
 
@@ -121,8 +120,8 @@ td {
 | 14 | **Ring of Goblin Haggling** | A <<MATERIAL>> ring, covered in tiny coins of every material.<br/>When worn, gives +2 to Persuasion against Goblinoids. | <img src="/assets/images/dnd/item_ring_of_goblin_haggling.png" style="max-width:200px"> |
 | 15 | **Ring of Goblin Fear** | A <<MATERIAL>> ring, that looks like Goblin's teeth.<br/>When worn, gives +2 to Intimidation against Goblinoids. | <img src="/assets/images/dnd/item_ring_of_goblin_fear.png" style="max-width:200px"> |
 | 16 | **Pendant of Heresy** | A <<MATERIAL>> pendant shaped like a Goblin with angel wings, hung off a simple <<MATERIAL>> chain.<br/>When worn, gives +2 to Deception against Celestials. | <img src="/assets/images/dnd/item_pendant_of_heresy.png" style="max-width:200px"> |
-| 17 | **DG's Lucky Coin** | Requires attunement.<br/>A <<material>> coin, with the Dice Goblin one one side, and his bell on the other.<br/>If the owner flips the coin, they can chose what side they want it to land on while it is in the air. | <img src="/assets/images/dnd/item_dgs_lucky_coin.png" style="max-width:200px"> |
-| 18 | **DG's Winter Cloak** | Invisible Cloak.<br/>A warm winter cloak of the highest craftsmanship. It is fur-lined, has two inner pockets, and will keep you warm in Winter. Everyone can still touch and feel the cloak, it has weight. But it is invisible.<br/>You will still be visible beneath it though. | <img src="/assets/images/dnd/item_dgs_winter_cloak.png" style="max-width:200px"> |
+| 17 | **DG's Lucky Coin** | Requires attunement.<br/>A <<material>> coin, with the Dice Goblin one one side, and his bell on the other.<br/>If the attuned flips the coin, they can chose what side they want it to land on while it is in the air. | <img src="/assets/images/dnd/item_dgs_lucky_coin.png" style="max-width:200px"> |
+| 18 | **DG's Winter Cloak** | Invisible Cloak.<br/>A warm winter cloak of the highest craftsmanship. It is fur-lined, has two inner pockets, and will keep you warm in Winter. Everyone can touch and feel the cloak, it has weight. But it is invisible.<br/>You will still be visible beneath it though. | <img src="/assets/images/dnd/item_dgs_winter_cloak.png" style="max-width:200px"> |
 | 18 | **DG's Summer Cloak** | Invisible Cloak.<br/>A light summer cloak of the highest craftsmanship. This cloak will keep even the hardest rains off you, and it has two inner pockets. Everyone can still touch and feel the cloak, it has weight. But it is invisible.<br/>You will still be visible beneath it though. | <img src="/assets/images/dnd/item_dgs_summer_cloak.png" style="max-width:200px"> |
 | 19 | **DG's Winter Hat** | Requires attunement. White, fur-lined hat with a fuzzy ball on top. When wearing the hat, you are fluent it Goblin. | <img src="/assets/images/dnd/item_dgs_winter_hat.png" style="max-width:200px"> |
 | 19 | **DG's Summer Hat** | Requires attunement. A green leather hat with a tropical feather in the hatband. When wearing the hat, you are fluent it Goblin. | <img src="/assets/images/dnd/item_dgs_summer_hat.png" style="max-width:200px"> |
@@ -162,7 +161,7 @@ Joining is easy. But leaving the Dice Goblin would be a Hell of a risk.
 
 Every follower starts out as an Initiate. 
 
-Everything a follower learns about their faith they learn directly from Dherm'Gorphyek when he visits them in their dreams. Though he mostly only visits when someone's status in the church is changing or on Holy Days. And the more one advances in the faith, the more deep secrets they learn.
+Everything a follower learns about their faith they learn directly from Dherm'Gorphyek when he visits them in their dreams. Though he visits rarely: on holy days or to inform someone of a change to their status in the church. The more one advances in the faith, the more they speak with Dherm'Gorphyek, the more deep secrets they learn about their god and their church.
 
 The first thing to know is that the Dice Goblin does not have holy books or temples or priests or rules. Dherm'Gorphyek does not care if you are good or evil. He does not have commandments. And he does not ask for holy wars against non-believers.
 
