@@ -176,20 +176,16 @@ All Initiates are told, in their first dream with the Dice Goblin, to find an ob
 
 The Dice Goblin is a lot more interactive than most gods. He grants boons and gives rewards. Particularly if people are watching. If you are about to roll the dice on a bet for your house, or charge into battle and certain death, shout the Dice Goblin's name for all to hear. He might just make sure you win in the showiest possible display of radiant magic. That's the sort of thing that gets a good more followers.
 
-Once you have pleased DG enough, you will be raised to the status of Acolyte in a dream, and you will be able to choose between three paths:
-
-* Path of the Gambler - For gifts of gold and riches. (most common)
-* Path of the Bezerker - For gifts in battle.
-* Path of the Sourcerer - For gifts of Wild Magic. (least common)
-
-DG is more likely to give gifts:
-
-* the higher your status in the religion
-* If they have their Holy Symbol on them
-* on the Summer and Winter Solstice 
-* if you invoke his name in front of non-believers
-
 The most important thing an Acolyte learns is that the followers that reach the rank of Chosen are invited to live forever in the afterlife created by the Dice Goblin. It is the same Dreamworld in which they have already spoken to him. It is an endless inn, with endless private rooms, each one holding a massive feast. The food and drink never runs out. There are rooms for all cultures and styles and desires. There are even arenas, for the mightiest among them to hone their skills and battle for glory throughout all eternity. There are little back rooms to cater to all desires; libraries and small rooms containing entire worlds of wilderness to explore. And for those interested, orgies.
+
+
+#### The Paths
+
+You are now able to choose between three paths, and it is hard to switch between them once you have chosen:
+
+* **Path of the Gambler** - For gifts of wealth. (most common)
+* **Path of the Bezerker** - For gifts in battle.
+* **Path of the Sourcerer** - For gifts of of magic. (least common)
 
 
 ### Disciple - WIP
@@ -198,7 +194,23 @@ The Dice Goblin isn't above earthly concerns. A discipline of Dherm'Gorphyek is 
 
 TODO
 
+From this rank and higher, the Dice Goblin might randomly give you aid or gifts at any time. Gifts are more likely:
+
+* the higher your status in the religion
+* if you have their Holy Symbol on you
+* on the Summer and Winter Solstice 
+* if you invoke his name in front of non-believers
+
 Most importantly, if a Disciple dies while taking some great risk, they will be raised to Chosen. And thus allowed to enter the great feast of the afterlife. As such, some Disciples take extravagent risks with their lives, especially those who battle or adventure already.
+
+
+#### The Paths
+
+If in possession of your Holy Symbol: 
+
+* **Path of the Gambler** - +1 Persuasion when haggling over the value of an item
+* **Path of the Bezerker** - +1 to Death Saving throws
+* **Path of the Sourcerer** - Once per Long Rest, you can cast any level 1 spell you know for free (no spell slot), but you have a 100% chance to incur Wild Magic
 
 
 ### Chosen - WIP
@@ -212,6 +224,15 @@ It is at this point, perhaps after a lifetime of worship and sacrifice, that a m
 The Chosen are truly not frightened of death. As such, they can be truly terrifying in battle. And the Acolytes and Disciples around them that know often look on them with envy and awe.
 
 
+#### The Paths
+
+If in possession of your Holy Symbol: 
+
+* **Path of the Gambler** - +2 Persuasion when haggling over the value of an item
+* **Path of the Bezerker** - +2 to Death Saving throws
+* **Path of the Sourcerer** - Once per Long Rest, you can cast any level 1 or 2 spell you know for free (no spell slot), but you have a 100% chance to incur Wild Magic
+
+
 ### Zealot
 
 Strictly speaking, there is no reason to bother ascending past Chosen. The Dice Goblin does not ask it of any of his followers. And since the religion has no priests, this is not even a ceremonial role. However, Dherm'Gorphyek sees that some of his followers are fanatical than others, so he makes a place for them. And, of course, with this greater status in the church comes more and greater material rewards from their God.
@@ -221,6 +242,20 @@ Also, true zealots of the church of the Dice God are told the full truth about t
 Zealots are told that Dherm'Gorphyek was the name of a mortal Goblin once. That the Dice Goblin is more interested in earthly matters than most gods because he remembers being mortal (or at least tries to). He appears in the dreams of the new Zealot and shares with them the full story of his life as a mortal, leading to deification.
 
 It is not like a god to share his faults, or be personal in any way. But perhaps Dherm'Gorphyek is expecting to spend eternity in an inn feasting and gambling with this person, and the barriers are no longer necessary.
+
+
+#### The Paths
+
+If in possession of your Holy Symbol:
+
+All paths receive **Confidence of the Zealot**: +1 to all Saving Throws
+
+* **Path of the Gambler** - +3 Persuasion when haggling over the value of an item
+    * Can cast Distort Value for free (no spell slot), once per Long Rest
+* **Path of the Bezerker** - +2 to Death Saving throws (stacks with Confidence of Zealotry)
+    * Can cast Disquise Self for free (no spell slot), once per Long Rest
+* **Path of the Sourcerer** - Once per Long Rest, you can cast any level 1 or 2 spell you know for free (no spell slot), but you have a 100% chance to incur Wild Magic
+    * Can cast Comprehend Languages for free (no spell slot), once per Long Rest
 
 
 #### The Mortal Life of Dherm'Gorphyek
