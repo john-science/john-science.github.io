@@ -145,11 +145,11 @@ Actually, most of his worshipers aren't Goblins. And those who can't pronounce h
 * Chaotic Neutral
 * Lesser Deity
 * Holy days: the Summer and Winter Solstices
-* Holy symbol: None official, but unofficially two dice
+* Holy symbol: None official, but unofficially two dice (one white, one green, on a silver field)
 * No holy books or temples
 
 
-### Joining Dherm'Gorhyek - WIP
+### Joining Dherm'Gorhyek
 
 To become an Initiate of Dherm'Gorphyek is easy; gods want followers and getting people hooked is the name of the game. DG might even come looking for you.
 
@@ -170,16 +170,12 @@ The Dice Goblin likes it when you gamble. With money or more metaphorically. He 
 
 You will advance in the religion when the Dice Goblin himself decides you are living the correct life.
 
-
-TODO: All Initiates are told, in their first dream with the Dice Goblin, to find an object to imbue as their Holy Symbol. As most people choose the Path of the Gambler, they pick a set of Dice or cards or a coin to toss. But Adventurers and others on the Path of the Bezerker often pick a small weapon, like a knife. Whatever you pick it must be small enough to keep on you at all times.
-
+All Initiates are told, in their first dream with the Dice Goblin, to find an object to imbue as their Holy Symbol. As most people choose the Path of the Gambler, they pick a set of Dice or cards or a coin to toss. But Adventurers and others on the Path of the Bezerker often pick a small weapon, like a knife. Whatever you pick it must be small enough to keep on you at all times. If you lose your symbol or it is destroyed, you can re-consecrate a new one by falling asleep holding it and thinking about the Dice Goblin.
 
 
 ### Acolyte
 
-The Dice Goblin is a lot more interactive than most goblins. He grants boons and gives rewards. Particularly if people are watching. If you are about to roll the dice on a bet for you house, or charge into battle and certain death, shout the Dice Goblin's name for all to hear. He might just make sure you win in the showiest possible display of radiant magic. That's the sort of thing that gets a good more followers.
-
-The Dice Goblin isn't above earthly concerns. A discipline of Dherm'Gorphyek is likely to see the knife they are holding turn into gold at random. 
+The Dice Goblin is a lot more interactive than most gods. He grants boons and gives rewards. Particularly if people are watching. If you are about to roll the dice on a bet for your house, or charge into battle and certain death, shout the Dice Goblin's name for all to hear. He might just make sure you win in the showiest possible display of radiant magic. That's the sort of thing that gets a good more followers.
 
 Once you have pleased DG enough, you will be raised to the status of Acolyte in a dream, and you will be able to choose between three paths:
 
@@ -194,21 +190,21 @@ DG is more likely to give gifts:
 * on the Summer and Winter Solstice 
 * if you invoke his name in front of non-believers
 
-The most important thing an Acolyte learns is that the followers that reach the rank of Chosen are invited to life forever in the afterlife created by the Dice Goblin. It is the same Dreamworld in which they have already spoken to him. It is an endless tavern, with private rooms, which one holding a massive feast. The food and drink never runs out. There are rooms for all cultures and styles and desires. There are even arenas, for the mightiest among them to hone their skills and battle for glory throughout all eternity.
+The most important thing an Acolyte learns is that the followers that reach the rank of Chosen are invited to live forever in the afterlife created by the Dice Goblin. It is the same Dreamworld in which they have already spoken to him. It is an endless inn, with endless private rooms, each one holding a massive feast. The food and drink never runs out. There are rooms for all cultures and styles and desires. There are even arenas, for the mightiest among them to hone their skills and battle for glory throughout all eternity. There are little back rooms to cater to all desires; libraries and small rooms containing entire worlds of wilderness to explore. And for those interested, orgies.
 
 
-### Disciple
+### Disciple - WIP
+
+The Dice Goblin isn't above earthly concerns. A discipline of Dherm'Gorphyek is likely to see the knife they are holding turn into gold at random. 
 
 TODO
 
 Most importantly, if a Disciple dies while taking some great risk, they will be raised to Chosen. And thus allowed to enter the great feast of the afterlife. As such, some Disciples take extravagent risks with their lives, especially those who battle or adventure already.
 
 
-### Chosen
+### Chosen - WIP
 
-TODO
-
-This is the big step. The Chosen will spend eternity in the Dream World Afterlife set up for them by the Dice Goblin. And he will be among them, feasting and gambling and gaming and fighting.
+This is the goal of everyone in the religion.. The Chosen will spend eternity in the dream world afterlife set up for them by the Dice Goblin. And he will be among them, feasting and gambling and gaming and fighting.
 
 The Chosen learn that in his mortal life Dherm'Gorphyek was worried about death, and the lack of afterlife that would follow it. So he sought deification as a way around death for himself. But he also sought a way out of Death for everyone. And so he conceieved of a way to turn his artificial Dream World into an eternal resting place for the minds of others. But he would only take those who could prove they were sure they wanted it.
 
@@ -225,7 +221,7 @@ Also, true zealots of the church of the Dice God are told the full truth about t
 
 Zealots are told that Dherm'Gorphyek was the name of a mortal Goblin once. That the Dice Goblin is more interested in earthly matters than most gods because he remembers being mortal (or at least tries to). He appears in the dreams of the new Zealot and shares with them the full story of his life as a mortal, leading to deification.
 
-It is not like a god to share his faults, or be personal in any way. But perhaps Dherm'Gorphyek is expecting to spend eternity in a tavern drinking and gambling with this person, and the barriers are no longer necessary.
+It is not like a god to share his faults, or be personal in any way. But perhaps Dherm'Gorphyek is expecting to spend eternity in an inn feasting and gambling with this person, and the barriers are no longer necessary.
 
 
 #### The Mortal Life of Dherm'Gorphyek
