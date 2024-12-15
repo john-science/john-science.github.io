@@ -123,9 +123,9 @@ All paths receive **Confidence of the Zealot**: +1 to all Saving Throws
 * **Path of the Gambler** - +3 Persuasion when haggling over the value of an item
     * Can cast Distort Value for free (no spell slot), once per Long Rest
 * **Path of the Bezerker** - +2 to Death Saving throws (stacks with Confidence of Zealotry)
-    * Can cast Disquise Self for free (no spell slot), once per Long Rest
+    * Can cast Heroism for free (no spell slot), (minimum +1 health), once per Long Rest
 * **Path of the Sourcerer** - Once per Long Rest, you can cast any level 1 or 2 spell you know for free (no spell slot), but you have a 100% chance to incur Wild Magic
-    * Can cast Comprehend Languages for free (no spell slot), once per Long Rest
+    * Can cast Prestidigitation or Minor Illusion for free (no spell slot), once per Long Rest
 
 
 #### The Mortal Life of Dherm'Gorphyek
