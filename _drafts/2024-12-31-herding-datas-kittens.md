@@ -28,6 +28,7 @@ summary: Being a software lead on a team of scientists who write code.
   * [Documentation](#doc)
   * [Software Concepts](#software-concepts)
   * [Software Management Concepts](#software-mgt-concepts)
+* [Burn Out](#burn-out)
 * [Conclusion](#conclusion)
 
 
@@ -238,6 +239,17 @@ Anecdotes to throw in:
   * versioned releases
   * software release life cycle: https://en.wikipedia.org/wiki/Software_release_life_cycle
   * CI / CD or software development life cycle
+
+
+## <a name="burn-out">Burn Out
+
+* TODO: Learn to recognize Burn Out
+* TODO: Learn to recognize Burn Out Early
+
+More specifically, in this case, you will have to learn to pick your fights, and move on. But just because one day (or year) you have to give up on one thing (pre-commit hooks, unit tests, linters, whatever), doesn't mean you can't come back to it later.
+
+Your goal isn't to push a boulder up hill forever.  You can take breaks with each little boulder, and come back to it later. (And try to cement them in place at the top of the hill, so you don't have to come back to them as often.)
+
 
 ## <a name="conclusion">Keep Learning
 
