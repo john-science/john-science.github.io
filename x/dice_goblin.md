@@ -24,7 +24,7 @@ To become an Initiate of Dherm'Gorphyek is easy; gods want followers and getting
 
 All you really have to do is fall asleep thinking about him, and he will visit you in your dreams. Though it will help if you gambled or did something stupidly risky that day. Or if you have spoken with one of his followers recently.
 
-Joining is easy. But leaving the Dice Goblin would be a Hell of a risk.
+Joining and leaving the religion are easy. Though the Dice Goblin will always try to entice you back, by inviting you to feast with him on the Solstices.
 
 
 ### Initiate
@@ -46,6 +46,8 @@ All Initiates are told, in their first dream with the Dice Goblin, to find an ob
 
 The Dice Goblin is a lot more interactive than most gods. He grants boons and gives rewards. Particularly if people are watching. If you are about to roll the dice on a bet for your house, or charge into battle and certain death, shout the Dice Goblin's name for all to hear. He might just make sure you win in the showiest possible display of radiant magic. That's the sort of thing that gets a good more followers.
 
+The Acolyte leans that the Dice Goblin tells each person their rank or status in the religion directly. And there is no way for anyone to truly know your rank, unless you tell them. Of course, many people lie about their rank, though the Dice Goblin hates that. Most people don't tell anyone else their rank. Which means that gatherings of followers are always awash in speculation about other people's rank.
+
 The most important thing an Acolyte learns is that the followers that reach the rank of Chosen are invited to live forever in the afterlife created by the Dice Goblin. It is the same Dreamworld in which they have already spoken to him. It is an endless inn, with endless private rooms, each one holding a massive feast. The food and drink never runs out. There are rooms for all cultures and styles and desires. There are even arenas, for the mightiest among them to hone their skills and battle for glory throughout all eternity. There are little back rooms to cater to all desires; libraries and small rooms containing entire worlds of wilderness to explore. And for those interested, orgies.
 
 
@@ -58,11 +60,7 @@ You are now able to choose between three paths, and it is hard to switch between
 * **Path of the Sourcerer** - For gifts of of magic. (least common)
 
 
-### Disciple - WIP
-
-The Dice Goblin isn't above earthly concerns. A discipline of Dherm'Gorphyek is likely to see the knife they are holding turn into gold at random. 
-
-TODO
+### Disciple
 
 From this rank and higher, the Dice Goblin might randomly give you aid or gifts at any time. Gifts are more likely:
 
@@ -73,34 +71,34 @@ From this rank and higher, the Dice Goblin might randomly give you aid or gifts 
 
 Most importantly, if a Disciple dies while taking some great risk, they will be raised to Chosen. And thus allowed to enter the great feast of the afterlife. As such, some Disciples take extravagent risks with their lives, especially those who battle or adventure already.
 
+From here on, the Dice Goblin invites you to the Dream World more and more often. Disciples are allowed to wander the Dream World and explore it. They can wander from room to room, meeting the people there (who may be alive or dead in the waking world). They can converse with anyone they find, free from language barriers. They will find an infinite variety of feasts, but also doors leading to private rooms. Rooms filled with little cozy bedrooms and mighty castles. There are rooms filled with wild forests and untamed mountains. There are rooms filled with the deepest, darkest mines of the Duergar, and wide open celestial homes of nebula and black holes.
+
 
 #### The Paths
 
 If in possession of your Holy Symbol: 
 
-* **Path of the Gambler** - +1 Persuasion when haggling over the value of an item
+* **Path of the Gambler** - +1 Persuasion
 * **Path of the Bezerker** - +1 to Death Saving throws
-* **Path of the Sourcerer** - Once per Long Rest, you can cast any level 1 spell you know for free (no spell slot), but you have a 100% chance to incur Wild Magic
+* **Path of the Sourcerer** - +1 to Concentration Saving throws
 
 
-### Chosen - WIP
+### Chosen 
 
-This is the goal of everyone in the religion.. The Chosen will spend eternity in the dream world afterlife set up for them by the Dice Goblin. And he will be among them, feasting and gambling and gaming and fighting.
+Obtaining the rank of Chosen is the goal of everyone in the religion. The Chosen will spend eternity in the dream world afterlife set up for them by the Dice Goblin. And he will be among them, feasting and gambling and gaming and fighting.
 
-The Chosen learn that in his mortal life Dherm'Gorphyek was worried about death, and the lack of afterlife that would follow it. So he sought deification as a way around death for himself. But he also sought a way out of Death for everyone. And so he conceieved of a way to turn his artificial Dream World into an eternal resting place for the minds of others. But he would only take those who could prove they were sure they wanted it.
+The Chosen learn that in his mortal life Dherm'Gorphyek was worried about death, and the lack of afterlife that would follow it. So he sought deification as a way around death for himself. But he also sought a way out of Death for everyone. And so he conceieved of a way to turn his artificial Dream World into an eternal resting place for the minds of others. But he did not want to force his idea onto anyone else, so reformed the ranks of his religion so that everyone would have ample chance to understand what he was offerring. It is at this point that a follower of the cult of Dherm'Gorphyek first sees something different in their god; a loving, caring side.
 
-It is at this point, perhaps after a lifetime of worship and sacrifice, that a member of the faith might see a loving, caring side to their god.
-
-The Chosen are truly not frightened of death. As such, they can be truly terrifying in battle. And the Acolytes and Disciples around them that know often look on them with envy and awe.
+The Chosen are truly not frightened of death. As such, they can be truly terrifying in battle. Acolytes and Disciples around them that suspect they are Chosen look on them with envy and awe.
 
 
 #### The Paths
 
 If in possession of your Holy Symbol: 
 
-* **Path of the Gambler** - +2 Persuasion when haggling over the value of an item
+* **Path of the Gambler** - +2 Persuasion
 * **Path of the Bezerker** - +2 to Death Saving throws
-* **Path of the Sourcerer** - Once per Long Rest, you can cast any level 1 or 2 spell you know for free (no spell slot), but you have a 100% chance to incur Wild Magic
+* **Path of the Sourcerer** - +2 to Concentration Saving throws
 
 
 ### Zealot
@@ -120,12 +118,12 @@ If in possession of your Holy Symbol:
 
 All paths receive **Confidence of the Zealot**: +1 to all Saving Throws
 
-* **Path of the Gambler** - +3 Persuasion when haggling over the value of an item
+* **Path of the Gambler** - +2 Persuasion
     * Can cast Distort Value for free (no spell slot), once per Long Rest
 * **Path of the Bezerker** - +2 to Death Saving throws (stacks with Confidence of Zealotry)
     * Can cast Heroism for free (no spell slot), (minimum +1 health), once per Long Rest
-* **Path of the Sourcerer** - Once per Long Rest, you can cast any level 1 or 2 spell you know for free (no spell slot), but you have a 100% chance to incur Wild Magic
-    * Can cast Prestidigitation or Minor Illusion for free (no spell slot), once per Long Rest
+* **Path of the Sourcerer** - +2 to Concentration Saving throws (stacks with Confidence of Zealotry)
+    * Can cast any level 1 spell you have prepared for free (no spell slot), but you have a 100% chance to incur Wild Magic, once per Long Rest
 
 
 #### The Mortal Life of Dherm'Gorphyek
