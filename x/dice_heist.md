@@ -63,9 +63,11 @@ Even though it was a dream, you each have a solid memory of what happened.
 <<If one player could not make the session: their God protected them from the influences of Dherm'Gorphyek.>>
 
 
-## Out of Character
+## Out of Character - At the End of the Game
 
 Okay, make sure your character sheets are up-to-date with your in-game winnings. Your IRL winnings are yours to keep.
+
+So, from here on out in game, the [Dice Goblin](dice_goblin.html) is a deity your PC can worship.
 
 <br/>
 
