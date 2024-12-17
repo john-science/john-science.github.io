@@ -28,7 +28,7 @@ He leans forward and places `<<N = number of PCs>>` bags on the table in front o
 
 ## Out of Character
 
-`<<Bring out the bags, and place them (quietly) on the table in a row.>>`
+(Bring out the bags, and place them (quietly) on the table in a row.)
 
 Okay, if you've ever done a "Secret Santa" or "White Elephant" gift exchange, that's what this is. But you will get gifts in-game and IRL.
 
@@ -82,9 +82,9 @@ So, from here on out in game, the [Dice Goblin](dice_goblin.html) is a deity you
 * If, during a roll, the highest number is a tie, the highest rollers do a roll-off until someone wins.
 * Every time someone gets their first bag of IRL loot, the Dice Goblin will give two rewards:
     * One monetary reward:
-        * `level <=4 PCs`:  `(PC Level + 1d100) silver`
-        * `level 5-15 PCs`: `(PC Level + 1d100) gold`
-        * `level >= 16s`:   `(PC Level + 1d100) platinum`
+        * level <=4 PCs:  (PC Level + 1d100) silver
+        * level 5-15 PCs: (PC Level + 1d100) gold
+        * level >= 16s:   (PC Level + 1d100) platinum
     * One item reward:
         * Roll a D20, and give that item from the Dice Goblin Loot Table below.
         * If no one has won it yet, the last person to get an IRL loot bag shall win "DC's Hat".
@@ -92,7 +92,7 @@ So, from here on out in game, the [Dice Goblin](dice_goblin.html) is a deity you
         * For items 17-20 on the list below, describe it as "the Dice Goblin takes off his X and gives it to you".
         * Items 18 and 19 below have Summer and Winter variations.
 * Some of the items below are made of a material, based on the level of the PC who receives it:
-    * `<<MATERIAL>> = (PC level: <10 silver, 10-15 platinum, >15 Mithril)`
+    * `<<MATERIAL>>` = (PC level: <10 silver, 10-15 platinum, >15 Mithril)
 
 
 ### Dice Goblin Loot Table
@@ -115,9 +115,9 @@ td {
 | 7 | **Potion of Divine Weakness** | When drunk, a creature becomes vulnerable to Radiant damage for 1d4 hours. |   |
 | 8 | **Goblin Moonshine** | A filthy bottle of disgusting moonshine. | Contains `6 + 1d8` servings that, when drunk, yield the "Liquid Courage" effect. |
 | 9 | **Potion of Gambler's Focus** | When drunk, a creatures Wisdom is reduced by 2, and Dexterity is increased by 1, for 1 hour. |   |
-| 10 | **Potion of Sleep** | `count = (PC level: <11 1, 11-14 1d4, >14 1d6)` |   |
-| 11 | **vials of Drow Poison** | `count = (PC level: <5 1, 5-10  1d4, 11-14 1d6, >14 1d8)` |   |
-| 12 | **arrows of sleep** | `count = (PC level:  <5 1, 5-10  1d4, 11-14 1d6, >14 1d8)` |   |
+| 10 | **Potion of Sleep** | `count =` (PC level: <11 1, 11-14 1d4, >14 1d6) |   |
+| 11 | **vials of Drow Poison** | `count` = (PC level: <5 1, 5-10  1d4, 11-14 1d6, >14 1d8) |   |
+| 12 | **arrows of sleep** | `count` = (PC level:  <5 1, 5-10  1d4, 11-14 1d6, >14 1d8) |   |
 | 13 | **Potion of Luck** | When drunk, a creature gains the Lucky Feat until its next Long Rest. | Does not stack with the normal Lucky Feat. |
 | 14 | **Ring of Goblin Haggling** | A `<<MATERIAL>>` ring, covered in tiny coins of every material.<br/>When worn, gives +2 to Persuasion against Goblinoids. | <a href="/assets/images/dnd/item_ring_of_goblin_haggling.png"><img src="/assets/images/dnd/item_ring_of_goblin_haggling.png" style="max-width:200px"></a> |
 | 15 | **Ring of Goblin Fear** | A `<<MATERIAL>>` ring, that looks like Goblin's teeth.<br/>When worn, gives +2 to Intimidation against Goblinoids. | <a href="/assets/images/dnd/item_ring_of_goblin_fear.png"><img src="/assets/images/dnd/item_ring_of_goblin_fear.png" style="max-width:200px"></a> |
