@@ -35,7 +35,7 @@ Everything a follower learns about their faith they learn directly from Dherm'Go
 
 The first thing to learn is that the Dice Goblin does not have holy books or temples or priests or rules. Dherm'Gorphyek does not care if you are good or evil. He does not have commandments. And he does not ask for holy wars against non-believers.
 
-The Dice Goblin likes it when you gamble. With money or metaphorically. He loves gladiators who risk it all in the arena. And adventurers who go off on ridiculous quests. For that reason, he also really likes people that run taverns that allow gambling, or gladiatorial arenas, or brothels. Encouraging others to make risky decisions is just as good, to the Dice Goblin.
+The Dice Goblin likes it when people gamble. With money or metaphorically. He loves gladiators who risk it all in the arena. And adventurers who go off on ridiculous quests. For that reason, he also really likes people that run taverns that allow gambling, or gladiatorial arenas, or brothels. Encouraging others to make risky decisions is just as good, to the Dice Goblin.
 
 You will advance in the religion when the Dice Goblin himself decides you are living the correct life.
 
@@ -64,10 +64,10 @@ Each Acolyte must choose between three paths, and it is hard to switch later:
 
 From this rank and higher, the Dice Goblin might randomly give you aid or gifts at any time. Gifts are more likely:
 
-* the higher your status in the religion
-* if you have their Holy Symbol on you
+* the higher their status in the religion
+* if they are in possession of their Holy Symbol
 * on the Summer and Winter Solstice 
-* if you invoke his name in front of non-believers
+* if they invoke his name in front of non-believers
 
 <br/>
 
@@ -78,7 +78,7 @@ From here on, the Dice Goblin invites you to the Dream World more and more often
 
 #### The Paths
 
-If in possession of your Holy Symbol: 
+If in possession of their Holy Symbol: 
 
 * **Path of the Gambler** - +1 Persuasion
 * **Path of the Berserker** - +1 to Death Saving throws
@@ -96,7 +96,7 @@ The Chosen no longer have any reason to fear death. As such, they can be truly t
 
 #### The Paths
 
-If in possession of your Holy Symbol: 
+If in possession of their Holy Symbol: 
 
 * **Path of the Gambler** - +2 Persuasion
 * **Path of the Berserker** - +2 to Death Saving throws
@@ -105,7 +105,7 @@ If in possession of your Holy Symbol:
 
 ### Zealot
 
-Strictly speaking, there is no reason to bother ascending past the rank of Chosen. The Dice Goblin does not ask it of his followers. No one will even know your rank. However, Dherm'Gorphyek sees that some of his followers are more fanatical than others, so he makes a place for them. And, of course, with this greater status in the church comes more and greater material rewards from their God.
+Strictly speaking, there is no reason to bother ascending past the rank of Chosen. The Dice Goblin does not ask it of his followers. No one will even know their rank. However, Dherm'Gorphyek sees that some of his followers are more fanatical than others, so he makes a place for them. And, of course, with this greater status in the church comes more and greater material rewards from their God.
 
 Also, these zealots are told the full and complete truth about their religion and their god.
 
@@ -116,7 +116,7 @@ It is not like a god to share his faults, or be personal in any way. But perhaps
 
 #### The Paths
 
-If in possession of your Holy Symbol:
+If in possession of their Holy Symbol:
 
 All paths receive **Confidence of the Zealot**: +1 to all Saving Throws
 
@@ -125,14 +125,14 @@ All paths receive **Confidence of the Zealot**: +1 to all Saving Throws
 * **Path of the Berserker** - +2 to Death Saving throws (stacks with Confidence of Zealotry)
     * Can cast Heroism for free (no spell slot), (minimum +1 health), once per Long Rest
 * **Path of the Sorcerer** - +2 to Concentration Saving throws (stacks with Confidence of Zealotry)
-    * Can cast any level 1 spell you have prepared for free (no spell slot), but you have a 50% chance to incur Wild Magic, once per Long Rest
+    * Can cast any level 1 spell they have prepared for free (no spell slot), but they have a 50% chance to incur Wild Magic, once per Long Rest
 
 
 #### The Mortal Life of Dherm'Gorphyek
 
 > What follows is a historical account of the mortal life of Dherm'Gorphyek, pieced together from historical sources outside the religion.
 
-Eons ago, Dherm'Gorphyek was born the first, and only, child of two powerful Goblin Wild Magic sorcerers. It is said he was conceived of their Wild Magic. From a very young age it was clear he would be a powerful wizard. Even as an child, he was already extremely advanced in the Illusion and Transmutation schools of magic.
+Eons ago, Dherm'Gorphyek was born the first, and only, child of two powerful Goblin Wild Magic sorcerers. It is said he was conceived of their Wild Magic. Even as a child it was clear he would be a powerful wizard. Even as an child, he was already extremely advanced in the Illusion and Transmutation schools of magic.
 
 It is believed by historians that he set his goals on deification from a very young age. By his early adolescence he made his skin appear to be made of Mithril to put everyone who same him in awe. It worked. He also took advantage of a local gambling epidemic to gain followers. He would find the people who gambled the most and would transmute small items they held into gold. Soon, all gamblers in the area praised him and brought him gifts. It is believed his father died before he was born and his mother died of Wild Magic before he was fully grown.
 
