@@ -7,7 +7,7 @@ tagline: A secret santa / white elephant-style D&D mini game.
 
 ## In Character
 
-While you are falling asleep your mind wanders. You remember being in a tavern once, a long time ago, and hearing about the Goblin god of gambling and dreams, Dherm'Gorphyek. But eveeryone just calls him The Dice Goblin. The folklore says that he finds people in their dreams twice a year, at the Summer Solstice and Winter Solstice, and he plays games of chance with them. And when those people awaken, they find they actually have the things they won in their dreams.
+While you are falling asleep your mind wanders. You remember being in a tavern once, a long time ago, and hearing about the Goblin god of gambling and dreams, Dherm'Gorphyek. But everyone just calls him The Dice Goblin. The folklore says that he finds people in their dreams twice a year, at the Summer Solstice and Winter Solstice, and he plays games of chance with them. And when those people awaken, they find they actually have the things they won in their dreams.
 
 As you fall asleep you realize it is the <<Summer/Winter>> Solstice.
 
@@ -15,15 +15,15 @@ You here the faint sound of a silver bell ringing once.
 
 ...
 
-You all find yourselves in a private room, at the back of a very familiar inn. You are sitting together around a table laid for a feast. The room is warm and dark and filled with the sounds of people in other rooms celebrating the <<Summer/Winter>> Solstice. You notice all your favorite foods and drinks are on the table, and you tuck into a lively feast.
+You all find yourselves in a private room, at the back of a very familiar inn. You are sitting together around a table laid for a feast. The room is warm and dark and filled with the sounds of music and people in other rooms celebrating the <<Summer/Winter>> Solstice. You notice all your favorite foods and drinks are on the table, and you all start in on what becomes a lively feast.
 
-You eat and drink together. And time paces pleasantly. Occassionally, while reaching across the table for a cup or a bowl you notice there are dice of all kinds littered around the table.
+You eat and drink together. Time paces pleasantly. Occasionally, while reaching across the table for a cup or a bowl you notice there are dice of all kinds littered around the table.
 
-After a while of feasting and talking, you all become aware of another person sitting at the table with you. One by one you stop singing and drinking and look at the giant Goblin that has been at the table with you this whole time. His skin seems to be made of living mithril and he is at least (9 + 1d6) feet tall, and totally naked except some jewelry and a <<WINTER: white, fur-lined hat with a fuzzy ball at the end , SUMMER: green leather hat with a tropical feather stuck in a red sash>>. And there is a <<MATERIAL: see below>> bell tied to the end of his tail.
+After a while of feasting and talking, you all become aware of another person sitting at the table with you. One by one you stop singing and drinking and eating look at the giant Goblin that has been at the table with you this whole time. His skin seems to be made of living Mithril and he is at least (9 + 1d6) feet tall. He is totally naked except some jewelry and a <<WINTER: white, fur-lined hat with a fuzzy ball at the end , SUMMER: green leather hat with a tropical feather stuck in a red sash>>. And there is a <<MATERIAL: see below>> bell tied to the end of his tail.
 
 The Dice Goblin looks around the table eagerly, rubbing his hands together.
 
-He leans forward and places <<N = number of PCs>> velvet bags on the table in front of him.
+He leans forward and places <<N = number of PCs>> bags on the table in front of him. The bags are all made of different material, from unfinished leather, to embroidered velvet, to thin lace. And they range in size from coin purses to ruck sack.
 
 
 ## Out of Character
@@ -32,13 +32,13 @@ He leans forward and places <<N = number of PCs>> velvet bags on the table in fr
 
 Okay, if you've ever done a "Secret Santa" or "White Elephant" gift exchange, that's what this is. But you will get gifts in-game and IRL.
 
-Most of the usual rules of DnD do not apply here, because this is a dream world. You cannot fight or cast spells. Don't try to talk to the Dice Goblin or each other. You aren't in combat, and you can't start combat in this place. But, you can win great prizes by playing the Dice Goblin's game, so don't try to break the rules just to be clever. This a dream, you just feel compelled to play the game for no reason. There are never any reasons in dreams; things just happen.
+Most of the usual rules of DnD do not apply here, because this is a dream world. You cannot fight or cast spells. Don't try to talk to the Dice Goblin or each other. You aren't in combat, and you can't start combat in this place. But, you can win great prizes by playing the Dice Goblin's game, so don't try to break the rules just to be clever. This is just a dream, you feel compelled to play the game for no reason. There are never any reasons in dreams; things just happen.
 
 All you will need to play are a character sheet to record your winnings, and one D20. (Real, not digital.)
 
-If you haven't done a White Elephant before, how this will work is, when I say, you will all roll one D20 at the same time. These are straight rolls, no bonuses or modifiers apply. The person with the highest roll will get to pick the first mystery bag. They will take the bag and open it in front of everyone, making sure everyone can see what they have. (Then the Dice Goblin will award that person some in-game loot, as well.)
+If you haven't done a White Elephant before, how this will work is. When I say, you will all roll one D20 at the same time. These are straight rolls, no bonuses or modifiers apply. The person with the highest roll will get to pick the first mystery bag. They will take the bag and open it in front of everyone, making sure everyone can see what they have. (Then the Dice Goblin will award that person some in-game loot, as well.)
 
-Then the remaining <<N-1>> people will roll again. But this time, the winner has two options. They can pick an un-opened bag, or they can steal a bag that someone has already opened. (Then the Dice Goblin will award some in-game look, again.)
+Then the remaining <<N-1>> people will roll again. But this time, the winner has two options. They can pick an unopened bag, or they can steal a bag that someone has already opened. (Then the Dice Goblin will award some in-game look, again.)
 
 If someone's just had their prize stolen, they get to go again with no roll. They can steal or take un-opened bag. But they can't just re-steal what was stolen from them.
 
@@ -49,7 +49,7 @@ And so on, that repeats until everyone has a gift.
 * Don't roll until I say, and then everyone HAS to roll at the same time, dice visible to everyone.
 * A single gift can only be stolen twice, then it's locked in.
 * The last person to open an un-opened bag HAS to show everyone what they won.
-* If you want to freely trade gifts without stealing, wait until the game is over.
+* If you want to freely trade gifts without stealing, wait until the game is over. Or it breaks the game.
 
 
 ## In Character - At the End of the Game
@@ -91,8 +91,8 @@ So, from here on out in game, the [Dice Goblin](dice_goblin.html) is a deity you
         * If possible, re-roll instead of giving duplicates of items 14+.
         * For items 17-20 on the list below, describe it as "the Dice Goblin takes off his X and gives it to you".
         * Items 18 and 19 below have Summer and Winter variations.
-* Some of the items below are made of a material, based on the level of the PC who recieves it:
-    * <<MATERIAL>> = (PC level: <10 silver, 10-15 platinum, >15 mithril)
+* Some of the items below are made of a material, based on the level of the PC who receives it:
+    * <<MATERIAL>> = (PC level: <10 silver, 10-15 platinum, >15 Mithril)
 
 
 ### Dice Goblin Loot Table
@@ -108,7 +108,7 @@ td {
 |---|---|---|---|
 | 1 | **Set of Dice** | A set of 4 + 1d4 dice, made of... 1d8: <br/>1. Goblin teeth <br/>2. bronzed Goblin teeth <br/>3. silver-plated Goblin teeth <br/>4. gold-plated Goblin teeth <br/>5. onyx <br/>6. rose quartz <br/>7. jade <br/>8. opal |   |
 | 2 | **Potion of Hard Fall** | When drunk, a creature takes double fall damage for the next 1d4 hours. |  |
-| 3 | **Potion of Wild Magic** | When drunk, a creature feels a single surge of [Wild Magic](http://dnd5e.wikidot.com/sorcerer:wild-magic). | Made from the tears of a sourcerer who died horribly.  |
+| 3 | **Potion of Wild Magic** | When drunk, a creature feels a single surge of [Wild Magic](http://dnd5e.wikidot.com/sorcerer:wild-magic). | Made from the tears of a sorcerer who died horribly.  |
 | 4 | **Potion of Goblin size** | When drunk, a creatures height is set to exactly 3 feet, and weight to roughly 40 pounds, for 1d4 hours. | The creatures strength and carry weight do not change. Combat skills and abilities do not change.<br/>The creatures clothes might not fit though. |
 | 5 | **Potion of Goblin Strength** | When drunk, a creatures strength is set to 8 for 1d4 hours. |   |
 | 6 | **Potion of Goblin Sloth** | When drunk, a creature gains the effect of the Slow spell for 1d4 minutes (no concentration required). |   |
