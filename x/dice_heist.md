@@ -7,19 +7,19 @@ tagline: A secret santa / white elephant-style D&D mini game.
 
 ## In Character
 
-While you are falling asleep your mind wanders. You remember being in a tavern once, a long time ago, and hearing about the Goblin god of gambling and dreams, Dherm'Gorphyek. But everyone just calls him The Dice Goblin. The folklore says that he finds people in their dreams twice a year, at the Summer Solstice and Winter Solstice, and he plays games of chance with them. And when those people awaken, they find they actually have the things they won in their dreams.
+Your mind wanders as you fall asleep. You remember being a a tavern once and hearing about the Goblin god of gambling and dreams, Dherm'Gorphyek. The Dice Goblin. The folklore says that he finds people in their dreams twice a year, on the Summer and Winter Solstice. He plays games of chance with them. And when they wake up, they find the things they won in their dreams.
 
-As you fall asleep you realize it is the `<<Summer/Winter>>` Solstice.
+Today is the `<<Summer/Winter>>` Solstice.
 
-You here the faint sound of a silver bell ringing once.
+You here the faint sound of a `<<MATERIAL: see below>>` bell ringing once.
 
 ...
 
-You all find yourselves in a private room, at the back of a very familiar inn. You are sitting together around a table laid for a feast. The room is warm and dark and filled with the sounds of music and people in other rooms celebrating the `<<Summer/Winter>>` Solstice. You notice all your favorite foods and drinks are on the table, and you all start in on what becomes a lively feast.
+You all find yourselves in a private room, at the back of a very familiar inn. You are sitting together around a table laid for a feast. The room is warm and dark and filled with the sounds of music and people in nearby rooms celebrating the `<<Summer/Winter>>` Solstice. You notice all your favorite foods and drinks are on the table.
 
-You eat and drink together. Time paces pleasantly. Occasionally, while reaching across the table for a cup or a bowl you notice there are dice of all kinds littered around the table.
+You all eat and drink together. Time paces pleasantly. You notice dice on the table, and coins, and decks of cards.
 
-After a while of feasting and talking, you all become aware of another person sitting at the table with you. One by one you stop singing and drinking and eating look at the giant Goblin that has been at the table with you this whole time. His skin seems to be made of living Mithril and he is at least `<< 9 + 1d6 >>` feet tall. He is totally naked except some jewelry and a `<<WINTER: white, fur-lined hat with a fuzzy ball at the end , SUMMER: green leather hat with a tropical feather stuck in a red sash>>`. And there is a `<<MATERIAL: see below>>` bell tied to the end of his tail.
+After a while of feasting and talking, you all become aware of another person sitting at the table. One by one you stop singing and drinking and look at the giant Goblin that has been at the table with you this whole time. His skin seems to be made of living Mithril and he is at least `<< 9 + 1d6 >>` feet tall. He is totally naked except some jewelry and a `<<WINTER: white, fur-lined hat with a fuzzy ball at the end , SUMMER: green leather hat with a tropical feather stuck in a red sash>>`. And there is a `<<MATERIAL: see below>>` bell tied to the end of his tail.
 
 The Dice Goblin looks around the table eagerly, rubbing his hands together.
 
