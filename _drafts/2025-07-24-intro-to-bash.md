@@ -97,7 +97,7 @@ A dynamic, interpetted programming languages, that allows us to write scripts.
 
 #### Variables
 
-TBD: Shell vs Environment
+TBD: Shell vs Environment: https://antineutrino.net/2024/05/13/linux-grab-bag
 
 ```bash
 GREET="hello world"
@@ -181,19 +181,21 @@ $ my_long_program &
 
 ### So many Toys!
 
-PATH
-which
-navigation: `cd`, `ls`, `pwd`
-man
-alias
-history
-grep
-    https://www.grymoire.com/Unix/Grep.html
-whole languages: awk and sed
-    https://www.grymoire.com/Unix/Awk.html
-	   https://github.com/TheMozg/awk-raycaster  -  https://github.com/TheMozg/awk-raycaster/blob/master/awkaster.awk
-    https://www.grymoire.com/Unix/Sed.html
-	   https://aurelio.net/projects/sedsokoban/  -  https://github.com/aureliojargas/sokoban.sed/blob/master/sokoban.sed
+My most common BASH commands: https://antineutrino.net/2019/08/19/common-linux-cmds
+
+* which / man / help / --help
+* navigation: https://antineutrino.net/2024/05/01/navigating-linux-file-system
+* PATH
+* history
+* alias
+* grep
+   * https://www.grymoire.com/Unix/Grep.html
+* whole languages: awk and sed
+   * https://www.grymoire.com/Unix/Awk.html
+	  * https://github.com/TheMozg/awk-raycaster  -  https://github.com/TheMozg/awk-raycaster/blob/master/awkaster.awk
+   * https://www.grymoire.com/Unix/Sed.html
+	  * https://aurelio.net/projects/sedsokoban/  -  https://github.com/aureliojargas/sokoban.sed/blob/master/sokoban.sed
 
 ### Permissions
 
+TBD
