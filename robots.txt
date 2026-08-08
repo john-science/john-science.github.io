@@ -1,2 +1,3 @@
 User-agent: *
+Allow: /llms_are_bad_for_climate.html
 Disallow: /
